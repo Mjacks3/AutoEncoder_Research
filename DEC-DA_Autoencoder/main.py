@@ -1,43 +1,22 @@
 from tensorflow.keras.optimizers import SGD, Adam
 import tensorflow as tf
+import matplotlib.pyplot as plt
 import os
 import numpy as np
 from time import time
 from FcDEC import FcDEC
 from datasets import load_data, load_data_conv
 
-def calculate_metrics( cluster_pairs='/home/mjacks3/monize/tahdith/datasets/train/Java.git/Java.git.txt.clusters', \
-                       edge_list='/home/mjacks3/monize/tahdith/datasets/train/Java.git/Java.git.txt' ):
-
+def calculate_metrics(clusters, edge_list='/home/mjacks3/monize/tahdith/datasets/train/Java.git/Java.git.txt' ):
     #cluster_pairs='/home/mjacks3/monize/tahdith/datasets/train/Java.git/Java.git.txt.clusters'
-    #Calculate Metrics
 
-    m_norm = 0
-
+    #Assemble Mappings for formula calculations
     node_partition_mapping = {}
-    #edgelist = {}
     partion_node_counting = {}
 
-    with open(cluster_pairs) as f:
-        for pair in f:
-            #print (pair)
-            node_partion = pair.split()
-            node_partition_mapping[node_partion[0]] = node_partion[1]
-
-    #print(node_partition_mapping)
-
-    with open(edge_list) as f:
-        for edge in f:
-            m_norm += 1
-            """
-            source_dest = edge.split()
-
-            if  source_dest[0] in edgelist:
-                edgelist[source_dest[0]].append(source_dest[1] )
-            else:
-                edgelist[source_dest[0]] =  [source_dest[1]]
-            """
-
+    for pair in clusters:
+        node_partion = pair.split()
+        node_partition_mapping[node_partion[0]] = node_partion[1]
 
     for a in set(node_partition_mapping.values()):
         partion_node_counting[a] = 0
@@ -45,8 +24,16 @@ def calculate_metrics( cluster_pairs='/home/mjacks3/monize/tahdith/datasets/trai
             if str(b[1]) == str(a) :
                 partion_node_counting[a] += 1
 
-    #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    #Calculate M_Norm, Sum of weights in graph
+    m_norm = 0
 
+    with open(edge_list) as f:
+        for edge in f:
+            m_norm += 1
+
+    #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    #Modularity Q Calculation
+    #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
     modQ = 0 
 
@@ -79,7 +66,7 @@ def calculate_metrics( cluster_pairs='/home/mjacks3/monize/tahdith/datasets/trai
 
         modQ += ( (internal/(2.0*m_norm)) -   (incident/(2.0*m_norm))**2)
 
-
+    #print("Modularity Q Value")
     #print(modQ)
 
 
@@ -221,28 +208,14 @@ def test(args):
     model.load_weights(args.weights)
 
     y_pred = model.predict_labels(x)
-    print("Node Names/IDS ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~")
-    print(y)
-    """
 
-    """
-    print("Cluster Matching~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~")
 
-    print(y_pred)
-
-    #f = open("results/jinho_test", "w+")
-    #for demo purposes
-    #f = open("/home/mjacks3/AutoEncoder/datasets/train/Java.git/Java.git.txt.clusters", "w+")
     node_clusters = []
-
     for node_id, cluster in zip(y, y_pred):
-        #f.write(node_id+ " " + str(cluster) + "\n")
         print( node_id + " " + cluster)
         node_clusters.append( str(node_id) + " " + str(cluster))
-    #f.close()
- 
-    #print('acc=%.4f, nmi=%.4f, ari=%.4f' % (metrics.acc(y, y_pred), metrics.nmi(y, y_pred), metrics.ari(y, y_pred)))
-    #print('End testing:', '-' * 60)
+
+    return node_clusters
 
 
 if __name__ == "__main__":
@@ -274,6 +247,8 @@ if __name__ == "__main__":
                         help="Verbose for pretraining")
 
     # Parameters for clustering
+    parser.add_argument('-a', '--analysis', action='store_true', help="Display clustering metrics")
+
     parser.add_argument('-t', '--testing', action='store_true',
                         help="Testing the clustering performance with provided weights")
     parser.add_argument('-w', '--weights', default=None, type=str,
@@ -299,6 +274,8 @@ if __name__ == "__main__":
 
     # testing
     if args.testing:
-        test(args)
+        node_clusters = test(args)
+        if args.analysis:
+            calculate_metrics(node_clusters)
     else:
         train(args)
