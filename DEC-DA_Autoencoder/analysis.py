@@ -75,8 +75,8 @@ for partition in partion_node_counting.keys():
 
     modQ += ( (internal/(2.0*m_norm)) -   (incident/(2.0*m_norm))**2)
 
-
-#print(modQ)
+print("Modularity Q")
+print(modQ)
 
 
 
@@ -105,8 +105,8 @@ for partition_a in partion_node_counting.keys():
                             str(node_partition_mapping[source_dest[1]]) == partition_b):
 
                             actual_edges += 1
-            #print(partition_a + " to " + partition_b)
-            #print(str(actual_edges)+ "/" + str(possible_edges))
+            print(partition_a + " to " + partition_b)
+            print(str(actual_edges)+ "/" + str(possible_edges))
             #print()
 
 
@@ -137,9 +137,9 @@ for partition_a in partion_node_counting.keys():
                              str(node_partition_mapping[source_dest[1]]) == partition_a):
 
                             actual_edges += 1
-            #print(partition_a + " to " + partition_b)
-            #print(str(actual_edges)+ "/" + str(possible_edges))
-            #print()
+            print(partition_a + " to " + partition_b)
+            print(str(actual_edges)+ "/" + str(possible_edges))
+            print()
             
 print(partion_node_counting)  
 

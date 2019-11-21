@@ -141,7 +141,7 @@ def calculate_metrics(clusters, edge_list='/home/mjacks3/monize/tahdith/datasets
 
 def _get_data_and_model(args):
     # prepare dataset
-    if args.method =='FcDEC':
+    if args.method in ['FcDEC','FcDEC-DA']:
         x, y = load_data(args.dataset)
     else:
         raise ValueError("Invalid value for method, which can only be in FcDEC")
@@ -154,10 +154,10 @@ def _get_data_and_model(args):
     # prepare the model
      
     n_clusters = args.num_clusters
-    print("NUM CLUSTERS~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~")
+    #print("NUM CLUSTERS~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~")
     print(args.num_clusters)
 
-    if 'FcDEC' in args.method:
+    if 'FcDEC'  in args.method  :
         model = FcDEC(dims=[x.shape[-1], 500, 500, 2000, 10], n_clusters=n_clusters)
         model.compile(optimizer=optimizer, loss='kld')
     else:
@@ -248,7 +248,6 @@ if __name__ == "__main__":
 
     # Parameters for clustering
     parser.add_argument('-a', '--analysis', action='store_true', help="Display clustering metrics")
-
     parser.add_argument('-t', '--testing', action='store_true',
                         help="Testing the clustering performance with provided weights")
     parser.add_argument('-w', '--weights', default=None, type=str,
