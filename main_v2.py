@@ -43,11 +43,11 @@ def graph_embedding(args):
                 
                 #data : bool or list of (label,type) tuples
                 G = nx.read_edgelist(args.dp_loc +'/'+ file[0:-4]+'/'+ file , create_using=nx.DiGraph(), nodetype=None, data=data)
-                model = DeepWalk(G, walk_length=20, num_walks=200, workers=1)
-                model.train(window_size=10, iter=500)
+                model = DeepWalk(G, walk_length=20, num_walks=150, workers=20)
+                model.train(window_size=10, iter=100)
                 embeddings = model.get_embeddings()
 
-                f = open(args.dp_loc +'/'+ file[0:-4]+'/'+ file+".embedding",'w+')
+                f = open(args.dp_loc +'/'+ file[0:-4]+'/'+ file[0:-4]+".embedding",'w+')
 
                 # Close opend file
                 f.write("Variable_N "+ str(len(list(embeddings.items())[0][1]))+"\n")
@@ -342,6 +342,9 @@ if __name__ == "__main__":
     parser.add_argument('--tol', default=0.001, type=float,
                         help="Threshold of stopping training")
 
+    parser.add_argument('--experiment',  action='store_true',
+                        help="Ignore all other arguments and run experiment")
+
     #Parameters for Graph Embedding 
     parser.add_argument('--deepwalk', action='store_true',help="Graph Embedding Using Deepwalk") #dataset to look for embedding
     parser.add_argument('--dp_loc',  default='datasets/demo',help="Graph Embedding Data Location") #dataset to look for embedding
@@ -356,30 +359,45 @@ if __name__ == "__main__":
     print(args)
     print('+' * 75)
 
+if args.experiment:
 
-    for num_clusters in range (2,20):
+    #Graph Embedding
+    args.dp_loc = "experiment/train"
+    args.wk_params = ["weight", "int"]
+    #print (args.wk_params)
+    graph_embedding(args)
+    
+    #Training
+#NEXT. VERY IMPORTANT
+    #for num_clusters in range (2,20):
+
+        
+
         #for each num_clusters
         #train
         #save
         #Test 
         #metrics
+   
 
-    #Graph Embedding
-    if args.deepwalk:
-        graph_embedding(args)
+else:
+
+        #Graph Embedding
+        if args.deepwalk:
+            graph_embedding(args)
 
 
-    if args.training or  args.testing:
-        from tensorflow.keras.optimizers import SGD
-        from FcDEC import FcDEC
-    #Training
-    if args.training:
-        train(args)
+        if args.training or  args.testing:
+            from tensorflow.keras.optimizers import SGD
+            from FcDEC import FcDEC
+        #Training
+        if args.training:
+            train(args)
 
-    # testing
-    if args.testing:
-        node_clusters = test(args)
-        if args.analysis:
-            calculate_metrics(node_clusters,args.edge_list)
-            pass
+        # testing
+        if args.testing:
+            node_clusters = test(args)
+            if args.analysis:
+                calculate_metrics(node_clusters,args.edge_list)
+                pass
 
