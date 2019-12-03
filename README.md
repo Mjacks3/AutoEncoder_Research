@@ -8,53 +8,41 @@ Our research utilizes autoencoders to advice service decomposition into several 
 Usage:
 Command flags are as follows
 
-    parser.add_argument('--train_dataset', default='datasets/demo',help="Dataset Directory")
-    parser.add_argument('-d', '--save-dir', default='results/demo',help="Dir to save the results")
-    parser.add_argument('--num_clusters', default=2, type=int,help="Number Clusters") #may range this
+    #Parameters for Graph Embedding 
+    parser.add_argument('--deepwalk' help="Graph Embedding Using Deepwalk") 
+    parser.add_argument('--dp_loc', help="Graph Embedding Data Location") 
+    parser.add_argument('--wk_params',help='Tuple param type for extra edgelist parameters.Types are int/float/str. ') 
+
+    parser.add_argument('--train_dataset', help="Dataset Directory")
+    parser.add_argument('-d', '--save-dir',,help="Dir to save the results")
+    parser.add_argument('--num_clusters',help="Number Clusters") 
 
         
     # Parameters for pretraining
-    parser.add_argument('--training', action='store_true', help="Training")
-
-    parser.add_argument('--aug-pretrain', action='store_true',help="Whether to use data augmentation during pretraining phase")
-    parser.add_argument('--pretrained-weights', default=None, type=str,help="Pretrained weights of the autoencoder")
-    parser.add_argument('--pretrain-epochs', default=2, type=int,help="Number of epochs for pretraining")
-    parser.add_argument('-v', '--verbose', default=1, type=int,help="Verbose for pretraining")
+    parser.add_argument('--training',  help="Set Training Flag ")
+    parser.add_argument('--aug-pretrain', help="Whether to use data augmentation during pretraining phase")
+    parser.add_argument('--pretrained-weights', help="Pretrained weights of the autoencoder")
+    parser.add_argument('--pretrain-epochs',  type=int,help="Number of epochs for pretraining")
+    parser.add_argument('-v', '--verbose',help="Verbose for pretraining")
 
     # Parameters for clustering
-    parser.add_argument('-a', '--analysis', action='store_true', help="Display clustering metrics")
-    parser.add_argument( '--edge_list',default="", help="File to Edge List")
+    parser.add_argument('-a', '--analysis',help="Display clustering metrics")
+    parser.add_argument( '--edge_list',help="File to Edge List")
 
-    parser.add_argument('-t', '--testing', action='store_true',help="Testing the clustering performance with provided weights")
-    parser.add_argument('--test_dataset', default='datasets/demo_1/acmeair',help="Test Dataset Directory")
+    parser.add_argument('-t', '--testing',help="Testing the clustering performance with provided weights")
+    parser.add_argument('--test_dataset',help="Test Dataset Directory")
 
 
+    parser.add_argument('-w', '--weights', help="Model weights, used for testing")
+    parser.add_argument('--aug-cluster', help="Whether to use data augmentation during clustering phase")
+    parser.add_argument('--optimizer', help="Optimizer for clustering phase")
+    parser.add_argument('--lr', help="learning rate during clustering")
+    parser.add_argument('--batch-size', help="Batch size")
+    parser.add_argument('--maxiter',help="Maximum number of iterations")
+    parser.add_argument('-i', '--update-interval',help="Number of iterations to update the target distribution")
+    parser.add_argument('--tol', help="Threshold of stopping training")
 
-    parser.add_argument('-w', '--weights', default=None, type=str,
-                        help="Model weights, used for testing")
-    parser.add_argument('--aug-cluster', action='store_true',
-                        help="Whether to use data augmentation during clustering phase")
-    parser.add_argument('--optimizer', default='adam', type=str,
-                        help="Optimizer for clustering phase")
-    parser.add_argument('--lr', default=0.001, type=float,
-                        help="learning rate during clustering")
-    parser.add_argument('--batch-size', default=256, type=int,
-                        help="Batch size")
-    parser.add_argument('--maxiter', default=1000, type=int,
-                        help="Maximum number of iterations")
-    parser.add_argument('-i', '--update-interval', default=140, type=int,
-                        help="Number of iterations to update the target distribution")
-    parser.add_argument('--tol', default=0.001, type=float,
-                        help="Threshold of stopping training")
-
-    parser.add_argument('--experiment',  action='store_true',
-                        help="Ignore all other arguments and run experiment")
-
-    #Parameters for Graph Embedding 
-    parser.add_argument('--deepwalk', action='store_true',help="Graph Embedding Using Deepwalk") #dataset to look for embedding
-    parser.add_argument('--dp_loc',  default='datasets/demo',help="Graph Embedding Data Location") #dataset to look for embedding
-    parser.add_argument('--wk_params', action='store',nargs="*", help='Tuple param type for extra edgelist parameters.Types are int/float/str. ') #Use nargs = '*' for multiple arguments  # need sets of two
-
+    parser.add_argument('--experiment', help="Ignore all other arguments and run experiment")
 
 Example commands for various actions:
 Coming Soon
