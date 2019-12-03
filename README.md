@@ -9,9 +9,10 @@ Usage:
 Command flags are as follows
 
     #Parameters for Graph Embedding 
-    parser.add_argument('--deepwalk' help="Graph Embedding Using Deepwalk") 
+    parser.add_argument('--deepwalk' help="Flag to Enable Graph Embedding Using Deepwalk") 
     parser.add_argument('--dp_loc', help="Graph Embedding Data Location") 
-    parser.add_argument('--wk_params',help='Tuple param type for extra edgelist parameters.Types are int/float/str. ') 
+    parser.add_argument('--wk_params',help='2 pair: Parameter Name and Type for extra edgelist parameters.Types are int/float/str.') 
+
 
     parser.add_argument('--train_dataset', help="Dataset Directory")
     parser.add_argument('-d', '--save-dir',,help="Dir to save the results")
