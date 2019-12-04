@@ -37,27 +37,29 @@ def graph_embedding(args):
 
 
     for r, d, f in os.walk(args.dp_loc):
-        for file in f:
-            if '.txt' in file and 'embedding' not in file:
-                print("\n\n" + file + "\n\n")
-                
-                #data : bool or list of (label,type) tuples
-                G = nx.read_edgelist(args.dp_loc +'/'+ file[0:-4]+'/'+ file , create_using=nx.DiGraph(), nodetype=None, data=data)
-                model = DeepWalk(G, walk_length=20, num_walks=150, workers=10)
-                model.train(window_size=10, iter=100)
-                embeddings = model.get_embeddings()
+        if len(f) == 1:
+            for file in f:
+                #if '.txt' in file and 'embedding' not in file:
+                    print("\n\n" + file + "\n\n")
+                    
+                    #data : bool or list of (label,type) tuples
+                    G = nx.read_edgelist(args.dp_loc +'/'+ file[0:-4]+'/'+ file , create_using=nx.DiGraph(), nodetype=None, data=data)
+                    model = DeepWalk(G, walk_length=20, num_walks=150, workers=10)
+                    model.train(window_size=10, iter=100)
+                    embeddings = model.get_embeddings()
 
-                f = open(args.dp_loc +'/'+ file[0:-4]+'/'+ file[0:-4]+".embedding",'w+')
+                    f = open(args.dp_loc +'/'+ file[0:-4]+'/'+ file[0:-4]+".embedding",'w+')
 
-                # Close opend file
-                f.write("Variable_N "+ str(len(list(embeddings.items())[0][1]))+"\n")
+                    # Close opend file
+                    f.write("Variable_N "+ str(len(list(embeddings.items())[0][1]))+"\n")
 
-                for array in embeddings.items():
-                    f.write(array[0]+ " ")
-                    for number in array[1]:
-                        f.write(str(number) + " ")
-                    f.write("\n")
-                f.close()  
+                    for array in embeddings.items():
+                        f.write(array[0]+ " ")
+                        for number in array[1]:
+                            f.write(str(number) + " ")
+                        f.write("\n")
+                    f.close()  
+ 
     return 0
 
 def load_other_batch_data(data_path):
