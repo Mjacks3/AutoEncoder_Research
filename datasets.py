@@ -23,7 +23,6 @@ def load_other_batch_data(data_path='/home/mjacks3/monize/tahdith/datasets/train
 
                     full_x  = np.append(full_x, x)
 
-
     return full_x, 0
 
 def load_other_data(data_path='/home/mjacks3/monize/tahdith/datasets/train/Java.git/Java.git.txt.embedding'):

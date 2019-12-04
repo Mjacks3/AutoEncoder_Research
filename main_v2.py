@@ -6,6 +6,7 @@ import argparse
 import os
 import warnings
 warnings.filterwarnings("ignore")
+
 #import tensorflow as tf
 
 
@@ -117,7 +118,7 @@ def train(args):
     # get data and model
     (x, y), model = _get_data_and_model(args, args.train_dataset)
     model.model.summary()
-    
+    return 0
 
     # pretraining
     if not os.path.exists(args.save_dir):
@@ -296,19 +297,18 @@ if __name__ == "__main__":
     import argparse
 
     parser = argparse.ArgumentParser(description='main')
-    parser.add_argument('--train_dataset', default='datasets/demo',help="Dataset Directory")
-                        
 
-    parser.add_argument('-d', '--save-dir', default='results/demo',
-                        help="Dir to save the results")
-    parser.add_argument('--num_clusters', default=2, type=int,
-                        help="Number Clusters") #may range this
+
+
+
 
            
 
     # Parameters for pretraining
     parser.add_argument('--training', action='store_true', help="Training")
-
+    parser.add_argument('--train_dataset', default='experiment/train',help="Dataset Directory")
+    parser.add_argument('-d', '--save-dir', default='experiment/results',help="Dir to save the results")               
+    parser.add_argument('--num_clusters', default=3, type=int,help="Number Clusters") #may range this
     parser.add_argument('--aug-pretrain', action='store_true',
                         help="Whether to use data augmentation during pretraining phase")
     parser.add_argument('--pretrained-weights', default=None, type=str,
@@ -364,9 +364,30 @@ if __name__ == "__main__":
 if args.experiment:
 
     #Graph Embedding
+    """
     args.dp_loc = "experiment/train"
     args.wk_params = ["weight", "int"]
     graph_embedding(args)
+    """
+    #End Graph Embedding
+
+
+    #Training
+    from tensorflow.keras.optimizers import SGD
+    from FcDEC import FcDEC
+
+    args.num_clusters = 3  
+    args.save_dir = "experiment/train/" + str(args.num_clusters)
+
+    if os.path.exists(args.save_dir):
+        os.makedirs(args.save_dir)
+
+    train(args)
+    #print(args.save_dir)
+        #
+    #End Training
+
+
     
     #Training
 #NEXT. VERY IMPORTANT
