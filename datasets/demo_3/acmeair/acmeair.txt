@@ -1,0 +1,7 @@
+Customer CustomerImpl
+Serializable CustomerImpl
+Filter RESTCookieSessionFilter
+BeanManager RESTCookieSessionFilter
+CustomerService KeyGenerator
+
+

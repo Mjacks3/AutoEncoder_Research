@@ -1,0 +1,3 @@
+CatalogService CategoryMapper
+CatalogService ProductMapper
+CatalogService ItemMapper

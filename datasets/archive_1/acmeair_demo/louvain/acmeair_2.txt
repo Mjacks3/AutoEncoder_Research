@@ -1,0 +1,11 @@
+Customer CustomerImpl
+CustomerService KeyGenerator
+KeyGenerator CustomerService
+CustomerLoader CustomerService
+LoginREST CustomerService
+CustomerService Customer
+CustomerREST Customer
+CustomerREST CustomerService
+CustomerService CustomerServiceImpl
+KeyGenerator CustomerServiceImpl
+CustomerServiceImpl Customer

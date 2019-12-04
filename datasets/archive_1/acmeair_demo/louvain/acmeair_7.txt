@@ -1,0 +1,12 @@
+MorphiaConstants CustomerServiceImpl
+AcmeAirConstants MorphiaConstants
+Datastore CustomerServiceImpl
+MorphiaConstants BookingServiceImpl
+MorphiaConstants FlightServiceImpl
+MorphiaConstants MongoConnectionManager
+CustomerServiceImpl MongoConnectionManager
+FlightServiceImpl MongoConnectionManager
+Datastore BookingServiceImpl
+BookingServiceImpl MongoConnectionManager
+Datastore FlightServiceImpl
+DB MongoConnectionManager

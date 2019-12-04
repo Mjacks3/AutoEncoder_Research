@@ -43,7 +43,7 @@ def graph_embedding(args):
                 
                 #data : bool or list of (label,type) tuples
                 G = nx.read_edgelist(args.dp_loc +'/'+ file[0:-4]+'/'+ file , create_using=nx.DiGraph(), nodetype=None, data=data)
-                model = DeepWalk(G, walk_length=20, num_walks=150, workers=20)
+                model = DeepWalk(G, walk_length=20, num_walks=150, workers=10)
                 model.train(window_size=10, iter=100)
                 embeddings = model.get_embeddings()
 
@@ -347,7 +347,7 @@ if __name__ == "__main__":
 
     #Parameters for Graph Embedding 
     parser.add_argument('--deepwalk', action='store_true',help="Graph Embedding Using Deepwalk") #dataset to look for embedding
-    parser.add_argument('--dp_loc',  default='datasets/demo',help="Graph Embedding Data Location") #dataset to look for embedding
+    parser.add_argument('--dp_loc',  default='experiment/train',help="Graph Embedding Data Location") #dataset to look for embedding
     parser.add_argument('--wk_params', action='store',nargs="*", help='Tuple param type for extra edgelist parameters.Types are int/float/str. ') #Use nargs = '*' for multiple arguments  # need sets of two
 
 
@@ -364,7 +364,6 @@ if args.experiment:
     #Graph Embedding
     args.dp_loc = "experiment/train"
     args.wk_params = ["weight", "int"]
-    #print (args.wk_params)
     graph_embedding(args)
     
     #Training

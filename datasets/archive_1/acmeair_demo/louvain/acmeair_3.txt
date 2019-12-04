@@ -1,0 +1,11 @@
+CustomerInfo AddressInfo
+CustomerSession CustomerSessionImpl
+Serializable CustomerSessionImpl
+CustomerAddress CustomerAddressImpl
+Serializable CustomerAddressImpl
+Serializable FlightSegmentImpl
+Serializable AddressInfo
+Serializable CustomerInfo
+FlightSegment FlightSegmentImpl
+AddressInfo CustomerAddress
+FlightSegmentInfo FlightSegment

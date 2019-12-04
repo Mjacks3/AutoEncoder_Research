@@ -1,0 +1,16 @@
+Cart Item
+Cart CartItem
+CartItem Item
+LineItem CartItem
+LineItem Item
+Serializable Item
+CartActionBean Cart
+Serializable Category
+Serializable Cart
+Serializable Product
+CartActionBean CartItem
+CartActionBean Item
+Item Product
+Serializable LineItem
+Serializable CartItem
+Serializable Sequence

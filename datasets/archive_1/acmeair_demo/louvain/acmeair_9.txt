@@ -1,0 +1,2 @@
+FlightsREST TripLegInfo
+FlightsREST TripFlightOptions

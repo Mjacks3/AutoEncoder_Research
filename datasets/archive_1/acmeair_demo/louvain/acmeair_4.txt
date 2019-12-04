@@ -1,0 +1,6 @@
+Filter RESTCookieSessionFilter
+BeanManager RESTCookieSessionFilter
+BeanManager ServiceLocator
+ServiceLocator DataService
+AcmeAirConfiguration ServiceLocator
+BeanManager AcmeAirConfiguration

@@ -1,0 +1,13 @@
+BookingPK BookingPKImpl
+PartitionableKey BookingPKImpl
+FlightInfo Flight
+FlightPK FlightPKImpl
+PartitionableKey FlightPKImpl
+BookingImpl Flight
+Flight FlightImpl
+BookingInfo Booking
+BookingImpl BookingPKImpl
+Booking BookingImpl
+FlightImpl FlightPKImpl
+BookingImpl FlightImpl
+BookingImpl FlightPKImpl
