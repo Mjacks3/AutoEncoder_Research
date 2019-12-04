@@ -310,7 +310,7 @@ if __name__ == "__main__":
                         help="Whether to use data augmentation during pretraining phase")
     parser.add_argument('--pretrained-weights', default=None, type=str,
                         help="Pretrained weights of the autoencoder")
-    parser.add_argument('--pretrain-epochs', default=2, type=int,
+    parser.add_argument('--pretrain-epochs', default=150, type=int,
                         help="Number of epochs for pretraining")
     parser.add_argument('-v', '--verbose', default=1, type=int,
                         help="Verbose for pretraining")
@@ -370,19 +370,25 @@ if args.experiment:
 
 
     #Training
+    
     from tensorflow.keras.optimizers import SGD
     from FcDEC import FcDEC
+    for num in range(2, 20):
+        args.num_clusters = int(num)
+        args.save_dir = "experiment/" + str(args.num_clusters)
 
-    args.num_clusters = 3  
-    args.save_dir = "experiment/" + str(args.num_clusters)
-
-    if not os.path.exists(args.save_dir):
-        os.makedirs(args.save_dir)
-
-    train(args)
-    #print(args.save_dir)
-        #
+        if not os.path.exists(args.save_dir):
+            os.makedirs(args.save_dir)
+        train(args)
+    
     #End Training
+    #Test
+    """
+    args.weights = "experiment/3/model_final.h5"
+    test(args)
+
+    """
+    #End Test
 
 
     
