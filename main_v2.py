@@ -71,8 +71,6 @@ def load_other_batch_data(data_path):
     for r, d, f in os.walk(data_path):
         for file in f:
             if 'embedding' in file:
-                print(file)
-                
                 with open(r+'/'+ file) as fi:
                     temp = fi.readlines()
                     for line in temp[1:]:
@@ -118,7 +116,6 @@ def train(args):
     # get data and model
     (x, y), model = _get_data_and_model(args, args.train_dataset)
     model.model.summary()
-    return 0
 
     # pretraining
     if not os.path.exists(args.save_dir):
@@ -377,9 +374,9 @@ if args.experiment:
     from FcDEC import FcDEC
 
     args.num_clusters = 3  
-    args.save_dir = "experiment/train/" + str(args.num_clusters)
+    args.save_dir = "experiment/" + str(args.num_clusters)
 
-    if os.path.exists(args.save_dir):
+    if not os.path.exists(args.save_dir):
         os.makedirs(args.save_dir)
 
     train(args)
