@@ -377,6 +377,8 @@ if args.experiment:
         args.num_clusters = int(num)
         args.save_dir = "experiment/" + str(args.num_clusters)
 
+        print("NUM CLUSTERS THIS ITR: " + str (args.num_clusters))
+        
         if not os.path.exists(args.save_dir):
             os.makedirs(args.save_dir)
         train(args)
