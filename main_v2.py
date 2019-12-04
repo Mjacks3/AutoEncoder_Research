@@ -37,7 +37,7 @@ def graph_embedding(args):
 
 
     for r, d, f in os.walk(args.dp_loc):
-        if len(f) == 1:
+        if len(f) == 1 and os.stat(r+"/"+f[0]).st_size != 0 : #Some Empty EdgeLists!?
             for file in f:
                 #if '.txt' in file and 'embedding' not in file:
                     print("\n\n" + file + "\n\n")
