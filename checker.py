@@ -2,7 +2,7 @@ import os, sys, argparse,json, time, subprocess
 
 edgelist_cnt = 0
 embedding_cnt = 0
-for r, d, f in os.walk("experiment/train"):
+for r, d, f in os.walk("experiment/test"):
 
     if len(f) == 1:
          edgelist_cnt +=1
