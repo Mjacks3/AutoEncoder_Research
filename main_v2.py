@@ -420,11 +420,11 @@ if __name__ == "__main__":
 if args.experiment:
 
     #Graph Embedding
-    """
-    args.dp_loc = "experiment/train"
+    
+    args.dp_loc = "experiment/test"
     args.wk_params = ["weight", "int"]
     graph_embedding(args)
-    """
+    
     #End Graph Embedding
 
 
@@ -454,6 +454,7 @@ if args.experiment:
     #args.weights = "experiment/3/model_final.h5"
     #test_dataset = "datasets/demo_1/acmeair"
     #edge_list_loc = "datasets/demo_1/acmeair/acmeair.txt"
+    """
 
     
     cluster_qValue_map = { 
@@ -511,7 +512,7 @@ if args.experiment:
 
     #modq = calculate_modq(clusters,edge_list=edge_list_loc)
     #print("\n\n MOD Q: "+ str(modq)) 
-
+    """
     
     #End Test
 
