@@ -1,4 +1,4 @@
-# -*- coding: utf-8 -*-
+  # -*- coding: utf-8 -*-
 # coding: utf-8
 #Arg commands kick over very differnernt processes, so imports are moved to functions they are used to save time
 import numpy as np
@@ -6,6 +6,9 @@ import argparse
 import os
 import warnings
 warnings.filterwarnings("ignore")
+from tensorflow.keras.optimizers import SGD
+from FcDEC import FcDEC
+import matplotlib.pyplot as plt
 
 #import tensorflow as tf
 
@@ -138,7 +141,7 @@ def train(args):
 
 
 def test(args):
-    print("test")
+    print("Begining with Test Dataset")
     assert args.weights is not None
     (x, y), model = _get_data_and_model(args, args.test_dataset)  
     model.model.summary()
@@ -147,19 +150,75 @@ def test(args):
     model.load_weights(args.weights)
 
     y_pred = model.predict_labels(x)
-    print(x)
-    print(y)
-    print(y_pred)
+    #print(x)
+    #print(y)
+    #print(y_pred)
 
 
     node_clusters = []
     for node_id, cluster in zip(y, y_pred):
-        print( str(node_id) + " " + str(cluster))
+        #print( str(node_id) + " " + str(cluster))
         node_clusters.append( str(node_id) + " " + str(cluster))
 
     return node_clusters
 
 
+def calculate_modq(clusters, edge_list='' ):
+    #cluster_pairs='/home/mjacks3/monize/tahdith/datasets/train/Java.git/Java.git.txt.clusters'
+    if not os.path.exists(edge_list):
+        print("Cannot Find Edge List. Exiting")
+        return 0
+
+    #Assemble Mappings for formula calculations
+    node_partition_mapping = {}
+    partion_node_counting = {}
+
+    for pair in clusters:
+        node_partion = pair.split()
+        node_partition_mapping[node_partion[0]] = node_partion[1]
+
+    for a in set(node_partition_mapping.values()):
+        partion_node_counting[a] = 0
+        for b in node_partition_mapping.items():
+            if str(b[1]) == str(a) :
+                partion_node_counting[a] += 1
+
+    #Calculate M_Norm, Sum of weights in graph
+    m_norm = 0
+
+    with open(edge_list) as f:
+        for edge in f:
+            m_norm += 1
+
+    #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    #Modularity Q Calculation
+    #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+    modQ = 0 
+
+    for partition in partion_node_counting.keys():
+        internal = 0 
+        incident = 0
+        with open(edge_list) as f:
+            for edge in f:
+                source_dest = edge.split()
+
+                if node_partition_mapping[source_dest[0]] == str(partition) and \
+                node_partition_mapping[source_dest[1]] == str(partition):
+                    internal += 1
+                    incident += 1
+
+                elif node_partition_mapping[source_dest[0]] == str(partition) or \
+                node_partition_mapping[source_dest[1]] == str(partition):
+
+                    incident += 1
+
+        modQ += ( (internal/(2.0*m_norm)) -   (incident/(2.0*m_norm))**2)
+
+    print("Modularity Q Value")
+    print(modQ)
+
+    return modQ
 
 
 def calculate_metrics(clusters, edge_list='' ):
@@ -370,9 +429,8 @@ if args.experiment:
 
 
     #Training
-    
-    from tensorflow.keras.optimizers import SGD
-    from FcDEC import FcDEC
+    """
+
     for num in range(2, 20):
         args.num_clusters = int(num)
         args.save_dir = "experiment/" + str(args.num_clusters)
@@ -384,12 +442,77 @@ if args.experiment:
         train(args)
     
     #End Training
+    """
+    
     #Test
-    """
-    args.weights = "experiment/3/model_final.h5"
-    test(args)
+    #loop to get num clusters +
+    # num clusters to loop 
+    # 
+    # 
+    # 
 
-    """
+    #args.weights = "experiment/3/model_final.h5"
+    #test_dataset = "datasets/demo_1/acmeair"
+    #edge_list_loc = "datasets/demo_1/acmeair/acmeair.txt"
+
+    
+    cluster_qValue_map = { 
+                        "2" : [],
+                        "3" : [],
+                        "4" : [],
+                        "5" : [],
+                        "6" : [],
+                        "7" : [],
+                        "8" : [],
+                        "9" : [],
+                        "10": [],
+                        "11": [],
+                        "12": [],
+                        "13": [],
+                        "14": [],
+                        "15": [],
+                        "16": [],
+                        "17": [],
+                        "18": [],
+                        "19": []
+                        }
+
+    for num_clusters in range(2,20):
+        args.weights = "experiment/"+str(num_clusters)+"/model_final.h5"
+        args.num_clusters = num_clusters
+ 
+        for r, d, f in os.walk("experiment/test"): # for each file 
+            print (r)
+            print (f)
+            if len(f) == 2:
+                for file_name in f: 
+                    if ".txt" in file_name:
+                        edge_list = r+"/"+file_name
+                    else:
+                        args.test_dataset = r
+
+                clusters = test(args)
+                modq = calculate_modq(clusters,edge_list=edge_list)
+                print("\n\n MOD Q: "+ str(modq)) 
+                cluster_qValue_map[str(num_clusters)].append(modq)
+
+
+        x =  [num_clusters for num in range(len(cluster_qValue_map[str(num_clusters)]))]
+
+        plt.plot(x,cluster_qValue_map[str(num_clusters)] , 'bo')
+        plt.xlabel("Number Clusters")
+        plt.ylabel("Modularity Q Value")
+
+    plt.show()
+
+
+
+    #clusters = test(args)
+
+    #modq = calculate_modq(clusters,edge_list=edge_list_loc)
+    #print("\n\n MOD Q: "+ str(modq)) 
+
+    
     #End Test
 
 
