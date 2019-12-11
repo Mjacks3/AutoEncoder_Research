@@ -1,0 +1,12 @@
+ReactPackage 0
+com.apsl.versionnumber.RNVersionNumberPackage 0
+com.apsl.versionnumber.RNVersionNumberModule 1
+ReactContextBaseJavaModule 1
+ios/RNVersionNumber.m 2
+RNVersionNumber.h 2
+RCTBridgeModule.h 2
+React/RCTBridgeModule.h 2
+ios/RNVersionNumber.h 2
+RNVersionNumber 3
+NSObject 3
+RCTBridgeModule 3

@@ -1,8 +1,8 @@
-1006 1005 1
-1005 1007 1
-1008 1007 3
-1009 1007 1
-1010 1007 1
-1006 1008 3
-1006 1009 1
-1006 1010 1
+com.jakewharton.rx.WindowIfChangedTest com.jakewharton.rx.WindowIfChangedTest.completeCompletesInner 1
+com.jakewharton.rx.WindowIfChangedTest.splits com.jakewharton.rx.WindowIfChanged.create 1
+com.jakewharton.rx.WindowIfChangedTest.errorCompletesInner com.jakewharton.rx.WindowIfChanged.create 1
+com.jakewharton.rx.WindowIfChangedTest.completeCompletesInner com.jakewharton.rx.WindowIfChanged.create 1
+com.jakewharton.rx.WindowIfChanged com.jakewharton.rx.WindowIfChanged.create 3
+com.jakewharton.rx.WindowIfChangedTest com.jakewharton.rx.WindowIfChanged 3
+com.jakewharton.rx.WindowIfChangedTest com.jakewharton.rx.WindowIfChangedTest.errorCompletesInner 1
+com.jakewharton.rx.WindowIfChangedTest com.jakewharton.rx.WindowIfChangedTest.splits 1

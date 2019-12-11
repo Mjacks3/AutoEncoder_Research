@@ -1,0 +1,10 @@
+me.alexrs.circularbutton.lib.CircularButton.CircularButton 0
+me.alexrs.circularbutton.lib.CircularButton 0
+me.alexrs.circularbutton.lib.CircularButton.setButtonColor 0
+ImageView 0
+me.alexrs.circularbutton.lib.CircularButton.setShadowColor 0
+me.alexrs.circularbutton.lib.CircularButton.onSizeChanged 0
+me.alexrs.circlebutton.demo.MainActivity 1
+Activity 1
+me.alexrs.circlebutton.demo.MainActivity.onCreate 2
+me.alexrs.circularbutton.lib.CircularButton.getButtonColor 2

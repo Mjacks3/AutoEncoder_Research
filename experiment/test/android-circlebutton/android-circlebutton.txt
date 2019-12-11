@@ -1,5 +1,5 @@
-51 50 3
-55 53 2
-52 53 2
-52 54 1
-57 56 3
+ImageView at.markushi.ui.CircleButton 3
+View::OnClickListener at.markushi.circlebutton.example.MainActivity.PlaceholderFragment 2
+Fragment at.markushi.circlebutton.example.MainActivity.PlaceholderFragment 2
+Fragment OnClickListener 1
+ActionBarActivity at.markushi.circlebutton.example.MainActivity 3

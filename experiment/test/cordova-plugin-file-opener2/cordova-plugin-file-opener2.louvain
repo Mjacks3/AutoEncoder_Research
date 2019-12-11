@@ -1,0 +1,15 @@
+io.github.pwlin.cordova.plugins.fileopener2.FileOpener2 0
+CordovaPlugin 0
+src/ios/FileOpener2.h 1
+src/ios/FileOpener2.m 1
+Cordova/CDV.h 1
+FileOpener2.h 1
+QuartzCore/QuartzCore.h 1
+MobileCoreServices/MobileCoreServices.h 1
+FileProvider 2
+io.github.pwlin.cordova.plugins.fileopener2.FileProvider 2
+android::support::v4::content::FileProvider 2
+CDVPlugin 3
+FileOpener2 3
+UIDocumentInteractionControllerDelegate 3
+FileOpener2(UIDocumentInteractionControllerDelegate) 4

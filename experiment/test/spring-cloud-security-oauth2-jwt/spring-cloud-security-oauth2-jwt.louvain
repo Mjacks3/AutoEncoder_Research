@@ -1,0 +1,17 @@
+cn.com.sina.alan.oauth.OAuth2ResourceServer 0
+cn.com.sina.alan.oauth.config.GlobalMethodSecurityConfiguration 1
+cn.com.sina.alan.oauth.config.ResourceServerConfiguration 2
+ResourceServerConfigurerAdapter 2
+cn.com.sina.alan.oauth.config.JwtConfiguration 2
+JwtAccessTokenConverter 2
+TokenStore 2
+Logger 2
+cn.com.sina.alan.oauth.config.OAuth2Configuration 3
+AuthorizationServerConfigurerAdapter 3
+cn.com.sina.alan.oauth.config.OAuth2Configuration.tokenStore 3
+cn.com.sina.alan.oauth.config.OAuth2Configuration.jwtTokenEnhancer 3
+cn.com.sina.alan.oauth.config.OAuth2Configuration.configure 3
+cn.com.sina.alan.oauth.WebController 4
+cn.com.sina.alan.oauth.AuthServerApplication 5
+cn.com.sina.alan.oauth.controller.WebController 6
+cn.com.sina.alan.oauth.controller.ErrorCtr 7

@@ -1,3 +1,3 @@
-2100 2097 1
-2098 2097 3
-2099 2097 1
+Activity com.example.joshskeen.myapplication.MyActivity 3
+TextView com.example.joshskeen.myapplication.MyActivity 1
+Button com.example.joshskeen.myapplication.MyActivity 1

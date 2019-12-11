@@ -1,0 +1,6 @@
+AppCompatActivity 0
+com.example.android.emojicompat.MainActivity 0
+com.example.android.emojicompat.CustomTextView 1
+AppCompatTextView 1
+com.example.android.emojicompat.MainActivityTest 2
+ActivityTestRulecom.example.android.emojicompat.MainActivity 2

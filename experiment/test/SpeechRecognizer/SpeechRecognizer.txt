@@ -1,2 +1,2 @@
-875 876 2
-878 877 3
+CordovaPlugin org.apache.cordova.speechrecognizer.SpeechRecognizer 2
+BroadcastReceiver org.apache.cordova.speechrecognizer.LanguageDetailsChecker 3

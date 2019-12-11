@@ -1,5 +1,5 @@
-792 793 3
-795 796 3
-793 797 1
-797 798 1
-793 798 1
+FrameLayout com.wrapp.floatlabelededittext.FloatLabeledEditText 3
+ActionBarActivity com.wrapp.example.floatlabelededittext.MainActivity 3
+com.wrapp.floatlabelededittext.FloatLabeledEditText com.wrapp.floatlabelededittext.FloatLabeledEditText.FloatLabeledEditText 1
+com.wrapp.floatlabelededittext.FloatLabeledEditText com.wrapp.floatlabelededittext.FloatLabeledEditText.addView 1
+com.wrapp.floatlabelededittext.FloatLabeledEditText.FloatLabeledEditText com.wrapp.floatlabelededittext.FloatLabeledEditText.addView 1

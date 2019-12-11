@@ -1,0 +1,5 @@
+nlp.intent.toolkit.IntentDocumentSampleStream 0
+opennlp::tools::util::ObjectStreamDocumentSample 0
+ObjectStreamString 0
+ObjectStream 0
+nlp.intent.toolkit.IntentTrainer 1

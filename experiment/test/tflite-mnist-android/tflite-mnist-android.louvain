@@ -1,0 +1,13 @@
+com.nex3z.tflitemnist.MainActivity.onCreate 0
+com.nex3z.tflitemnist.Result.getNumber 0
+com.nex3z.tflitemnist.Result 0
+com.nex3z.tflitemnist.Result.getProbability 0
+com.nex3z.tflitemnist.Result.getTimeCost 0
+com.nex3z.tflitemnist.MainActivity 1
+AppCompatActivity 1
+FingerPaintView 1
+TextView 1
+com.nex3z.tflitemnist.Classifier.classify 2
+com.nex3z.tflitemnist.Classifier 2
+com.nex3z.tflitemnist.ExampleInstrumentedTest 3
+com.nex3z.tflitemnist.ExampleUnitTest 4

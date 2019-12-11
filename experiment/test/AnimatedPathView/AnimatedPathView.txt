@@ -1,8 +1,8 @@
-2700 2880 3
-2882 2881 1
-2880 2882 1
-2884 2882 2
-2881 2883 1
-2882 2883 3
-2885 2883 1
-2880 2885 1
+com.mattkula.animatedpathview.sample.MyActivity.onCreate com.mattkula.animatedpathview.library.AnimatedPathView.setPath 1
+com.mattkula.animatedpathview.library.AnimatedPathView.AnimatedPathView com.mattkula.animatedpathview.library.AnimatedPathView.setPath 1
+com.mattkula.animatedpathview.library.AnimatedPathView com.mattkula.animatedpathview.library.AnimatedPathView.setPath 3
+com.mattkula.animatedpathview.sample.MyActivity com.mattkula.animatedpathview.sample.MyActivity.onCreate 1
+Activity com.mattkula.animatedpathview.sample.MyActivity 3
+com.mattkula.animatedpathview.library.AnimatedPathView com.mattkula.animatedpathview.library.AnimatedPathView.AnimatedPathView 1
+com.mattkula.animatedpathview.sample.MyActivity com.mattkula.animatedpathview.library.AnimatedPathView 1
+View com.mattkula.animatedpathview.library.AnimatedPathView 2

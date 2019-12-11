@@ -1,0 +1,9 @@
+com.sn.edittextwithtag.ExampleUnitTest 0
+com.sn.edittextwithtag.ApplicationTest 1
+android::test::ApplicationTestCaseApplication 1
+ApplicationTestCase 1
+com.sn.edittextwithtag.MainActivity.onCreate 2
+com.sn.edittextwithtag.MainActivity.setTag 2
+com.sn.edittextwithtag.MainActivity 3
+AppCompatActivity 3
+EditText 3

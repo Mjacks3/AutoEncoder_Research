@@ -1,0 +1,15 @@
+ListView 0
+com.jcodeing.extractwordview.widget.EWListView 0
+com.jcodeing.extractwordview.widget.EWListView.EWListView 0
+com.jcodeing.extractwordview.widget.EWListView.extractWordCurOff 0
+Activity 0
+Context 0
+com.jcodeing.extractwordview.widget.EWListView.onTouchEvent 0
+com.jcodeing.extractwordview.widget.EWListView.onLongPressWord 0
+com.jcodeing.extractwordview.widget.EWListView.getSelectWord 1
+com.jcodeing.extractwordview.widget.EWListView.getWordLeftIndex 1
+com.jcodeing.extractwordview.widget.EWListView.getWordRightIndex 1
+com.jcodeing.extractwordview.MainActivity 2
+ActionBarActivity 2
+com.jcodeing.extractwordview.widget.EWListViewChildET 3
+EditText 3

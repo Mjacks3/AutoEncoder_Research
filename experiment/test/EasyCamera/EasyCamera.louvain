@@ -1,0 +1,9 @@
+net.bozho.easycamera.DefaultCameraActions 0
+net.bozho.easycamera.EasyCamera.CameraActions 0
+net.bozho.easycamera.EasyCamera.Callbacks 1
+net.bozho.easycamera.DefaultEasyCamera 2
+net.bozho.easycamera.EasyCamera 2
+net.bozho.easycamera.EasyCamera.ShutterCallback 3
+net.bozho.easycamera.EasyCamera.PictureCallback 4
+net.bozho.easycamera.DefaultCameraActions.takePicture 5
+net.bozho.easycamera.EasyCamera.getRawCamera 5

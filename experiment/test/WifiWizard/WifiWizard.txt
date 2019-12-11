@@ -1,7 +1,7 @@
-130 129 2
-131 132 3
-136 134 1
-133 134 1
-133 135 1
-135 136 1
-135 137 1
+CordovaPlugin com.pylonproducts.wifiwizard.WifiWizard 2
+CDVPlugin NXWWifiWizard 3
+NXWWifiWizard.h Cordova/CDV.h 1
+src/ios/NXWWifiWizard.h Cordova/CDV.h 1
+src/ios/NXWWifiWizard.h src/ios/NXWWifiWizard.m 1
+src/ios/NXWWifiWizard.m NXWWifiWizard.h 1
+src/ios/NXWWifiWizard.m SystemConfiguration/CaptiveNetwork.h 1

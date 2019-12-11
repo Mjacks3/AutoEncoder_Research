@@ -1,2 +1,2 @@
-2901 2900 3
-2902 2903 3
+WebSecurityConfigurerAdapter hello.WebSecurityConfig 3
+WebMvcConfigurer hello.MvcConfig 3

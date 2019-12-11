@@ -1,0 +1,11 @@
+ListActivity 0
+com.kanak.emptylayoutsample.MainActivity 0
+com.kanak.emptylayout.EmptyLayout 0
+com.kanak.emptylayoutsample.MainActivity.onShowLoading 1
+com.kanak.emptylayout.EmptyLayout.showLoading 1
+com.kanak.emptylayoutsample.MainActivity.onShowError 2
+com.kanak.emptylayout.EmptyLayout.showError 2
+com.kanak.emptylayoutsample.MainActivity.onShowEmpty 3
+com.kanak.emptylayout.EmptyLayout.showEmpty 3
+com.kanak.emptylayoutsample.MainActivity.onCreate 4
+com.kanak.emptylayout.EmptyLayout.setErrorButtonClickListener 4

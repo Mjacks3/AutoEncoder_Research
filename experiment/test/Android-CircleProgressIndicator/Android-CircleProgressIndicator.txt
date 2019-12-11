@@ -1,4 +1,4 @@
-2261 2262 2
-2264 2263 3
-2267 2265 1
-2266 2265 2
+TextView com.cardinalsolutions.progressindicator.CurvedTextView 2
+Activity com.cardinalsolutions.progressindicator.MainActivity 3
+android::test::ApplicationTestCaseApplication com.cardinalsolutions.progressindicator.ApplicationTest 2
+ApplicationTestCase com.cardinalsolutions.progressindicator.ApplicationTest 1

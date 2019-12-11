@@ -1,6 +1,6 @@
-1142 1128 1
-1531 1128 1
-1532 1142 1
-1530 1531 2
-1532 1531 1
-1141 1532 3
+com.txusballesteros.demo.MainActivity com.txusballesteros.SnakeView 1
+View com.txusballesteros.SnakeView 2
+AppCompatActivity com.txusballesteros.demo.MainActivity 3
+com.txusballesteros.demo.MainActivity com.txusballesteros.demo.MainActivity.onStop 1
+com.txusballesteros.SnakeView com.txusballesteros.SnakeView.addValue 1
+com.txusballesteros.demo.MainActivity.onStop com.txusballesteros.SnakeView.addValue 1

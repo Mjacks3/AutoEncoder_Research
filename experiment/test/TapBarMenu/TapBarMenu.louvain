@@ -1,0 +1,12 @@
+com.michaldrabik.tapbarmenu.MainActivity 0
+AppCompatActivity 0
+com.michaldrabik.tapbarmenu.MainActivity.onMenuItemClick 0
+com.michaldrabik.tapbarmenulib.TapBarMenu 1
+LinearLayout 1
+com.michaldrabik.tapbarmenulib.TapBarMenu.onDraw 1
+com.michaldrabik.tapbarmenulib.TapBarMenu.setButtonPosition 1
+com.michaldrabik.tapbarmenulib.TapBarMenu.close 1
+com.michaldrabik.tapbarmenulib.ExampleUnitTest 2
+com.michaldrabik.tapbarmenu.MainActivity.onMenuButtonClick 3
+com.michaldrabik.tapbarmenulib.TapBarMenu.toggle 3
+com.michaldrabik.tapbarmenulib.TapBarMenu.open 3

@@ -1,2 +1,2 @@
-1245 1244 3
-1247 1248 3
+AppCompatActivity io.github.yuweiguocn.squareloading.MainActivity 3
+ViewGroup io.github.yuweiguocn.lib.squareloading.SquareLoading 3

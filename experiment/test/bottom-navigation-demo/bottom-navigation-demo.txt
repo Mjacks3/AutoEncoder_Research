@@ -1,6 +1,6 @@
-116 115 3
-119 118 3
-115 118 1
-115 121 1
-118 122 1
-121 122 1
+AppCompatActivity com.segunfamisa.sample.bottomnav.MainActivity 3
+Fragment com.segunfamisa.sample.bottomnav.MenuFragment 3
+com.segunfamisa.sample.bottomnav.MainActivity com.segunfamisa.sample.bottomnav.MenuFragment 1
+com.segunfamisa.sample.bottomnav.MainActivity com.segunfamisa.sample.bottomnav.MainActivity.onBackPressed 1
+com.segunfamisa.sample.bottomnav.MainActivity.onBackPressed com.segunfamisa.sample.bottomnav.MenuFragment.newInstance 1
+com.segunfamisa.sample.bottomnav.MenuFragment com.segunfamisa.sample.bottomnav.MenuFragment.newInstance 1

@@ -1,2 +1,2 @@
-2747 2746 3
-2748 2749 3
+Activity com.example.activity.MainActivity 3
+Application com.example.DeckardApplication 3

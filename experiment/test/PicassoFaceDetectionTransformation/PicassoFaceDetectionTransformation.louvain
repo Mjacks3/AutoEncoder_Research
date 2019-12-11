@@ -1,0 +1,11 @@
+com.rohitarya.picasso.facedetection.transformation.core.PicassoFaceDetector 0
+com.rohitarya.picasso.facedetection.transformation.core.PicassoFaceDetector.initialize 0
+com.rohitarya.picasso.facedetection.transformation.core.PicassoFaceDetector.getContext 0
+com.rohitarya.picasso.facedetection.transformation.FaceCenterCrop.key 1
+com.rohitarya.picasso.facedetection.transformation.core.PicassoFaceDetector.getFaceDetector 1
+com.rohitarya.picasso.facedetection.transformation.FaceCenterCrop 2
+Transformation 2
+com.rohitarya.picasso.facedetection.transformation.FaceCenterCrop.FaceCenterCrop 2
+com.rohitarya.picasso.facedetection.transformation.ApplicationTest 3
+android::test::ApplicationTestCaseApplication 3
+ApplicationTestCase 3

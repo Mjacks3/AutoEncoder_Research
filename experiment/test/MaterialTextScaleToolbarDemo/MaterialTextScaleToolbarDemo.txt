@@ -1,8 +1,8 @@
-2085 2084 2
-2089 2084 1
-2086 2087 2
-2092 2087 2
-2086 2088 1
-2087 2090 1
-2090 2091 1
-2087 2091 1
+ApplicationTestCase com.bigfat.materialcontactheaderdemo.ApplicationTest 1
+android::test::ApplicationTestCaseApplication com.bigfat.materialcontactheaderdemo.ApplicationTest 2
+ActionBarActivity com.bigfat.materialcontactheaderdemo.MainActivity 2
+AbsListView::OnScrollListener com.bigfat.materialcontactheaderdemo.MainActivity 2
+ActionBarActivity OnScrollListener 1
+com.bigfat.materialcontactheaderdemo.MainActivity com.bigfat.materialcontactheaderdemo.MainActivity.onScroll 1
+com.bigfat.materialcontactheaderdemo.MainActivity.onScroll com.bigfat.materialcontactheaderdemo.MainActivity.getScrollY 1
+com.bigfat.materialcontactheaderdemo.MainActivity com.bigfat.materialcontactheaderdemo.MainActivity.getScrollY 1

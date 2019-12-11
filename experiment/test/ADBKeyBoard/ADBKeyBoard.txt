@@ -1,1 +1,1 @@
-2440 2441 2
+InputMethodService com.android.adbkeyboard.AdbIME 2

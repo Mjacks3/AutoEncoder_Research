@@ -1,1 +1,1 @@
-2390 2389 3
+AbstractVerticle io.vertx.starter.MainVerticle 3

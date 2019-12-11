@@ -1,0 +1,6 @@
+com.nanbox.ripplelayout.RippleLayout.showRipple 0
+com.nanbox.ripplelayout.RippleLayout 0
+FrameLayout 0
+com.nanbox.ripplelayout.RippleLayout.dispatchTouchEvent 0
+AppCompatActivity 1
+com.nanbox.ripplelayout.sample.MainActivity 1

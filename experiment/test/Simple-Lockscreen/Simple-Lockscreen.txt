@@ -1,7 +1,7 @@
-2835 2833 1
-2832 2833 2
-2835 2834 3
-2837 2836 1
-2839 2837 3
-2837 2838 1
-2836 2838 1
+Service org.example.lockscreen.LockScreenService 2
+BroadcastReceiver org.example.lockscreen.LockScreenService 1
+BroadcastReceiver org.example.lockscreen.LockScreenReceiver 3
+org.example.lockscreen.MainActivity org.example.lockscreen.MainActivity.onCreate 1
+Activity org.example.lockscreen.MainActivity 3
+org.example.lockscreen.MainActivity org.example.lockscreen.MainActivity.makeFullScreen 1
+org.example.lockscreen.MainActivity.onCreate org.example.lockscreen.MainActivity.makeFullScreen 1

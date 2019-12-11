@@ -1,0 +1,10 @@
+com.example.MainActivity 0
+Activity 0
+DefaultHardwareBackBtnHandler 0
+ReactPackage 1
+ca.jaysoo.extradimensions.ExtraDimensionsPackage 1
+ca.jaysoo.extradimensions.ExtraDimensionsModule.getConstants 2
+ca.jaysoo.extradimensions.ExtraDimensionsModule 2
+ca.jaysoo.extradimensions.ExtraDimensionsModule.getNormalNavigationBarHeight 2
+ReactContextBaseJavaModule 2
+LifecycleEventListener 2

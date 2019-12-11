@@ -1,6 +1,6 @@
-1249 1247 1
-1246 1247 2
-1248 1249 3
-1249 1250 1
-1247 1251 1
-1250 1251 1
+FrameLayout com.christophesmet.android.views.maskableframelayout.MaskableFrameLayout 2
+com.christophesmet.android.views.MainActivity com.christophesmet.android.views.maskableframelayout.MaskableFrameLayout 1
+AppCompatActivity com.christophesmet.android.views.MainActivity 3
+com.christophesmet.android.views.MainActivity com.christophesmet.android.views.MainActivity.onCreate 1
+com.christophesmet.android.views.maskableframelayout.MaskableFrameLayout com.christophesmet.android.views.maskableframelayout.MaskableFrameLayout.getDrawableMask 1
+com.christophesmet.android.views.MainActivity.onCreate com.christophesmet.android.views.maskableframelayout.MaskableFrameLayout.getDrawableMask 1

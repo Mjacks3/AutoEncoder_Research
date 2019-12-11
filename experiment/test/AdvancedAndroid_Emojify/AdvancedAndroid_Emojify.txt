@@ -1,5 +1,5 @@
-304 298 1
-303 298 1
-302 298 1
-301 298 1
-299 298 3
+TextView com.example.android.emojify.MainActivity 1
+ImageView com.example.android.emojify.MainActivity 1
+FloatingActionButton com.example.android.emojify.MainActivity 1
+Button com.example.android.emojify.MainActivity 1
+AppCompatActivity com.example.android.emojify.MainActivity 3

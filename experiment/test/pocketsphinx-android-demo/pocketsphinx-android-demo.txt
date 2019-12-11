@@ -1,5 +1,5 @@
-1416 1415 3
-1417 1415 3
-1416 1417 1
-1417 1418 2
-1416 1418 2
+Activity edu.cmu.pocketsphinx.demo.wear.WearActivity 3
+RecognitionListener edu.cmu.pocketsphinx.demo.wear.WearActivity 3
+Activity RecognitionListener 1
+Activity edu.cmu.pocketsphinx.demo.PocketSphinxActivity 2
+RecognitionListener edu.cmu.pocketsphinx.demo.PocketSphinxActivity 2

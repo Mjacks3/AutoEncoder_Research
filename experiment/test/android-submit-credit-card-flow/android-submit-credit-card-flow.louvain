@@ -1,0 +1,12 @@
+AppCompatActivity 0
+ru.adonixis.submitcreditcardflow.SubmitCreditCardActivity 0
+ru.adonixis.submitcreditcardflow.SubmitCreditCardActivity.convertDpToPixel 0
+ru.adonixis.submitcreditcardflow.SubmitCreditCardActivity.onCreate 1
+ru.adonixis.submitcreditcardflow.Card.setCardNumber 1
+ru.adonixis.submitcreditcardflow.Card 1
+ru.adonixis.submitcreditcardflow.Card.setExpiredDate 1
+ru.adonixis.submitcreditcardflow.Card.setCardHolder 1
+ru.adonixis.submitcreditcardflow.Card.setCvvCode 1
+ru.adonixis.submitcreditcardflow.Card.toString 1
+ViewPager 2
+ru.adonixis.submitcreditcardflow.WrapContentHeightViewPager 2

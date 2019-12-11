@@ -1,7 +1,7 @@
-880 875 1
-876 875 2
-879 878 3
-877 1305 1
-1306 1305 2
-1308 1307 2
-877 1307 1
+CoordinatorLayout::BehaviorView com.example.cyandev.androidplayground.widget.HeaderFloatBehavior 2
+Behavior com.example.cyandev.androidplayground.widget.HeaderFloatBehavior 1
+CoordinatorLayout::BehaviorRecyclerView com.example.cyandev.androidplayground.widget.HeaderScrollingBehavior 2
+Behavior com.example.cyandev.androidplayground.widget.HeaderScrollingBehavior 1
+android::test::ApplicationTestCaseApplication com.example.cyandev.androidplayground.ApplicationTest 2
+ApplicationTestCase com.example.cyandev.androidplayground.ApplicationTest 1
+AppCompatActivity com.example.cyandev.androidplayground.ScrollingActivity 3

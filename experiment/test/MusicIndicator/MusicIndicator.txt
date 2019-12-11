@@ -1,2 +1,2 @@
-902 901 3
-905 904 3
+View com.taishi.library.Indicator 3
+AppCompatActivity com.taishi.musicindicator.MainActivity 3

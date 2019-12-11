@@ -1,0 +1,13 @@
+com.reactnativeshopify.RNShopifyModule 0
+ReactContextBaseJavaModule 0
+ReactPackage 1
+com.reactnativeshopify.RNShopifyPackage 1
+RNShopify 2
+UIViewController 2
+RCTBridgeModule 2
+BUYPaymentProviderDelegate 2
+ios/RNShopify.h 3
+ios/RNShopify.m 3
+RNShopify.h 3
+React/RCTBridgeModule.h 3
+Buy.h 3

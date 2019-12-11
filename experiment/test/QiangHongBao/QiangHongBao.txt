@@ -1,3 +1,3 @@
-1298 1299 3
-850 1302 1
-1471 1302 3
+Activity com.codeboy.qianghongbao.MainActivity 3
+Handler com.codeboy.qianghongbao.QiangHongBaoService 1
+AccessibilityService com.codeboy.qianghongbao.QiangHongBaoService 3

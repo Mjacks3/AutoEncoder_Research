@@ -1,0 +1,9 @@
+org.pestrada.android_tdd_playground.ExampleUnitTest 0
+org.pestrada.android_tdd_playground.MainActivityTest 1
+Activity 1
+ActivityTestRuleorg.pestrada.android_tdd_playground.MainActivity 1
+org.pestrada.android_tdd_playground.ApplicationTest 2
+android::test::ApplicationTestCaseApplication 2
+ApplicationTestCase 2
+org.pestrada.android_tdd_playground.MainActivity 3
+AppCompatActivity 3

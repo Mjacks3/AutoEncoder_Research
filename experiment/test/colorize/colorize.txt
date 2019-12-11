@@ -1,5 +1,5 @@
-2480 2481 3
-2481 2482 1
-2482 2483 1
-2484 2483 1
-2481 2484 1
+AppCompatActivity github.cesarferreira.colorize.sample.MainActivity 3
+github.cesarferreira.colorize.sample.MainActivity github.cesarferreira.colorize.sample.MainActivity.onCreate 1
+github.cesarferreira.colorize.Colorize github.cesarferreira.colorize.Colorize.HexToColor 1
+github.cesarferreira.colorize.sample.MainActivity.onCreate github.cesarferreira.colorize.Colorize.HexToColor 1
+github.cesarferreira.colorize.sample.MainActivity github.cesarferreira.colorize.Colorize 1

@@ -1,5 +1,5 @@
-2411 2412 3
-2414 2413 2
-2412 2415 1
-2415 2416 1
-2412 2416 1
+Activity com.mcgearybros.androidtoapplevectorlogo.MainActivity 3
+android::test::ApplicationTestCaseApplication com.mcgearybros.androidtoapplevectorlogo.ApplicationTest 2
+com.mcgearybros.androidtoapplevectorlogo.MainActivity com.mcgearybros.androidtoapplevectorlogo.MainActivity.onCreate 1
+com.mcgearybros.androidtoapplevectorlogo.MainActivity com.mcgearybros.androidtoapplevectorlogo.MainActivity.morph 1
+com.mcgearybros.androidtoapplevectorlogo.MainActivity.onCreate com.mcgearybros.androidtoapplevectorlogo.MainActivity.morph 1

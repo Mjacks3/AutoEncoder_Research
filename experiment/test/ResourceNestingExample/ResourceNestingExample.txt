@@ -1,1 +1,1 @@
-2469 2468 2
+Activity org.nest.resources.MainActivity 2

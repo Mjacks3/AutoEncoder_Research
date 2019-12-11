@@ -1,5 +1,5 @@
-804 803 1
-806 805 1
-803 805 1
-804 806 1
-806 807 4
+com.koali.web.EchartsController com.koali.web.EchartsController.getData 1
+com.koali.service.NewStudentInfoService com.koali.service.NewStudentInfoService.getAllStudent 1
+com.koali.web.EchartsController.getData com.koali.service.NewStudentInfoService.getAllStudent 1
+com.koali.web.EchartsController com.koali.service.NewStudentInfoService 1
+com.koali.service.NewStudentInfoService com.koali.service.Impl.NewStudentInfoServiceImpl 4

@@ -1,0 +1,17 @@
+io.uuddlrlrba.closepixelate.PixelateLayer.Builder 0
+io.uuddlrlrba.closepixelate.example.MainActivity.onStart 0
+io.uuddlrlrba.closepixelate.PixelateLayer.Builder.setResolution 0
+io.uuddlrlrba.closepixelate.PixelateLayer.Builder.setSize 0
+io.uuddlrlrba.closepixelate.PixelateLayer.Builder.build 0
+io.uuddlrlrba.closepixelate.PixelateLayer.Builder.setOffset 0
+io.uuddlrlrba.closepixelate.PixelateLayer.Builder.setAlpha 0
+io.uuddlrlrba.closepixelate.example.ExampleUnitTest 1
+io.uuddlrlrba.closepixelate.example.MainActivity 2
+io.uuddlrlrba.closepixelate.Pixelate.fromAsset 2
+io.uuddlrlrba.closepixelate.Pixelate 2
+AppCompatActivity 2
+io.uuddlrlrba.closepixelate.PixelateLayer 3
+io.uuddlrlrba.closepixelate.PixelateLayer.Shape 3
+io.uuddlrlrba.closepixelate.ExampleUnitTest 4
+io.uuddlrlrba.closepixelate.ExampleInstrumentedTest 5
+io.uuddlrlrba.closepixelate.example.ExampleInstrumentedTest 6

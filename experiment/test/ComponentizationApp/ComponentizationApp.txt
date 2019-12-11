@@ -1,3 +1,3 @@
-2124 2123 2
-2124 2125 2
-2123 2125 1
+AppCompatActivity cn.easydone.componentizationapp.MainActivity 2
+cn.easydone.componentizationapp.MainActivity cn.easydone.componentizationlibrary.LibraryActivity 1
+AppCompatActivity cn.easydone.componentizationlibrary.LibraryActivity 2

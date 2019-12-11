@@ -1,0 +1,10 @@
+com.example.stage.lib.sample.Errors 0
+ErrorCode 0
+Label 1
+com.example.stage.processor.sample.Groups 1
+com.example.stage.processor.sample.SampleDProcessor 2
+com.example.stage.processor.sample.SampleProcessor 2
+SingleLaneRecordProcessor 2
+com.example.stage.processor.sample.TestSampleProcessor 3
+com.example.stage.processor.sample.SampleProcessor.init 4
+com.example.stage.processor.sample.SampleProcessor.getConfig 4

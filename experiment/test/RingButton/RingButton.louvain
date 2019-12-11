@@ -1,0 +1,14 @@
+com.victor.ringbutton.example.MainActivity 0
+Activity 0
+com.victor.ringbutton.example.MainActivity.onCreate 0
+com.victor.ringbutton.RingButton.setOnClickListener 0
+com.victor.ringbutton.RingButton.onTouchEvent 1
+com.victor.ringbutton.RingButton.OnClickListener.clickUp 1
+com.victor.ringbutton.RingButton.OnClickListener 1
+com.victor.ringbutton.RingButton.OnClickListener.clickDown 1
+com.victor.ringbutton.RingButton.dpToPx 1
+com.victor.ringbutton.RingButton 2
+View 2
+ApplicationTestCase 3
+com.victor.ringbutton.ApplicationTest 3
+android::test::ApplicationTestCaseApplication 3

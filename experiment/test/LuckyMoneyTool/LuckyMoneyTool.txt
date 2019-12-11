@@ -1,2 +1,2 @@
-2340 2341 2
-2342 2343 3
+Activity com.miui.hongbao.MainActivity 2
+AccessibilityService com.miui.hongbao.HongbaoService 3

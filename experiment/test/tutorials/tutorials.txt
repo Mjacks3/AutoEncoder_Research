@@ -1,8 +1,8 @@
-912 911 3
-913 914 3
-916 915 4
-917 916 4
-915 916 1
-916 919 1
-919 920 1
-916 920 1
+ErrorCode com.example.stage.lib.sample.Errors 3
+Label com.example.stage.processor.sample.Groups 3
+com.example.stage.processor.sample.SampleProcessor com.example.stage.processor.sample.SampleDProcessor 4
+SingleLaneRecordProcessor com.example.stage.processor.sample.SampleProcessor 4
+com.example.stage.processor.sample.SampleDProcessor com.example.stage.processor.sample.SampleProcessor 1
+com.example.stage.processor.sample.SampleProcessor com.example.stage.processor.sample.SampleProcessor.init 1
+com.example.stage.processor.sample.SampleProcessor.init com.example.stage.processor.sample.SampleProcessor.getConfig 1
+com.example.stage.processor.sample.SampleProcessor com.example.stage.processor.sample.SampleProcessor.getConfig 1

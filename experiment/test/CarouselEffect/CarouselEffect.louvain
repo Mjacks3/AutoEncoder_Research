@@ -1,0 +1,14 @@
+carouseleffect.com.carouseleffect.ExampleUnitTest 0
+com.carouseleffect.MyAppGlideModule 1
+AppGlideModule 1
+com.carouseleffect.MainActivity 2
+AppCompatActivity 2
+ViewPager 2
+com.carouseleffect.FullScreenActivity 2
+com.carouseleffect.CarouselEffectTransformer 3
+ViewPager::PageTransformer 3
+PageTransformer 4
+com.carouseleffect.MyPagerAdapter 5
+PagerAdapter 5
+Context 5
+carouseleffect.com.carouseleffect.ExampleInstrumentedTest 6

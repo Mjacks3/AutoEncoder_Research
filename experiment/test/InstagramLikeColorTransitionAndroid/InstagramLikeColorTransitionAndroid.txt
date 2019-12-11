@@ -1,2 +1,2 @@
-2270 2269 3
-2271 2269 1
+AppCompatActivity com.taishi.instagrambackground.MainActivity 3
+AnimationDrawable com.taishi.instagrambackground.MainActivity 1

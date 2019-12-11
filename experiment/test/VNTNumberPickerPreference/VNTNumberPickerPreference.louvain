@@ -1,0 +1,15 @@
+com.vanniktech.vntnumberpickerpreference.sample.VNTNumberPickerPreferenceApplication 0
+Application 0
+com.vanniktech.vntnumberpickerpreference.sample.SettingsActivity 1
+AppCompatActivity 1
+com.vanniktech.vntnumberpickerpreference.sample.MainActivity 1
+com.vanniktech.vntnumberpickerpreference.sample.MainActivity.onOptionsItemSelected 1
+com.vanniktech.vntnumberpickerpreference.sample.SettingsActivity.start 1
+PreferenceFragment 2
+com.vanniktech.vntnumberpickerpreference.sample.SettingsActivity.SettingsFragment 2
+OnSharedPreferenceChangeListener 2
+OnPreferenceChangeListener 2
+Preference::OnPreferenceChangeListener 2
+SharedPreferences::OnSharedPreferenceChangeListener 2
+com.vanniktech.vntnumberpickerpreference.VNTNumberPickerPreference 3
+DialogPreference 3

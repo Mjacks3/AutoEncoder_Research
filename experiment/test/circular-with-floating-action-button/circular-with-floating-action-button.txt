@@ -1,8 +1,8 @@
-78 77 3
-87 79 1
-80 79 2
-86 82 2
-81 82 1
-87 83 1
-80 83 2
-85 84 3
+AppCompatActivity com.dmitrymalkovich.android.progressfabsample.ScrollingActivity 3
+ApplicationTestCase com.dmitrymalkovich.android.progressfabsample.ApplicationTest 1
+android::test::ApplicationTestCaseApplication com.dmitrymalkovich.android.progressfabsample.ApplicationTest 2
+CoordinatorLayout::BehaviorProgressFloatingActionButton com.dmitrymalkovich.android.ProgressFloatingActionButton.Behavior 2
+Behavior com.dmitrymalkovich.android.ProgressFloatingActionButton.Behavior 1
+ApplicationTestCase com.dmitrymalkovich.android.ApplicationTest 1
+android::test::ApplicationTestCaseApplication com.dmitrymalkovich.android.ApplicationTest 2
+FrameLayout com.dmitrymalkovich.android.ProgressFloatingActionButton 3

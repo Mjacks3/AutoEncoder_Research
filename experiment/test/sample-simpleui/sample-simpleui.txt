@@ -1,1 +1,1 @@
-2204 2203 2
+Activity com.example.androidthings.simpleui.SimpleUiActivity 2

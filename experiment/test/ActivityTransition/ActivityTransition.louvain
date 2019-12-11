@@ -1,0 +1,7 @@
+Activity 0
+com.example.activitytransition.SecondActivity 0
+com.example.activitytransition.SecondActivity.onBackPressed 0
+com.example.activitytransition.SecondActivity.back 0
+com.example.activitytransition.MainActivity 1
+OnItemClickListener 1
+animation.ActivityAnimator 2

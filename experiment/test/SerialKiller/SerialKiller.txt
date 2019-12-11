@@ -1,2 +1,2 @@
-27 26 3
-31 32 3
+Serializable org.nibblesec.tools.util.Person 3
+ObjectInputStream org.nibblesec.tools.SerialKiller 3

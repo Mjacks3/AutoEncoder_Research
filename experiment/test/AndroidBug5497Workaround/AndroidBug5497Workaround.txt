@@ -1,5 +1,5 @@
-2504 2503 1
-2505 2504 2
-2504 2507 1
-2507 2508 1
-2503 2508 1
+com.madebycm.hellocordova.HelloCordova com.madebycm.hellocordova.AndroidBug5497Workaround 1
+CordovaActivity com.madebycm.hellocordova.HelloCordova 2
+com.madebycm.hellocordova.HelloCordova com.madebycm.hellocordova.HelloCordova.onCreate 1
+com.madebycm.hellocordova.HelloCordova.onCreate com.madebycm.hellocordova.AndroidBug5497Workaround.assistActivity 1
+com.madebycm.hellocordova.AndroidBug5497Workaround com.madebycm.hellocordova.AndroidBug5497Workaround.assistActivity 1

@@ -1,0 +1,13 @@
+info.gargy.floatingkeyboardview.FloatingKeyboardView 0
+KeyboardView 0
+info.gargy.floatingkeyboardview.FloatingKeyboardView.registerEditText 0
+info.gargy.floatingkeyboardview.FloatingKeyboardView.show 0
+info.gargy.floatingkeyboardview.FloatingKeyboardView.hide 0
+info.gargy.floatingkeyboardview.FloatingKeyboardView.positionTo 0
+AppCompatActivity 1
+info.gargy.floatingkeyboard.MainActivity 1
+info.gargy.floatingkeyboard.MainActivity.onCreate 1
+info.gargy.floatingkeyboardview.FloatingKeyboardView.setAllignBottomCenter 1
+info.gargy.floatingkeyboard.ExampleUnitTest 2
+info.gargy.floatingkeyboardview.FloatingKeyboardView.onAttachedToWindow 3
+info.gargy.floatingkeyboardview.FloatingKeyboardView.isAllignBottomCenter 3

@@ -1,6 +1,6 @@
-1288 1283 1
-1284 1283 1
-1286 1285 1
-1288 1287 1
-1283 1289 1
-1287 1289 1
+com.example.routingribbon.HelloController com.example.routingribbon.HelloService 1
+RestTemplate com.example.routingribbon.HelloService 1
+com.example.ZipkinClientApplication0.ZipkinClientService1Interface com.example.ZipkinClientApplication0 1
+com.example.routingribbon.HelloController com.example.routingribbon.HelloController.hi 1
+com.example.routingribbon.HelloService com.example.routingribbon.HelloService.hiService 1
+com.example.routingribbon.HelloController.hi com.example.routingribbon.HelloService.hiService 1

@@ -1,5 +1,5 @@
-2260 2259 1
-2259 2261 1
-2261 2262 1
-2259 2262 1
-2264 2263 1
+demo.HelloClientApplication.HelloClient demo.HelloClientApplication 1
+demo.HelloClientApplication demo.HelloClientApplication.main 1
+demo.HelloClientApplication.main demo.HelloClientApplication.hello 1
+demo.HelloClientApplication demo.HelloClientApplication.hello 1
+DiscoveryClient demo.HelloServerApplication 1

@@ -1,0 +1,11 @@
+lee.StringTest.doTest 0
+lee.StringTest 0
+lee.StringTest.main 0
+lee.TimeUtil.outTimeUs 1
+lee.TimeUtil 1
+lee.IntTest.main 2
+lee.IntTest 2
+lee.IntTest.doTest 2
+lee.ReductionTest.doTest 3
+lee.ReductionTest 3
+lee.ReductionTest.main 3

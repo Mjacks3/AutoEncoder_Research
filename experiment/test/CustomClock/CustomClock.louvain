@@ -1,0 +1,6 @@
+com.example.android_clock.MainActivity 0
+Activity 0
+View 1
+com.example.widget.AnalogClock 1
+com.example.widget.AnalogClock.AnalogClock 1
+com.example.widget.AnalogClock.prepareRefresh 1

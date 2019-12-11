@@ -1,7 +1,7 @@
-831 830 3
-832 832 1
-833 832 4
-836 835 2
-834 835 1
-837 838 3
-831 839 3
+Animation cn.geminiwen.cube.animation.CubeRightInAnimation 3
+cn.geminiwen.cube.view.CubeLayout cn.geminiwen.cube.view.CubeLayout 1
+FrameLayout cn.geminiwen.cube.view.CubeLayout 4
+android::test::ApplicationTestCaseApplication cn.geminiwen.cube.ApplicationTest 2
+ApplicationTestCase cn.geminiwen.cube.ApplicationTest 1
+AppCompatActivity cn.geminiwen.cube.MainActivity 3
+Animation cn.geminiwen.cube.animation.CubeLeftOutAnimation 3

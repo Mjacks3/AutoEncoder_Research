@@ -1,0 +1,12 @@
+com.xiaweizi.androidtoolsexample.CommonActivity 0
+AppCompatActivity 0
+com.xiaweizi.androidtoolsexample.ListViewActivity 0
+com.xiaweizi.androidtoolsexample.SampleActivity 0
+com.xiaweizi.androidtoolsexample.GridViewActivity 0
+com.xiaweizi.androidtoolsexample.RecyclerViewActivity 0
+com.xiaweizi.androidtoolsexample.MainActivity 0
+com.xiaweizi.androidtoolsexample.OtherActivity 0
+Fragment 1
+com.xiaweizi.androidtoolsexample.CommonFragment 1
+com.xiaweizi.androidtoolsexample.ExampleUnitTest 2
+com.xiaweizi.androidtoolsexample.ExampleInstrumentedTest 3

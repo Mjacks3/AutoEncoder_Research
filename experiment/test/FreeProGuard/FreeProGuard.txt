@@ -1,1 +1,1 @@
-2206 2205 2
+AppCompatActivity com.blankj.freeproguard.MainActivity 2

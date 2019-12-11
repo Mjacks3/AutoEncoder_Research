@@ -1,5 +1,5 @@
-5320 5319 4
-5320 5322 4
-5324 5323 3
-5320 5325 4
-5328 5327 3
+com.akaita.android.easylauncher.filter.EasyLauncherFilter com.akaita.android.easylauncher.filter.GrayscaleFilter 4
+com.akaita.android.easylauncher.filter.EasyLauncherFilter com.akaita.android.easylauncher.filter.ColorRibbonFilter 4
+Serializable com.akaita.android.easylauncher.plugin.EasyLauncherConfig 3
+com.akaita.android.easylauncher.filter.EasyLauncherFilter com.akaita.android.easylauncher.filter.OverlayFilter 4
+Activity com.akaita.android.easylauncher.example.MainActivity 3

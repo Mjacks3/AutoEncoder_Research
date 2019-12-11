@@ -1,2 +1,2 @@
-1155 1154 3
-1156 1157 3
+View me.bakumon.library.EclipseLoadingView 3
+AppCompatActivity me.bakumon.eclipseloading.MainActivity 3

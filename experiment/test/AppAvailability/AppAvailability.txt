@@ -1,7 +1,7 @@
-2462 2457 1
-2456 2457 1
-2463 2457 1
-2458 2459 3
-2461 2460 2
-2456 2462 1
-2462 2463 1
+src/ios/AppAvailability.m Cordova/CDV.h 1
+AppAvailability.h Cordova/CDV.h 1
+src/ios/AppAvailability.h Cordova/CDV.h 1
+CordovaPlugin com.ohh2ahh.appavailability.AppAvailability 3
+CDVPlugin AppAvailability 2
+src/ios/AppAvailability.h src/ios/AppAvailability.m 1
+src/ios/AppAvailability.m AppAvailability.h 1

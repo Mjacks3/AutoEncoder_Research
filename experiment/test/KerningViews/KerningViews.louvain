@@ -1,0 +1,8 @@
+com.andrognito.kerningview.KerningTextView.Kerning 0
+com.andrognito.kerningviewsapp.SampleActivity 1
+AppCompatActivity 1
+com.andrognito.kerningview.KerningTextView 2
+AppCompatTextView 2
+com.andrognito.kerningview.KerningButton 2
+com.andrognito.kerningviewsapp.SampleActivity.onCreate 3
+com.andrognito.kerningview.KerningTextView.setKerningFactor 3

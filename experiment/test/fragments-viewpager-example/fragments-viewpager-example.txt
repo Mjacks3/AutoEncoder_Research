@@ -1,8 +1,8 @@
-609 608 3
-615 611 1
-610 611 3
-608 611 1
-613 612 3
-613 614 3
-613 616 3
-613 617 3
+FragmentPagerAdapter com.pineappslab.frcontainer.MainActivity.SlidePagerAdapter 3
+ActionBarActivity com.pineappslab.frcontainer.MainActivity 3
+com.pineappslab.frcontainer.MainActivity.SlidePagerAdapter com.pineappslab.frcontainer.MainActivity 1
+ViewPager com.pineappslab.frcontainer.MainActivity 1
+Fragment com.pineappslab.frcontainer.StaticFragment 3
+Fragment com.pineappslab.frcontainer.FirstFragment 3
+Fragment com.pineappslab.frcontainer.RootFragment 3
+Fragment com.pineappslab.frcontainer.SecondFragment 3

@@ -1,0 +1,8 @@
+JpaRepository 0
+org.activiti.ApplicantRepository 0
+org::springframework::data::jpa::repository::JpaRepositoryApplicant,Long 0
+org.activiti.MyApp 1
+org.activiti.HireProcessTest 2
+org.activiti.HireProcessRestController 3
+org.activiti.Applicant 4
+org.activiti.ResumeService 5

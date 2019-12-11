@@ -1,0 +1,14 @@
+Adapter 0
+com.gjiazhe.layoutswitch.ItemAdapter 0
+RecyclerView::AdapterItemAdapter.ItemViewHolder 0
+com.gjiazhe.layoutswitch.ItemAdapter.getItemViewType 0
+com.gjiazhe.layoutswitch.MainActivity 1
+AppCompatActivity 1
+com.gjiazhe.layoutswitch.MainActivity.onOptionsItemSelected 1
+com.gjiazhe.layoutswitch.ItemAdapter.getItemCount 1
+com.gjiazhe.layoutswitch.Item 2
+com.gjiazhe.layoutswitch.ItemAdapter.onBindViewHolder 2
+com.gjiazhe.layoutswitch.Item.getTitle 2
+com.gjiazhe.layoutswitch.Item.getImgResId 2
+com.gjiazhe.layoutswitch.Item.getLikes 2
+com.gjiazhe.layoutswitch.Item.getComments 2

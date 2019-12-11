@@ -1,3 +1,3 @@
-333 330 1
-331 330 3
-335 334 3
+AppCompatActivity com.barnettwong.dragfloatingactionbutton.MainActivity 3
+Handler com.barnettwong.dragfloatactionbuttonlibrary.view.DragFloatActionButton 1
+ImageView com.barnettwong.dragfloatactionbuttonlibrary.view.DragFloatActionButton 3

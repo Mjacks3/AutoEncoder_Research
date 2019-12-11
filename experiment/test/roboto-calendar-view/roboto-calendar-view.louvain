@@ -1,0 +1,16 @@
+AppCompatActivity 0
+com.marcohc.robotocalendar.sample.MainActivity 0
+com.marcohc.robotocalendar.RobotoCalendarView.RobotoCalendarListener 0
+com.marcohc.robotocalendar.RobotoCalendarView 1
+LinearLayout 1
+com.marcohc.robotocalendar.RobotoCalendarView.markDayAsSelectedDay 1
+com.marcohc.robotocalendar.RobotoCalendarView.clearSelectedDay 1
+com.marcohc.robotocalendar.RobotoCalendarView.setDate 1
+com.marcohc.robotocalendar.RobotoCalendarView.RobotoCalendarView 1
+com.marcohc.robotocalendar.sample.MainActivity.onCreate 2
+com.marcohc.robotocalendar.RobotoCalendarView.markCircleImage2 2
+com.marcohc.robotocalendar.RobotoCalendarView.setShortWeekDays 2
+com.marcohc.robotocalendar.RobotoCalendarView.showDateTitle 2
+com.marcohc.robotocalendar.RobotoCalendarView.setRobotoCalendarListener 3
+com.marcohc.robotocalendar.RobotoCalendarView.RobotoCalendarListener.onLeftButtonClick 3
+com.marcohc.robotocalendar.RobotoCalendarView.RobotoCalendarListener.onRightButtonClick 3

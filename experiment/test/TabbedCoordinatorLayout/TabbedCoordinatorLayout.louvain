@@ -1,0 +1,12 @@
+io.github.vitovalov.tabbedcoordinator.ExampleUnitTest 0
+io.github.vitovalov.tabbedcoordinator.ListAdapter 1
+RecyclerView::AdapterListAdapter.MyViewHolder 1
+Adapter 1
+Fragment 2
+io.github.vitovalov.tabbedcoordinator.TabFragment 2
+io.github.vitovalov.tabbedcoordinator.MainActivity 3
+AppCompatActivity 3
+Toolbar 3
+io.github.vitovalov.tabbedcoordinator.ApplicationTest 4
+android::test::ApplicationTestCaseApplication 4
+ApplicationTestCase 4

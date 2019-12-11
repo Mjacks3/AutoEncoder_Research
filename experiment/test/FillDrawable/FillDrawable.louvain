@@ -1,0 +1,17 @@
+ru.noties.filldrawable.sample.MainActivity 0
+AppCompatActivity 0
+ru.noties.filldrawable.sample.ColorUtils 0
+ru.noties.filldrawable.sample.MainActivity.onCreate 0
+ru.noties.filldrawable.FillImageView.getFillDrawable 0
+ru.noties.filldrawable.sample.ColorUtils.applyAlpha 0
+ru.noties.filldrawable.FillImageView.onDraw 1
+ru.noties.filldrawable.FillImageView 1
+ru.noties.filldrawable.FillDrawable.draw 1
+ImageView 1
+ru.noties.filldrawable.FillDrawable 2
+ru.noties.filldrawable.FillImageView.FillImageView 2
+ru.noties.filldrawable.FillDrawable.setFillColor 2
+ru.noties.filldrawable.FillDrawable.setFillPercent 2
+ru.noties.filldrawable.FillImageView.setFillDrawable 2
+Drawable 2
+ru.noties.filldrawable.FillDrawable.From 3

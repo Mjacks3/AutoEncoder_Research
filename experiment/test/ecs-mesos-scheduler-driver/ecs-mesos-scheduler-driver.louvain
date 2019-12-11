@@ -1,0 +1,8 @@
+com.amazonaws.ecs.sample.ECSSchedulerDriver.launchTasks 0
+com.amazonaws.ecs.sample.ECSSchedulerDriver 0
+SchedulerDriver 0
+com.amazonaws.ecs.sample.ECSSchedulerDriver.declineOffer 0
+com.amazonaws.ecs.sample.ECSSchedulerDriver.reconcileTasks 1
+com.amazonaws.ecs.sample.ECSSchedulerDriver.run 1
+com.amazonaws.ecs.sample.ECSSchedulerDriver.start 1
+com.amazonaws.ecs.sample.ECSSchedulerDriver.join 1

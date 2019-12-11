@@ -1,6 +1,6 @@
-2364 2363 3
-2370 2365 1
-2366 2365 2
-2368 2367 3
-2370 2371 1
-2366 2371 2
+FrameLayout br.com.bloder.magic.view.MagicButton 3
+ApplicationTestCase br.com.bloder.magic.ApplicationTest 1
+android::test::ApplicationTestCaseApplication br.com.bloder.magic.ApplicationTest 2
+AppCompatActivity br.com.bloder.magicbutton.MainActivity 3
+ApplicationTestCase br.com.bloder.magicbutton.ApplicationTest 1
+android::test::ApplicationTestCaseApplication br.com.bloder.magicbutton.ApplicationTest 2

@@ -1,7 +1,7 @@
-3077 3076 3
-3080 3079 2
-3078 3079 3
-3082 3081 3
-3080 3081 2
-3086 3084 2
-3077 3085 3
+AppCompatActivity com.example.behavior.drawer.DrawerLayoutActivity 3
+AppCompatActivity com.example.behavior.drawer.DrawerBehaviorActivity 3
+View com.jakewharton.behavior.drawer.ContentScrimDrawer.Base 3
+com.jakewharton.behavior.drawer.ContentScrimDrawer com.jakewharton.behavior.drawer.ContentScrimDrawer.Base 2
+com.jakewharton.behavior.drawer.ContentScrimDrawer com.jakewharton.behavior.drawer.ContentScrimDrawer.JellyBeanMr2 2
+ColorDrawable com.jakewharton.behavior.drawer.ContentScrimDrawer.JellyBeanMr2 3
+CoordinatorLayout::BehaviorView com.jakewharton.behavior.drawer.DrawerBehavior 2

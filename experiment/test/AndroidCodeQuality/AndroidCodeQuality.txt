@@ -1,2 +1,2 @@
-2133 2132 2
-2134 2135 3
+android::test::ApplicationTestCaseApplication net.masonliu.androidcodequality.ApplicationTest 2
+AppCompatActivity net.masonliu.androidcodequality.MainActivity 3

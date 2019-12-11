@@ -1,2 +1,2 @@
-2522 2523 3
-2525 2524 2
+DefaultLiveTemplatesProvider xyz.belvi.TemplateProvider 3
+TemplateContextType xyz.belvi.TemplateContext 2

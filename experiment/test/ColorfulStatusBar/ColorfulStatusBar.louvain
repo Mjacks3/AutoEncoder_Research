@@ -1,0 +1,11 @@
+com.zhy.colorfulstatusbar.LeftMenuFragment 0
+Fragment 0
+com.zhy.colorfulstatusbar.MainActivity 1
+AppCompatActivity 1
+com.zhy.colorfulstatusbar.MainActivity.onCreate 1
+com.zhy.colorfulstatusbar.ApplicationTest 2
+android::test::ApplicationTestCaseApplication 2
+ApplicationTestCase 2
+com.zhy.colorfulstatusbar.StatusBarCompat.compat 3
+com.zhy.colorfulstatusbar.StatusBarCompat 3
+com.zhy.colorfulstatusbar.StatusBarCompat.getStatusBarHeight 3

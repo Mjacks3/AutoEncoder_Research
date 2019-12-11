@@ -1,8 +1,8 @@
-1453 1452 1
-1460 1453 3
-1452 1454 1
-1455 1454 1
-1458 1455 3
-1453 1455 1
-1456 1457 2
-1460 1459 3
+me.biubiubiu.justifytext.TextActivity me.biubiubiu.justifytext.TextActivity.onCreate 1
+Activity me.biubiubiu.justifytext.TextActivity 3
+me.biubiubiu.justifytext.TextActivity.onCreate me.biubiubiu.justifytext.MyScrollView.setAlternativeScrollView 1
+me.biubiubiu.justifytext.MyScrollView me.biubiubiu.justifytext.MyScrollView.setAlternativeScrollView 1
+me.biubiubiu.justifytext.TextActivity me.biubiubiu.justifytext.MyScrollView 1
+ScrollView me.biubiubiu.justifytext.MyScrollView 3
+TextView me.biubiubiu.justifytext.library.JustifyTextView 2
+Activity me.biubiubiu.justifytext.DemoActivity 3

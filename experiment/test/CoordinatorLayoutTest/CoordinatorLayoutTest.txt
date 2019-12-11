@@ -1,6 +1,6 @@
-142 141 2
-145 141 1
-144 143 3
-143 147 1
-147 148 1
-143 148 1
+Adapter com.example.jack.coordinatorlayouttest.ToolbarAdapter 1
+RecyclerView::AdapterRecyclerView.ViewHolder com.example.jack.coordinatorlayouttest.ToolbarAdapter 2
+AppCompatActivity com.example.jack.coordinatorlayouttest.ScrollingActivity 3
+com.example.jack.coordinatorlayouttest.ScrollingActivity com.example.jack.coordinatorlayouttest.ScrollingActivity.onCreate 1
+com.example.jack.coordinatorlayouttest.ScrollingActivity.onCreate com.example.jack.coordinatorlayouttest.ScrollingActivity.setToolbar2Alpha 1
+com.example.jack.coordinatorlayouttest.ScrollingActivity com.example.jack.coordinatorlayouttest.ScrollingActivity.setToolbar2Alpha 1

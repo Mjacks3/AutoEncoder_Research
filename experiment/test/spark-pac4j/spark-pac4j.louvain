@@ -1,0 +1,16 @@
+HttpActionAdapter 0
+org.pac4j.sparkjava.DefaultHttpActionAdapter 0
+org::pac4j::core::http::adapter::HttpActionAdapterObject,SparkWebContext 0
+Service 0
+org.pac4j.sparkjava.LogoutRoute 1
+Route 1
+org.pac4j.sparkjava.CallbackRoute 1
+org.pac4j.sparkjava.SecurityFilter 2
+Filter 2
+Logger 2
+org.pac4j.sparkjava.SparkWebContext 3
+J2EContext 3
+org.pac4j.sparkjava.DefaultHttpActionAdapter.adapt 3
+org.pac4j.sparkjava.DefaultHttpActionAdapter.stop 3
+org.pac4j.sparkjava.SparkWebContext.getSparkResponse 3
+org.pac4j.sparkjava.SparkWebContext.getLocation 3

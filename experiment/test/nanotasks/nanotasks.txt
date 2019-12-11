@@ -1,7 +1,7 @@
-100 94 1
-95 94 2
-98 97 3
-97 99 1
-97 102 1
-102 103 1
-99 103 1
+ApplicationTestCase com.nanotasks.nanotasksample.ApplicationTest 1
+android::test::ApplicationTestCaseApplication com.nanotasks.nanotasksample.ApplicationTest 2
+ActionBarActivity com.nanotasks.nanotasksample.MainActivity 3
+com.nanotasks.nanotasksample.MainActivity com.nanotasks.Tasks 1
+com.nanotasks.nanotasksample.MainActivity com.nanotasks.nanotasksample.MainActivity.onCreate 1
+com.nanotasks.nanotasksample.MainActivity.onCreate com.nanotasks.Tasks.executeInBackground 1
+com.nanotasks.Tasks com.nanotasks.Tasks.executeInBackground 1

@@ -1,0 +1,14 @@
+com.longforus.mvpautocodeplus.ui.EnterKeywordDialog 0
+JDialog 0
+com.longforus.mvpautocodeplus.ui.ConfigForm 1
+LinkLabel 1
+JButton 1
+JTextField 1
+JPanel 1
+JRadioButton 1
+com.longforus.mvpautocodeplus.ui.EnterKeywordDialog.getDialog 2
+com.longforus.mvpautocodeplus.Utils.isEmpty 2
+com.longforus.mvpautocodeplus.Utils 2
+com.longforus.mvpautocodeplus.ui.EnterKeywordDialog.OnOkListener.onOk 2
+com.longforus.mvpautocodeplus.ui.EnterKeywordDialog.OnOkListener 2
+com.longforus.mvpautocodeplus.TemplateCons 3

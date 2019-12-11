@@ -1,8 +1,8 @@
-212 213 3
-214 213 1
-215 214 3
-214 217 1
-213 218 1
-217 218 1
-217 219 1
-213 219 1
+FrameLayout com.dk.view.sinking.SinkingView 3
+com.dk.view.sinking.MainActivity com.dk.view.sinking.SinkingView 1
+Activity com.dk.view.sinking.MainActivity 3
+com.dk.view.sinking.MainActivity com.dk.view.sinking.MainActivity.onCreate 1
+com.dk.view.sinking.MainActivity.onCreate com.dk.view.sinking.SinkingView.setPercent 1
+com.dk.view.sinking.SinkingView com.dk.view.sinking.SinkingView.setPercent 1
+com.dk.view.sinking.MainActivity.onCreate com.dk.view.sinking.SinkingView.clear 1
+com.dk.view.sinking.SinkingView com.dk.view.sinking.SinkingView.clear 1

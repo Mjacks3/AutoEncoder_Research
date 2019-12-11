@@ -1,8 +1,8 @@
-920 911 2
-919 911 2
-910 911 2
-913 912 1
-910 912 1
-915 914 3
-917 916 3
-918 916 3
+SharedPreferences::OnSharedPreferenceChangeListener name.caiyao.tencentsport.SettingFragment 2
+Preference::OnPreferenceChangeListener name.caiyao.tencentsport.SettingFragment 2
+PreferenceFragment name.caiyao.tencentsport.SettingFragment 2
+PreferenceFragment OnSharedPreferenceChangeListener 1
+OnPreferenceChangeListener OnSharedPreferenceChangeListener 1
+AppCompatActivity name.caiyao.tencentsport.SettingsActivity 3
+IXposedHookZygoteInit name.caiyao.tencentsport.MainHook 3
+IXposedHookLoadPackage name.caiyao.tencentsport.MainHook 3

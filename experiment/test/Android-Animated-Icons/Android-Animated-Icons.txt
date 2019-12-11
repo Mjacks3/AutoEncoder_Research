@@ -1,2 +1,2 @@
-2088 2089 3
-2091 2090 2
+AppCompatActivity com.example.andremion.animatedicons.MainActivity 3
+android::test::ApplicationTestCaseApplication com.example.andremion.animatedicons.ApplicationTest 2

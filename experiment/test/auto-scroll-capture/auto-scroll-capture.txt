@@ -1,5 +1,5 @@
-96 95 3
-96 97 3
-96 98 3
-96 99 3
-100 101 3
+Activity com.wanjian.scrollscreenshots.ScrollAct 3
+Activity com.wanjian.scrollscreenshots.DrawListViewAct 3
+Activity com.wanjian.scrollscreenshots.AutoScreenShotsAct 3
+Activity com.wanjian.scrollscreenshots.DrawScrollViewAct 3
+AppCompatActivity com.wanjian.scrollscreenshots.MainActivity 3

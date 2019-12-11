@@ -1,0 +1,10 @@
+com.commit451.nativestackblur.sample.BlurTransformation 0
+Transformation 0
+com.commit451.nativestackblur.sample.BlurTransformation.transform 0
+com.commit451.nativestackblur.NativeStackBlur.process 1
+com.commit451.nativestackblur.NativeStackBlur 1
+com.enrique.stackblur.NativeBlurProcess.blur 1
+com.enrique.stackblur.NativeBlurProcess 1
+com.commit451.nativestackblur.sample.MainActivity 2
+AppCompatActivity 2
+ImageView 2

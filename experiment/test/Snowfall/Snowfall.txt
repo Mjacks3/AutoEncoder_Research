@@ -1,5 +1,5 @@
-2144 2145 2
-2147 2146 3
-2145 2148 1
-2148 2149 1
-2145 2149 1
+View com.stylingandroid.snowfall.SnowView 2
+AppCompatActivity com.stylingandroid.snowfall.MainActivity 3
+com.stylingandroid.snowfall.SnowView com.stylingandroid.snowfall.SnowView.onSizeChanged 1
+com.stylingandroid.snowfall.SnowView.onSizeChanged com.stylingandroid.snowfall.SnowView.resize 1
+com.stylingandroid.snowfall.SnowView com.stylingandroid.snowfall.SnowView.resize 1

@@ -1,0 +1,10 @@
+AppCompatActivity 0
+OnOffsetChangedListener 0
+saulmm.myapplication.MainActivity 1
+AppBarLayout::OnOffsetChangedListener 1
+saulmm.myapplication.MainActivity.onOffsetChanged 1
+saulmm.myapplication.MainActivity.startAlphaAnimation 1
+saulmm.myapplication.MainActivity.onCreate 1
+Behavior 2
+saulmm.myapplication.AvatarImageBehavior 2
+CoordinatorLayout::BehaviorCircleImageView 2

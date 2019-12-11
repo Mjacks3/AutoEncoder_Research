@@ -1,2 +1,2 @@
-2066 2067 3
-2070 2069 2
+AppCompatActivity takeoffandroid.materialdialogbottomsheet.MainActivity 3
+android::test::ApplicationTestCaseApplication takeoffandroid.materialdialogbottomsheet.ApplicationTest 2

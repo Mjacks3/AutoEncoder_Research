@@ -1,1 +1,1 @@
-2417 2418 2
+AppCompatActivity com.example.android.quakereport.EarthquakeActivity 2

@@ -1,7 +1,7 @@
-930 931 3
-1005 932 1
-933 932 2
-1003 1004 2
-1005 1006 1
-933 1006 2
-1007 1008 3
+Parcelable com.codesgood.example.model.TipsAndTricks 3
+ApplicationTestCase com.codesgood.justifiedtext.ApplicationTest 1
+android::test::ApplicationTestCaseApplication com.codesgood.justifiedtext.ApplicationTest 2
+TextView com.codesgood.views.JustifiedTextView 2
+ApplicationTestCase com.codesgood.views.ApplicationTest 1
+android::test::ApplicationTestCaseApplication com.codesgood.views.ApplicationTest 2
+AppCompatActivity com.codesgood.example.activities.MainActivity 3

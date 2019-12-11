@@ -1,7 +1,7 @@
-1737 1736 3
-1738 1739 3
-1741 1740 2
-1742 1740 2
-1743 1740 2
-1741 1744 1
-1743 1744 1
+View com.sothree.multiitemrowlistadapter.MultiItemRowListAdapter.PlaceholderView 3
+WrapperListAdapter com.sothree.multiitemrowlistadapter.MultiItemRowListAdapter 3
+LoaderManager::LoaderCallbacksCursor com.sothree.multiitemrowlistadapter.demo.DemoActivity 2
+OnItemClickListener com.sothree.multiitemrowlistadapter.demo.DemoActivity 2
+ListActivity com.sothree.multiitemrowlistadapter.demo.DemoActivity 2
+ListActivity LoaderCallbacks 1
+OnItemClickListener LoaderCallbacks 1

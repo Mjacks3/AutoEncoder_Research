@@ -1,0 +1,7 @@
+com.lanyus.reverseproxy.ExampleUnitTest 0
+com.lanyus.reverseproxy.MainActivity.getIPAddress 1
+com.lanyus.reverseproxy.MainActivity.intIP2StringIP 1
+com.lanyus.reverseproxy.MainActivity.onCreate 1
+com.lanyus.reverseproxy.MainActivity 2
+AppCompatActivity 2
+com.lanyus.reverseproxy.ExampleInstrumentedTest 3

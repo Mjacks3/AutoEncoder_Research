@@ -1,7 +1,7 @@
-490 485 2
-484 485 1
-487 486 1
-489 487 3
-487 488 1
-486 488 1
-489 492 3
+android::test::ApplicationTestCaseApplication me.pntutorial.pnrtcblog.ApplicationTest 2
+ApplicationTestCase me.pntutorial.pnrtcblog.ApplicationTest 1
+me.pntutorial.pnrtcblog.MainActivity me.pntutorial.pnrtcblog.MainActivity.onOptionsItemSelected 1
+Activity me.pntutorial.pnrtcblog.MainActivity 3
+me.pntutorial.pnrtcblog.MainActivity.onOptionsItemSelected me.pntutorial.pnrtcblog.MainActivity.signOut 1
+me.pntutorial.pnrtcblog.MainActivity me.pntutorial.pnrtcblog.MainActivity.signOut 1
+Activity me.pntutorial.pnrtcblog.LoginActivity 3

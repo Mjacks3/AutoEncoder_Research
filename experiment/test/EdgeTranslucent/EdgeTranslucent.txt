@@ -1,2 +1,2 @@
-2175 2176 2
-2178 2177 3
+FrameLayout me.qinc.lib.edgetranslucent.EdgeTransparentView 2
+AppCompatActivity me.qinc.edgetranslucent.MainActivity 3

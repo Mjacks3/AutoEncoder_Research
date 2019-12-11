@@ -1,8 +1,8 @@
-1861 1770 1
-1859 1770 1
-1857 1770 3
-1860 1770 1
-1770 1862 1
-1862 1863 1
-1864 1863 1
-1770 1864 1
+MapLong,Integer de.cypressworks.animationlistview.AnimationListView 1
+CollectionLong de.cypressworks.animationlistview.AnimationListView 1
+MapLong,Float de.cypressworks.animationlistview.AnimationListView 1
+ListView de.cypressworks.animationlistview.AnimationListView 3
+de.cypressworks.animationlistview.AnimationListView de.cypressworks.animationlistview.AnimationListView.setAdapter 1
+de.cypressworks.animationlistview.AnimationListView.setAdapter de.cypressworks.animationlistview.AnimationListView.Manipulator.manipulate 1
+de.cypressworks.animationlistview.AnimationListView.Manipulator de.cypressworks.animationlistview.AnimationListView.Manipulator.manipulate 1
+de.cypressworks.animationlistview.AnimationListView de.cypressworks.animationlistview.AnimationListView.Manipulator 1

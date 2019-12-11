@@ -1,5 +1,5 @@
-2233 2231 1
-2232 2231 1
-2235 2234 2
-2238 2234 1
-2237 2236 3
+ActivityTestRuleorg.pestrada.android_tdd_playground.MainActivity org.pestrada.android_tdd_playground.MainActivityTest 1
+Activity org.pestrada.android_tdd_playground.MainActivityTest 1
+android::test::ApplicationTestCaseApplication org.pestrada.android_tdd_playground.ApplicationTest 2
+ApplicationTestCase org.pestrada.android_tdd_playground.ApplicationTest 1
+AppCompatActivity org.pestrada.android_tdd_playground.MainActivity 3

@@ -1,0 +1,13 @@
+org.kohsuke.randname.DictionaryTest 0
+org.kohsuke.randname.DictionaryTest.size 0
+org.kohsuke.randname.RandomNameGeneratorTest 1
+Assert 1
+org.kohsuke.randname.RandomNameGeneratorTest.uniqueness 1
+org.kohsuke.randname.RandomNameGeneratorTest.firstTen 1
+org.kohsuke.randname.RandomNameGenerator 2
+org.kohsuke.randname.RandomNameGenerator.next 2
+org.kohsuke.randname.Dictionary.getPrime 2
+org.kohsuke.randname.Dictionary 3
+org.kohsuke.randname.Dictionary.size 3
+org.kohsuke.randname.Dictionary.word 3
+org.kohsuke.randname.Dictionary.Dictionary 3

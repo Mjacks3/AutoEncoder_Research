@@ -1,0 +1,14 @@
+com.zhouwei.blurlibrary.EasyBlur.BlurPolicy 0
+com.zhouwei.easyblur.MainActivity 1
+AppCompatActivity 1
+com.zhouwei.easyblur.ExampleInstrumentedTest 2
+com.zhouwei.blurlibrary.ExampleUnitTest 3
+com.zhouwei.blurlibrary.ExampleInstrumentedTest 4
+com.zhouwei.blurlibrary.EasyBlur 5
+com.zhouwei.blurlibrary.EasyBlur.bitmap 5
+com.zhouwei.blurlibrary.EasyBlur.radius 5
+com.zhouwei.blurlibrary.EasyBlur.scale 5
+com.zhouwei.easyblur.MainActivity.onCreate 6
+com.zhouwei.blurlibrary.EasyBlur.with 6
+com.zhouwei.blurlibrary.EasyBlur.blur 6
+com.zhouwei.easyblur.ExampleUnitTest 7

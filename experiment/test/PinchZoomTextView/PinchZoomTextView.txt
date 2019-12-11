@@ -1,8 +1,8 @@
-770 448 3
-1304 448 1
-1303 449 1
-448 449 1
-1304 1303 1
-450 1304 3
-1303 1305 1
-448 1305 1
+com.androidessence.pinchzoomtextview.sample.MainActivity com.androidessence.pinchzoomtextview.sample.MainActivity.onCreate 1
+AppCompatActivity com.androidessence.pinchzoomtextview.sample.MainActivity 3
+com.androidessence.pinchzoomtextview.PinchZoomTextView com.androidessence.pinchzoomtextview.PinchZoomTextView.isZoomEnabled 1
+com.androidessence.pinchzoomtextview.sample.MainActivity.onCreate com.androidessence.pinchzoomtextview.PinchZoomTextView.isZoomEnabled 1
+TextView com.androidessence.pinchzoomtextview.PinchZoomTextView 3
+com.androidessence.pinchzoomtextview.sample.MainActivity com.androidessence.pinchzoomtextview.PinchZoomTextView 1
+com.androidessence.pinchzoomtextview.PinchZoomTextView com.androidessence.pinchzoomtextview.PinchZoomTextView.setZoomEnabled 1
+com.androidessence.pinchzoomtextview.sample.MainActivity.onCreate com.androidessence.pinchzoomtextview.PinchZoomTextView.setZoomEnabled 1

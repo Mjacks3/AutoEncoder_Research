@@ -1,0 +1,17 @@
+Checkable 0
+com.github.lguipeng.library.animcheckbox.AnimCheckBox 0
+View 0
+com.github.lguipeng.library.animcheckbox.AnimCheckBox.AnimCheckBox 0
+com.github.lguipeng.library.animcheckbox.AnimCheckBox.setChecked 0
+com.github.lguipeng.library.animcheckbox.AnimCheckBox.toggle 0
+com.github.lguipeng.library.animcheckbox.AnimCheckBox.isChecked 0
+com.github.lguipeng.animcheckbox.MainActivity.onCreate 1
+com.github.lguipeng.library.animcheckbox.AnimCheckBox.setOnCheckedChangeListener 1
+com.github.lguipeng.animcheckbox.MainActivity 2
+AppCompatActivity 2
+com.github.lguipeng.library.animcheckbox.AnimCheckBox.OnCheckedChangeListener 2
+com.github.lguipeng.library.animcheckbox.AnimCheckBox.OnCheckedChangeListener.onChange 2
+com.github.lguipeng.animcheckbox.ApplicationTest 3
+android::test::ApplicationTestCaseApplication 3
+ApplicationTestCase 3
+com.github.lguipeng.library.ApplicationTest 3

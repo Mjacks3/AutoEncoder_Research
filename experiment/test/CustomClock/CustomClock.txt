@@ -1,5 +1,5 @@
-885 884 3
-886 887 2
-887 888 1
-888 889 1
-887 889 1
+Activity com.example.android_clock.MainActivity 3
+View com.example.widget.AnalogClock 2
+com.example.widget.AnalogClock com.example.widget.AnalogClock.AnalogClock 1
+com.example.widget.AnalogClock.AnalogClock com.example.widget.AnalogClock.prepareRefresh 1
+com.example.widget.AnalogClock com.example.widget.AnalogClock.prepareRefresh 1

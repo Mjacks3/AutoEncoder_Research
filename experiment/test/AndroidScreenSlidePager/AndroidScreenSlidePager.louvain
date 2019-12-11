@@ -1,0 +1,16 @@
+me.liangfei.indicator.PageIndicator.PageIndicator 0
+me.liangfei.indicator.PageIndicator.IndicatorType.of 0
+me.liangfei.indicator.PageIndicator.IndicatorType 0
+me.liangfei.indicator.PageIndicator 1
+me.liangfei.indicator.PageIndicator.setViewPager 1
+me.liangfei.indicator.PageIndicator.setIndicatorType 1
+LinearLayout 1
+ViewPager::OnPageChangeListener 1
+OnPageChangeListener 1
+me.liangfei.slidepager.SlidePagerActivity.onOptionsItemSelected 1
+me.liangfei.slidepager.SlidePagerActivity.onCreate 1
+me.liangfei.slidepager.SlidePagerActivity 2
+AppCompatActivity 2
+me.liangfei.screenslidepager.sample.MainActivity 2
+me.liangfei.slidepager.SlidePageFragment 3
+Fragment 3

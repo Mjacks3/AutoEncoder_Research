@@ -1,2 +1,2 @@
-450 449 3
-452 451 2
+Activity com.example.bitmapmesh.MainActivity 3
+View com.example.bitmapmesh.BitmapMeshView 2

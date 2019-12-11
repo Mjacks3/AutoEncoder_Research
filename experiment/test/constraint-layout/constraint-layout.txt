@@ -1,3 +1,3 @@
-2502 2498 1
-2499 2498 2
-2501 2500 3
+android::test::ApplicationTestCaseApplication com.google.googleio.ApplicationTest 2
+ApplicationTestCase com.google.googleio.ApplicationTest 1
+Activity com.google.googleio.MainActivity 3

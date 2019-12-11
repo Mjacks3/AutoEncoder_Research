@@ -1,2 +1,2 @@
-2284 2285 3
-2287 2286 2
+Activity com.netease.kongnan.searchmenuanim.MainActivity 3
+android::test::ApplicationTestCaseApplication com.netease.kongnan.searchmenuanim.ApplicationTest 2

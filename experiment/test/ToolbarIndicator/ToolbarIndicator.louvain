@@ -1,0 +1,13 @@
+OnPageChangeListener 0
+cn.nekocode.toolbarindicator.ToolbarIndicator.onDraw 0
+cn.nekocode.toolbarindicator.ToolbarIndicator.dip2px 0
+cn.nekocode.toolbarindicator.ToolbarIndicator.ToolbarIndicator 0
+cn.nekocode.toolbarindicator.ToolbarIndicator 0
+LinearLayout 0
+cn.nekocode.toolbarindicatorsample.MainActivity.onCreate 1
+cn.nekocode.toolbarindicatorsample.MainActivity 1
+AppCompatActivity 1
+cn.nekocode.toolbarindicator.ToolbarIndicator.setViewPager 2
+cn.nekocode.toolbarindicator.ToolbarIndicator.onPageSelected 2
+cn.nekocode.toolbarindicatorsample.TestFragment 3
+Fragment 3

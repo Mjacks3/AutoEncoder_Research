@@ -1,5 +1,5 @@
-930 0 1
-928 0 1
-1 2 2
-929 928 3
-928 930 1
+AppCompatActivity com.mikhaellopez.androidwebserver.MainActivity 3
+com.mikhaellopez.androidwebserver.MainActivity com.mikhaellopez.androidwebserver.MainActivity.onCreate 1
+com.mikhaellopez.androidwebserver.MainActivity com.mikhaellopez.androidwebserver.MainActivity.isConnectedInWifi 1
+com.mikhaellopez.androidwebserver.MainActivity.onCreate com.mikhaellopez.androidwebserver.MainActivity.isConnectedInWifi 1
+NanoHTTPD com.mikhaellopez.androidwebserver.AndroidWebServer 2

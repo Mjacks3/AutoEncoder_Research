@@ -1,5 +1,5 @@
-5486 5487 2
-5487 5488 1
-5487 5489 1
-5488 5489 1
-5491 5490 3
+View com.gastudio.gabottleloading.library.GABottleLoadingView 2
+com.gastudio.gabottleloading.library.GABottleLoadingView com.gastudio.gabottleloading.library.GABottleLoadingView.performAnimation 1
+com.gastudio.gabottleloading.library.GABottleLoadingView com.gastudio.gabottleloading.library.GABottleLoadingView.cancel 1
+com.gastudio.gabottleloading.library.GABottleLoadingView.performAnimation com.gastudio.gabottleloading.library.GABottleLoadingView.cancel 1
+Activity com.gastudio.gabottleloading.gabottleloading.MainActivity 3

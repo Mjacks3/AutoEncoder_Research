@@ -1,2 +1,2 @@
-2399 2400 2
-2402 2401 3
+Application com.github.plastiv.crashlyticsdemo.CrashlyticsDemoApplication 2
+Activity com.github.plastiv.crashlyticsdemo.CrashlyticsDemoActivity 3

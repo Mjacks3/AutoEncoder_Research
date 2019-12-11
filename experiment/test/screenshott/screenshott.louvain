@@ -1,0 +1,15 @@
+github.nisrulz.screenshott.ScreenShott.saveScreenshotToPicturesFolder 0
+github.nisrulz.screenshottproject.MainActivity.onCreate 0
+github.nisrulz.screenshott.ScreenShott.getInstance 0
+github.nisrulz.screenshottproject.ExampleUnitTest 1
+ApplicationTestCase 2
+github.nisrulz.screenshott.ApplicationTest 2
+android::test::ApplicationTestCaseApplication 2
+github.nisrulz.screenshottproject.ApplicationTest 2
+github.nisrulz.screenshottproject.MainActivity 3
+AppCompatActivity 3
+github.nisrulz.screenshott.ExampleUnitTest 4
+github.nisrulz.screenshott.ScreenShott.takeScreenShotOfRootView 5
+github.nisrulz.screenshott.ScreenShott 5
+github.nisrulz.screenshott.ScreenShott.takeScreenShotOfView 5
+github.nisrulz.screenshott.ScreenShott.takeScreenShotOfJustView 5

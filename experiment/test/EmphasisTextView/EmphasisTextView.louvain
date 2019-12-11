@@ -1,0 +1,10 @@
+TextView 0
+com.athkalia.emphasis.EmphasisTextView 0
+com.athkalia.emphasis.Emphasis 0
+com.athkalia.emphasis.activities.MainActivity 1
+Activity 1
+com.athkalia.emphasis.HighlightMode 2
+com.athkalia.emphasis.EmphasisTextViewTest 3
+com.athkalia.emphasis.EmphasisTextViewTest.givenTheHighlightColorIsNotSet_WhenHighlightIsExecuted_ThenAnExceptionIsThrown 3
+com.athkalia.emphasis.EmphasisTextView.setTextToHighlight 3
+com.athkalia.emphasis.EmphasisTextView.highlight 3

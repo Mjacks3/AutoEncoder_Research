@@ -1,0 +1,12 @@
+ReactPackage 0
+com.ocetnik.timer.BackgroundTimerPackage 0
+com.ocetnik.timer.BackgroundTimerModule 1
+ReactContextBaseJavaModule 1
+ios/RNBackgroundTimer.h 2
+ios/RNBackgroundTimer.m 2
+React/RCTBridgeModule.h 2
+RCTEventEmitter.h 2
+RNBackgroundTimer.h 2
+RCTBridgeModule 3
+RNBackgroundTimer 3
+RCTEventEmitter 3

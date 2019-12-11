@@ -1,8 +1,8 @@
-68 67 1
-70 67 1
-69 68 3
-73 71 1
-67 71 2
-71 72 2
-67 72 2
-68 73 1
+Pattern bin.xposed.NoWechatRevoke.Wechat 1
+bin.xposed.NoWechatRevoke.Main bin.xposed.NoWechatRevoke.Wechat 1
+IXposedHookLoadPackage bin.xposed.NoWechatRevoke.Main 3
+bin.xposed.NoWechatRevoke.Wechat bin.xposed.NoWechatRevoke.Wechat.init 2
+bin.xposed.NoWechatRevoke.Main.handleLoadPackage bin.xposed.NoWechatRevoke.Wechat.init 1
+bin.xposed.NoWechatRevoke.Wechat bin.xposed.NoWechatRevoke.Wechat.setArgs 2
+bin.xposed.NoWechatRevoke.Wechat.init bin.xposed.NoWechatRevoke.Wechat.setArgs 2
+bin.xposed.NoWechatRevoke.Main bin.xposed.NoWechatRevoke.Main.handleLoadPackage 1

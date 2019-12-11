@@ -1,4 +1,4 @@
-317 318 2
-319 320 1
-321 320 2
-322 323 3
+WheelCurvedPicker com.zyu.ReactWheelCurvedPicker 2
+com::facebook::react::uimanager::SimpleViewManagerReactWheelCurvedPicker com.zyu.ReactWheelCurvedPickerManager 2
+SimpleViewManager com.zyu.ReactWheelCurvedPickerManager 1
+ReactPackage com.zyu.ReactNativeWheelPickerPackage 3

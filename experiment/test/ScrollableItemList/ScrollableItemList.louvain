@@ -1,0 +1,14 @@
+ActionBarActivity 0
+com.appcauldron.scrollableitemlist.MainActivity 0
+com.appcauldron.scrollableitemlist.RecyclerViewAdapter.ViewHolder 1
+RecyclerView::ViewHolder 1
+View 1
+com.appcauldron.scrollableitemlist.ApplicationTest 2
+android::test::ApplicationTestCaseApplication 2
+ApplicationTestCase 2
+ViewHolder 3
+Adapter 4
+com.appcauldron.scrollableitemlist.RecyclerViewAdapter 4
+RecyclerView::AdapterRecyclerViewAdapter.ViewHolder 4
+com.appcauldron.scrollableitemlist.RecyclerViewAdapter.onCreateViewHolder 5
+com.appcauldron.scrollableitemlist.RecyclerViewAdapter.ViewHolder.ViewHolder 5

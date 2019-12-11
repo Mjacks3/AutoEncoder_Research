@@ -1,0 +1,14 @@
+com.imbryk.viewPager.LoopPagerAdapterWrapper 0
+PagerAdapter 0
+com.imbryk.viewPager.LoopPagerAdapterWrapper.toInnerPosition 0
+com.imbryk.viewPager.LoopPagerAdapterWrapper.getRealCount 0
+com.imbryk.viewPager.LoopPagerAdapterWrapper.notifyDataSetChanged 0
+com.imbryk.viewPager.LoopViewPager.LoopViewPager 1
+com.imbryk.viewPager.LoopViewPager 1
+com.imbryk.viewPager.LoopPagerAdapterWrapper.getCount 1
+com.imbryk.viewPager.LoopViewPager.setCurrentItem 1
+com.imbryk.viewPager.LoopViewPager.getCurrentItem 1
+ViewPager 1
+com.imbryk.viewPager.LoopViewPager.setAdapter 1
+com.imbryk.viewPager.LoopViewPager.getAdapter 2
+com.imbryk.viewPager.LoopPagerAdapterWrapper.getRealAdapter 2

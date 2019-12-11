@@ -1,4 +1,4 @@
-887 886 1
-889 887 2
-886 888 1
-887 888 1
+com.example.android.notificationchannels.MainActivity com.example.android.notificationchannels.MainActivity.goToNotificationSettings 1
+Activity com.example.android.notificationchannels.MainActivity 2
+com.example.android.notificationchannels.MainActivity com.example.android.notificationchannels.MainActivity.sendNotification 1
+com.example.android.notificationchannels.MainActivity.goToNotificationSettings com.example.android.notificationchannels.MainActivity.sendNotification 1

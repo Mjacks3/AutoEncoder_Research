@@ -1,3 +1,3 @@
-2472 2468 1
-2469 2468 2
-2471 2470 3
+ApplicationTestCase com.github.nukc.how_to_use_travis_ci.ApplicationTest 1
+android::test::ApplicationTestCaseApplication com.github.nukc.how_to_use_travis_ci.ApplicationTest 2
+AppCompatActivity com.github.nukc.how_to_use_travis_ci.MainActivity 3

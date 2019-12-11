@@ -1,5 +1,5 @@
-2274 2272 1
-2274 2273 1
-2273 2275 1
-2272 2275 1
-2276 2277 3
+org.springframework.samples.resources.support.GroovyMarkupViewResolverCustomizer org.springframework.samples.resources.ApplicationProperties 1
+org.springframework.samples.resources.support.GroovyMarkupViewResolverCustomizer org.springframework.samples.resources.support.GroovyMarkupViewResolverCustomizer.customizeViewResolver 1
+org.springframework.samples.resources.support.GroovyMarkupViewResolverCustomizer.customizeViewResolver org.springframework.samples.resources.ApplicationProperties.getVersion 1
+org.springframework.samples.resources.ApplicationProperties org.springframework.samples.resources.ApplicationProperties.getVersion 1
+WebMvcConfigurerAdapter org.springframework.samples.resources.WebConfig 3

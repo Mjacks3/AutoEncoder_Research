@@ -1,0 +1,9 @@
+org.apache.fop.cli.InputHandler.renderTo 0
+org.apache.fop.cli.InputHandler.transformTo 0
+org.apache.fop.cli.InputHandler.createXSLTSource 0
+org.apache.fop.cli.InputHandler.createMainSource 0
+org.apache.fop.cli.InputHandler 1
+ErrorListener 1
+Renderable 1
+Log 1
+File 1

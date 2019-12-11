@@ -1,0 +1,6 @@
+ReactPackage 0
+com.burnweb.rnpermissions.RNPermissionsPackage 0
+com.burnweb.rnpermissions.RNPermissionsModule 1
+ReactContextBaseJavaModule 1
+com.burnweb.rnpermissions.RNPermissionsPackage.onRequestPermissionsResult 2
+com.burnweb.rnpermissions.RNPermissionsModule.onRequestPermissionsResult 2

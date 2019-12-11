@@ -1,4 +1,4 @@
-2634 2635 2
-2637 2636 3
-2640 2639 3
-2638 2639 3
+ReactPackage com.centaurwarchief.smslistener.SmsListenerPackage 2
+BroadcastReceiver com.centaurwarchief.smslistener.SmsReceiver 3
+ReactContextBaseJavaModule com.centaurwarchief.smslistener.SmsListenerModule 3
+LifecycleEventListener com.centaurwarchief.smslistener.SmsListenerModule 3

@@ -1,0 +1,17 @@
+com.goodiebag.protractorview.ProtractorView.TicksBetweenLabel 0
+com.goodiebag.protractorview.example.ExampleUnitTest 1
+com.goodiebag.protractorview.example.MainActivity 2
+AppCompatActivity 2
+com.goodiebag.protractorview.ProtractorView 3
+View 3
+com.goodiebag.protractorview.ProtractorView.onMeasure 3
+com.goodiebag.protractorview.ProtractorView.setTouchInside 3
+com.goodiebag.protractorview.ProtractorView.isEnabled 3
+com.goodiebag.protractorview.ExampleUnitTest 4
+com.goodiebag.protractorview.ExampleInstrumentedTest 5
+com.goodiebag.protractorview.example.ExampleInstrumentedTest 6
+com.goodiebag.protractorview.ProtractorView.OnProtractorViewChangeListener 7
+com.goodiebag.protractorview.ProtractorView.onTouchEvent 7
+com.goodiebag.protractorview.ProtractorView.OnProtractorViewChangeListener.onStartTrackingTouch 7
+com.goodiebag.protractorview.ProtractorView.OnProtractorViewChangeListener.onStopTrackingTouch 7
+com.goodiebag.protractorview.ProtractorView.OnProtractorViewChangeListener.onProgressChanged 7

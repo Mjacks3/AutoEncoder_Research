@@ -1,5 +1,5 @@
-437 438 2
-441 442 1
-441 443 1
-443 444 1
-442 444 1
+Exception io.botan.sdk.BotanException 2
+io.botan.sdk.BotanIT io.botan.sdk.Botan 1
+io.botan.sdk.BotanIT io.botan.sdk.BotanIT.simpleAPIRequestShouldNotFail 1
+io.botan.sdk.BotanIT.simpleAPIRequestShouldNotFail io.botan.sdk.Botan.track 1
+io.botan.sdk.Botan io.botan.sdk.Botan.track 1

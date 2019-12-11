@@ -1,0 +1,13 @@
+cn.nekocode.triangulation.TriangulationDrawable.stop 0
+cn.nekocode.triangulation.TriangulationDrawable 0
+cn.nekocode.triangulation.TriangulationDrawable.isRunning 0
+Animatable 0
+Runnable 0
+Drawable 0
+cn.nekocode.triangulation.TriangulationDrawable.TriangulationDrawable 0
+cn.nekocode.triangulation.example.MainActivity.onStart 1
+cn.nekocode.triangulation.TriangulationDrawable.start 1
+cn.nekocode.triangulation.TriangulationDrawable.run 1
+cn.nekocode.triangulation.example.MainActivity 2
+AppCompatActivity 2
+cn.nekocode.triangulation.example.MainActivity.onStop 2

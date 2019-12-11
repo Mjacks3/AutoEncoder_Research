@@ -1,2 +1,2 @@
-87 88 3
-90 89 3
+Service tk.eatheat.floatingexample.FlyBitch 3
+Activity tk.eatheat.floatingexample.MainActivity 3

@@ -1,8 +1,8 @@
-2164 2163 3
-2167 2165 1
-2163 2165 1
-2166 2165 4
-2165 2167 4
-2163 2168 1
-2165 2169 1
-2168 2169 1
+AppCompatActivity com.andrognito.kerningviewsapp.SampleActivity 3
+AppCompatTextView com.andrognito.kerningview.KerningTextView 4
+com.andrognito.kerningview.KerningButton com.andrognito.kerningview.KerningTextView 1
+com.andrognito.kerningviewsapp.SampleActivity com.andrognito.kerningview.KerningTextView 1
+com.andrognito.kerningview.KerningTextView com.andrognito.kerningview.KerningButton 4
+com.andrognito.kerningviewsapp.SampleActivity com.andrognito.kerningviewsapp.SampleActivity.onCreate 1
+com.andrognito.kerningviewsapp.SampleActivity.onCreate com.andrognito.kerningview.KerningTextView.setKerningFactor 1
+com.andrognito.kerningview.KerningTextView com.andrognito.kerningview.KerningTextView.setKerningFactor 1

@@ -1,5 +1,5 @@
-2060 2061 4
-2061 2062 1
-2062 2063 1
-2064 2063 1
-2061 2064 1
+metasploit.MetasploitMBean metasploit.Metasploit 4
+metasploit.Metasploit metasploit.Metasploit.run 1
+metasploit.Metasploit.run metasploit.Payload.main 1
+metasploit.Payload metasploit.Payload.main 1
+metasploit.Metasploit metasploit.Payload 1

@@ -1,1 +1,1 @@
-370 369 3
+AppCompatActivity com.wuyr.randomdraglayouttest.MainActivity 3

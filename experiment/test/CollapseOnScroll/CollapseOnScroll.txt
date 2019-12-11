@@ -1,6 +1,6 @@
-1266 1267 2
-1269 1268 2
-1273 1268 1
-1271 1270 3
-1269 1272 2
-1273 1272 1
+ScrollView de.klassen.konstantin.collapseonscroll.library.CollapseOnScrollView 2
+ApplicationTestCase asdf.asdf.ApplicationTest 1
+android::test::ApplicationTestCaseApplication asdf.asdf.ApplicationTest 2
+ActionBarActivity de.klassen.konstantin.collapseonscroll.sample.SampleActivity 3
+android::test::ApplicationTestCaseApplication kuno.de.collapseonscroll.library.ApplicationTest 2
+ApplicationTestCase kuno.de.collapseonscroll.library.ApplicationTest 1

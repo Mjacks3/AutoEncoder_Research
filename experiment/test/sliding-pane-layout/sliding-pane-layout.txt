@@ -1,5 +1,5 @@
-44 45 3
-47 46 3
-49 48 3
-47 50 3
-47 52 3
+SlidingPaneLayout com.sqisland.android.sliding_pane_layout.CrossFadeSlidingPaneLayout 3
+Activity com.sqisland.android.sliding_pane_layout.TwoPaneActivity 3
+ListActivity com.sqisland.android.sliding_pane_layout.MainActivity 3
+Activity com.sqisland.android.sliding_pane_layout.PartiallyShownPaneActivity 3
+Activity com.sqisland.android.sliding_pane_layout.CrossFadePaneActivity 3

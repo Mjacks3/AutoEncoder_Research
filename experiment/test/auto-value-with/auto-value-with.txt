@@ -1,1 +1,1 @@
-1630 1629 3
+AutoValueExtension com.gabrielittner.auto.value.with.AutoValueWithExtension 3

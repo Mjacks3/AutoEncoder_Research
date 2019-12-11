@@ -1,8 +1,8 @@
-987 988 3
-990 989 3
-989 991 1
-991 992 1
-989 992 1
-989 994 1
-994 995 1
-989 995 1
+Activity net.bohush.geometricprogressview.sample.MainActivity 3
+View net.bohush.geometricprogressview.GeometricProgressView 3
+net.bohush.geometricprogressview.GeometricProgressView net.bohush.geometricprogressview.GeometricProgressView.setFigurePaddingInDp 1
+net.bohush.geometricprogressview.GeometricProgressView net.bohush.geometricprogressview.GeometricProgressView.setFigurePadding 1
+net.bohush.geometricprogressview.GeometricProgressView.setFigurePaddingInDp net.bohush.geometricprogressview.GeometricProgressView.setFigurePadding 1
+net.bohush.geometricprogressview.GeometricProgressView net.bohush.geometricprogressview.GeometricProgressView.GeometricProgressView 1
+net.bohush.geometricprogressview.GeometricProgressView.GeometricProgressView net.bohush.geometricprogressview.GeometricProgressView.setColor 1
+net.bohush.geometricprogressview.GeometricProgressView net.bohush.geometricprogressview.GeometricProgressView.setColor 1

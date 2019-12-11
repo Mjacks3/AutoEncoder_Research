@@ -1,1 +1,1 @@
-906 905 2
+Activity com.flavienlaurent.minimalform.app.MainActivity 2

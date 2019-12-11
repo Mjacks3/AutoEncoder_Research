@@ -1,4 +1,4 @@
-2981 2977 1
-2978 2977 2
-2982 2979 1
-2980 2979 2
+IXposedHookLoadPackage com.nigel.luckmoney.wechatoriginalphoto.CheckOriginalPhoto 2
+Context com.nigel.luckmoney.wechatoriginalphoto.CheckOriginalPhoto 1
+android::test::ApplicationTestCaseApplication com.nigel.luckmoney.wechatoriginalphoto.ApplicationTest 2
+ApplicationTestCase com.nigel.luckmoney.wechatoriginalphoto.ApplicationTest 1

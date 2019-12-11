@@ -1,0 +1,17 @@
+Application 0
+org.altbeacon.beaconreference.BeaconReferenceApplication 0
+BootstrapNotifier 0
+org.altbeacon.beaconreference.MonitoringActivity.onEnableClicked 0
+org.altbeacon.beaconreference.BeaconReferenceApplication.disableMonitoring 0
+org.altbeacon.beaconreference.BeaconReferenceApplication.enableMonitoring 0
+org.altbeacon.beaconreference.BeaconReferenceApplication.setMonitoringActivity 1
+org.altbeacon.beaconreference.MonitoringActivity.updateLog 1
+org.altbeacon.beaconreference.MonitoringActivity.onResume 1
+org.altbeacon.beaconreference.BeaconReferenceApplication.getLog 1
+org.altbeacon.beaconreference.MonitoringActivity 2
+org.altbeacon.beaconreference.RangingActivity 2
+Activity 2
+BeaconConsumer 2
+BeaconSimulator 3
+org.altbeacon.beacon.TimedBeaconSimulator 4
+org::altbeacon::beacon::simulator::BeaconSimulator 4

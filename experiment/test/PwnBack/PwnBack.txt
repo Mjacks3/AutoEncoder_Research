@@ -1,7 +1,7 @@
-1446 1442 1
-1444 1443 3
-1446 1445 1
-1450 1446 3
-1449 1446 3
-1442 1447 1
-1445 1447 1
+burp.BurpExtender com.k4ch0w.wayback_machine.PwnBack 1
+AbstractTableModel com.k4ch0w.wayback_machine.PwnBackTable 3
+burp.BurpExtender burp.BurpExtender.registerExtenderCallbacks 1
+ITab burp.BurpExtender 3
+IBurpExtender burp.BurpExtender 3
+burp.BurpExtender.registerExtenderCallbacks com.k4ch0w.wayback_machine.PwnBack.getGui 1
+com.k4ch0w.wayback_machine.PwnBack com.k4ch0w.wayback_machine.PwnBack.getGui 1

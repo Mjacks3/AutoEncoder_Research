@@ -1,0 +1,13 @@
+BaseAdapter 0
+tm.davidwang.dwcinemaanimation.GridAdapter 0
+tm.davidwang.dwcinemaanimation.MainActivity 1
+AppCompatActivity 1
+View::OnClickListener 1
+AdapterView::OnItemClickListener 1
+TextView 1
+tm.davidwang.dwcinemaanimation.ApplicationTest 2
+android::test::ApplicationTestCaseApplication 2
+ApplicationTestCase 2
+OnItemClickListener 3
+OnClickListener 3
+tm.davidwang.dwcinemaanimation.GridModel 4

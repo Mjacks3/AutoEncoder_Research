@@ -1,2 +1,2 @@
-2878 2879 3
-2881 2880 3
+Activity com.example.xposedwechat.MainActivity 3
+IXposedHookLoadPackage com.example.xposedwechat.wechat 3

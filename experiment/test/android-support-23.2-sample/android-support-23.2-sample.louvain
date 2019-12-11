@@ -1,0 +1,12 @@
+ApplicationTestCase 0
+in.srain.demos.vector.ApplicationTest 0
+android::test::ApplicationTestCaseApplication 0
+in.srain.demos.vector.MainActivity 1
+AppCompatActivity 1
+in.srain.demos.vector.MainActivity.onOptionsItemSelected 1
+in.srain.demos.vector.App 2
+Application 2
+in.srain.demos.vector.ExampleUnitTest 3
+in.srain.demos.vector.BottomSheetDialogView 4
+in.srain.demos.vector.BottomSheetDialogView.show 4
+in.srain.demos.vector.BottomSheetDialogView.BottomSheetDialogView 4

@@ -1,6 +1,6 @@
-2404 2405 2
-2411 2405 2
-2404 2406 1
-2408 2407 3
-2412 2410 2
-2409 2410 1
+LayoutShadowNode com.bee.baidumapview.BaiduMapShadowNode 2
+CSSNode::MeasureFunction com.bee.baidumapview.BaiduMapShadowNode 2
+LayoutShadowNode MeasureFunction 1
+ReactPackage com.bee.baidumapview.BaiduMapReactPackage 3
+com::facebook::react::uimanager::SimpleViewManagerMapView com.bee.baidumapview.BaiduMapViewManager 2
+SimpleViewManager com.bee.baidumapview.BaiduMapViewManager 1

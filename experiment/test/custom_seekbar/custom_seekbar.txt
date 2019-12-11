@@ -1,1 +1,1 @@
-2261 2260 2
+Activity com.example.android_custom_seekbar.MainActivity 2

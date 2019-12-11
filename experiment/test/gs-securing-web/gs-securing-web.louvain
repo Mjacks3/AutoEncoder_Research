@@ -1,0 +1,6 @@
+hello.WebSecurityConfig 0
+WebSecurityConfigurerAdapter 0
+hello.Application 1
+hello.ApplicationTests 2
+hello.MvcConfig 3
+WebMvcConfigurer 3

@@ -1,0 +1,9 @@
+Activity 0
+net.bohush.geometricprogressview.sample.MainActivity 0
+net.bohush.geometricprogressview.GeometricProgressView 1
+View 1
+net.bohush.geometricprogressview.GeometricProgressView.GeometricProgressView 1
+net.bohush.geometricprogressview.GeometricProgressView.setColor 1
+net.bohush.geometricprogressview.GeometricProgressView.setFigurePaddingInDp 2
+net.bohush.geometricprogressview.GeometricProgressView.setFigurePadding 2
+net.bohush.geometricprogressview.TYPE 3

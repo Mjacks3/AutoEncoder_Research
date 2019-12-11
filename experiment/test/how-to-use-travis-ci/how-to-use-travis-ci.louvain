@@ -1,0 +1,6 @@
+com.github.nukc.how_to_use_travis_ci.ExampleUnitTest 0
+com.github.nukc.how_to_use_travis_ci.ApplicationTest 1
+android::test::ApplicationTestCaseApplication 1
+ApplicationTestCase 1
+com.github.nukc.how_to_use_travis_ci.MainActivity 2
+AppCompatActivity 2

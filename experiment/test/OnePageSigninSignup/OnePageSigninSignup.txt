@@ -1,8 +1,8 @@
-2818 2819 3
-2820 2821 2
-2826 2821 1
-2825 2821 2
-2820 2822 1
-2821 2823 1
-2823 2824 1
-2821 2824 1
+TextView com.irinnovative.onepagesigninsignup.VerticalTextView 3
+View::OnClickListener com.irinnovative.onepagesigninsignup.MainActivity 2
+AppCompatActivity com.irinnovative.onepagesigninsignup.MainActivity 2
+LinearLayout com.irinnovative.onepagesigninsignup.MainActivity 1
+AppCompatActivity OnClickListener 1
+com.irinnovative.onepagesigninsignup.MainActivity com.irinnovative.onepagesigninsignup.MainActivity.onCreate 1
+com.irinnovative.onepagesigninsignup.MainActivity com.irinnovative.onepagesigninsignup.MainActivity.onClick 1
+com.irinnovative.onepagesigninsignup.MainActivity.onCreate com.irinnovative.onepagesigninsignup.MainActivity.onClick 1

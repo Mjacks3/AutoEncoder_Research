@@ -1,7 +1,7 @@
-521 520 3
-525 522 1
-523 522 2
-526 524 1
-524 527 1
-527 528 1
-524 528 1
+TextSwitcher sumimakito.android.advtextswitcher.AdvTextSwitcher 3
+ApplicationTestCase sumimakito.android.advtextswitcher.ApplicationTest 1
+android::test::ApplicationTestCaseApplication sumimakito.android.advtextswitcher.ApplicationTest 2
+Handler sumimakito.android.advtextswitcher.Switcher 1
+sumimakito.android.advtextswitcher.Switcher sumimakito.android.advtextswitcher.Switcher.attach 1
+sumimakito.android.advtextswitcher.Switcher.attach sumimakito.android.advtextswitcher.Switcher.pause 1
+sumimakito.android.advtextswitcher.Switcher sumimakito.android.advtextswitcher.Switcher.pause 1

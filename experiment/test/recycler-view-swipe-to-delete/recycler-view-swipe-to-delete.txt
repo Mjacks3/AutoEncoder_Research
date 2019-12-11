@@ -1,4 +1,4 @@
-1133 1129 1
-1128 1129 3
-1132 1131 2
-1130 1131 1
+RecyclerView net.nemanjakovacevic.recyclerviewswipetodelete.MainActivity 1
+AppCompatActivity net.nemanjakovacevic.recyclerviewswipetodelete.MainActivity 3
+android::test::ApplicationTestCaseApplication net.nemanjakovacevic.recyclerviewswipetodelete.ApplicationTest 2
+ApplicationTestCase net.nemanjakovacevic.recyclerviewswipetodelete.ApplicationTest 1

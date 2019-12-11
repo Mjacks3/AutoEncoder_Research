@@ -1,2 +1,2 @@
-2962 2963 2
-2965 2964 3
+TextView com.github.pwittchen.weathericonview.WeatherIconView 2
+Activity com.github.pwittchen.weathericonview.app.MyActivity 3

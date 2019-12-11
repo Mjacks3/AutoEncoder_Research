@@ -1,1 +1,1 @@
-878 877 2
+Activity com.mtsahakis.mediaprojectiondemo.ScreenCaptureImageActivity 2

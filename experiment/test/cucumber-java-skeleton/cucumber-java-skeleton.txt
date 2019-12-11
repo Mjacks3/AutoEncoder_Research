@@ -1,4 +1,4 @@
-2231 2230 1
-2233 2232 1
-2230 2232 1
-2231 2233 1
+io.cucumber.skeleton.StepDefinitions io.cucumber.skeleton.StepDefinitions.I_have_cukes_in_my_belly 1
+io.cucumber.skeleton.StepDefinitions.I_have_cukes_in_my_belly io.cucumber.skeleton.Belly.eat 1
+io.cucumber.skeleton.Belly io.cucumber.skeleton.Belly.eat 1
+io.cucumber.skeleton.StepDefinitions io.cucumber.skeleton.Belly 1

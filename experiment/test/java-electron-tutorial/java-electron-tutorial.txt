@@ -1,2 +1,2 @@
-2537 2538 2
-2540 2539 3
+UI demo.AppUI 2
+VaadinServlet demo.AppServlet 3

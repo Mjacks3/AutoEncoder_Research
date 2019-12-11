@@ -1,8 +1,8 @@
-448 450 3
-452 450 1
-453 450 1
-452 451 1
-448 451 3
-448 454 3
-453 984 1
-448 984 3
+Button com.zkk.lottietest.MainActivity 1
+AppCompatActivity com.zkk.lottietest.MainActivity 3
+AppCompatActivity com.zkk.lottietest.ClickActivity 3
+LottieAnimationView com.zkk.lottietest.ClickActivity 1
+Button com.zkk.lottietest.ClickActivity 1
+LottieAnimationView com.zkk.lottietest.NetworkActivity 1
+AppCompatActivity com.zkk.lottietest.NetworkActivity 3
+AppCompatActivity com.zkk.lottietest.SimpleActivity 3

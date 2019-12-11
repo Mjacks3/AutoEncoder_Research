@@ -1,8 +1,8 @@
-120 119 3
-122 121 3
-124 123 3
-126 125 2
-129 127 3
-128 127 3
-120 130 3
-132 131 3
+ReactPackage com.oney.gcm.GcmPackage 3
+BroadcastReceiver com.oney.gcm.GcmBroadcastReceiver 3
+IntentService com.oney.gcm.GcmRegistrationService 3
+Service com.oney.gcm.BackgroundService 2
+ReactContextBaseJavaModule com.oney.gcm.GcmModule 3
+LifecycleEventListener com.oney.gcm.GcmModule 3
+ReactPackage com.oney.gcm.MainReactPackage 3
+GcmListenerService com.oney.gcm.RNGcmListenerService 3

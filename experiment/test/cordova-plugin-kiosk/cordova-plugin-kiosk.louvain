@@ -1,0 +1,13 @@
+CordovaPlugin 0
+jk.cordova.plugin.kiosk.KioskPlugin 0
+jk.cordova.plugin.kiosk.KioskActivity 1
+CordovaActivity 1
+jk.cordova.plugin.kiosk.KioskActivity.onCreate 1
+jk.cordova.plugin.kiosk.KioskActivity.finish 1
+SetInteger 1
+jk.cordova.plugin.kiosk.MyPackageReplacedEventReceiver 2
+BroadcastReceiver 2
+ViewGroup 3
+jk.cordova.plugin.kiosk.StatusBarOverlay 3
+jk.cordova.plugin.kiosk.StatusBarOverlay.onInterceptTouchEvent 3
+jk.cordova.plugin.kiosk.StatusBarOverlay.StatusBarOverlay 3

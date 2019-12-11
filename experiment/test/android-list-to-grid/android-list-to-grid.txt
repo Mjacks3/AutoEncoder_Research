@@ -1,8 +1,8 @@
-2349 2348 3
-2351 2348 1
-2350 2351 3
-2352 2351 1
-2348 2351 1
-2351 2353 1
-2348 2354 1
-2353 2354 1
+ru.adonixis.listtogridanimatedicon.MainActivity ru.adonixis.listtogridanimatedicon.SimpleAdapter 1
+RecyclerView::AdapterSimpleAdapter.SimpleViewHolder ru.adonixis.listtogridanimatedicon.SimpleAdapter 3
+AppCompatActivity ru.adonixis.listtogridanimatedicon.MainActivity 3
+GridLayoutManager ru.adonixis.listtogridanimatedicon.MainActivity 1
+ru.adonixis.listtogridanimatedicon.SimpleAdapter ru.adonixis.listtogridanimatedicon.MainActivity 1
+ru.adonixis.listtogridanimatedicon.MainActivity ru.adonixis.listtogridanimatedicon.MainActivity.onOptionsItemSelected 1
+ru.adonixis.listtogridanimatedicon.MainActivity.onOptionsItemSelected ru.adonixis.listtogridanimatedicon.SimpleAdapter.getItemCount 1
+ru.adonixis.listtogridanimatedicon.SimpleAdapter ru.adonixis.listtogridanimatedicon.SimpleAdapter.getItemCount 1

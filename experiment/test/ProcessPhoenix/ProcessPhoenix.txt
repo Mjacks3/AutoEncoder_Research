@@ -1,8 +1,8 @@
-2922 2516 1
-2923 2516 1
-2919 2516 2
-2516 2920 1
-2920 2921 1
-2922 2921 1
-2919 2922 2
-2516 2922 1
+Activity com.jakewharton.processphoenix.sample.MainActivity 2
+TextView com.jakewharton.processphoenix.sample.MainActivity 1
+com.jakewharton.processphoenix.ProcessPhoenix com.jakewharton.processphoenix.sample.MainActivity 1
+com.jakewharton.processphoenix.sample.MainActivity com.jakewharton.processphoenix.sample.MainActivity.onCreate 1
+com.jakewharton.processphoenix.ProcessPhoenix com.jakewharton.processphoenix.ProcessPhoenix.triggerRebirth 1
+com.jakewharton.processphoenix.sample.MainActivity.onCreate com.jakewharton.processphoenix.ProcessPhoenix.triggerRebirth 1
+Activity com.jakewharton.processphoenix.ProcessPhoenix 2
+com.jakewharton.processphoenix.sample.MainActivity com.jakewharton.processphoenix.ProcessPhoenix 1

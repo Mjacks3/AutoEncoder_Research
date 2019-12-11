@@ -1,6 +1,6 @@
-2744 2743 1
-2743 2745 1
-2746 2745 1
-2744 2746 1
-2746 2747 1
-2743 2747 1
+net.danlew.sample.Sample net.danlew.sample.Sample.main 1
+net.danlew.sample.Sources net.danlew.sample.Sources.network 1
+net.danlew.sample.Sample.main net.danlew.sample.Sources.network 1
+net.danlew.sample.Sample net.danlew.sample.Sources 1
+net.danlew.sample.Sources net.danlew.sample.Sources.clearMemory 1
+net.danlew.sample.Sample.main net.danlew.sample.Sources.clearMemory 1

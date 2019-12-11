@@ -1,0 +1,14 @@
+com.vipulasri.ticketview.TicketView.DividerType 0
+com.vipulasri.ticketview.TicketView 1
+View 1
+com.vipulasri.ticketview.ExampleUnitTest 2
+com.vipulasri.ticketview.TicketView.Orientation 3
+com.vipulasri.ticketview.sample.Utils 4
+com.vipulasri.ticketview.sample.ExampleUnitTest 5
+com.vipulasri.ticketview.sample.ExampleInstrumentedTest 6
+com.vipulasri.ticketview.ExampleInstrumentedTest 7
+com.vipulasri.ticketview.TicketView.setTicketElevation 8
+com.vipulasri.ticketview.Utils.dpToPx 8
+com.vipulasri.ticketview.Utils 8
+com.vipulasri.ticketview.TicketView.onDraw 8
+com.vipulasri.ticketview.TicketView.CornerType 9

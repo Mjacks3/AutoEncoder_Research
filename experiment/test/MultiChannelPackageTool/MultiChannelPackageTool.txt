@@ -1,5 +1,5 @@
-1314 1313 1
-1313 1315 1
-1314 1315 2
-1316 1315 1
-1314 1316 1
+com.android.zgj.multiChannelPackageTool.MCPTool com.android.zgj.multiChannelPackageTool.MCPTool.getChannelId 1
+com.android.zgj.multiChannelPackageTool.MCPTool.main com.android.zgj.multiChannelPackageTool.MCPTool.readContent 1
+com.android.zgj.multiChannelPackageTool.MCPTool.getChannelId com.android.zgj.multiChannelPackageTool.MCPTool.readContent 1
+com.android.zgj.multiChannelPackageTool.MCPTool com.android.zgj.multiChannelPackageTool.MCPTool.readContent 2
+com.android.zgj.multiChannelPackageTool.MCPTool com.android.zgj.multiChannelPackageTool.MCPTool.main 1

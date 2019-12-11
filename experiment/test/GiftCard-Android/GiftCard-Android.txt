@@ -1,5 +1,5 @@
-1473 1472 3
-1478 1476 1
-1477 1476 3
-1487 1485 2
-1484 1485 1
+Activity com.example.martinrgb.giftcard_android.MainActivity 3
+View com.example.martinrgb.giftcard_android.MainActivity.ViewSpringListener 1
+SpringListener com.example.martinrgb.giftcard_android.MainActivity.ViewSpringListener 3
+ApplicationTestCase com.example.martinrgb.giftcard_android.ApplicationTest 1
+android::test::ApplicationTestCaseApplication com.example.martinrgb.giftcard_android.ApplicationTest 2

@@ -1,0 +1,12 @@
+com.alanjet.imagecutanduploadtest.ExampleUnitTest 0
+com.alanjet.imagecutanduploadtest.ApplicationTest 1
+android::test::ApplicationTestCaseApplication 1
+ApplicationTestCase 1
+com.alanjet.imagecutanduploadtest.MainActivity 2
+AppCompatActivity 2
+Uri 2
+com.alanjet.imagecutanduploadtest.MainActivity.onCreate 2
+com.alanjet.imagecutanduploadtest.MainActivity.showChoosePicDialog 2
+com.alanjet.imagecutanduploadtest.MainActivity.onActivityResult 3
+com.alanjet.imagecutanduploadtest.MainActivity.cutImage 3
+com.alanjet.imagecutanduploadtest.MainActivity.setImageToView 3

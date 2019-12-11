@@ -1,2 +1,2 @@
-227 226 3
-93 226 3
+BugChecker com.jakewharton.nopen.checker.NopenChecker 3
+ClassTreeMatcher com.jakewharton.nopen.checker.NopenChecker 3

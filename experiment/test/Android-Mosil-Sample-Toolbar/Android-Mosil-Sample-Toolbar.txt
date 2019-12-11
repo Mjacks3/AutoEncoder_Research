@@ -1,2 +1,2 @@
-190 189 2
-191 192 3
+android::test::ApplicationTestCaseApplication biz.mosil.demo.toolbar.ApplicationTest 2
+ActionBarActivity biz.mosil.demo.toolbar.MainActivity 3

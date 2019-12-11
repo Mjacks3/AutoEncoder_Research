@@ -1,5 +1,5 @@
-1605 1606 3
-1608 1607 1
-1610 1608 2
-1608 1609 1
-1607 1609 1
+SherlockFragment com.example.android.navigationdrawerexample.MainActivity.PlanetFragment 3
+com.example.android.navigationdrawerexample.MainActivity com.example.android.navigationdrawerexample.MainActivity.onOptionsItemSelected 1
+SherlockFragmentActivity com.example.android.navigationdrawerexample.MainActivity 2
+com.example.android.navigationdrawerexample.MainActivity.onOptionsItemSelected com.example.android.navigationdrawerexample.MainActivity.setTitle 1
+com.example.android.navigationdrawerexample.MainActivity com.example.android.navigationdrawerexample.MainActivity.setTitle 1

@@ -1,1 +1,1 @@
-56 55 2
+AppWidgetProvider com.example.android.monthcalendarwidget.MonthCalendarWidget 2

@@ -1,0 +1,8 @@
+com.syh.wechatImageClipping.BuildConfig 0
+com.syh.testapplication.MainActivity 1
+Activity 1
+com.syh.wechatImageClipping.R 2
+com.syh.wechatImageClipping.Manifest 3
+com.syh.testapplication.MainActivity.onCreate 4
+com.syh.testapplication.MainActivity.getRoundCornerImage 4
+com.syh.testapplication.MainActivity.getShardImage 4

@@ -1,4 +1,4 @@
-680 681 3
-683 682 2
-684 682 2
-684 683 1
+ReactPackage com.showlocationservicesdialogbox.LocationServicesDialogBoxPackage 3
+ReactContextBaseJavaModule com.showlocationservicesdialogbox.LocationServicesDialogBoxModule 2
+ActivityEventListener com.showlocationservicesdialogbox.LocationServicesDialogBoxModule 2
+ActivityEventListener ReactContextBaseJavaModule 1

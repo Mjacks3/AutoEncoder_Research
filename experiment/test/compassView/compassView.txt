@@ -1,4 +1,4 @@
-824 823 3
-826 825 3
-828 829 1
-830 829 2
+View com.wingsofts.threed.CompassView 3
+AppCompatActivity com.wingsofts.threed.MainActivity 3
+android::test::ApplicationTestCaseApplication com.wingsofts.threed.ApplicationTest 2
+ApplicationTestCase com.wingsofts.threed.ApplicationTest 1

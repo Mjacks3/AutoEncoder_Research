@@ -1,3 +1,3 @@
-2227 2226 1
-2227 2228 1
-2226 2228 1
+com.google.atap.tangoservice.SupportedDevices com.google.atap.tangoservice.SupportedDevices.isSupported 1
+com.google.atap.tangoservice.SupportedDevices com.google.atap.tangoservice.SupportedDevices.isSupportedExynosDevice 1
+com.google.atap.tangoservice.SupportedDevices.isSupported com.google.atap.tangoservice.SupportedDevices.isSupportedExynosDevice 1

@@ -1,2 +1,2 @@
-676 677 2
-679 678 3
+TileService uk.co.nickbutcher.animatordurationtile.ToggleAnimatorDuration 2
+Activity uk.co.nickbutcher.animatordurationtile.SelectAnimatorDuration 3

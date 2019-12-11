@@ -1,8 +1,8 @@
-2695 2694 1
-2698 2695 1
-2694 2696 1
-2695 2696 2
-2697 2696 1
-2698 2697 1
-2695 2699 1
-2697 2699 1
+org.conan.mymahout.cluster06.MathUtil org.conan.mymahout.cluster06.MathUtil.main 1
+org.conan.mymahout.cluster06.Kmeans org.conan.mymahout.cluster06.MathUtil 1
+org.conan.mymahout.cluster06.MathUtil org.conan.mymahout.cluster06.MathUtil.readFileToVector 2
+org.conan.mymahout.cluster06.Kmeans.main org.conan.mymahout.cluster06.MathUtil.readFileToVector 1
+org.conan.mymahout.cluster06.MathUtil.main org.conan.mymahout.cluster06.MathUtil.readFileToVector 1
+org.conan.mymahout.cluster06.Kmeans org.conan.mymahout.cluster06.Kmeans.main 1
+org.conan.mymahout.cluster06.Kmeans.main org.conan.mymahout.cluster06.MathUtil.chooseRandomPoints 1
+org.conan.mymahout.cluster06.MathUtil org.conan.mymahout.cluster06.MathUtil.chooseRandomPoints 1

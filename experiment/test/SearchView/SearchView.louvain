@@ -1,0 +1,12 @@
+xhome.uestcfei.com.searchview.ExampleUnitTest 0
+xhome.uestcfei.com.searchview.SearchView 1
+View 1
+xhome.uestcfei.com.searchview.MainActivity 2
+AppCompatActivity 2
+xhome.uestcfei.com.searchview.ApplicationTest 3
+android::test::ApplicationTestCaseApplication 3
+ApplicationTestCase 3
+xhome.uestcfei.com.searchview.MainActivity.start 4
+xhome.uestcfei.com.searchview.SearchView.startSearch 4
+xhome.uestcfei.com.searchview.MainActivity.stop 5
+xhome.uestcfei.com.searchview.SearchView.stopSearch 5

@@ -1,1 +1,1 @@
-1185 1186 3
+PDFTextStripper io.github.jonathanlink.PDFLayoutTextStripper 3

@@ -1,4 +1,4 @@
-2920 2921 3
-2922 2923 3
-2924 2925 1
-2926 2925 2
+TextView noman.zoomtextview.ZoomTextView 3
+AppCompatActivity noman.zoomtextview.MainActivity 3
+android::test::ApplicationTestCaseApplication noman.zoomtextview.ApplicationTest 2
+ApplicationTestCase noman.zoomtextview.ApplicationTest 1

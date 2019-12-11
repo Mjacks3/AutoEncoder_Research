@@ -1,1 +1,1 @@
-2273 2272 2
+Activity com.example.androidthings.myproject.MainActivity 2

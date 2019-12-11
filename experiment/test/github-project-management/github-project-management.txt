@@ -1,6 +1,6 @@
-127 126 1
-126 128 1
-129 128 1
-127 129 1
-130 131 1
-132 131 2
+com.sample.github.GithubApplicationTests com.sample.github.GithubApplicationTests.contextLoads 1
+com.sample.github.GithubApplicationTests.contextLoads com.sample.github.GithubApplication.main 1
+com.sample.github.GithubApplication com.sample.github.GithubApplication.main 1
+com.sample.github.GithubApplicationTests com.sample.github.GithubApplication 1
+JpaRepository com.sample.github.user.UserRepository 1
+org::springframework::data::jpa::repository::JpaRepositoryUser,Long com.sample.github.user.UserRepository 2

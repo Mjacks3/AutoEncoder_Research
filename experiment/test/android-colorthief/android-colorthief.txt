@@ -1,5 +1,5 @@
-26 25 1
-27 26 3
-26 28 1
-25 29 1
-28 29 1
+de.androidpit.androidcolorthief.sample.SampleMainActivity de.androidpit.androidcolorthief.MMCQ 1
+Activity de.androidpit.androidcolorthief.sample.SampleMainActivity 3
+de.androidpit.androidcolorthief.sample.SampleMainActivity de.androidpit.androidcolorthief.sample.SampleMainActivity.onCreate 1
+de.androidpit.androidcolorthief.sample.SampleMainActivity.onCreate de.androidpit.androidcolorthief.MMCQ.compute 1
+de.androidpit.androidcolorthief.MMCQ de.androidpit.androidcolorthief.MMCQ.compute 1

@@ -1,6 +1,6 @@
-2279 2278 2
-2278 2280 1
-2279 2280 2
-2280 2281 1
-2280 2282 1
-2281 2282 1
+CordovaPlugin org.apache.cordova.test.WhitelistAPI 2
+org.apache.cordova.test.WhitelistAPI org.apache.cordova.whitelist.WhitelistPlugin 1
+CordovaPlugin org.apache.cordova.whitelist.WhitelistPlugin 2
+org.apache.cordova.whitelist.WhitelistPlugin org.apache.cordova.whitelist.WhitelistPlugin.shouldAllowRequest 1
+org.apache.cordova.whitelist.WhitelistPlugin org.apache.cordova.whitelist.WhitelistPlugin.shouldAllowNavigation 1
+org.apache.cordova.whitelist.WhitelistPlugin.shouldAllowRequest org.apache.cordova.whitelist.WhitelistPlugin.shouldAllowNavigation 1

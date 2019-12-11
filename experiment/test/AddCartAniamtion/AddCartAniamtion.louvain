@@ -1,0 +1,12 @@
+com.faorg.eason.addcartaniamtion.ApplicationTest 0
+android::test::ApplicationTestCaseApplication 0
+com.faorg.eason.addtocart.ApplicationTest 0
+ApplicationTestCase 0
+com.faorg.eason.addcartaniamtion.ExampleUnitTest 1
+com.faorg.eason.addtocart.ExampleUnitTest 2
+com.faorg.eason.addcartaniamtion.MainActivity 3
+AppCompatActivity 3
+ListInteger 3
+com.faorg.eason.addtocart.AddCartAnimation 4
+com.faorg.eason.addcartaniamtion.MainActivity.onCreate 4
+com.faorg.eason.addtocart.AddCartAnimation.AddToCart 4

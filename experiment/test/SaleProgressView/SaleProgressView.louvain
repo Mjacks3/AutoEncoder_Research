@@ -1,0 +1,10 @@
+com.zhh.saleprocess.ExampleUnitTest 0
+com.zhh.saleprocess.ApplicationTest 1
+android::test::ApplicationTestCaseApplication 1
+ApplicationTestCase 1
+com.zhh.saleprocess.SaleProgressView 2
+View 2
+com.zhh.saleprocess.MainActivity 3
+AppCompatActivity 3
+com.zhh.saleprocess.MainActivity.onCreate 4
+com.zhh.saleprocess.SaleProgressView.setTotalAndCurrentCount 4

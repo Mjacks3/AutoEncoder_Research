@@ -1,5 +1,5 @@
-364 365 3
-367 366 2
-366 368 1
-368 369 1
-366 369 1
+com.nanbox.ripplelayout.RippleLayout com.nanbox.ripplelayout.RippleLayout.showRipple 1
+com.nanbox.ripplelayout.RippleLayout.dispatchTouchEvent com.nanbox.ripplelayout.RippleLayout.showRipple 1
+AppCompatActivity com.nanbox.ripplelayout.sample.MainActivity 3
+FrameLayout com.nanbox.ripplelayout.RippleLayout 2
+com.nanbox.ripplelayout.RippleLayout com.nanbox.ripplelayout.RippleLayout.dispatchTouchEvent 1

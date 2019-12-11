@@ -1,0 +1,9 @@
+scut.carson_ho.diy_view.ExampleUnitTest 0
+scut.carson_ho.diy_view.SuperEditText 1
+AppCompatEditText 1
+Drawable 1
+scut.carson_ho.superedittext.MainActivity 2
+AppCompatActivity 2
+scut.carson_ho.superedittext.ExampleUnitTest 3
+scut.carson_ho.superedittext.ExampleInstrumentedTest 4
+scut.carson_ho.diy_view.ExampleInstrumentedTest 5

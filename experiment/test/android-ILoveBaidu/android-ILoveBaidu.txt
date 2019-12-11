@@ -1,3 +1,3 @@
-866 865 2
-869 865 1
-867 868 3
+ApplicationTestCase in.srain.demos.fuckbaidu.ApplicationTest 1
+android::test::ApplicationTestCaseApplication in.srain.demos.fuckbaidu.ApplicationTest 2
+AppCompatActivity in.srain.demos.fuckbaidu.MainActivity 3

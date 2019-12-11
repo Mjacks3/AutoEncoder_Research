@@ -1,0 +1,7 @@
+hello.ApplicationTest 0
+hello.Runner 1
+CommandLineRunner 1
+hello.Runner.run 2
+hello.Receiver.getLatch 2
+hello.Receiver 2
+hello.Application 3

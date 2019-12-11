@@ -1,7 +1,7 @@
-881 882 3
-884 883 2
-890 883 1
-886 885 1
-888 886 3
-886 887 1
-885 887 1
+AppCompatActivity com.air.hongbaoauto.AccessibilityService.AirActivity 3
+ApplicationTestCase com.air.hongbaoauto.ApplicationTest 1
+android::test::ApplicationTestCaseApplication com.air.hongbaoauto.ApplicationTest 2
+com.air.hongbaoauto.AccessibilityService.AirAccessibilityService com.air.hongbaoauto.AccessibilityService.AirAccessibilityService.onAccessibilityEvent 1
+AccessibilityService com.air.hongbaoauto.AccessibilityService.AirAccessibilityService 3
+com.air.hongbaoauto.AccessibilityService.AirAccessibilityService.onAccessibilityEvent com.air.hongbaoauto.AccessibilityService.AirAccessibilityService.recycle 1
+com.air.hongbaoauto.AccessibilityService.AirAccessibilityService com.air.hongbaoauto.AccessibilityService.AirAccessibilityService.recycle 1

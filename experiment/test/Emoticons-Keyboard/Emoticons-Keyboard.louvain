@@ -1,0 +1,12 @@
+FragmentActivity 0
+com.learn.testdifferentkeyboard.MainActivity 0
+com.learn.testdifferentkeyboard.EmoticonsGridAdapter.KeyClickListener 0
+com.learn.testdifferentkeyboard.EmoticonsGridAdapter 1
+BaseAdapter 1
+com.learn.testdifferentkeyboard.ChatListAdapter 1
+Context 1
+PagerAdapter 2
+com.learn.testdifferentkeyboard.EmoticonsPagerAdapter 2
+ArrayListString 2
+com.learn.testdifferentkeyboard.EmoticonsGridAdapter.getView 3
+com.learn.testdifferentkeyboard.EmoticonsGridAdapter.KeyClickListener.keyClickedIndex 3

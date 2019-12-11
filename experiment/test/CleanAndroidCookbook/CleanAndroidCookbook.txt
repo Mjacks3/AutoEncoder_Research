@@ -1,1 +1,1 @@
-2114 2113 2
+android::test::ApplicationTestCaseApplication pro.averin.anton.clean.android.cookbook.ApplicationTest 2

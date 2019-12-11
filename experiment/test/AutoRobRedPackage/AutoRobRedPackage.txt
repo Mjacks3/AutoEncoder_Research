@@ -1,4 +1,4 @@
-189 188 2
-187 188 1
-190 191 3
-193 194 3
+ApplicationTestCase xyz.isunxu.robredpackage.ApplicationTest 1
+android::test::ApplicationTestCaseApplication xyz.isunxu.robredpackage.ApplicationTest 2
+AccessibilityService xyz.isunxu.robredpackage.service.RobRedPackageService 3
+AppCompatActivity xyz.isunxu.robredpackage.activity.MainActivity 3

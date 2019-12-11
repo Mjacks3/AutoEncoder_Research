@@ -1,8 +1,8 @@
-1767 1768 2
-1770 1769 3
-1768 1836 1
-1836 1837 1
-1768 1837 1
-1768 1838 1
-1768 1839 1
-1838 1839 1
+ScrollView android.lib.widget.verticalmarqueetextview.VerticalMarqueeTextView 2
+Activity android.lib.widget.verticalmarqueetextview.demo.ExampleActivity 3
+android.lib.widget.verticalmarqueetextview.VerticalMarqueeTextView android.lib.widget.verticalmarqueetextview.VerticalMarqueeTextView.onAttachedToWindow 1
+android.lib.widget.verticalmarqueetextview.VerticalMarqueeTextView android.lib.widget.verticalmarqueetextview.VerticalMarqueeTextView.startMarquee 1
+android.lib.widget.verticalmarqueetextview.VerticalMarqueeTextView.onAttachedToWindow android.lib.widget.verticalmarqueetextview.VerticalMarqueeTextView.startMarquee 1
+android.lib.widget.verticalmarqueetextview.VerticalMarqueeTextView android.lib.widget.verticalmarqueetextview.VerticalMarqueeTextView.getTopFadingEdgeStrength 1
+android.lib.widget.verticalmarqueetextview.VerticalMarqueeTextView.getTopFadingEdgeStrength android.lib.widget.verticalmarqueetextview.VerticalMarqueeTextView.setMarqueeSpeed 1
+android.lib.widget.verticalmarqueetextview.VerticalMarqueeTextView android.lib.widget.verticalmarqueetextview.VerticalMarqueeTextView.setMarqueeSpeed 1

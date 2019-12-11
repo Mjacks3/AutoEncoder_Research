@@ -1,0 +1,15 @@
+net.danlew.rxsubscriptions.NeverActivity 0
+Activity 0
+net.danlew.rxsubscriptions.TempLeakingActivity 0
+TextView 0
+net.danlew.rxsubscriptions.MainActivity 0
+net.danlew.rxsubscriptions.LeakingSubjectActivity 0
+net.danlew.rxsubscriptions.LeakingActivity 0
+RxActivity 1
+net.danlew.rxsubscriptions.LifecycleActivity 1
+net.danlew.rxsubscriptions.SubscriptionsApplication 2
+Application 2
+net.danlew.rxsubscriptions.MainActivity.onCreate 3
+net.danlew.rxsubscriptions.LeakingActivity.createIntent 3
+net.danlew.rxsubscriptions.LeakingSubjectActivity.createIntent 3
+net.danlew.rxsubscriptions.TempLeakingActivity.createIntent 3

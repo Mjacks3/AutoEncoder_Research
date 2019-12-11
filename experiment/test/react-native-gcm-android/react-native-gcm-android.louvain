@@ -1,0 +1,14 @@
+com.oney.gcm.GcmPackage 0
+ReactPackage 0
+com.oney.gcm.MainReactPackage 0
+com.oney.gcm.GcmBroadcastReceiver 1
+BroadcastReceiver 1
+com.oney.gcm.GcmRegistrationService 2
+IntentService 2
+com.oney.gcm.BackgroundService 3
+Service 3
+com.oney.gcm.GcmModule 4
+ReactContextBaseJavaModule 4
+LifecycleEventListener 4
+com.oney.gcm.RNGcmListenerService 5
+GcmListenerService 5

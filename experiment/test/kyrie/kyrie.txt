@@ -1,2 +1,2 @@
-4933 4932 3
-4933 4934 3
+Fragment com.example.kyrie.PathMorphFragment 3
+Fragment com.example.kyrie.PolygonsFragment 3

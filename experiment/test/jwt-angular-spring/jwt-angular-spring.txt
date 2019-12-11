@@ -1,1 +1,1 @@
-2213 2214 3
+GenericFilterBean com.nibado.example.jwtangspr.JwtFilter 3

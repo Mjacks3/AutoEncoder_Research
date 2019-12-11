@@ -1,2 +1,2 @@
-1240 1239 2
-1250 1239 1
+android::test::ApplicationTestCaseApplication proguard.annotations.app.ApplicationTest 2
+ApplicationTestCase proguard.annotations.app.ApplicationTest 1

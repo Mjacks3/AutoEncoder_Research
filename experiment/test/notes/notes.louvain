@@ -1,0 +1,11 @@
+cleanfile.delete_dir 0
+cleanfile 0
+cleanfile.del_file 0
+com.kedacom.tsu.util.CacheMap.put 1
+com.kedacom.tsu.util.CacheMap 1
+com.kedacom.tsu.util.CacheMap.clearTimeOutCache 1
+mysql2redis.deleteIau 2
+mysql2redis 2
+mysql2redis.loadTask 2
+mysql2redis.deleteTask 2
+mysql2redis.loadIau 2

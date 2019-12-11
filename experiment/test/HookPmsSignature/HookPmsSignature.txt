@@ -1,8 +1,8 @@
-1304 1305 3
-1307 1306 3
-1309 1308 3
-1309 1313 3
-1306 1315 1
-1315 1318 2
-1319 1318 1
-1306 1319 1
+InvocationHandler cn.wjdiankong.hookpms.PmsHookBinderInvocationHandler 3
+cn.wjdiankong.hookdemo.MyApplication cn.wjdiankong.hookpms.ServiceManagerWraper 1
+cn.wjdiankong.hookdemo.MyApplication.attachBaseContext cn.wjdiankong.hookpms.ServiceManagerWraper.hookPMS 1
+cn.wjdiankong.hookpms.ServiceManagerWraper cn.wjdiankong.hookpms.ServiceManagerWraper.hookPMS 2
+cn.wjdiankong.hookdemo.MyApplication cn.wjdiankong.hookdemo.MyApplication.attachBaseContext 1
+Activity cn.wjdiankong.hookdemo.MainActivity 3
+Application cn.wjdiankong.hookdemo.MyApplication 3
+InvocationHandler com.wlanplus.chang.PmsHookBinderInvocationHandler 3

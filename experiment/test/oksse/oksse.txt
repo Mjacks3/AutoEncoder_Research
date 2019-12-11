@@ -1,8 +1,8 @@
-148 146 1
-148 147 1
-146 149 1
-147 149 1
-151 150 1
-147 150 1
-148 151 1
-151 154 1
+com.here.oksse.ITOkSse com.here.oksse.OkSse 1
+com.here.oksse.ITOkSse com.here.oksse.ITOkSse.testNewServerSentEventConnection 1
+com.here.oksse.ITOkSse.testNewServerSentEventConnection com.here.oksse.OkSse.newServerSentEvent 1
+com.here.oksse.OkSse com.here.oksse.OkSse.newServerSentEvent 1
+com.here.oksse.ITOkSse.testNewServerSentEventConnection com.here.oksse.ServerSentEvent.close 1
+com.here.oksse.ServerSentEvent com.here.oksse.ServerSentEvent.close 1
+com.here.oksse.ITOkSse com.here.oksse.ServerSentEvent 1
+com.here.oksse.ServerSentEvent com.here.oksse.RealServerSentEvent 1

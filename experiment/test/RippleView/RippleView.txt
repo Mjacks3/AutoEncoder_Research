@@ -1,3 +1,3 @@
-1030 1031 3
-1032 1031 1
-1033 1032 3
+com.indris.material.RippleView com.indris.sample.RippleViewActivity 1
+Activity com.indris.sample.RippleViewActivity 3
+Button com.indris.material.RippleView 3

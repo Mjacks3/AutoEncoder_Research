@@ -1,2 +1,2 @@
-2853 2852 3
-2854 2855 2
+ReactContextBaseJavaModule me.neo.react.StatusBarModule 3
+ReactPackage me.neo.react.StatusBarPackage 2

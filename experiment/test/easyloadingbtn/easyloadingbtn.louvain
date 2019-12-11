@@ -1,0 +1,14 @@
+ActionBarActivity 0
+com.shadev.easyloadingdemo.MainActivity 0
+Button 0
+com.shadev.easyloadingdemo.ApplicationTest 1
+android::test::ApplicationTestCaseApplication 1
+ApplicationTestCase 1
+com.shadev.easyloadingdemo.MainActivity.onCreate 2
+com.shadev.easyloadingdemo.view.LoadingButton.setCallback 2
+com.shadev.easyloadingdemo.view.LoadingButton 3
+com.shadev.easyloadingdemo.view.LoadingButton.Callback 3
+View 3
+RectF 3
+com.shadev.easyloadingdemo.MainActivity.startBtnClicked 4
+com.shadev.easyloadingdemo.view.LoadingButton.setTargetProgress 4

@@ -1,0 +1,17 @@
+com.ebr163.attributesdispatcher.internal.AttributesProcessor 0
+AbstractProcessor 0
+com.ebr163.attributesdispatcher.attr.FloatAttr 1
+com.ebr163.android.attributesdispatcher.ExampleUnitTest 2
+com.ebr163.attributesdispatcher.CustomView 3
+com.ebr163.attributesdispatcher.attr.IntAttr 4
+com.ebr163.attributesdispatcher.attr.BooleanAttr 5
+com.ebr163.android.attributesdispatcher.view.MyCustomView 6
+EditText 6
+AppCompatActivity 7
+com.ebr163.android.attributesdispatcher.MainActivity 7
+com.ebr163.attributesdispatcher.Attribute 8
+com.ebr163.android.attributesdispatcher.ExampleInstrumentedTest 9
+com.ebr163.attributesdispatcher.attr.DimenAttr 10
+com.ebr163.attributesdispatcher.attr.ReferenceAttr 11
+com.ebr163.attributesdispatcher.attr.ColorAttr 12
+com.ebr163.attributesdispatcher.attr.StringAttr 13

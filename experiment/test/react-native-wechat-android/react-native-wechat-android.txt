@@ -1,5 +1,5 @@
-0 1 2
-6 2 1
-5 2 1
-4 2 1
-3 2 3
+ReactPackage com.heng.wechat.WeChatPackage 2
+Bitmap com.heng.wechat.WeChatModule 1
+ReactApplicationContext com.heng.wechat.WeChatModule 1
+IWXAPI com.heng.wechat.WeChatModule 1
+ReactContextBaseJavaModule com.heng.wechat.WeChatModule 3

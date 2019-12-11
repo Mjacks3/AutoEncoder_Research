@@ -1,6 +1,6 @@
-2173 2174 2
-2174 2175 1
-2176 2175 3
-2174 2177 1
-2175 2178 1
-2177 2178 1
+ReactPackage com.burnweb.rnpermissions.RNPermissionsPackage 2
+com.burnweb.rnpermissions.RNPermissionsPackage com.burnweb.rnpermissions.RNPermissionsModule 1
+ReactContextBaseJavaModule com.burnweb.rnpermissions.RNPermissionsModule 3
+com.burnweb.rnpermissions.RNPermissionsPackage com.burnweb.rnpermissions.RNPermissionsPackage.onRequestPermissionsResult 1
+com.burnweb.rnpermissions.RNPermissionsPackage.onRequestPermissionsResult com.burnweb.rnpermissions.RNPermissionsModule.onRequestPermissionsResult 1
+com.burnweb.rnpermissions.RNPermissionsModule com.burnweb.rnpermissions.RNPermissionsModule.onRequestPermissionsResult 1

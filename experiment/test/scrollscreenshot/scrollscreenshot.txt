@@ -1,5 +1,5 @@
-1578 1579 3
-1578 1580 3
-1582 1581 1
-1581 1583 1
-1582 1583 1
+IParameterValidator com.pgssoft.scrollscreenshot.Params.DirectionValidator 3
+IParameterValidator com.pgssoft.scrollscreenshot.Params.StichtValidator 3
+com.pgssoft.scrollscreenshot.ScrollScreenShot com.pgssoft.scrollscreenshot.ScrollScreenShot.main 1
+com.pgssoft.scrollscreenshot.ScrollScreenShot.main com.pgssoft.scrollscreenshot.ScrollScreenShot.process 1
+com.pgssoft.scrollscreenshot.ScrollScreenShot com.pgssoft.scrollscreenshot.ScrollScreenShot.process 1

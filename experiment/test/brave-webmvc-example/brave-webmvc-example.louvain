@@ -1,0 +1,10 @@
+brave.webmvc.Backend 0
+brave.webmvc.Frontend 1
+RestTemplate 1
+HttpClient 1
+brave.webmvc.AppConfiguration 1
+brave.webmvc.TracingConfiguration 2
+WebMvcConfigurerAdapter 2
+SpanCustomizingAsyncHandlerInterceptor 2
+brave.webmvc.Initializer 3
+AbstractAnnotationConfigDispatcherServletInitializer 3

@@ -1,0 +1,9 @@
+com.pylonproducts.wifiwizard.WifiWizard 0
+CordovaPlugin 0
+CDVPlugin 1
+NXWWifiWizard 1
+src/ios/NXWWifiWizard.h 2
+Cordova/CDV.h 2
+src/ios/NXWWifiWizard.m 2
+NXWWifiWizard.h 2
+SystemConfiguration/CaptiveNetwork.h 2

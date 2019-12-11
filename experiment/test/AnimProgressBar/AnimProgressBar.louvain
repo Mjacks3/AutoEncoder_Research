@@ -1,0 +1,15 @@
+ApplicationTestCase 0
+com.mao.anim_pb.ApplicationTest 0
+com.mao.animprogressbar.ApplicationTest 0
+android::test::ApplicationTestCaseApplication 0
+com.mao.animprogressbar.MainActivity 1
+AppCompatActivity 1
+com.mao.animprogressbar.MainActivity.onCreate 1
+com.mao.anim_pb.AnimProgressBar.setBitmapBuffer2 1
+com.mao.animprogressbar.ExampleUnitTest 2
+com.mao.anim_pb.AnimProgressBar 3
+ProgressBar 3
+com.mao.anim_pb.Util 3
+com.mao.anim_pb.AnimProgressBar.AnimProgressBar 3
+com.mao.anim_pb.Util.dip2px 3
+com.mao.anim_pb.ExampleUnitTest 4

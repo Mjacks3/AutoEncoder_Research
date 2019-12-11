@@ -1,7 +1,7 @@
-2244 2243 2
-2249 2243 1
-2246 2245 1
-2248 2246 3
-2250 2246 1
-2245 2247 1
-2246 2247 1
+android::test::ApplicationTestCaseApplication com.sn.edittextwithtag.ApplicationTest 2
+ApplicationTestCase com.sn.edittextwithtag.ApplicationTest 1
+com.sn.edittextwithtag.MainActivity com.sn.edittextwithtag.MainActivity.onCreate 1
+AppCompatActivity com.sn.edittextwithtag.MainActivity 3
+EditText com.sn.edittextwithtag.MainActivity 1
+com.sn.edittextwithtag.MainActivity com.sn.edittextwithtag.MainActivity.setTag 1
+com.sn.edittextwithtag.MainActivity.onCreate com.sn.edittextwithtag.MainActivity.setTag 1

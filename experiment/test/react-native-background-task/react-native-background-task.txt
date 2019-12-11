@@ -1,6 +1,6 @@
-182 183 2
-185 184 3
-187 186 3
-188 189 3
-192 190 3
-191 190 3
+ReactPackage com.jamesisaac.rnbackgroundtask.BackgroundTaskPackage 2
+Job com.jamesisaac.rnbackgroundtask.RNJob 3
+HeadlessJsTaskService com.jamesisaac.rnbackgroundtask.HeadlessTaskService 3
+JobCreator com.jamesisaac.rnbackgroundtask.RNJobCreator 3
+ReactContextBaseJavaModule com.jamesisaac.rnbackgroundtask.BackgroundTaskModule 3
+LifecycleEventListener com.jamesisaac.rnbackgroundtask.BackgroundTaskModule 3

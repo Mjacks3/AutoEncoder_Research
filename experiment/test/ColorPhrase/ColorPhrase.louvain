@@ -1,0 +1,16 @@
+com.example.colorphrase.MainActivity 0
+Activity 0
+com.example.colorphrase.R.layout 1
+com.example.colorphrase.MainActivity.onCreate 2
+com.medusa.lib.ColorPhrase.withSeparator 2
+com.medusa.lib.ColorPhrase.from 3
+com.medusa.lib.ColorPhrase 3
+com.example.colorphrase.R.menu 4
+com.example.colorphrase.R.dimen 5
+com.example.colorphrase.R.attr 6
+com.example.colorphrase.R 7
+com.example.colorphrase.BuildConfig 8
+com.example.colorphrase.R.id 9
+com.example.colorphrase.R.string 10
+com.example.colorphrase.R.drawable 11
+com.example.colorphrase.R.style 12

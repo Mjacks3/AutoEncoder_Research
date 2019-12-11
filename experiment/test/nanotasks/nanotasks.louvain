@@ -1,0 +1,10 @@
+com.nanotasks.nanotasksample.ApplicationTest 0
+android::test::ApplicationTestCaseApplication 0
+ApplicationTestCase 0
+com.nanotasks.CompletionT 1
+com.nanotasks.nanotasksample.MainActivity 2
+ActionBarActivity 2
+com.nanotasks.Tasks 3
+com.nanotasks.nanotasksample.MainActivity.onCreate 3
+com.nanotasks.Tasks.executeInBackground 3
+com.nanotasks.BackgroundWorkT 4

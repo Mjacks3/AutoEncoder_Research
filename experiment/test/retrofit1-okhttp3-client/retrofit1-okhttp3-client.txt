@@ -1,7 +1,7 @@
-1155 1150 1
-1152 1151 1
-1154 1153 1
-1152 1153 2
-1151 1153 1
-1152 1154 1
-1156 1157 3
+MockWebServer com.jakewharton.retrofit.Ok3ClientIntegrationTest 1
+com.jakewharton.retrofit.Ok3ClientTest com.jakewharton.retrofit.Ok3ClientTest.emptyResponse 1
+com.jakewharton.retrofit.Ok3ClientTest.responseNoContentType com.jakewharton.retrofit.Ok3ClientTest.response 1
+com.jakewharton.retrofit.Ok3ClientTest.emptyResponse com.jakewharton.retrofit.Ok3ClientTest.response 1
+com.jakewharton.retrofit.Ok3ClientTest com.jakewharton.retrofit.Ok3ClientTest.response 2
+com.jakewharton.retrofit.Ok3ClientTest com.jakewharton.retrofit.Ok3ClientTest.responseNoContentType 1
+Client com.jakewharton.retrofit.Ok3Client 3

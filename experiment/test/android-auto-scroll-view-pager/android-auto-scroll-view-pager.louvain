@@ -1,0 +1,13 @@
+Scroller 0
+cn.trinea.android.view.autoscrollviewpager.CustomDurationScroller 0
+cn.trinea.android.view.autoscrollviewpager.CustomDurationScroller.setScrollDurationFactor 0
+cn.trinea.android.view.autoscrollviewpager.AutoScrollViewPager.dispatchTouchEvent 1
+cn.trinea.android.view.autoscrollviewpager.AutoScrollViewPager.stopAutoScroll 1
+cn.trinea.android.view.autoscrollviewpager.AutoScrollViewPager.startAutoScroll 1
+cn.trinea.android.view.autoscrollviewpager.AutoScrollViewPager.scrollOnce 1
+cn.trinea.android.view.autoscrollviewpager.AutoScrollViewPager 2
+cn.trinea.android.view.autoscrollviewpager.AutoScrollViewPager.setCycle 2
+cn.trinea.android.view.autoscrollviewpager.AutoScrollViewPager.isCycle 2
+ViewPager 2
+cn.trinea.android.view.autoscrollviewpager.AutoScrollViewPager.setBorderAnimation 2
+cn.trinea.android.view.autoscrollviewpager.AutoScrollViewPager.isBorderAnimation 2

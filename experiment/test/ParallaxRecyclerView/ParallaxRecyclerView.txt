@@ -1,2 +1,2 @@
-2902 2903 3
-2905 2904 2
+AppCompatActivity com.nanbox.parallaxrecyclerview.sample.MainActivity 3
+RecyclerView com.nanbox.parallaxrecyclerview.ParallaxRecyclerView 2

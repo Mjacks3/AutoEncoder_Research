@@ -1,5 +1,5 @@
-30 29 2
-28 29 1
-257 256 3
-260 259 1
-258 259 3
+AppCompatActivity com.zuck.swipe.sunbaby.MainActivity 3
+View com.zuck.swipe.sunbaby.view.SunBabyLoadingView 3
+Paint com.zuck.swipe.sunbaby.view.SunBabyLoadingView 1
+android::test::ApplicationTestCaseApplication com.zuck.swipe.sunbaby.ApplicationTest 2
+ApplicationTestCase com.zuck.swipe.sunbaby.ApplicationTest 1

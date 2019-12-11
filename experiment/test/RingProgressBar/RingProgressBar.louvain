@@ -1,0 +1,15 @@
+io.netopen.hotbitmapgg.ringprogressbar.MainActivity 0
+AppCompatActivity 0
+io.netopen.hotbitmapgg.library.ExampleUnitTest 1
+io.netopen.hotbitmapgg.library.ApplicationTest 2
+android::test::ApplicationTestCaseApplication 2
+io.netopen.hotbitmapgg.ringprogressbar.ApplicationTest 2
+ApplicationTestCase 2
+io.netopen.hotbitmapgg.library.view.RingProgressBar.setProgress 3
+io.netopen.hotbitmapgg.library.view.RingProgressBar 3
+io.netopen.hotbitmapgg.library.view.RingProgressBar.OnProgressListener.progressToComplete 3
+io.netopen.hotbitmapgg.library.view.RingProgressBar.OnProgressListener 3
+View 3
+io.netopen.hotbitmapgg.library.view.RingProgressBar.RingProgressBar 3
+io.netopen.hotbitmapgg.library.view.RingProgressBar.dp2px 3
+io.netopen.hotbitmapgg.ringprogressbar.ExampleUnitTest 4

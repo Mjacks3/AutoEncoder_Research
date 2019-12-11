@@ -1,5 +1,5 @@
-2228 2229 3
-2231 2230 3
-2234 2233 3
-2237 2235 1
-2236 2235 2
+RobolectricGradleTestRunner com.example.myapplication.CustomRobolectricRunner 3
+ActionBarActivity com.example.myapplication.MainActivity 3
+Fragment com.example.myapplication.MainActivity.PlaceholderFragment 3
+android::test::ApplicationTestCaseApplication com.example.myapplication.ApplicationTest 2
+ApplicationTestCase com.example.myapplication.ApplicationTest 1

@@ -1,0 +1,10 @@
+TextSwitcher 0
+ezy.ui.view.NoticeView 0
+AppCompatActivity 1
+ezy.demo.noticeview.MainActivity 1
+OnClickListener 1
+View::OnClickListener 1
+ezy.demo.noticeview.MainActivity.onCreate 2
+ezy.ui.view.NoticeView.start 2
+ezy.demo.noticeview.MainActivity.onClick 2
+ezy.ui.view.NoticeView.getIndex 2

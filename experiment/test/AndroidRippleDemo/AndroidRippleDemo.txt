@@ -1,5 +1,5 @@
-2528 2529 2
-2531 2529 2
-2528 2530 1
-2532 2533 1
-2534 2533 2
+Activity trickyandroid.com.rippletest.MainActivity 2
+View::OnTouchListener trickyandroid.com.rippletest.MainActivity 2
+Activity OnTouchListener 1
+android::test::ApplicationTestCaseApplication trickyandroid.com.rippletest.ApplicationTest 2
+ApplicationTestCase trickyandroid.com.rippletest.ApplicationTest 1

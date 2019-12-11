@@ -1,0 +1,11 @@
+agency.tango.databindingrxjava.MainActivity.MainViewModel 0
+agency.tango.databindingrxjava.MainActivity.MainViewModel.MainViewModel 0
+ObservableFieldString 0
+ObservableBoolean 0
+agency.tango.databindingrxjava.StringUtils.isNotNullOrEmpty 1
+agency.tango.databindingrxjava.StringUtils 1
+agency.tango.databindingrxjava.StringUtils.isNullOrEmpty 1
+agency.tango.databindingrxjava.RxUtils 2
+agency.tango.databindingrxjava.MainViewModelTests 3
+agency.tango.databindingrxjava.MainActivity 4
+AppCompatActivity 4

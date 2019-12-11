@@ -1,5 +1,5 @@
-588 589 3
-591 590 3
-592 593 2
-596 595 2
-594 595 1
+ActionBarActivity com.inthecheesefactory.example.adjustableimageview.MainActivity 3
+ImageButton com.inthecheesefactory.thecheeselibrary.widget.AdjustableImageButton 3
+ImageView com.inthecheesefactory.thecheeselibrary.widget.AdjustableImageView 2
+android::test::ApplicationTestCaseApplication com.inthecheesefactory.example.adjustableimageview.ApplicationTest 2
+ApplicationTestCase com.inthecheesefactory.example.adjustableimageview.ApplicationTest 1

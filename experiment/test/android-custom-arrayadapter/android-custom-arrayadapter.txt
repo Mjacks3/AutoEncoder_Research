@@ -1,7 +1,7 @@
-2491 2492 1
-2495 2492 2
-2494 2493 3
-2496 2497 3
-2500 2497 1
-2499 2498 2
-2501 2498 1
+ArrayAdapter demo.example.com.customarrayadapter.AndroidFlavorAdapter 1
+android::widget::ArrayAdapterAndroidFlavor demo.example.com.customarrayadapter.AndroidFlavorAdapter 2
+ActionBarActivity demo.example.com.customarrayadapter.MainActivity 3
+demo.example.com.customarrayadapter.AndroidFlavor demo.example.com.customarrayadapter.MainActivityFragment 1
+Fragment demo.example.com.customarrayadapter.MainActivityFragment 3
+ApplicationTestCase demo.example.com.customarrayadapter.ApplicationTest 1
+android::test::ApplicationTestCaseApplication demo.example.com.customarrayadapter.ApplicationTest 2

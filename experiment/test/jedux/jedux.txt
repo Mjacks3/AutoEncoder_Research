@@ -1,7 +1,7 @@
-1429 1428 3
-1431 1430 1
-1430 1432 1
-1433 1432 1
-1431 1433 1
-1435 1436 2
-1439 1436 2
+trikita.jedux.StoreA,S.MiddlewareA,S trikita::jedux::LoggerA,S 2
+trikita::jedux::StoreA,S::Middleware trikita::jedux::LoggerA,S 2
+Activity com.example.jedux.MainActivity 3
+trikita.jedux.Logger trikita.jedux.Logger.dispatch 1
+trikita.jedux.Logger.dispatch trikita.jedux.Store.getState 1
+trikita.jedux.Store trikita.jedux.Store.getState 1
+trikita.jedux.Logger trikita.jedux.Store 1

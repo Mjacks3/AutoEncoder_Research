@@ -1,7 +1,7 @@
-1844 1845 2
-1848 1845 1
-1847 1846 3
-1847 1848 3
-1848 1849 1
-1845 1850 1
-1849 1850 1
+com.alexjlockwood.activity.transitions.DetailsActivity com.alexjlockwood.activity.transitions.DetailsFragment 1
+Fragment com.alexjlockwood.activity.transitions.DetailsFragment 2
+Activity com.alexjlockwood.activity.transitions.MainActivity 3
+Activity com.alexjlockwood.activity.transitions.DetailsActivity 3
+com.alexjlockwood.activity.transitions.DetailsActivity com.alexjlockwood.activity.transitions.DetailsActivity.finishAfterTransition 1
+com.alexjlockwood.activity.transitions.DetailsActivity.finishAfterTransition com.alexjlockwood.activity.transitions.DetailsFragment.newInstance 1
+com.alexjlockwood.activity.transitions.DetailsFragment com.alexjlockwood.activity.transitions.DetailsFragment.newInstance 1

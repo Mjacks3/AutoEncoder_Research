@@ -1,7 +1,7 @@
-1291 1292 2
-1292 1293 1
-1295 1294 1
-1293 1294 1
-1292 1295 1
-1296 1295 3
-1297 1295 1
+AbstractMojoTestCase com.github.trecloux.yeoman.YeomanMojoTest 2
+com.github.trecloux.yeoman.YeomanMojoTest com.github.trecloux.yeoman.YeomanMojoTest.test_should_use_npm_cache 1
+com.github.trecloux.yeoman.YeomanMojoTest.test_should_use_npm_cache com.github.trecloux.yeoman.YeomanMojo.execute 1
+com.github.trecloux.yeoman.YeomanMojo com.github.trecloux.yeoman.YeomanMojo.execute 1
+AbstractMojo com.github.trecloux.yeoman.YeomanMojo 3
+com.github.trecloux.yeoman.YeomanMojoTest com.github.trecloux.yeoman.YeomanMojo 1
+File com.github.trecloux.yeoman.YeomanMojo 1

@@ -1,0 +1,17 @@
+Behavior 0
+org.wangchenlong.testcoordinatorlayout.AvatarImageBehavior 0
+CoordinatorLayout::BehaviorCircleImageView 0
+org.wangchenlong.testcoordinatorlayout.ApplicationTest 1
+android::test::ApplicationTestCaseApplication 1
+ApplicationTestCase 1
+AppCompatActivity 2
+org.wangchenlong.testcoordinatorlayout.MainActivity 2
+FrameLayout 2
+LinearLayout 2
+Toolbar 2
+AppBarLayout 2
+ImageView 2
+TextView 2
+org.wangchenlong.testcoordinatorlayout.ExampleUnitTest 3
+org.wangchenlong.testcoordinatorlayout.MainActivity.onCreate 4
+org.wangchenlong.testcoordinatorlayout.MainActivity.startAlphaAnimation 4

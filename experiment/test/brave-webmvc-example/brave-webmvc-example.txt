@@ -1,6 +1,6 @@
-1146 1145 1
-1147 1145 1
-1149 1148 3
-1150 1148 1
-1152 1151 3
-1147 1153 1
+RestTemplate brave.webmvc.Frontend 1
+HttpClient brave.webmvc.Frontend 1
+SpanCustomizingAsyncHandlerInterceptor brave.webmvc.TracingConfiguration 1
+WebMvcConfigurerAdapter brave.webmvc.TracingConfiguration 3
+AbstractAnnotationConfigDispatcherServletInitializer brave.webmvc.Initializer 3
+HttpClient brave.webmvc.AppConfiguration 1

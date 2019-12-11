@@ -1,2 +1,2 @@
-2430 2431 3
-2432 2433 2
+AppCompatActivity com.github.ybq.nougatbootanimation.sample.MainActivity 3
+SpriteContainer com.github.ybq.nougatbootanimation.NougatBoot 2

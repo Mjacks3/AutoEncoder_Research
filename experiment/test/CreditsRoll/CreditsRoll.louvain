@@ -1,0 +1,12 @@
+net.frakbot.creditsrolldemo.MainActivity.onProgressChanged 0
+net.frakbot.creditsroll.CreditsRollView.setScrollPosition 0
+net.frakbot.creditsrolldemo.MainActivity 1
+Activity 1
+OnSeekBarChangeListener 1
+SeekBar::OnSeekBarChangeListener 1
+net.frakbot.creditsroll.CreditsRollView 2
+TextView 2
+net.frakbot.creditsroll.CreditsRollView.CreditsRollView 2
+net.frakbot.creditsroll.CreditsRollView.setAngle 2
+net.frakbot.creditsroll.CreditsRollView.setEndScrollMult 2
+net.frakbot.creditsroll.CreditsRollView.setDistanceFromText 2

@@ -1,0 +1,15 @@
+net.adoptopenjdk.jdkapidiff.JdkApiDiffGenerator.Args 0
+net.adoptopenjdk.jdkapidiff.repackager.JdkRepackager.getVersion 1
+net.adoptopenjdk.jdkapidiff.repackager.JdkRepackager.supportsExports 1
+net.adoptopenjdk.jdkapidiff.JdkApiDiffGenerator 1
+net.adoptopenjdk.jdkapidiff.JdkApiDiffGenerator.main 1
+net.adoptopenjdk.jdkapidiff.repackager.JdkRepackager.getJdkRepackager 1
+net.adoptopenjdk.jdkapidiff.repackager.JdkRepackager 2
+net.adoptopenjdk.jdkapidiff.repackager.JdkRepackager.extractJdkClasses 2
+net.adoptopenjdk.jdkapidiff.repackager.JdkRepackager.mergeJavaApi 2
+net.adoptopenjdk.jdkapidiff.repackager.JdkRepackager.getMergedJarPath 2
+net.adoptopenjdk.jdkapidiff.repackager.Jdk9Repackager 2
+Path 2
+net.adoptopenjdk.jdkapidiff.ProcessExecutor.run 3
+net.adoptopenjdk.jdkapidiff.ProcessExecutor 3
+net.adoptopenjdk.jdkapidiff.repackager.Jdk8Repackager.extractJdkClasses 3

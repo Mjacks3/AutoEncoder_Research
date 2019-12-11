@@ -1,5 +1,5 @@
-1199 1193 1
-1192 1193 3
-1192 1194 3
-1196 1195 3
-1198 1197 3
+shuaicj.example.security.common.JwtAuthenticationConfig shuaicj.example.security.auth.SecurityConfig 1
+WebSecurityConfigurerAdapter shuaicj.example.security.auth.SecurityConfig 3
+WebSecurityConfigurerAdapter shuaicj.example.security.gateway.SecurityConfig 3
+AbstractAuthenticationProcessingFilter shuaicj.example.security.common.JwtUsernamePasswordAuthenticationFilter 3
+OncePerRequestFilter shuaicj.example.security.common.JwtTokenAuthenticationFilter 3

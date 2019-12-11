@@ -1,7 +1,7 @@
-2557 2556 3
-2560 2559 3
-2556 2561 1
-2564 2562 1
-2561 2562 1
-2556 2562 2
-2556 2564 1
+AppCompatTextView com.zhw.cmcm.ColorTextView 3
+AppCompatActivity com.zhw.cmcm.MainActivity 3
+com.zhw.cmcm.ColorTextView com.zhw.cmcm.ColorTextView.ColorTextView 1
+com.zhw.cmcm.ColorTextView com.zhw.cmcm.ColorTextView.color 2
+com.zhw.cmcm.ColorTextView.findAndSetStrColor com.zhw.cmcm.ColorTextView.color 1
+com.zhw.cmcm.ColorTextView.ColorTextView com.zhw.cmcm.ColorTextView.color 1
+com.zhw.cmcm.ColorTextView com.zhw.cmcm.ColorTextView.findAndSetStrColor 1

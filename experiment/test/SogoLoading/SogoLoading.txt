@@ -1,8 +1,8 @@
-2807 2808 3
-2815 2809 1
-2810 2809 2
-2812 2811 2
-2808 2811 1
-2808 2813 1
-2813 2814 1
-2811 2814 1
+ActionBarActivity test.drision.com.loadinganimation.MainActivity 3
+ApplicationTestCase test.drision.com.loadinganimation.ApplicationTest 1
+android::test::ApplicationTestCaseApplication test.drision.com.loadinganimation.ApplicationTest 2
+View test.drision.com.loadinganimation.SoGouBrowserLoading 2
+test.drision.com.loadinganimation.MainActivity test.drision.com.loadinganimation.SoGouBrowserLoading 1
+test.drision.com.loadinganimation.MainActivity test.drision.com.loadinganimation.MainActivity.onCreate 1
+test.drision.com.loadinganimation.SoGouBrowserLoading test.drision.com.loadinganimation.SoGouBrowserLoading.setColor 1
+test.drision.com.loadinganimation.MainActivity.onCreate test.drision.com.loadinganimation.SoGouBrowserLoading.setColor 1

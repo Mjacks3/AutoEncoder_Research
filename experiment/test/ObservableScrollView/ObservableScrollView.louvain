@@ -1,0 +1,13 @@
+com.lcw.view.MainActivity 0
+AppCompatActivity 0
+com.lcw.view.ObservableScrollView.OnObservableScrollViewListener 0
+com.lcw.view.ExampleUnitTest 1
+com.lcw.view.ObservableScrollView.setOnObservableScrollViewListener 2
+com.lcw.view.ObservableScrollView 2
+com.lcw.view.ObservableScrollView.OnObservableScrollViewListener.onObservableScrollViewListener 2
+ScrollView 2
+com.lcw.view.ObservableScrollView.onScrollChanged 2
+com.lcw.view.StatusbarUtils 3
+com.lcw.view.MainActivity.onCreate 3
+com.lcw.view.StatusbarUtils.enableTranslucentStatusbar 3
+com.lcw.view.ExampleInstrumentedTest 4

@@ -1,4 +1,4 @@
-1169 1170 3
-1172 1171 2
-1176 1171 1
-1174 1175 3
+ActionBarActivity com.ecloud.trianglerectanglelabelview.demo.MainActivity 3
+android::test::ApplicationTestCaseApplication com.ecloud.trianglerectanglelabelview.ApplicationTest 2
+ApplicationTestCase com.ecloud.trianglerectanglelabelview.ApplicationTest 1
+TextView com.ecloud.trianglerectanglelabelview.TriangleRectangleLabelView 3

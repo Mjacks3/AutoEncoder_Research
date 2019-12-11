@@ -1,4 +1,4 @@
-1267 1266 3
-1269 1268 3
-1270 1271 3
-1269 1272 3
+BaseColumns com.example.android.pets.data.PetContract.PetEntry 3
+AppCompatActivity com.example.android.pets.CatalogActivity 3
+SQLiteOpenHelper com.example.android.pets.data.PetDbHelper 3
+AppCompatActivity com.example.android.pets.EditorActivity 3

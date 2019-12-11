@@ -1,5 +1,5 @@
-1142 1135 1
-1136 1135 2
-1139 1137 1
-1138 1137 3
-1140 1141 3
+ApplicationTestCase com.yolocc.smartisantime.ApplicationTest 1
+android::test::ApplicationTestCaseApplication com.yolocc.smartisantime.ApplicationTest 2
+View com.yolocc.smartisantime.SmartisanTime 3
+Paint com.yolocc.smartisantime.SmartisanTime 1
+AppCompatActivity com.yolocc.smartisantime.MainActivity 3

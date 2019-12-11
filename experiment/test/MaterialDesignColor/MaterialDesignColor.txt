@@ -1,5 +1,5 @@
-2435 2434 3
-2438 2437 2
-2441 2437 1
-2441 2439 1
-2438 2439 2
+AppCompatActivity com.zzhoujay.materialcolor.MainActivity 3
+ApplicationTestCase com.zzhoujay.materialcolor.ApplicationTest 1
+android::test::ApplicationTestCaseApplication com.zzhoujay.materialcolor.ApplicationTest 2
+ApplicationTestCase com.zzhoujay.materialcolors.ApplicationTest 1
+android::test::ApplicationTestCaseApplication com.zzhoujay.materialcolors.ApplicationTest 2

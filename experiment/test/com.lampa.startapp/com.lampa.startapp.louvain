@@ -1,0 +1,14 @@
+com.lampa.startapp.Assets 0
+CordovaPlugin 0
+com.lampa.startapp.Assets.getIntentValueString 0
+com.lampa.startapp.Assets.parseExtraName 0
+com.lampa.startapp.startApp.execute 1
+com.lampa.startapp.startApp.start 1
+com.lampa.startapp.Assets.getIntentValue 1
+com.lampa.startapp.startApp 1
+src/ios/startApp.h 2
+src/ios/startApp.m 2
+Cordova/CDV.h 2
+startApp.h 2
+CDVPlugin 3
+startApp 3

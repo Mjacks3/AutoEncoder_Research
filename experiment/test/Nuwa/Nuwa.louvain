@@ -1,0 +1,17 @@
+Application 0
+cn.jiajixin.nuwasample.NuwaApplication 0
+cn.jiajixin.nuwa.Nuwa 1
+cn.jiajixin.nuwasample.NuwaApplication.attachBaseContext 1
+cn.jiajixin.nuwa.Nuwa.init 1
+cn.jiajixin.nuwa.util.AssetUtils.copyAsset 1
+cn.jiajixin.nuwa.util.AssetUtils 1
+cn.jiajixin.nuwa.Nuwa.loadPatch 1
+cn.jiajixin.nuwa.util.DexUtils.injectDexAtFirst 2
+cn.jiajixin.nuwa.util.DexUtils 2
+cn.jiajixin.nuwa.util.ReflectionUtils.setField 2
+cn.jiajixin.nuwa.util.ReflectionUtils 2
+cn.jiajixin.nuwa.util.ReflectionUtils.getField 2
+cn.jiajixin.nuwasample.MainActivity 3
+AppCompatActivity 3
+cn.jiajixin.nuwa.Hack 4
+cn.jiajixin.nuwasample.Hello.Hello 5

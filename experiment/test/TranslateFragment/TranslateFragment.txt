@@ -1,3 +1,3 @@
-2630 2629 3
-2632 2631 3
-2633 2634 2
+ListFragment com.trickyandroid.fragmenttranslate.app.SlidingListFragment 3
+Activity com.trickyandroid.fragmenttranslate.app.MainActivity 3
+RelativeLayout com.trickyandroid.fragmenttranslate.app.view.SlidingRelativeLayout 2

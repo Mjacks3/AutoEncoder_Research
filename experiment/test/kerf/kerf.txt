@@ -1,5 +1,5 @@
-372 371 1
-374 373 1
-373 375 1
-374 375 1
-376 377 1
+struct kerf0 1
+py-kerf-net py-kerf-net.kerf_sync_json_send 1
+py-kerf-net.kerf_sync_json_send py-kerf-net.recv_n 1
+py-kerf-net py-kerf-net.recv_n 1
+include/kerf_api.h stdint.h 1

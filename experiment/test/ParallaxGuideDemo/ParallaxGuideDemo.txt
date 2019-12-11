@@ -1,4 +1,4 @@
-661 662 1
-667 662 2
-664 663 2
-666 665 3
+ApplicationTestCase cn.iwgang.parallaxguidedemo.parallaxguidedemo.ApplicationTest 1
+android::test::ApplicationTestCaseApplication cn.iwgang.parallaxguidedemo.parallaxguidedemo.ApplicationTest 2
+PagerAdapter cn.iwgang.parallaxguidedemo.ViewPaperAdapter 2
+ActionBarActivity cn.iwgang.parallaxguidedemo.MainActivity 3

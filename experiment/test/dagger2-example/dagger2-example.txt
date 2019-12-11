@@ -1,8 +1,8 @@
-1315 1130 1
-1133 1134 1
-1137 1134 2
-1315 1314 3
-1140 1316 1
-1128 1316 3
-1139 1316 1
-1132 1316 1
+Application com.codepath.daggerexample.MyApp 3
+com.codepath.daggerexample.network.interfaces.GitHubApiInterface com.codepath.daggerexample.MainActivity 1
+Retrofit com.codepath.daggerexample.MainActivity 1
+AppCompatActivity com.codepath.daggerexample.MainActivity 3
+SharedPreferences com.codepath.daggerexample.MainActivity 1
+Application com.codepath.daggerexample.di.modules.AppModule 1
+android::test::ApplicationTestCaseApplication com.codepath.daggerexample.ApplicationTest 2
+ApplicationTestCase com.codepath.daggerexample.ApplicationTest 1

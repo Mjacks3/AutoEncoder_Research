@@ -1,8 +1,8 @@
-2371 2370 1
-2377 2371 3
-2370 2372 1
-2371 2372 2
-2372 2373 2
-2374 2373 2
-2371 2374 2
-2376 2375 3
+com.sample.heanvenlyupdate.MainActivity com.sample.heanvenlyupdate.MainActivity.onCreate 1
+AppCompatActivity com.sample.heanvenlyupdate.MainActivity 3
+com.sample.heanvenlyupdate.MainActivity com.sample.heanvenlyupdate.MainActivity.DownLoad 2
+com.sample.heanvenlyupdate.MainActivity.onCreate com.sample.heanvenlyupdate.MainActivity.DownLoad 1
+com.sample.heanvenlyupdate.MainActivity.DownLoad com.sample.heanvenlyupdate.DownLoad.xUitlsDownLoad 2
+com.sample.heanvenlyupdate.DownLoad com.sample.heanvenlyupdate.DownLoad.xUitlsDownLoad 2
+com.sample.heanvenlyupdate.MainActivity com.sample.heanvenlyupdate.DownLoad 2
+Application com.sample.heanvenlyupdate.MyApplication 3

@@ -1,7 +1,7 @@
-7 6 3
-6 14 1
-18 15 1
-14 15 1
-16 15 2
-6 16 2
-6 18 1
+View com.vipulasri.ticketview.TicketView 3
+com.vipulasri.ticketview.TicketView com.vipulasri.ticketview.TicketView.setTicketElevation 1
+com.vipulasri.ticketview.TicketView.setTicketElevation com.vipulasri.ticketview.Utils.dpToPx 1
+com.vipulasri.ticketview.TicketView.onDraw com.vipulasri.ticketview.Utils.dpToPx 1
+com.vipulasri.ticketview.Utils com.vipulasri.ticketview.Utils.dpToPx 2
+com.vipulasri.ticketview.TicketView com.vipulasri.ticketview.Utils 2
+com.vipulasri.ticketview.TicketView com.vipulasri.ticketview.TicketView.onDraw 1

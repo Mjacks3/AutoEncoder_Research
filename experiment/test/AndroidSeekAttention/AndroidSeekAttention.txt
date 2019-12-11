@@ -1,5 +1,5 @@
-2229 2230 3
-2230 2231 1
-2231 2232 1
-2230 2232 1
-2234 2233 2
+Activity tada.com.example.bruce.androidtada.MyActivity 3
+tada.com.example.bruce.androidtada.MyActivity tada.com.example.bruce.androidtada.MyActivity.onCreate 1
+tada.com.example.bruce.androidtada.MyActivity.onCreate tada.com.example.bruce.androidtada.MyActivity.tada 1
+tada.com.example.bruce.androidtada.MyActivity tada.com.example.bruce.androidtada.MyActivity.tada 1
+android::test::ApplicationTestCaseApplication tada.com.example.bruce.androidtada.ApplicationTest 2

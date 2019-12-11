@@ -1,8 +1,8 @@
-772 771 2
-778 771 1
-775 773 1
-774 773 3
-777 776 3
-773 779 1
-773 780 1
-779 780 1
+android::test::ApplicationTestCaseApplication com.inf.os.fileup.ApplicationTest 2
+ApplicationTestCase com.inf.os.fileup.ApplicationTest 1
+WebView mgks.os.fileup.MainActivity 1
+AppCompatActivity mgks.os.fileup.MainActivity 3
+WebViewClient mgks.os.fileup.MainActivity.Callback 3
+mgks.os.fileup.MainActivity mgks.os.fileup.MainActivity.onCreate 1
+mgks.os.fileup.MainActivity.onCreate mgks.os.fileup.MainActivity.file_permission 1
+mgks.os.fileup.MainActivity mgks.os.fileup.MainActivity.file_permission 1

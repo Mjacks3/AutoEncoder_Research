@@ -1,3 +1,3 @@
-1291 1289 1
-1290 1289 1
-1293 1292 3
+Web3j org.web3j.spring.autoconfigure.Web3jHealthIndicatorTest 1
+HealthIndicator org.web3j.spring.autoconfigure.Web3jHealthIndicatorTest 1
+AbstractHealthIndicator org.web3j.spring.actuate.Web3jHealthIndicator 3

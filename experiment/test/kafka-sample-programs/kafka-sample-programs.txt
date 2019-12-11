@@ -1,7 +1,7 @@
-2452 2451 1
-2451 2453 1
-2454 2453 1
-2452 2454 1
-2451 2455 1
-2456 2455 1
-2452 2456 1
+com.mapr.examples.Run com.mapr.examples.Run.main 1
+com.mapr.examples.Producer com.mapr.examples.Producer.main 1
+com.mapr.examples.Run.main com.mapr.examples.Producer.main 1
+com.mapr.examples.Run com.mapr.examples.Producer 1
+com.mapr.examples.Consumer com.mapr.examples.Consumer.main 1
+com.mapr.examples.Run.main com.mapr.examples.Consumer.main 1
+com.mapr.examples.Run com.mapr.examples.Consumer 1

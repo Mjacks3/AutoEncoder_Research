@@ -1,6 +1,6 @@
-417 415 1
-416 415 3
-907 906 3
-909 908 3
-416 910 3
-416 911 3
+Activity cn.etransfar.stt.smarttooltest.HalfActivity 3
+Application cn.etransfar.stt.smarttooltest.MyApplication 3
+AppCompatActivity cn.etransfar.stt.smarttooltest.ExceptionActivity 3
+AppCompatActivity cn.etransfar.stt.smarttooltest.FullActivity 3
+AppCompatActivity cn.etransfar.stt.smarttooltest.MainActivity 3
+Button cn.etransfar.stt.smarttooltest.MainActivity 1

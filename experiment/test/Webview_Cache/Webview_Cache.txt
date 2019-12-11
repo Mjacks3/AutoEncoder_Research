@@ -1,7 +1,7 @@
-2831 2830 3
-2838 2833 1
-2834 2833 3
-2839 2833 1
-2831 2833 1
-2837 2835 1
-2836 2835 2
+WebView com.example.carson_ho.webview_demo.MyWebView 3
+WebView com.example.carson_ho.webview_demo.MainActivity 1
+TextView com.example.carson_ho.webview_demo.MainActivity 1
+WebSettings com.example.carson_ho.webview_demo.MainActivity 1
+AppCompatActivity com.example.carson_ho.webview_demo.MainActivity 3
+ApplicationTestCase com.example.carson_ho.webview_demo.ApplicationTest 1
+android::test::ApplicationTestCaseApplication com.example.carson_ho.webview_demo.ApplicationTest 2

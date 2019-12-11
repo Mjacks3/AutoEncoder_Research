@@ -1,5 +1,5 @@
-1299 1297 1
-1298 1297 2
-1297 1300 1
-1300 1301 1
-1297 1301 1
+Editor com.esp8266.mkspiffs.ESP8266FS 1
+Tool com.esp8266.mkspiffs.ESP8266FS 2
+com.esp8266.mkspiffs.ESP8266FS com.esp8266.mkspiffs.ESP8266FS.getMenuTitle 1
+com.esp8266.mkspiffs.ESP8266FS com.esp8266.mkspiffs.ESP8266FS.run 1
+com.esp8266.mkspiffs.ESP8266FS.getMenuTitle com.esp8266.mkspiffs.ESP8266FS.run 1

@@ -1,7 +1,7 @@
-2231 2229 1
-2230 2229 2
-2229 2232 1
-2232 2233 1
-2229 2233 1
-2232 2234 1
-2229 2234 1
+PointF nl.codesoup.cubicbezier.CubicBezierInterpolator 1
+Interpolator nl.codesoup.cubicbezier.CubicBezierInterpolator 2
+nl.codesoup.cubicbezier.CubicBezierInterpolator nl.codesoup.cubicbezier.CubicBezierInterpolator.getInterpolation 1
+nl.codesoup.cubicbezier.CubicBezierInterpolator.getInterpolation nl.codesoup.cubicbezier.CubicBezierInterpolator.getBezierCoordinateY 1
+nl.codesoup.cubicbezier.CubicBezierInterpolator nl.codesoup.cubicbezier.CubicBezierInterpolator.getBezierCoordinateY 1
+nl.codesoup.cubicbezier.CubicBezierInterpolator.getInterpolation nl.codesoup.cubicbezier.CubicBezierInterpolator.getXForTime 1
+nl.codesoup.cubicbezier.CubicBezierInterpolator nl.codesoup.cubicbezier.CubicBezierInterpolator.getXForTime 1
