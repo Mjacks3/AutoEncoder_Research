@@ -156,12 +156,24 @@ def test(args):
 
 
     node_clusters = []
-    for node_id, cluster in zip(y, y_pred):
-        #print( str(node_id) + " " + str(cluster))
-        node_clusters.append( str(node_id) + " " + str(cluster))
 
-    return node_clusters
+    name = args.test_dataset.split("/")[-1]
+    print(name)
 
+
+    
+    
+    with open(args.test_dataset +"/"+name + "_" + str(args.num_clusters)+ ".clustering",'w+') as f:
+        for node_id, cluster in zip(y, y_pred):
+            f.write( str(node_id) + " " + str(cluster) +"\n")
+    
+
+        #node_clusters.append( str(node_id) + " " + str(cluster))
+
+    
+    #node_clusters
+    return 0
+    
 
 def calculate_modq(clusters, edge_list='' ):
     #cluster_pairs='/home/mjacks3/monize/tahdith/datasets/train/Java.git/Java.git.txt.clusters'
@@ -418,7 +430,7 @@ if __name__ == "__main__":
     print('+' * 75)
 
 if args.experiment:
-
+    """
     #Graph Embedding
     
     args.dp_loc = "experiment/test"
@@ -426,6 +438,7 @@ if args.experiment:
     graph_embedding(args)
     
     #End Graph Embedding
+    """
 
 
     #Training
@@ -477,22 +490,26 @@ if args.experiment:
                         "18": [],
                         "19": []
                         }
-
+    """
     for num_clusters in range(2,20):
         args.weights = "experiment/"+str(num_clusters)+"/model_final.h5"
         args.num_clusters = num_clusters
  
         for r, d, f in os.walk("experiment/test"): # for each file 
-            print (r)
-            print (f)
-            if len(f) == 2:
+            #print (r)
+            #print (f)
+            if len(f) >= 3  and  len(f) - 3  == num_clusters - 2:
+                
                 for file_name in f: 
                     if ".txt" in file_name:
                         edge_list = r+"/"+file_name
-                    else:
+                    elif ".embedding" in file_name:
                         args.test_dataset = r
 
-                clusters = test(args)
+
+                test(args) # Calculations will be done on files separately
+                
+    """
                 modq = calculate_modq(clusters,edge_list=edge_list)
                 print("\n\n MOD Q: "+ str(modq)) 
                 cluster_qValue_map[str(num_clusters)].append(modq)
