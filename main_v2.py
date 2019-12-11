@@ -160,12 +160,16 @@ def test(args):
     name = args.test_dataset.split("/")[-1]
     print(name)
 
+    for node_id, cluster in zip(y, y_pred):
+        print( str(node_id) + " " + str(cluster) )
 
-    
+
+    """
     
     with open(args.test_dataset +"/"+name + "_" + str(args.num_clusters)+ ".clustering",'w+') as f:
         for node_id, cluster in zip(y, y_pred):
             f.write( str(node_id) + " " + str(cluster) +"\n")
+    """
     
 
         #node_clusters.append( str(node_id) + " " + str(cluster))
@@ -381,7 +385,7 @@ if __name__ == "__main__":
                         help="Whether to use data augmentation during pretraining phase")
     parser.add_argument('--pretrained-weights', default=None, type=str,
                         help="Pretrained weights of the autoencoder")
-    parser.add_argument('--pretrain-epochs', default=300, type=int,
+    parser.add_argument('--pretrain-epochs', default=500, type=int,
                         help="Number of epochs for pretraining")
     parser.add_argument('-v', '--verbose', default=1, type=int,
                         help="Verbose for pretraining")
@@ -438,12 +442,12 @@ if args.experiment:
     graph_embedding(args)
     
     #End Graph Embedding
+    
+
     """
-
-
     #Training
 
-    for num in range(5, 6):
+    for num in range(2, 20):
         args.num_clusters = int(num)
         args.save_dir = "experiment/" + str(args.num_clusters)
 
@@ -454,7 +458,7 @@ if args.experiment:
         train(args)
     
     #End Training
-
+    """
     
     #Test
     #loop to get num clusters +
@@ -466,7 +470,7 @@ if args.experiment:
     #args.weights = "experiment/3/model_final.h5"
     #test_dataset = "datasets/demo_1/acmeair"
     #edge_list_loc = "datasets/demo_1/acmeair/acmeair.txt"
-    """
+    
 
     
     cluster_qValue_map = { 
@@ -489,15 +493,18 @@ if args.experiment:
                         "18": [],
                         "19": []
                         }
+    """
+    """
+   
     
-    for num_clusters in range(2,20):
+    for num_clusters in range(5,6):
         args.weights = "experiment/"+str(num_clusters)+"/model_final.h5"
         args.num_clusters = num_clusters
  
         for r, d, f in os.walk("experiment/test"): # for each file 
             #print (r)
             #print (f)
-            if len(f) >= 3  and  len(f) - 3  == num_clusters - 2:
+            if len(f) >= 3   :
                 
                 for file_name in f: 
                     if ".txt" in file_name:
@@ -507,6 +514,9 @@ if args.experiment:
 
 
                 test(args) # Calculations will be done on files separately
+    """
+
+    """
                 
     
                 modq = calculate_modq(clusters,edge_list=edge_list)
