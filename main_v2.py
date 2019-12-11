@@ -43,7 +43,7 @@ def graph_embedding(args):
     for r, d, f in os.walk(args.dp_loc):
         if len(f) == 2 and os.stat(r+"/"+f[0]).st_size != 0 : #Some Empty EdgeLists!?
             for file in f:
-                #if '.txt' in file and 'embedding' not in file:
+                if '.txt' in file and 'embedding' not in file and 'louvain' not in file:
                     print("\n\n" + file + "\n\n")
                     
                     #data : bool or list of (label,type) tuples
