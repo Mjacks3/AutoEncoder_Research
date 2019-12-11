@@ -1,5 +1,5 @@
 # AutoEncoder_Research
-
+ TEST I-2
 Description: 
 This project utilizes thee DEC-DA Autoencoder, found here <https://github.com/XifengGuo/DEC-DA> and the DeepWalk Graph Embedding Algorithm, found here: <https://github.com/shenweichen/GraphEmbedding/blob/master/examples/deepwalk_wiki.py>
 
