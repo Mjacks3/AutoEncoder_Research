@@ -1,5 +1,0 @@
-AppCompatActivity com.mikhaellopez.androidwebserver.MainActivity 3
-com.mikhaellopez.androidwebserver.MainActivity com.mikhaellopez.androidwebserver.MainActivity.onCreate 1
-com.mikhaellopez.androidwebserver.MainActivity com.mikhaellopez.androidwebserver.MainActivity.isConnectedInWifi 1
-com.mikhaellopez.androidwebserver.MainActivity.onCreate com.mikhaellopez.androidwebserver.MainActivity.isConnectedInWifi 1
-NanoHTTPD com.mikhaellopez.androidwebserver.AndroidWebServer 2

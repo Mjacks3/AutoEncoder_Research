@@ -1,9 +1,0 @@
-net.nicoll.boot.daemon.StopSpringBootService net.nicoll.boot.daemon.SpringBootService 1
-net.nicoll.boot.daemon.StartSpringBootService net.nicoll.boot.daemon.SpringBootService 1
-Daemon net.nicoll.boot.daemon.SpringBootDaemon 3
-net.nicoll.boot.daemon.StopSpringBootService net.nicoll.boot.daemon.StopSpringBootService.main 1
-net.nicoll.boot.daemon.SpringBootService net.nicoll.boot.daemon.SpringBootService.stop 1
-net.nicoll.boot.daemon.StopSpringBootService.main net.nicoll.boot.daemon.SpringBootService.stop 1
-net.nicoll.boot.daemon.StartSpringBootService net.nicoll.boot.daemon.StartSpringBootService.main 1
-net.nicoll.boot.daemon.StartSpringBootService.main net.nicoll.boot.daemon.SpringBootService.start 1
-net.nicoll.boot.daemon.SpringBootService net.nicoll.boot.daemon.SpringBootService.start 1

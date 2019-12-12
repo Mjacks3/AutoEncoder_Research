@@ -1,0 +1,14 @@
+com.suyu.websocket.controller.WebSocketController.sendmsg 1
+com.suyu.websocket.server.SocketServer.SendMany 1
+com.suyu.websocket.server.SocketServer 0
+com.suyu.websocket.controller.WebSocketController 1
+com.suyu.websocket.server.SocketServer.sendMessage 1
+com.suyu.websocket.server.SocketServer.onMessage 0
+Serializable 1
+com.suyu.websocket.entity.Client 1
+com.suyu.websocket.entity.Client.getUserName 1
+com.suyu.websocket.controller.WebSocketController.admin 1
+com.suyu.websocket.server.SocketServer.getOnlineNum 1
+com.suyu.websocket.server.SocketServer.getOnlineUsers 1
+com.suyu.websocket.controller.WebSocketController.sendAll 1
+com.suyu.websocket.server.SocketServer.sendAll 0

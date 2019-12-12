@@ -1,3 +1,0 @@
-Activity com.example.jcs.fish.MainActivity 3
-Drawable com.example.jcs.fish.FishDrawable 3
-ObjectAnimator com.example.jcs.fish.FishDrawable 1

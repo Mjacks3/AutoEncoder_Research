@@ -1,0 +1,15 @@
+com.gnod.parallaxlistview.ParallaxActivity 1
+com.gnod.parallaxlistview.ParallaxScollListView 0
+OnScrollListener 0
+ListView 1
+View 0
+com.gnod.parallaxlistview.ParallaxScollListView.ResetAnimimation 1
+Animation 0
+com.gnod.parallaxlistview.ParallaxScollListView.ParallaxScollListView 1
+com.gnod.parallaxlistview.ParallaxScollListView.init 1
+com.gnod.parallaxlistview.ParallaxActivity.onCreate 1
+Activity 1
+com.gnod.parallaxlistview.ParallaxScollListView.setZoomRatio 1
+com.gnod.parallaxlistview.ParallaxScollListView.overScrollBy 1
+com.gnod.parallaxlistview.ParallaxScollListView.onTouchEvent 1
+com.gnod.parallaxlistview.ParallaxScollListView.setParallaxImageView 1

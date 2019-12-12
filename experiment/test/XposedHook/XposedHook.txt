@@ -1,4 +1,0 @@
-IXposedHookZygoteInit com.example.xposedhook.HookLoader 3
-IXposedHookLoadPackage com.example.xposedhook.HookLoader 3
-IXposedHookZygoteInit com.example.xposedhook.HookLogic 3
-IXposedHookLoadPackage com.example.xposedhook.HookLogic 3

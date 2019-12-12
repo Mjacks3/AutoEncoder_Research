@@ -1,1 +1,0 @@
-AppCompatActivity com.blankj.freeproguard.MainActivity 2

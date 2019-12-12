@@ -1,4 +1,0 @@
-ProgressBar com.zhy.view.HorizontalProgressBarWithNumber 4
-Paint com.zhy.view.HorizontalProgressBarWithNumber 2
-com.zhy.view.HorizontalProgressBarWithNumber com.zhy.view.RoundProgressBarWidthNumber 4
-Activity com.zhy.sample.progressbar.MainActivity 3

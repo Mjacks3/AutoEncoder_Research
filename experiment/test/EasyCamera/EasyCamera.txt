@@ -1,6 +1,0 @@
-net.bozho.easycamera.EasyCamera.CameraActions net.bozho.easycamera.DefaultCameraActions 4
-net.bozho.easycamera.EasyCamera net.bozho.easycamera.DefaultEasyCamera 4
-net.bozho.easycamera.DefaultCameraActions net.bozho.easycamera.EasyCamera 1
-net.bozho.easycamera.DefaultCameraActions net.bozho.easycamera.DefaultCameraActions.takePicture 1
-net.bozho.easycamera.DefaultCameraActions.takePicture net.bozho.easycamera.EasyCamera.getRawCamera 1
-net.bozho.easycamera.EasyCamera net.bozho.easycamera.EasyCamera.getRawCamera 1

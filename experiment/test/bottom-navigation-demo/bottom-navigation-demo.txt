@@ -1,6 +1,0 @@
-AppCompatActivity com.segunfamisa.sample.bottomnav.MainActivity 3
-Fragment com.segunfamisa.sample.bottomnav.MenuFragment 3
-com.segunfamisa.sample.bottomnav.MainActivity com.segunfamisa.sample.bottomnav.MenuFragment 1
-com.segunfamisa.sample.bottomnav.MainActivity com.segunfamisa.sample.bottomnav.MainActivity.onBackPressed 1
-com.segunfamisa.sample.bottomnav.MainActivity.onBackPressed com.segunfamisa.sample.bottomnav.MenuFragment.newInstance 1
-com.segunfamisa.sample.bottomnav.MenuFragment com.segunfamisa.sample.bottomnav.MenuFragment.newInstance 1

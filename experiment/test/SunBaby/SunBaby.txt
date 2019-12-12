@@ -1,5 +1,0 @@
-AppCompatActivity com.zuck.swipe.sunbaby.MainActivity 3
-View com.zuck.swipe.sunbaby.view.SunBabyLoadingView 3
-Paint com.zuck.swipe.sunbaby.view.SunBabyLoadingView 1
-android::test::ApplicationTestCaseApplication com.zuck.swipe.sunbaby.ApplicationTest 2
-ApplicationTestCase com.zuck.swipe.sunbaby.ApplicationTest 1

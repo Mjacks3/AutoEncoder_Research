@@ -1,7 +1,0 @@
-Activity ButtonActivity 3
-ButtonActivity BoardDefaults 1
-ButtonActivity ButtonActivity.onCreate 1
-BoardDefaults BoardDefaults.getGPIOForLED 1
-ButtonActivity.onCreate BoardDefaults.getGPIOForLED 1
-ButtonActivity.onCreate BoardDefaults.getGPIOForButton 1
-BoardDefaults BoardDefaults.getGPIOForButton 1

@@ -1,6 +1,0 @@
-AppCompatActivity in.ishankhanna.uberprogressviewsample.MainActivity 3
-android::test::ApplicationTestCaseApplication org.lazysource.uberprogressviewsample.ApplicationTest 2
-ApplicationTestCase org.lazysource.uberprogressviewsample.ApplicationTest 1
-View in.ishankhanna.UberProgressView 3
-android::test::ApplicationTestCaseApplication org.lazysource.uberprogressview.ApplicationTest 2
-ApplicationTestCase org.lazysource.uberprogressview.ApplicationTest 1

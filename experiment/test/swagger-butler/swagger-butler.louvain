@@ -1,9 +1,0 @@
-SwaggerResourcesProvider 0
-com.didispace.swagger.butler.SwaggerResourcesProcessor 0
-com.didispace.swagger.butler.EnableSwaggerButler 1
-com.didispace.swagger.butler.SwaggerButlerAutoConfig 2
-com.didispace.swagger.butler.StaticApplication 3
-com.didispace.swagger.butler.EurekaApplication 4
-com.didispace.swagger.butler.ConsulApplication 5
-com.didispace.swagger.butler.SwaggerResourceProperties 6
-com.didispace.swagger.butler.SwaggerButlerProperties 7

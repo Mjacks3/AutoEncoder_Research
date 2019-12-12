@@ -1,6 +1,0 @@
-Activity com.example.activitytransition.MainActivity 3
-OnItemClickListener com.example.activitytransition.MainActivity 3
-Activity com.example.activitytransition.SecondActivity 3
-com.example.activitytransition.SecondActivity com.example.activitytransition.SecondActivity.onBackPressed 1
-com.example.activitytransition.SecondActivity.onBackPressed com.example.activitytransition.SecondActivity.back 1
-com.example.activitytransition.SecondActivity com.example.activitytransition.SecondActivity.back 1

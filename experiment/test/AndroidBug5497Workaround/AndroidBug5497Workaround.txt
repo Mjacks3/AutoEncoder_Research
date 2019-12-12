@@ -1,5 +1,0 @@
-com.madebycm.hellocordova.HelloCordova com.madebycm.hellocordova.AndroidBug5497Workaround 1
-CordovaActivity com.madebycm.hellocordova.HelloCordova 2
-com.madebycm.hellocordova.HelloCordova com.madebycm.hellocordova.HelloCordova.onCreate 1
-com.madebycm.hellocordova.HelloCordova.onCreate com.madebycm.hellocordova.AndroidBug5497Workaround.assistActivity 1
-com.madebycm.hellocordova.AndroidBug5497Workaround com.madebycm.hellocordova.AndroidBug5497Workaround.assistActivity 1

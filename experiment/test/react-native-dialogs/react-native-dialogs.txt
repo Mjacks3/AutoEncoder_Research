@@ -1,3 +1,0 @@
-ReactPackage com.aakashns.reactnativedialogs.ReactNativeDialogsPackage 2
-ReactContextBaseJavaModule com.aakashns.reactnativedialogs.modules.DialogAndroid 3
-MaterialDialog com.aakashns.reactnativedialogs.modules.DialogAndroid 1

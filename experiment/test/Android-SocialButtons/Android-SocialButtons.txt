@@ -1,7 +1,0 @@
-FloatingActionButton in.championswimmer.libsocialbuttons.SocialFab 3
-AppCompatActivity in.championswimmer.socialloginbuttons.MainActivity 3
-in.championswimmer.libsocialbuttons.SocialFab in.championswimmer.libsocialbuttons.Utils 1
-AppCompatButton in.championswimmer.libsocialbuttons.BtnSocial 3
-in.championswimmer.libsocialbuttons.SocialFab in.championswimmer.libsocialbuttons.SocialFab.SocialFab 1
-in.championswimmer.libsocialbuttons.SocialFab.SocialFab in.championswimmer.libsocialbuttons.Utils.blendColors 1
-in.championswimmer.libsocialbuttons.Utils in.championswimmer.libsocialbuttons.Utils.blendColors 1

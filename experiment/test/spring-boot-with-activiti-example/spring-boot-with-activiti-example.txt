@@ -1,2 +1,0 @@
-org::springframework::data::jpa::repository::JpaRepositoryApplicant,Long org.activiti.ApplicantRepository 2
-JpaRepository org.activiti.ApplicantRepository 1

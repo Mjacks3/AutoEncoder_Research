@@ -1,7 +1,0 @@
-com.cjj.materialsearchview.MainActivity com.cjj.materialsearchview.DensityUtil 1
-com.cjj.materialsearchview.MainActivity com.cjj.materialsearchview.MainActivity.onCreate 1
-AppCompatActivity com.cjj.materialsearchview.MainActivity 3
-com.cjj.materialsearchview.MainActivity.onCreate com.cjj.materialsearchview.DensityUtil.dip2px 1
-com.cjj.materialsearchview.DensityUtil com.cjj.materialsearchview.DensityUtil.dip2px 1
-android::test::ApplicationTestCaseApplication com.cjj.materialsearchview.ApplicationTest 2
-ApplicationTestCase com.cjj.materialsearchview.ApplicationTest 1

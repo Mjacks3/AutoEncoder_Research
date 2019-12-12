@@ -1,7 +1,0 @@
-WebView com.example.carson_ho.webview_demo.MyWebView 3
-WebView com.example.carson_ho.webview_demo.MainActivity 1
-TextView com.example.carson_ho.webview_demo.MainActivity 1
-WebSettings com.example.carson_ho.webview_demo.MainActivity 1
-AppCompatActivity com.example.carson_ho.webview_demo.MainActivity 3
-ApplicationTestCase com.example.carson_ho.webview_demo.ApplicationTest 1
-android::test::ApplicationTestCaseApplication com.example.carson_ho.webview_demo.ApplicationTest 2

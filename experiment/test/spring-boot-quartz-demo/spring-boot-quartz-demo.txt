@@ -1,8 +1,0 @@
-AbstractTransactionalTestNGSpringContextTests com.kaviddiss.bootquartz.ApplicationTest 3
-Job com.kaviddiss.bootquartz.job.SampleJob 3
-com.kaviddiss.bootquartz.SchedulerConfig com.kaviddiss.bootquartz.SchedulerConfig.jobFactory 1
-com.kaviddiss.bootquartz.spring.AutowiringSpringBeanJobFactory com.kaviddiss.bootquartz.spring.AutowiringSpringBeanJobFactory.setApplicationContext 1
-com.kaviddiss.bootquartz.SchedulerConfig.jobFactory com.kaviddiss.bootquartz.spring.AutowiringSpringBeanJobFactory.setApplicationContext 1
-SpringBeanJobFactory com.kaviddiss.bootquartz.spring.AutowiringSpringBeanJobFactory 3
-ApplicationContextAware com.kaviddiss.bootquartz.spring.AutowiringSpringBeanJobFactory 3
-com.kaviddiss.bootquartz.SchedulerConfig com.kaviddiss.bootquartz.spring.AutowiringSpringBeanJobFactory 1

@@ -1,7 +1,0 @@
-Activity com.example.colorphrase.MainActivity 3
-com.example.colorphrase.MainActivity com.example.colorphrase.MainActivity.onCreate 1
-com.medusa.lib.ColorPhrase com.medusa.lib.ColorPhrase.from 4
-com.example.colorphrase.MainActivity.onCreate com.medusa.lib.ColorPhrase.from 1
-com.example.colorphrase.MainActivity com.medusa.lib.ColorPhrase 1
-com.example.colorphrase.MainActivity.onCreate com.medusa.lib.ColorPhrase.withSeparator 1
-com.medusa.lib.ColorPhrase com.medusa.lib.ColorPhrase.withSeparator 1

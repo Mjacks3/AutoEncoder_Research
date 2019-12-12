@@ -1,6 +1,0 @@
-LayoutShadowNode com.bee.baidumapview.BaiduMapShadowNode 2
-CSSNode::MeasureFunction com.bee.baidumapview.BaiduMapShadowNode 2
-LayoutShadowNode MeasureFunction 1
-ReactPackage com.bee.baidumapview.BaiduMapReactPackage 3
-com::facebook::react::uimanager::SimpleViewManagerMapView com.bee.baidumapview.BaiduMapViewManager 2
-SimpleViewManager com.bee.baidumapview.BaiduMapViewManager 1

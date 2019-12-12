@@ -1,5 +1,0 @@
-AsyncTask 0
-com.pyler.youtubebackgroundplayback.YouTubeBackgroundPlayback.HooksDownloadTask 0
-android::os::AsyncTaskVoid,Void,JSONObject 0
-IXposedHookLoadPackage 1
-com.pyler.youtubebackgroundplayback.YouTubeBackgroundPlayback 1

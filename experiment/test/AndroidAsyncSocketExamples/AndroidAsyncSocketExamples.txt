@@ -1,5 +1,0 @@
-ActionBarActivity com.github.reneweb.androidasyncsocketexamples.MainActivity 3
-com.github.reneweb.androidasyncsocketexamples.MainActivity com.github.reneweb.androidasyncsocketexamples.udp.Client 1
-com.github.reneweb.androidasyncsocketexamples.MainActivity com.github.reneweb.androidasyncsocketexamples.MainActivity.onCreate 1
-com.github.reneweb.androidasyncsocketexamples.MainActivity.onCreate com.github.reneweb.androidasyncsocketexamples.udp.Client.send 1
-com.github.reneweb.androidasyncsocketexamples.udp.Client com.github.reneweb.androidasyncsocketexamples.udp.Client.send 1

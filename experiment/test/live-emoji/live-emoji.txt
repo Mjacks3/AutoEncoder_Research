@@ -1,1 +1,0 @@
-AppCompatActivity com.romainpiel.liveemoji.MainActivity 2

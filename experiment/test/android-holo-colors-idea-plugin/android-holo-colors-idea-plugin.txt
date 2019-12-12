@@ -1,2 +1,0 @@
-AnAction fr.vdl.android.holocolors.HoloColorsGenerator 3
-DialogWrapper fr.vdl.android.holocolors.HoloColorsDialog 2

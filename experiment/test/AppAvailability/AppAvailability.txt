@@ -1,7 +1,0 @@
-src/ios/AppAvailability.m Cordova/CDV.h 1
-AppAvailability.h Cordova/CDV.h 1
-src/ios/AppAvailability.h Cordova/CDV.h 1
-CordovaPlugin com.ohh2ahh.appavailability.AppAvailability 3
-CDVPlugin AppAvailability 2
-src/ios/AppAvailability.h src/ios/AppAvailability.m 1
-src/ios/AppAvailability.m AppAvailability.h 1

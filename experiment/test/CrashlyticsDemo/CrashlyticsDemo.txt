@@ -1,2 +1,0 @@
-Application com.github.plastiv.crashlyticsdemo.CrashlyticsDemoApplication 2
-Activity com.github.plastiv.crashlyticsdemo.CrashlyticsDemoActivity 3

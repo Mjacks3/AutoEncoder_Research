@@ -1,5 +1,0 @@
-android::test::ApplicationTestCaseApplication com.dmitrymalkovich.android.sample.ApplicationTest 2
-ApplicationTestCase com.dmitrymalkovich.android.sample.ApplicationTest 1
-AppCompatActivity com.dmitrymalkovich.android.sample.MainActivity 3
-ApplicationTestCase com.dmitrymalkovich.android.materialdesigndimens.ApplicationTest 1
-android::test::ApplicationTestCaseApplication com.dmitrymalkovich.android.materialdesigndimens.ApplicationTest 2

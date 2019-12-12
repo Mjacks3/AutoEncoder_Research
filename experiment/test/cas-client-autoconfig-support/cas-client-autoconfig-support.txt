@@ -1,6 +1,0 @@
-net.unicon.cas.client.configuration.CasClientConfigurationProperties net.unicon.cas.client.configuration.CasClientConfiguration 1
-net.unicon.cas.client.configuration.CasClientConfigurer net.unicon.cas.client.configuration.CasClientConfigurerAdapter 4
-net.unicon.cas.client.configuration.CasClientConfiguration net.unicon.cas.client.configuration.CasClientConfigurer 1
-net.unicon.cas.client.configuration.CasClientConfiguration net.unicon.cas.client.configuration.CasClientConfiguration.casValidationFilter 1
-net.unicon.cas.client.configuration.CasClientConfigurer net.unicon.cas.client.configuration.CasClientConfigurer.configureValidationFilter 1
-net.unicon.cas.client.configuration.CasClientConfiguration.casValidationFilter net.unicon.cas.client.configuration.CasClientConfigurer.configureValidationFilter 1

@@ -1,1 +1,0 @@
-AppCompatActivity com.blogspot.atifsoftwares.animatoo.MainActivity 3

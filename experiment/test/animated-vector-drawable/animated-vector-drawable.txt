@@ -1,9 +1,0 @@
-Activity com.sqisland.android.animated_vector_drawable.AnimatedImageActivity 7
-com.sqisland.android.animated_vector_drawable.AnimatedImageActivity com.sqisland.android.animated_vector_drawable.PathMorphActivity 4
-com.sqisland.android.animated_vector_drawable.AnimatedImageActivity com.sqisland.android.animated_vector_drawable.RotateActivity 4
-ListActivity com.sqisland.android.animated_vector_drawable.MainActivity 3
-Activity com.sqisland.android.animated_vector_drawable.FillInHeartActivity 3
-Activity com.sqisland.android.animated_vector_drawable.ExampleActivity 3
-com.sqisland.android.animated_vector_drawable.AnimatedImageActivity com.sqisland.android.animated_vector_drawable.AnimatedImageActivity.onCreate 1
-com.sqisland.android.animated_vector_drawable.AnimatedImageActivity com.sqisland.android.animated_vector_drawable.AnimatedImageActivity.getLayoutId 1
-com.sqisland.android.animated_vector_drawable.AnimatedImageActivity.onCreate com.sqisland.android.animated_vector_drawable.AnimatedImageActivity.getLayoutId 1

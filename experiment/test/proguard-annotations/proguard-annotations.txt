@@ -1,2 +1,0 @@
-android::test::ApplicationTestCaseApplication proguard.annotations.app.ApplicationTest 2
-ApplicationTestCase proguard.annotations.app.ApplicationTest 1

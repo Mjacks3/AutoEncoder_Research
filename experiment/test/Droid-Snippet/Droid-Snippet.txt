@@ -1,2 +1,0 @@
-DefaultLiveTemplatesProvider xyz.belvi.TemplateProvider 3
-TemplateContextType xyz.belvi.TemplateContext 2

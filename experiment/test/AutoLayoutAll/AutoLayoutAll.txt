@@ -1,6 +1,0 @@
-com.zhy.blogcodes.genvalues.GenerateValueFiles com.zhy.blogcodes.genvalues.GenerateValueFiles.generate 1
-com.zhy.blogcodes.genvalues.GenerateValueFiles com.zhy.blogcodes.genvalues.GenerateValueFiles.change 1
-com.zhy.blogcodes.genvalues.GenerateValueFiles.generate com.zhy.blogcodes.genvalues.GenerateValueFiles.change 1
-com.zhy.blogcodes.genvalues.GenerateValueFiles com.zhy.blogcodes.genvalues.GenerateValueFiles.main 1
-com.zhy.blogcodes.genvalues.GenerateValueFiles.main com.zhy.blogcodes.genvalues.GenerateValueFiles.GenerateValueFiles 1
-com.zhy.blogcodes.genvalues.GenerateValueFiles com.zhy.blogcodes.genvalues.GenerateValueFiles.GenerateValueFiles 1

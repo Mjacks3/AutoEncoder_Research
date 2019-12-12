@@ -1,3 +1,0 @@
-opennlp::tools::util::ObjectStreamDocumentSample nlp.intent.toolkit.IntentDocumentSampleStream 2
-ObjectStream nlp.intent.toolkit.IntentDocumentSampleStream 1
-ObjectStreamString nlp.intent.toolkit.IntentDocumentSampleStream 1

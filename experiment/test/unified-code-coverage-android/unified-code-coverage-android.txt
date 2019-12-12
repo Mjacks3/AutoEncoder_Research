@@ -1,4 +1,0 @@
-ActivityTestRulenet.rafaeltoledo.coverage.MainActivity net.rafaeltoledo.coverage.MainActivityTest 1
-View::OnClickListener net.rafaeltoledo.coverage.MainActivity 2
-AppCompatActivity net.rafaeltoledo.coverage.MainActivity 2
-AppCompatActivity OnClickListener 1

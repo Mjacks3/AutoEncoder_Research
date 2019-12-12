@@ -1,2 +1,0 @@
-AppCompatActivity takeoffandroid.materialdialogbottomsheet.MainActivity 3
-android::test::ApplicationTestCaseApplication takeoffandroid.materialdialogbottomsheet.ApplicationTest 2

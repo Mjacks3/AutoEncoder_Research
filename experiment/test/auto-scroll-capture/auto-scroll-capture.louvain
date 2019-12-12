@@ -1,9 +1,0 @@
-com.wanjian.scrollscreenshots.ExampleInstrumentedTest 0
-com.wanjian.scrollscreenshots.ScrollAct 1
-Activity 1
-com.wanjian.scrollscreenshots.DrawListViewAct 1
-com.wanjian.scrollscreenshots.AutoScreenShotsAct 1
-com.wanjian.scrollscreenshots.DrawScrollViewAct 1
-AppCompatActivity 2
-com.wanjian.scrollscreenshots.MainActivity 2
-com.wanjian.scrollscreenshots.ExampleUnitTest 3

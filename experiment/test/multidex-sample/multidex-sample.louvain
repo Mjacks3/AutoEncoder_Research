@@ -1,7 +1,0 @@
-com.github.mmadev.multidexsample.utils.MultiDexUtils 0
-com.github.mmadev.multidexsample.utils.MultiDexUtils.getExternalDexClasses 0
-com.github.mmadev.multidexsample.utils.MultiDexUtils.getSourcePaths 0
-com.github.mmadev.multidexsample.utils.MultiDexUtils.getLoadedExternalDexClasses 0
-com.github.mmadev.multidexsample.MainActivity 1
-ListActivity 1
-com.github.mmadev.multidexsample.MainActivity.onCreate 1

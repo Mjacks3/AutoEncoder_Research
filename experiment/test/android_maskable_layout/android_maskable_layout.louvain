@@ -1,6 +1,0 @@
-FrameLayout 0
-com.christophesmet.android.views.maskableframelayout.MaskableFrameLayout 0
-AppCompatActivity 1
-com.christophesmet.android.views.MainActivity 1
-com.christophesmet.android.views.MainActivity.onCreate 2
-com.christophesmet.android.views.maskableframelayout.MaskableFrameLayout.getDrawableMask 2

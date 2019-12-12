@@ -1,6 +1,0 @@
-android::test::ApplicationTestCaseApplication anjithsasindran.materialsharingcard.ApplicationTest 2
-ImageView anjithsasindran.materialsharingcard.MainActivity 1
-Animation anjithsasindran.materialsharingcard.MainActivity 1
-Activity anjithsasindran.materialsharingcard.MainActivity 3
-ImageButton anjithsasindran.materialsharingcard.MainActivity 1
-LinearLayout anjithsasindran.materialsharingcard.MainActivity 1

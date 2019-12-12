@@ -1,7 +1,0 @@
-XC_MethodHook de.rastapasta.android.xposed.pokemongo.CheckServerTrustedHook 2
-XC_MethodHook de.rastapasta.android.xposed.pokemongo.DoSyncRequestHook 2
-de.rastapasta.android.xposed.pokemongo.CheckServerTrustedHook de.rastapasta.android.xposed.pokemongo.DoSyncRequestHook 1
-PreferenceFragment de.rastapasta.android.xposed.pokemongo.SettingsActivity.GeneralPreferenceFragment 3
-IXposedHookLoadPackage de.rastapasta.android.xposed.pokemongo.Loader 3
-de.rastapasta.android.utils.AppCompatPreferenceActivity de.rastapasta.android.xposed.pokemongo.SettingsActivity 4
-PreferenceActivity de.rastapasta.android.utils.AppCompatPreferenceActivity 5

@@ -1,7 +1,0 @@
-Adapter io.github.vitovalov.tabbedcoordinator.ListAdapter 1
-RecyclerView::AdapterListAdapter.MyViewHolder io.github.vitovalov.tabbedcoordinator.ListAdapter 2
-Fragment io.github.vitovalov.tabbedcoordinator.TabFragment 3
-AppCompatActivity io.github.vitovalov.tabbedcoordinator.MainActivity 3
-Toolbar io.github.vitovalov.tabbedcoordinator.MainActivity 1
-android::test::ApplicationTestCaseApplication io.github.vitovalov.tabbedcoordinator.ApplicationTest 2
-ApplicationTestCase io.github.vitovalov.tabbedcoordinator.ApplicationTest 1

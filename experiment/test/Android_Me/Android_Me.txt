@@ -1,1 +1,0 @@
-AppCompatActivity com.example.android.android_me.MainActivity 3

@@ -1,8 +1,0 @@
-net.nashlegend.swipetofinishactivity.SecondActivity.onCreate 0
-net.nashlegend.swipetofinishactivity.SwipeActivity.setSwipeAnyWhere 0
-net.nashlegend.swipetofinishactivity.SecondActivity 1
-net.nashlegend.swipetofinishactivity.SwipeActivity 1
-Activity 1
-net.nashlegend.swipetofinishactivity.MainActivity 1
-net.nashlegend.swipetofinishactivity.SwipeActivity.finish 2
-net.nashlegend.swipetofinishactivity.SwipeActivity.getScreenWidth 2

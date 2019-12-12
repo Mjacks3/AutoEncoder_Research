@@ -1,6 +1,0 @@
-org.conan.mymahout.cluster06.MathUtil.main 0
-org.conan.mymahout.cluster06.MathUtil 0
-org.conan.mymahout.cluster06.MathUtil.readFileToVector 0
-org.conan.mymahout.cluster06.Kmeans.main 1
-org.conan.mymahout.cluster06.Kmeans 1
-org.conan.mymahout.cluster06.MathUtil.chooseRandomPoints 1
