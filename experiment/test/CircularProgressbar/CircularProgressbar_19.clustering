@@ -1,0 +1,14 @@
+com.jackandphantom.circularprogressbar.CircleProgressbar 17
+com.jackandphantom.circularprogressbar.CircleProgressbar.CircleProgressbar 17
+com.jackandphantom.circularprogressbar.CircleProgressbar.setRoundedCorner 17
+com.jackandphantom.circularprogressbar.CircleProgressbar.setProgress 17
+com.jackandphantom.circularprogressbar.CircleProgressbar.setClockwise 17
+com.jackandphantom.circularprogressbar.CircleProgressbar.enabledTouch 17
+com.jackandphantom.circularprogressbar.CircleProgressbar.onTouchEvent 17
+com.jackandphantom.circularprogressbar.CircleProgressbar.OnProgressbarChangeListener 17
+com.jackandphantom.circularprogressbar.CircleProgressbar.OnProgressbarChangeListener.onStartTracking 17
+com.jackandphantom.circularprogressbar.CircleProgressbar.OnProgressbarChangeListener.onStopTracking 17
+com.jackandphantom.circularprogressbar.CircleProgressbar.OnProgressbarChangeListener.onProgressChanged 17
+AppCompatActivity 17
+com.jackandphantom.ciruclarprogressbar.MainActivity 17
+View 17

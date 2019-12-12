@@ -1,0 +1,12 @@
+android::test::ApplicationTestCaseApplication 12
+com.lnikkila.extendedtouchview.sample.ApplicationTest 12
+ApplicationTestCase 12
+ActivityTestRulecom.lnikkila.extendedtouchview.sample.MainActivity 17
+com.lnikkila.extendedtouchview.sample.ExtendedTouchViewTest 12
+com.lnikkila.extendedtouchview.sample.MainActivity 17
+com.lnikkila.extendedtouchview.sample.MainActivity.onCreate 9
+AppCompatActivity 14
+com.lnikkila.extendedtouchview.ExtendedTouchView 9
+com.lnikkila.extendedtouchview.ExtendedTouchView.getTouchWidth 13
+FrameLayout 14
+com.lnikkila.extendedtouchview.ExtendedTouchView.getTouchHeight 13

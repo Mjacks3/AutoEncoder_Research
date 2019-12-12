@@ -496,7 +496,7 @@ if args.experiment:
     
             for r, d, f in os.walk("experiment/test"): # for each file 
                 #print (r)
-                if len(f) >= 4 and f[0].split(".")[0] +  "_" + str(args.num_clusters)+ ".clustering" not in f  :       
+                if len(f) >= 4 and r.split("/")[-1] +  "_" + str(args.num_clusters)+ ".clustering" not in f  :       
                     for file_name in f: 
                         if ".txt" in file_name:
                             edge_list = r+"/"+file_name

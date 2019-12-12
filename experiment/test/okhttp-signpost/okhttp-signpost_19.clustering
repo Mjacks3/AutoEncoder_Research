@@ -1,0 +1,10 @@
+AbstractOAuthProvider 17
+se.akerfeldt.okhttp.signpost.OkHttpOAuthProvider 17
+HttpResponse 17
+se.akerfeldt.okhttp.signpost.OkHttpResponseAdapter 17
+HttpRequest 17
+se.akerfeldt.okhttp.signpost.OkHttpRequestAdapter 17
+Interceptor 17
+se.akerfeldt.okhttp.signpost.SigningInterceptor 17
+AbstractOAuthConsumer 17
+se.akerfeldt.okhttp.signpost.OkHttpOAuthConsumer 17
