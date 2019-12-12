@@ -488,7 +488,7 @@ if args.experiment:
                         }
     
     """
-    for num_clusters in range(19,2,-1):
+    for num_clusters in range(2,20,1):
         if os.path.exists("experiment/"+str(num_clusters)+"/model_final.h5"):
 
             args.weights = "experiment/"+str(num_clusters)+"/model_final.h5"
@@ -496,14 +496,15 @@ if args.experiment:
     
             for r, d, f in os.walk("experiment/test"): # for each file 
                 #print (r)
-                if len(f) >= 4 and f[0].split(".")[0] +  "_" + str(args.num_clusters)+ ".clustering" not in f  :       
+                if len(f) >= 4 and r.split("/")[-1] +  "_" + str(args.num_clusters)+ ".clustering" not in f  : 
+                    print(num_clusters)
                     for file_name in f: 
                         if ".txt" in file_name:
                             edge_list = r+"/"+file_name
                         elif ".embedding" in file_name:
                             args.test_dataset = r
 
-                    print(args.test_dataset)
+                    #print(args.test_dataset)
                     test(args) # Calculations will be done on files separately
     
     """

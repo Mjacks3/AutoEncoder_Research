@@ -7,7 +7,7 @@ for num_clusters in range (2,20):
     for r, d, f in os.walk("experiment/test"):
 
         for a_file in f:
-            if  str(num_clusters) + ".clustering" in a_file:
+            if  "_" + str(num_clusters) + ".clustering" in a_file:
                 in_progress += 1
 
         full += 1
