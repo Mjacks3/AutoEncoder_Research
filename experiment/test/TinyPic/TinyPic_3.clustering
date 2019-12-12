@@ -1,0 +1,13 @@
+DialogWrapper 0
+com.shenjiajun.ui.ProgressDialog 2
+com.shenjiajun.TinyAction 0
+com.shenjiajun.ui.ProgressDialog.ProgressDialog 0
+com.shenjiajun.ui.ProgressDialog.init 2
+AnAction 0
+Logger 0
+com.shenjiajun.TinyAction.actionPerformed 0
+com.shenjiajun.ui.ProgressDialog.setTitle 2
+com.shenjiajun.ui.ProgressDialog.setMaxImages 2
+com.shenjiajun.ui.ProgressDialog.revalidate 2
+com.shenjiajun.ui.ProgressDialog.setCurrentIndex 2
+com.shenjiajun.ui.ProgressDialog.showError 2

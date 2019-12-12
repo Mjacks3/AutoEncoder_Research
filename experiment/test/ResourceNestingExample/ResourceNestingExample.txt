@@ -1,1 +1,0 @@
-Activity org.nest.resources.MainActivity 2

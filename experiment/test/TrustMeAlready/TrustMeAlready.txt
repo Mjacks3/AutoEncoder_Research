@@ -1,1 +1,0 @@
-IXposedHookZygoteInit com.virb3.trustmealready.Main 2

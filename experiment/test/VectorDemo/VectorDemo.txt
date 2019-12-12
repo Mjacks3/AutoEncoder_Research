@@ -1,3 +1,0 @@
-AppCompatActivity com.xys.vectordemo.VectorCompatActivity 2
-com.xys.vectordemo.LActivity com.xys.vectordemo.VectorCompatActivity 1
-AppCompatActivity com.xys.vectordemo.LActivity 2

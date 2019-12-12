@@ -1,6 +1,0 @@
-Activity com.syh.testapplication.MainActivity 3
-com.syh.testapplication.MainActivity com.syh.testapplication.MainActivity.onCreate 1
-com.syh.testapplication.MainActivity com.syh.testapplication.MainActivity.getRoundCornerImage 1
-com.syh.testapplication.MainActivity.onCreate com.syh.testapplication.MainActivity.getRoundCornerImage 1
-com.syh.testapplication.MainActivity com.syh.testapplication.MainActivity.getShardImage 1
-com.syh.testapplication.MainActivity.onCreate com.syh.testapplication.MainActivity.getShardImage 1

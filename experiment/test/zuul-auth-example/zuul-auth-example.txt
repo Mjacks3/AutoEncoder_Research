@@ -1,5 +1,0 @@
-shuaicj.example.security.common.JwtAuthenticationConfig shuaicj.example.security.auth.SecurityConfig 1
-WebSecurityConfigurerAdapter shuaicj.example.security.auth.SecurityConfig 3
-WebSecurityConfigurerAdapter shuaicj.example.security.gateway.SecurityConfig 3
-AbstractAuthenticationProcessingFilter shuaicj.example.security.common.JwtUsernamePasswordAuthenticationFilter 3
-OncePerRequestFilter shuaicj.example.security.common.JwtTokenAuthenticationFilter 3

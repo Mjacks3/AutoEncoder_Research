@@ -1,5 +1,0 @@
-IParameterValidator com.pgssoft.scrollscreenshot.Params.DirectionValidator 3
-IParameterValidator com.pgssoft.scrollscreenshot.Params.StichtValidator 3
-com.pgssoft.scrollscreenshot.ScrollScreenShot com.pgssoft.scrollscreenshot.ScrollScreenShot.main 1
-com.pgssoft.scrollscreenshot.ScrollScreenShot.main com.pgssoft.scrollscreenshot.ScrollScreenShot.process 1
-com.pgssoft.scrollscreenshot.ScrollScreenShot com.pgssoft.scrollscreenshot.ScrollScreenShot.process 1

@@ -1,5 +1,0 @@
-Activity github.chenupt.bezier.MainActivity 3
-FrameLayout github.chenupt.bezier.BezierView 2
-ImageView github.chenupt.bezier.BezierView 1
-android::test::ApplicationTestCaseApplication github.chenupt.bezier.ApplicationTest 2
-ApplicationTestCase github.chenupt.bezier.ApplicationTest 1

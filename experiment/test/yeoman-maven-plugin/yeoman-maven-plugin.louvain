@@ -1,7 +1,0 @@
-AbstractMojoTestCase 0
-com.github.trecloux.yeoman.YeomanMojoTest 0
-com.github.trecloux.yeoman.YeomanMojoTest.test_should_use_npm_cache 1
-com.github.trecloux.yeoman.YeomanMojo.execute 1
-com.github.trecloux.yeoman.YeomanMojo 2
-AbstractMojo 2
-File 2

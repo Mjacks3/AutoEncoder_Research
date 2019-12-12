@@ -1,2 +1,0 @@
-TileService uk.co.nickbutcher.animatordurationtile.ToggleAnimatorDuration 2
-Activity uk.co.nickbutcher.animatordurationtile.SelectAnimatorDuration 3

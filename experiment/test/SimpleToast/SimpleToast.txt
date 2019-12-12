@@ -1,2 +1,0 @@
-android::test::ApplicationTestCaseApplication com.github.pierry.simpletoast.ApplicationTest 2
-ApplicationTestCase com.github.pierry.simpletoast.ApplicationTest 1

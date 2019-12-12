@@ -1,17 +1,16 @@
 import os, sys, argparse,json, time, subprocess
 
-edgelist_cnt = 0
-embedding_cnt = 0
 
-for r, d, f in os.walk("experiment/test"):
+for num_clusters in range (2,20):
+    in_progress = 0
+    full = 0
+    for r, d, f in os.walk("experiment/test"):
 
-    if len(f) == 2:
-         edgelist_cnt +=1
-    elif len(f) == 3:
-        edgelist_cnt +=1
-        embedding_cnt += 1
+        for a_file in f:
+            if  "_" + str(num_clusters) + ".clustering" in a_file:
+                in_progress += 1
 
-print(edgelist_cnt)
-print(embedding_cnt)
-
- 
+        full += 1
+            
+    print(str(num_clusters) + " in_progress: "+ str( in_progress))
+    print("full "+ str( full))

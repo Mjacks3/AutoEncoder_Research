@@ -1,3 +1,0 @@
-ViewPager com.andraskindler.parallaxviewpager.ParallaxViewPager 2
-Rect com.andraskindler.parallaxviewpager.ParallaxViewPager 1
-Bitmap com.andraskindler.parallaxviewpager.ParallaxViewPager 1

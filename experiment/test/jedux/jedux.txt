@@ -1,7 +1,0 @@
-trikita.jedux.StoreA,S.MiddlewareA,S trikita::jedux::LoggerA,S 2
-trikita::jedux::StoreA,S::Middleware trikita::jedux::LoggerA,S 2
-Activity com.example.jedux.MainActivity 3
-trikita.jedux.Logger trikita.jedux.Logger.dispatch 1
-trikita.jedux.Logger.dispatch trikita.jedux.Store.getState 1
-trikita.jedux.Store trikita.jedux.Store.getState 1
-trikita.jedux.Logger trikita.jedux.Store 1

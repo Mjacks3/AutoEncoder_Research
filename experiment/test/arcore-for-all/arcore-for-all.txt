@@ -1,3 +1,0 @@
-com.google.atap.tangoservice.SupportedDevices com.google.atap.tangoservice.SupportedDevices.isSupported 1
-com.google.atap.tangoservice.SupportedDevices com.google.atap.tangoservice.SupportedDevices.isSupportedExynosDevice 1
-com.google.atap.tangoservice.SupportedDevices.isSupported com.google.atap.tangoservice.SupportedDevices.isSupportedExynosDevice 1

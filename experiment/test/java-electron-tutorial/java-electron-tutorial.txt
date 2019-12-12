@@ -1,2 +1,0 @@
-UI demo.AppUI 2
-VaadinServlet demo.AppServlet 3

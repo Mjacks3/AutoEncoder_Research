@@ -1,1 +1,0 @@
-AppCompatActivity com.github.guoxiaoxing.android.interview.MainActivity 3

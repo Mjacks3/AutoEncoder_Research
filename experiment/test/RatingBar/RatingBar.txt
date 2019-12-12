@@ -1,9 +1,0 @@
-com.hedgehog.ratingbar.RatingBar com.hedgehog.ratingbar.RatingBar.setStar 1
-com.hedgehog.ratingbar.RatingBar.RatingBar com.hedgehog.ratingbar.RatingBar.setStar 1
-com.hedgehog.ratingbar.RatingBar.RatingBar com.hedgehog.ratingbar.RatingBar.OnRatingChangeListener.onRatingChange 1
-com.hedgehog.ratingbar.RatingBar.OnRatingChangeListener com.hedgehog.ratingbar.RatingBar.OnRatingChangeListener.onRatingChange 1
-com.hedgehog.ratingbar.RatingBar com.hedgehog.ratingbar.RatingBar.OnRatingChangeListener 1
-LinearLayout com.hedgehog.ratingbar.RatingBar 3
-android::test::ApplicationTestCaseApplication com.hedgehog.ratingbar.ApplicationTest 2
-ApplicationTestCase com.hedgehog.ratingbar.ApplicationTest 1
-com.hedgehog.ratingbar.RatingBar com.hedgehog.ratingbar.RatingBar.RatingBar 1

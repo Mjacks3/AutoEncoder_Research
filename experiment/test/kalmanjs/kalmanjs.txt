@@ -1,2 +1,0 @@
-NSObject KalmanFilter 2
-contrib/objective-C/KalmanFilter.m Foundation/Foundation.h 1

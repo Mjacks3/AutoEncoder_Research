@@ -1,3 +1,0 @@
-ActionBarActivity com.micromobs.android.sample.DemoActivity 3
-Fragment com.micromobs.android.sample.DemoActivity.PlaceholderFragment 3
-LinearLayout com.micromobs.android.floatlabel.FloatLabelEditText 3

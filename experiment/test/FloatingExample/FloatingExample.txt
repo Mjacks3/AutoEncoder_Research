@@ -1,2 +1,0 @@
-Service tk.eatheat.floatingexample.FlyBitch 3
-Activity tk.eatheat.floatingexample.MainActivity 3

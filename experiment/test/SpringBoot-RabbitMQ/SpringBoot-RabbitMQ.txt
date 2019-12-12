@@ -1,5 +1,0 @@
-CommandLineRunner hello.Runner 3
-hello.Runner hello.Runner.run 1
-hello.Receiver hello.Receiver.getLatch 1
-hello.Runner.run hello.Receiver.getLatch 1
-hello.Runner hello.Receiver 1

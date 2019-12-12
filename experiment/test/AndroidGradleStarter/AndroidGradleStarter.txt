@@ -1,5 +1,0 @@
-android::test::ActivityInstrumentationTestCase2FirstActivity com.sample.app.SampleAppInstrumentTest 2
-EditText com.sample.app.FirstActivity 1
-ActionBarActivity com.sample.app.FirstActivity 3
-ActionBarActivity com.sample.app.SecondActivity 3
-TextView com.sample.app.SecondActivity 1

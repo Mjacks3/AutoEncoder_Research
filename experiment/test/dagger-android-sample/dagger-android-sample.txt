@@ -1,9 +1,0 @@
-Application dagger.demo.DemoApplication 3
-Fragment dagger.demo.DemoFragment 3
-dagger.demo.DemoActivity dagger.demo.DemoActivity.onCreate 1
-Activity dagger.demo.DemoActivity 3
-dagger.demo.HasComponentDemoActivityComponent dagger.demo.DemoActivity 3
-dagger.demo.DemoActivity dagger.demo.DemoActivity.getComponent 1
-dagger.demo.DemoActivity.onCreate dagger.demo.DemoActivity.getComponent 1
-android::test::ApplicationTestCaseApplication dagger.demo.ApplicationTest 2
-ApplicationTestCase dagger.demo.ApplicationTest 1

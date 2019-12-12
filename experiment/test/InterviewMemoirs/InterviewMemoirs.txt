@@ -1,1 +1,0 @@
-AppCompatActivity com.interview.memoirs.MainActivity 3

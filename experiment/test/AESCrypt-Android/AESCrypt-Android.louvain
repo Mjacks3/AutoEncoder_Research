@@ -1,9 +1,0 @@
-ApplicationTestCase 0
-com.scottyab.aescrypt.ApplicationTest 0
-android::test::ApplicationTestCaseApplication 0
-com.scottyab.aescrypt.AESCrypt 1
-com.scottyab.aescrypt.AESCrypt.encrypt 1
-com.scottyab.aescrypt.ApplicationTest.testEncryt 1
-com.scottyab.aescrypt.ApplicationTest.testDecrpyt 2
-com.scottyab.aescrypt.AESCrypt.decrypt 2
-com.scottyab.aescrypt.ApplicationTest.testEncryptDecrypt 2

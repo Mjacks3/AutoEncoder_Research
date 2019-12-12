@@ -1,8 +1,0 @@
-TextView com.irinnovative.onepagesigninsignup.VerticalTextView 3
-View::OnClickListener com.irinnovative.onepagesigninsignup.MainActivity 2
-AppCompatActivity com.irinnovative.onepagesigninsignup.MainActivity 2
-LinearLayout com.irinnovative.onepagesigninsignup.MainActivity 1
-AppCompatActivity OnClickListener 1
-com.irinnovative.onepagesigninsignup.MainActivity com.irinnovative.onepagesigninsignup.MainActivity.onCreate 1
-com.irinnovative.onepagesigninsignup.MainActivity com.irinnovative.onepagesigninsignup.MainActivity.onClick 1
-com.irinnovative.onepagesigninsignup.MainActivity.onCreate com.irinnovative.onepagesigninsignup.MainActivity.onClick 1

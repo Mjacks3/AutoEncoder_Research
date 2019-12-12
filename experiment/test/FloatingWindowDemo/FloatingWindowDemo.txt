@@ -1,8 +1,0 @@
-com.klinker.android.floating_window.MainActivity com.klinker.android.floating_window.MainActivity.onCreate 1
-Activity com.klinker.android.floating_window.MainActivity 4
-Context com.klinker.android.floating_window.MainActivity 2
-com.klinker.android.floating_window.MainActivity.onCreate com.klinker.android.floating_window.MainActivity.setUpWindow 1
-com.klinker.android.floating_window.MainActivity com.klinker.android.floating_window.MainActivity.setUpWindow 1
-com.klinker.android.floating_window.MainActivity.onCreate com.klinker.android.floating_window.MainActivity.setUpButton 1
-com.klinker.android.floating_window.MainActivity com.klinker.android.floating_window.MainActivity.setUpButton 1
-com.klinker.android.floating_window.MainActivity com.klinker.android.floating_window.PopupMainActivity 4

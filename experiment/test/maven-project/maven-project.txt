@@ -1,6 +1,0 @@
-com.example.TestGreeter com.example.TestGreeter.greetShouldIncludeTheOneBeingGreeted 1
-com.example.TestGreeter.greetShouldIncludeGreetingPhrase com.example.Greeter.greet 1
-com.example.Greeter com.example.Greeter.greet 2
-com.example.TestGreeter.greetShouldIncludeTheOneBeingGreeted com.example.Greeter.greet 1
-com.example.TestGreeter com.example.Greeter 2
-com.example.TestGreeter com.example.TestGreeter.greetShouldIncludeGreetingPhrase 1

@@ -1,8 +1,0 @@
-noman.zoomtextview.ExampleUnitTest 0
-TextView 1
-noman.zoomtextview.ZoomTextView 1
-AppCompatActivity 2
-noman.zoomtextview.MainActivity 2
-ApplicationTestCase 3
-noman.zoomtextview.ApplicationTest 3
-android::test::ApplicationTestCaseApplication 3

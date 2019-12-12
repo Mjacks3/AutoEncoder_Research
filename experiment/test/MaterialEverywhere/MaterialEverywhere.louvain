@@ -1,9 +1,0 @@
-com.antonioleiva.materialeverywhere.DetailActivity 0
-com.antonioleiva.materialeverywhere.BaseActivity 0
-ActionBarActivity 0
-com.antonioleiva.materialeverywhere.HomeActivity 0
-com.antonioleiva.materialeverywhere.BaseActivity.onCreate 1
-com.antonioleiva.materialeverywhere.BaseActivity.getLayoutResource 1
-com.antonioleiva.materialeverywhere.HomeActivity.onCreate 2
-com.antonioleiva.materialeverywhere.BaseActivity.setActionBarIcon 2
-com.antonioleiva.materialeverywhere.DetailActivity.launch 2

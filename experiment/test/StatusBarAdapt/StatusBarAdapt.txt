@@ -1,5 +1,0 @@
-com.thinkcool.statusbaradapt.BaseActivity com.thinkcool.statusbaradapt.MainActivity 4
-Toolbar com.thinkcool.statusbaradapt.MainActivity 1
-ApplicationTestCase com.thinkcool.statusbaradapt.ApplicationTest 1
-android::test::ApplicationTestCaseApplication com.thinkcool.statusbaradapt.ApplicationTest 2
-AppCompatActivity com.thinkcool.statusbaradapt.BaseActivity 5

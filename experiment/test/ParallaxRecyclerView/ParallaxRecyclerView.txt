@@ -1,2 +1,0 @@
-AppCompatActivity com.nanbox.parallaxrecyclerview.sample.MainActivity 3
-RecyclerView com.nanbox.parallaxrecyclerview.ParallaxRecyclerView 2

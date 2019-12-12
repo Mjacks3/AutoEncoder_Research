@@ -1,5 +1,0 @@
-AppCompatActivity uuch.com.android_activityanim.SecondActivity 3
-AppCompatActivity uuch.com.android_activityanim.FourActivity 3
-AppCompatActivity uuch.com.android_activityanim.FiveActivity 3
-AppCompatActivity uuch.com.android_activityanim.MainActivity 3
-AppCompatActivity uuch.com.android_activityanim.ThreeActivity 3

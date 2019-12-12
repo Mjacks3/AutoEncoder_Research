@@ -1,6 +1,0 @@
-Activity cn.etransfar.stt.smarttooltest.HalfActivity 3
-Application cn.etransfar.stt.smarttooltest.MyApplication 3
-AppCompatActivity cn.etransfar.stt.smarttooltest.ExceptionActivity 3
-AppCompatActivity cn.etransfar.stt.smarttooltest.FullActivity 3
-AppCompatActivity cn.etransfar.stt.smarttooltest.MainActivity 3
-Button cn.etransfar.stt.smarttooltest.MainActivity 1

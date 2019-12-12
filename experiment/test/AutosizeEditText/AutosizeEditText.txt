@@ -1,2 +1,0 @@
-AppCompatActivity com.txusballesteros.demo.MainActivity 3
-EditText com.txusballesteros.AutoscaleEditText 2

@@ -1,8 +1,0 @@
-AsyncTask 0
-net.tomcsanyi.domonkos.silentsms.SilentSMS.NetworkService 1
-android::os::AsyncTaskString,String,Void 1
-PrintWriter 1
-net.tomcsanyi.domonkos.silentsms.SilentSMS.NetworkService.doInBackground 1
-net.tomcsanyi.domonkos.silentsms.SilentSMS.NetworkService.processCommand 1
-net.tomcsanyi.domonkos.silentsms.SilentSMS 2
-Activity 2

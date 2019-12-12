@@ -1,1 +1,0 @@
-Activity com.example.androidthings.simpleui.SimpleUiActivity 2

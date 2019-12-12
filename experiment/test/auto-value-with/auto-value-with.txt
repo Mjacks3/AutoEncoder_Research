@@ -1,1 +1,0 @@
-AutoValueExtension com.gabrielittner.auto.value.with.AutoValueWithExtension 3

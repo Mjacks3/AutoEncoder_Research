@@ -1,2 +1,0 @@
-Activity com.example.xposedwechat.MainActivity 3
-IXposedHookLoadPackage com.example.xposedwechat.wechat 3

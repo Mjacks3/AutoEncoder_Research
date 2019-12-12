@@ -1,1 +1,0 @@
-AppCompatActivity com.pamir.shortcuts.MainActivity 3

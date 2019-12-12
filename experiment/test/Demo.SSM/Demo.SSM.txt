@@ -1,9 +1,0 @@
-Controllers.StudentController Controllers.StudentController.Get 1
-Service.IStudentService Service.IStudentService.selectByCondition 1
-Controllers.StudentController.Get Service.IStudentService.selectByCondition 1
-Controllers.StudentController Service.IStudentService 1
-Service.IStudentService Service.StudentService 4
-Java.test Entity.Student 1
-Java.test Java.test.test 1
-Java.test.test Entity.Student.setClassid 1
-Entity.Student Entity.Student.setClassid 1

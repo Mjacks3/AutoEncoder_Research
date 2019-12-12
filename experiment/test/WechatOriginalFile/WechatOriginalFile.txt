@@ -1,4 +1,0 @@
-IXposedHookLoadPackage com.nigel.luckmoney.wechatoriginalphoto.CheckOriginalPhoto 2
-Context com.nigel.luckmoney.wechatoriginalphoto.CheckOriginalPhoto 1
-android::test::ApplicationTestCaseApplication com.nigel.luckmoney.wechatoriginalphoto.ApplicationTest 2
-ApplicationTestCase com.nigel.luckmoney.wechatoriginalphoto.ApplicationTest 1

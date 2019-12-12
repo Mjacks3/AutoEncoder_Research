@@ -1,6 +1,0 @@
-com.github.piasy.rxscreenshotdetector.example.MainActivity com.github.piasy.rxscreenshotdetector.RxScreenshotDetector 1
-com.github.piasy.rxscreenshotdetector.example.MainActivity.onResume com.github.piasy.rxscreenshotdetector.RxScreenshotDetector.start 1
-com.github.piasy.rxscreenshotdetector.RxScreenshotDetector com.github.piasy.rxscreenshotdetector.RxScreenshotDetector.start 2
-RxActivity com.github.piasy.rxscreenshotdetector.example.MainActivity 3
-TextView com.github.piasy.rxscreenshotdetector.example.MainActivity 1
-com.github.piasy.rxscreenshotdetector.example.MainActivity com.github.piasy.rxscreenshotdetector.example.MainActivity.onResume 1

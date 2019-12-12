@@ -1,6 +1,0 @@
-RestTemplate brave.webmvc.Frontend 1
-HttpClient brave.webmvc.Frontend 1
-SpanCustomizingAsyncHandlerInterceptor brave.webmvc.TracingConfiguration 1
-WebMvcConfigurerAdapter brave.webmvc.TracingConfiguration 3
-AbstractAnnotationConfigDispatcherServletInitializer brave.webmvc.Initializer 3
-HttpClient brave.webmvc.AppConfiguration 1

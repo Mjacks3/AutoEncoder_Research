@@ -1,5 +1,0 @@
-TigerSayHi Tiger 1
-CommandLineRunner org.pkaq.Booter 3
-TigerSayHi TigerSayHi.main 1
-Tiger Tiger.sayHi 1
-TigerSayHi.main Tiger.sayHi 1

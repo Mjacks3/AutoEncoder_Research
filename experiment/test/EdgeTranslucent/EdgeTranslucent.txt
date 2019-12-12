@@ -1,2 +1,0 @@
-FrameLayout me.qinc.lib.edgetranslucent.EdgeTransparentView 2
-AppCompatActivity me.qinc.edgetranslucent.MainActivity 3

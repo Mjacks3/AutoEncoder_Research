@@ -1,2 +1,0 @@
-AppCompatActivity com.taishi.instagrambackground.MainActivity 3
-AnimationDrawable com.taishi.instagrambackground.MainActivity 1

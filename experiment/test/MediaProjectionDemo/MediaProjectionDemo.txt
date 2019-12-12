@@ -1,1 +1,0 @@
-Activity com.mtsahakis.mediaprojectiondemo.ScreenCaptureImageActivity 2
