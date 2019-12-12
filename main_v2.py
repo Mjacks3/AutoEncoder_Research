@@ -381,7 +381,7 @@ if __name__ == "__main__":
                         help="Whether to use data augmentation during pretraining phase")
     parser.add_argument('--pretrained-weights', default=None, type=str,
                         help="Pretrained weights of the autoencoder")
-    parser.add_argument('--pretrain-epochs', default=150, type=int,
+    parser.add_argument('--pretrain-epochs', default=350, type=int,
                         help="Number of epochs for pretraining")
     parser.add_argument('-v', '--verbose', default=1, type=int,
                         help="Verbose for pretraining")
@@ -442,9 +442,8 @@ if args.experiment:
 
 
     #Training
-    """
 
-    for num in range(2, 20):
+    for num in range(20, 2, -1):
         args.num_clusters = int(num)
         args.save_dir = "experiment/" + str(args.num_clusters)
 
@@ -455,7 +454,7 @@ if args.experiment:
         train(args)
     
     #End Training
-    """
+    
     
     #Test
     #loop to get num clusters +
@@ -490,7 +489,7 @@ if args.experiment:
                         "18": [],
                         "19": []
                         }
-    """
+  
     for num_clusters in range(2,20):
         args.weights = "experiment/"+str(num_clusters)+"/model_final.h5"
         args.num_clusters = num_clusters
@@ -509,7 +508,7 @@ if args.experiment:
 
                 test(args) # Calculations will be done on files separately
                 
-    """
+ 
                 modq = calculate_modq(clusters,edge_list=edge_list)
                 print("\n\n MOD Q: "+ str(modq)) 
                 cluster_qValue_map[str(num_clusters)].append(modq)
