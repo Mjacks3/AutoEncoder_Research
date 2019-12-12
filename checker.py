@@ -11,8 +11,10 @@ for r, d, f in os.walk("experiment/test"):
         edgelist_cnt +=1
         embedding_cnt += 1
     """
-    if len(f) == 4:
+
+    if len(f) >= 6:
         edgelist_cnt += 1
+
     embedding_cnt += 1
         
 print(edgelist_cnt)

@@ -160,13 +160,9 @@ def test(args):
     name = args.test_dataset.split("/")[-1]
     print(name)
 
-
-    
-    
     with open(args.test_dataset +"/"+name + "_" + str(args.num_clusters)+ ".clustering",'w+') as f:
         for node_id, cluster in zip(y, y_pred):
             f.write( str(node_id) + " " + str(cluster) +"\n")
-    
 
         #node_clusters.append( str(node_id) + " " + str(cluster))
 
@@ -491,24 +487,26 @@ if args.experiment:
                         "19": []
                         }
     
+    """
     for num_clusters in range(2,20):
-        args.weights = "experiment/"+str(num_clusters)+"/model_final.h5"
-        args.num_clusters = num_clusters
- 
-        for r, d, f in os.walk("experiment/test"): # for each file 
-            #print (r)
-            #print (f)
-            if len(f) >= 3  and  len(f) - 3  == num_clusters - 2:
-                
-                for file_name in f: 
-                    if ".txt" in file_name:
-                        edge_list = r+"/"+file_name
-                    elif ".embedding" in file_name:
-                        args.test_dataset = r
+        if os.path.exists("experiment/"+str(num_clusters)+"/model_final.h5"):
 
+            args.weights = "experiment/"+str(num_clusters)+"/model_final.h5"
+            args.num_clusters = num_clusters
+    
+            for r, d, f in os.walk("experiment/test"): # for each file 
+                #print (r)
+                if len(f) >= 4 and f[0].split(".")[0] +  "_" + str(args.num_clusters)+ ".clustering" not in f  :       
+                    for file_name in f: 
+                        if ".txt" in file_name:
+                            edge_list = r+"/"+file_name
+                        elif ".embedding" in file_name:
+                            args.test_dataset = r
 
-                test(args) # Calculations will be done on files separately
-                
+                    print(args.test_dataset)
+                    test(args) # Calculations will be done on files separately
+    
+    """
     
                 modq = calculate_modq(clusters,edge_list=edge_list)
                 print("\n\n MOD Q: "+ str(modq)) 
