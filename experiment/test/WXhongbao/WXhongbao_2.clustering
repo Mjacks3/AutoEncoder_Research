@@ -1,0 +1,9 @@
+AppCompatActivity 1
+com.air.hongbaoauto.AccessibilityService.AirActivity 1
+ApplicationTestCase 1
+com.air.hongbaoauto.ApplicationTest 1
+android::test::ApplicationTestCaseApplication 1
+com.air.hongbaoauto.AccessibilityService.AirAccessibilityService 1
+com.air.hongbaoauto.AccessibilityService.AirAccessibilityService.onAccessibilityEvent 1
+AccessibilityService 1
+com.air.hongbaoauto.AccessibilityService.AirAccessibilityService.recycle 1

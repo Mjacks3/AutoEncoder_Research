@@ -1,0 +1,9 @@
+trikita.jedux.StoreA,S.MiddlewareA,S 1
+trikita::jedux::LoggerA,S 1
+trikita::jedux::StoreA,S::Middleware 1
+Activity 1
+com.example.jedux.MainActivity 1
+trikita.jedux.Logger 1
+trikita.jedux.Logger.dispatch 1
+trikita.jedux.Store.getState 1
+trikita.jedux.Store 1

@@ -1,0 +1,14 @@
+AppCompatActivity 1
+com.mrzk.flipcards.MainActivity 1
+ImageView 1
+com.mrzk.flipcards.FlipCardAnimation 1
+Animation 1
+com.mrzk.flipcards.FlipCardAnimation.applyTransformation 1
+com.mrzk.flipcards.FlipCardAnimation.OnContentChangeListener 1
+com.mrzk.flipcards.FlipCardAnimation.OnContentChangeListener.contentChange 1
+ApplicationTestCase 1
+com.mrzk.flipcards.ApplicationTest 1
+android::test::ApplicationTestCaseApplication 1
+com.mrzk.flipcards.MainActivity.onCreate 1
+com.mrzk.flipcards.FlipCardAnimation.setCanContentChange 1
+com.mrzk.flipcards.FlipCardAnimation.setOnContentChangeListener 1

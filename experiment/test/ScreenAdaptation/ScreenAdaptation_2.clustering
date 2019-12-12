@@ -1,0 +1,17 @@
+AppCompatActivity 1
+com.wildma.androidscreenadaptation.MainActivity 1
+com.wildma.testmodule.TestModuleActivity 1
+com.wildma.testmodule.ScreenUtils 1
+com.wildma.androidscreenadaptation.MainActivity.dynamicSet 1
+com.wildma.androidscreenadaptation.utils.ConvertUtils 1
+com.wildma.androidscreenadaptation.utils.ConvertUtils.px2sp 1
+com.wildma.androidscreenadaptation.utils.ConvertUtils.px2dp 1
+com.wildma.androidscreenadaptation.utils.ScreenUtils 1
+com.wildma.androidscreenadaptation.MainActivity.getScreenParams 1
+com.wildma.androidscreenadaptation.MainActivity.onCreate 1
+com.wildma.androidscreenadaptation.utils.ScreenUtils.getScreenHeight 1
+com.wildma.androidscreenadaptation.utils.ScreenUtils.getScreenWidth 1
+com.wildma.testmodule.TestModuleActivity.onCreate 1
+com.wildma.testmodule.TestModuleActivity.getScreenParams 1
+com.wildma.testmodule.ScreenUtils.getScreenHeight 1
+com.wildma.testmodule.ScreenUtils.getScreenWidth 1

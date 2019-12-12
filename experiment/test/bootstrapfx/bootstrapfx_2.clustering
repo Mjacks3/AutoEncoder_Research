@@ -1,0 +1,11 @@
+Application 1
+org.kordamp.bootstrapfx.Sampler 1
+org.kordamp.bootstrapfx.SamplerJPro 1
+org.kordamp.bootstrapfx.DemoTabPane 1
+org.kordamp.bootstrapfx.XMLEditor 1
+CodeArea 1
+BorderPane 1
+org.kordamp.bootstrapfx.scene.layout.Panel 1
+org.kordamp.bootstrapfx.DemoTabPane.DemoTabPane 1
+StackPane 1
+org.kordamp.bootstrapfx.XMLEditor.setText 1

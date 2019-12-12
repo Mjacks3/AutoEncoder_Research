@@ -1,0 +1,13 @@
+ReactPackage 1
+cn.reactnative.httpcache.HttpCachePackage 1
+ReactContextBaseJavaModule 1
+cn.reactnative.httpcache.HttpCacheModule 1
+Method 1
+ios/RCTHttpCache/RCTHttpCache.h 1
+ios/RCTHttpCache/RCTHttpCache.m 1
+RCTHttpCache.h 1
+RCTBridgeModule.h 1
+RCTImageCache.h 1
+NSObject 1
+RCTHttpCache 1
+RCTBridgeModule 1

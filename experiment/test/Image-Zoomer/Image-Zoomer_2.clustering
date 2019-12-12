@@ -1,0 +1,10 @@
+ImageButton 1
+com.vatsal.imagezoomer.ImageZoomButton 1
+com.appyware.librariesdemo.MainActivity 1
+com.appyware.librariesdemo.MainActivity.onCreate 1
+AppCompatActivity 1
+com.vatsal.imagezoomer.ZoomAnimation 1
+com.vatsal.imagezoomer.ZoomAnimation.zoom 1
+com.vatsal.imagezoomer.ImageZoomButton.performClick 1
+AnimatorSet 1
+com.vatsal.imagezoomer.ZoomAnimation.zoomReverse 1

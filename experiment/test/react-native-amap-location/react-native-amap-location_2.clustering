@@ -1,0 +1,9 @@
+ReactPackage 1
+com.xiaobu.amap.AMapLocationReactPackage 1
+AMapLocationListener 1
+com.xiaobu.amap.AMapLocationReactModule 1
+ReactContextBaseJavaModule 1
+com.xiaobu.amap.AMapLocationReactModule.onLocationChanged 1
+com.xiaobu.amap.AMapLocationReactModule.delta 1
+com.xiaobu.amap.AMapLocationReactModule.transformLat 1
+com.xiaobu.amap.AMapLocationReactModule.transformLon 1

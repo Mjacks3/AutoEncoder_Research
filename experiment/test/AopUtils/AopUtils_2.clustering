@@ -1,0 +1,17 @@
+com.czg.aoputils.log.DebugAspect 1
+com.czg.aoputils.log.DebugAspect.debugTangent 1
+com.czg.aoputils.log.DebugLog 1
+com.czg.aoputils.log.DebugLog.value 1
+AppCompatActivity 1
+com.czg.aoputils.permission.PermissionsShadowActivity 1
+com.czg.aoputils.permission.PermissionAspect 1
+com.czg.aoputils.permission.PermissionAspect.permissionTangent 1
+com.czg.aoputils.permission.Permission.value 1
+com.czg.aoputils.permission.Permission 1
+com.czg.sample.MainActivity 1
+com.czg.aoputils.log.ActiveActivityUtils 1
+com.czg.aoputils.permission.AopUtils 1
+com.czg.aoputils.permission.PermissionsShadowActivity.onRequestPermissionsResult 1
+com.czg.aoputils.permission.PermissionsShadowActivity.shouldShowRequestPermissionsRationale 1
+com.czg.aoputils.log.ActiveActivityUtils.onActivityResume 1
+com.czg.aoputils.permission.AopUtils.updateActiveActivity 1

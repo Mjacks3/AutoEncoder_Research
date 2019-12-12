@@ -1,0 +1,10 @@
+Activity 1
+com.example.helloswift.HelloSwift 1
+jni/hello-swift.c 1
+string.h 1
+jni.h 1
+stdint.h 1
+stdio.h 1
+com.example.helloswift.HelloSwift.onCreate 1
+com.example.helloswift.HelloSwift.stringFromJNI 1
+com.example.helloswift.HelloSwift.unimplementedStringFromJNI 1

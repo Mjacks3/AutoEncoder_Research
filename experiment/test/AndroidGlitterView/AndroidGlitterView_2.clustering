@@ -1,0 +1,13 @@
+AppCompatActivity 1
+com.liangfeizc.glitterview.sample.MainActivity 1
+com.liangfeizc.glitterview.GlitterView.onDraw 1
+com.liangfeizc.glitterview.GlitterView.drawStars 1
+com.liangfeizc.glitterview.GlitterView 1
+View 1
+com.liangfeizc.glitterview.GlitterView.Star.draw 1
+com.liangfeizc.glitterview.GlitterView.Star 1
+com.liangfeizc.glitterview.GlitterView.Star.dim 1
+com.liangfeizc.glitterview.GlitterView.onTouchEvent 1
+com.liangfeizc.glitterview.GlitterView.onTouchMove 1
+com.liangfeizc.glitterview.GlitterView.makeStar 1
+com.liangfeizc.glitterview.GlitterView.onTouchOver 1

@@ -1,0 +1,11 @@
+com.example.androidthings.simplepio.BlinkActivity 1
+com.example.androidthings.simplepio.BoardDefaults 1
+com.example.androidthings.simplepio.ButtonActivity 1
+com.example.androidthings.simplepio.PwmActivity 1
+Activity 1
+com.example.androidthings.simplepio.ButtonActivity.onCreate 1
+com.example.androidthings.simplepio.BoardDefaults.getGPIOForButton 1
+com.example.androidthings.simplepio.BlinkActivity.onCreate 1
+com.example.androidthings.simplepio.BoardDefaults.getGPIOForLED 1
+com.example.androidthings.simplepio.PwmActivity.onCreate 1
+com.example.androidthings.simplepio.BoardDefaults.getPWMPort 1

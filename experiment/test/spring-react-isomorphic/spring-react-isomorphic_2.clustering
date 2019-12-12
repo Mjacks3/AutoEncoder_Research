@@ -1,0 +1,10 @@
+io.spring.isomorphic.IsomorphicApplication 1
+io.spring.isomorphic.CommentRepository 1
+io.spring.isomorphic.InMemoryCommentRepository 1
+io.spring.isomorphic.InMemoryCommentRepository.save 1
+io.spring.isomorphic.Comment 1
+io.spring.isomorphic.Comment.getId 1
+io.spring.isomorphic.Comment.setId 1
+io.spring.isomorphic.IsomorphicApplication.main 1
+io.spring.isomorphic.CommentRepository.save 1
+io.spring.isomorphic.CommentRepository.findAll 1

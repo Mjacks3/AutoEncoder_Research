@@ -1,0 +1,15 @@
+ReactPackage 1
+com.rota.rngmaps.RNGMapsPackage 1
+ReactContextBaseJavaModule 1
+com.rota.rngmaps.RNGMapsPolylineModule 1
+com.rota.rngmaps.RNGMapsModule 1
+ApplicationTestCase 1
+rota.com.rngmaps.ApplicationTest 1
+android::test::ApplicationTestCaseApplication 1
+com::facebook::react::uimanager::SimpleViewManagerMapView 1
+com.rota.rngmaps.RNGMapsViewManager 1
+SimpleViewManager 1
+com.rota.rngmaps.RNGMapsModule.addMarker 1
+com.rota.rngmaps.RNGMapsViewManager.addMarker 1
+com.rota.rngmaps.RNGMapsPolylineModule.create 1
+com.rota.rngmaps.RNGMapsViewManager.getMap 1

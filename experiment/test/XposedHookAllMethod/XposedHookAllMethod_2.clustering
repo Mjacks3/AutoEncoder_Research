@@ -1,0 +1,11 @@
+Activity 1
+cn.wjdiankong.xposedhook.MainActivity 1
+cn.wjdiankong.xposedhook.XposedInit 1
+cn.wjdiankong.xposedhook.HookAppAllMethod 1
+SetString 1
+IXposedHookLoadPackage 1
+cn.wjdiankong.xposedhook.XposedInit.handleLoadPackage 1
+cn.wjdiankong.xposedhook.HookAppAllMethod.hookMethod 1
+cn.wjdiankong.xposedhook.MainActivity.onCreate 1
+cn.wjdiankong.xposedhook.HookAppAllMethod.dumpAllMethodInfo 1
+cn.wjdiankong.xposedhook.HookAppAllMethod.dumpCallMethodInfo 1

@@ -1,0 +1,17 @@
+ApplicationTestCase 1
+com.technotalkative.navigationviewdemo.ApplicationTest 1
+android::test::ApplicationTestCaseApplication 1
+com.technotalkative.textinputlayoutdemo.ApplicationTest 1
+com.technotalkative.navigationviewdemo.MainActivity 1
+com.technotalkative.navigationviewdemo.MainActivity.onBackPressed 1
+com.technotalkative.navigationviewdemo.MainActivity.isNavDrawerOpen 1
+com.technotalkative.navigationviewdemo.MainActivity.closeNavDrawer 1
+DialogFragment 1
+com.technotalkative.textinputlayoutdemo.FeedbackFragment 1
+com.technotalkative.floatingactionbuttondemo.ApplicationTest 1
+AppCompatActivity 1
+com.technotalkative.floatingactionbuttondemo.MainActivity 1
+com.technotalkative.snackbardemo.MainActivity 1
+ActionBarDrawerToggle 1
+com.technotalkative.textinputlayoutdemo.MainActivity 1
+com.technotalkative.snackbardemo.ApplicationTest 1

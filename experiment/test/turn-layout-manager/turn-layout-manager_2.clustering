@@ -1,0 +1,12 @@
+LinearLayoutManager 1
+cdflynn.android.library.turn.TurnLayoutManager 1
+cdflynn.android.sample.turn.MainActivity 1
+Adapter 1
+cdflynn.android.sample.turn.SampleAdapter 1
+RecyclerView::AdapterSampleAdapter.SampleViewHolder 1
+AppCompatActivity 1
+cdflynn.android.sample.turn.MainActivity.onCreate 1
+cdflynn.android.library.turn.TurnLayoutManager.setRadius 1
+cdflynn.android.library.turn.TurnLayoutManager.setPeekDistance 1
+cdflynn.android.library.turn.TurnLayoutManager.setGravity 1
+cdflynn.android.library.turn.TurnLayoutManager.setRotate 1

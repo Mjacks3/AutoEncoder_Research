@@ -1,0 +1,10 @@
+WebView 1
+com.tobiasrohloff.view.NestedScrollWebView 1
+NestedScrollingChild 1
+com.tobiasrohloff.view.NestedScrollWebView.NestedScrollWebView 1
+com.tobiasrohloff.view.NestedScrollWebView.setNestedScrollingEnabled 1
+com.tobiasrohloff.view.NestedScrollWebView.onTouchEvent 1
+com.tobiasrohloff.view.NestedScrollWebView.startNestedScroll 1
+com.tobiasrohloff.view.NestedScrollWebView.dispatchNestedPreScroll 1
+com.tobiasrohloff.view.NestedScrollWebView.dispatchNestedScroll 1
+com.tobiasrohloff.view.NestedScrollWebView.stopNestedScroll 1

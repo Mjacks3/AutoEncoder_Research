@@ -1,0 +1,17 @@
+com.geny.feign.SpringDemoFeignService 1
+com.geny.feign.ErrorHystrix 1
+WebSecurityConfigurerAdapter 1
+com.geny.admin.SpringBootAdminApplication.SecurityPermitAllConfig 1
+com.geny.admin.SpringBootAdminApplication.SecuritySecureConfig 1
+ZuulFilter 1
+com.geny.gateway.filter.PostFilter 1
+com.geny.gateway.filter.PreFilter 1
+com.geny.gateway.filter.RateLimitFilter 1
+com.geny.feign.SpringDemoFeignController 1
+com.geny.ribbon.SpringDemoRibbonService 1
+com.geny.ribbon.SpringDemoRibbonController 1
+LoadBalancerClient 1
+RestTemplate 1
+com.geny.config.client.ConfigClientApplication 1
+com.geny.config.client.ConfigClientApplication.main 1
+com.geny.config.client.ConfigClientApplication.hello 1

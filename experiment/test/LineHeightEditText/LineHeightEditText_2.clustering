@@ -1,0 +1,15 @@
+AppCompatEditText 1
+com.hanks.lineheightedittext.LineHeightEditText 1
+ShapeDrawable 1
+com.hanks.lineheightedittext.LineSpaceCursorDrawable 1
+NoCopySpan 1
+com.hanks.lineheightedittext.TextWatcher 1
+AppCompatActivity 1
+com.hanks.demo.MainActivity 1
+com.hanks.lineheightedittext.LineHeightEditText.LineHeightEditText 1
+com.hanks.lineheightedittext.TextWatcher.beforeTextChanged 1
+com.hanks.lineheightedittext.TextWatcher.onTextChanged 1
+com.hanks.lineheightedittext.TextWatcher.afterTextChanged 1
+com.hanks.lineheightedittext.LineHeightEditText.getCursorColor 1
+com.hanks.lineheightedittext.LineHeightEditText.getCursorWidth 1
+com.hanks.lineheightedittext.LineHeightEditText.getCursorHeight 1
