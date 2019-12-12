@@ -1,0 +1,10 @@
+com.example.administrator.sharebutton.MainActivity.onCreate 17
+com.example.administrator.sharebutton.ShareButtonView.startAnimation 17
+com.example.administrator.sharebutton.ShareButtonView 17
+com.example.administrator.sharebutton.ShareButtonView.startRevealAnim 2
+com.example.administrator.sharebutton.MainActivity 17
+AppCompatActivity 17
+com.example.administrator.sharebutton.ShareButtonView.reset 12
+AnimatorSet 17
+ValueAnimator 17
+View 17

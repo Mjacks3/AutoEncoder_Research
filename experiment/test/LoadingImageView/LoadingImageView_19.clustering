@@ -1,0 +1,12 @@
+ImageView 14
+com.chiemy.widget.loadingimageview.LoadingImageView 12
+com.chiemy.widget.loadingimageview.MainActivity 9
+ActionBarActivity 10
+com.chiemy.widget.loadingimageview.MainActivity.onCreate 17
+com.chiemy.widget.loadingimageview.LoadingImageView.setMaskColor 17
+com.chiemy.widget.loadingimageview.LoadingImageView.LoadingImageView 14
+com.chiemy.widget.loadingimageview.LoadingImageView.getMaskOrientation 10
+com.chiemy.widget.loadingimageview.LoadingImageView.setMaskOrientation 10
+android::test::ApplicationTestCaseApplication 13
+com.chiemy.widget.loadingimageview.ApplicationTest 12
+ApplicationTestCase 13
