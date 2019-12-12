@@ -1,3 +1,0 @@
-ApplicationTestCase in.srain.demos.fuckbaidu.ApplicationTest 1
-android::test::ApplicationTestCaseApplication in.srain.demos.fuckbaidu.ApplicationTest 2
-AppCompatActivity in.srain.demos.fuckbaidu.MainActivity 3

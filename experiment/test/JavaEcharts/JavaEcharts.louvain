@@ -1,8 +1,0 @@
-com.koali.model.NewStudent 0
-com.koali.web.EchartsController.getData 1
-com.koali.web.EchartsController 1
-com.koali.service.NewStudentInfoService.getAllStudent 1
-com.koali.service.NewStudentInfoService 2
-com.koali.service.Impl.NewStudentInfoServiceImpl 2
-com.koali.model.sorceResult 3
-com.koali.dao.newStudentInfoDao 4

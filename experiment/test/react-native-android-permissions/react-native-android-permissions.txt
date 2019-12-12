@@ -1,6 +1,0 @@
-ReactPackage com.burnweb.rnpermissions.RNPermissionsPackage 2
-com.burnweb.rnpermissions.RNPermissionsPackage com.burnweb.rnpermissions.RNPermissionsModule 1
-ReactContextBaseJavaModule com.burnweb.rnpermissions.RNPermissionsModule 3
-com.burnweb.rnpermissions.RNPermissionsPackage com.burnweb.rnpermissions.RNPermissionsPackage.onRequestPermissionsResult 1
-com.burnweb.rnpermissions.RNPermissionsPackage.onRequestPermissionsResult com.burnweb.rnpermissions.RNPermissionsModule.onRequestPermissionsResult 1
-com.burnweb.rnpermissions.RNPermissionsModule com.burnweb.rnpermissions.RNPermissionsModule.onRequestPermissionsResult 1

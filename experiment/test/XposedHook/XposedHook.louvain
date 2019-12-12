@@ -1,6 +1,0 @@
-com.example.dx.xposedhook.ExampleUnitTest 0
-com.example.xposedhook.HookLoader 1
-IXposedHookZygoteInit 1
-IXposedHookLoadPackage 2
-com.example.xposedhook.HookLogic 2
-com.example.dx.xposedhook.ExampleInstrumentedTest 3

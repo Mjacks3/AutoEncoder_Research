@@ -1,4 +1,0 @@
-com.google.play.developerapi.publisher.samples.BasicUploadApk com.google.play.developerapi.publisher.samples.BasicUploadApk.upload 1
-com.google.play.developerapi.publisher.samples.AndroidPublisherHelper com.google.play.developerapi.publisher.samples.AndroidPublisherHelper.init 1
-com.google.play.developerapi.publisher.samples.BasicUploadApk.upload com.google.play.developerapi.publisher.samples.AndroidPublisherHelper.init 1
-com.google.play.developerapi.publisher.samples.BasicUploadApk com.google.play.developerapi.publisher.samples.AndroidPublisherHelper 1

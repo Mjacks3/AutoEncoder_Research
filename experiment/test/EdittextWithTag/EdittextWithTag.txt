@@ -1,7 +1,0 @@
-android::test::ApplicationTestCaseApplication com.sn.edittextwithtag.ApplicationTest 2
-ApplicationTestCase com.sn.edittextwithtag.ApplicationTest 1
-com.sn.edittextwithtag.MainActivity com.sn.edittextwithtag.MainActivity.onCreate 1
-AppCompatActivity com.sn.edittextwithtag.MainActivity 3
-EditText com.sn.edittextwithtag.MainActivity 1
-com.sn.edittextwithtag.MainActivity com.sn.edittextwithtag.MainActivity.setTag 1
-com.sn.edittextwithtag.MainActivity.onCreate com.sn.edittextwithtag.MainActivity.setTag 1

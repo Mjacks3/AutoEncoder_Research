@@ -1,1 +1,0 @@
-IXposedHookLoadPackage de.robv.android.xposed.examples.redclock.RedClock 2

@@ -1,9 +1,0 @@
-com.github.mmadev.multidexsample.MainActivity com.github.mmadev.multidexsample.utils.MultiDexUtils 1
-ListActivity com.github.mmadev.multidexsample.MainActivity 3
-com.github.mmadev.multidexsample.utils.MultiDexUtils.getLoadedExternalDexClasses com.github.mmadev.multidexsample.utils.MultiDexUtils.getExternalDexClasses 1
-com.github.mmadev.multidexsample.MainActivity.onCreate com.github.mmadev.multidexsample.utils.MultiDexUtils.getExternalDexClasses 1
-com.github.mmadev.multidexsample.utils.MultiDexUtils com.github.mmadev.multidexsample.utils.MultiDexUtils.getExternalDexClasses 3
-com.github.mmadev.multidexsample.utils.MultiDexUtils.getExternalDexClasses com.github.mmadev.multidexsample.utils.MultiDexUtils.getSourcePaths 3
-com.github.mmadev.multidexsample.utils.MultiDexUtils com.github.mmadev.multidexsample.utils.MultiDexUtils.getSourcePaths 3
-com.github.mmadev.multidexsample.utils.MultiDexUtils com.github.mmadev.multidexsample.utils.MultiDexUtils.getLoadedExternalDexClasses 1
-com.github.mmadev.multidexsample.MainActivity com.github.mmadev.multidexsample.MainActivity.onCreate 1

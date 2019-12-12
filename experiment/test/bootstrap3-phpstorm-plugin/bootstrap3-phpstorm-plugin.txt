@@ -1,1 +1,0 @@
-DefaultLiveTemplatesProvider com.jasonnz.bootstrap.BootstapTemplatesProvider 2

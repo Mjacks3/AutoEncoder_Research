@@ -1,1 +1,0 @@
-AppCompatActivity bottomnav.hitherejoe.com.bottomnavigationsample.MainActivity 3

@@ -1,1 +1,0 @@
-EventTracker com.photoeditorsdk.android.app.CustomEventTracker 2

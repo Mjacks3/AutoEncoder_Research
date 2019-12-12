@@ -1,8 +1,0 @@
-AppCompatActivity com.xiaweizi.androidtoolsexample.CommonActivity 3
-Fragment com.xiaweizi.androidtoolsexample.CommonFragment 3
-AppCompatActivity com.xiaweizi.androidtoolsexample.ListViewActivity 3
-AppCompatActivity com.xiaweizi.androidtoolsexample.SampleActivity 3
-AppCompatActivity com.xiaweizi.androidtoolsexample.GridViewActivity 3
-AppCompatActivity com.xiaweizi.androidtoolsexample.RecyclerViewActivity 3
-AppCompatActivity com.xiaweizi.androidtoolsexample.MainActivity 3
-AppCompatActivity com.xiaweizi.androidtoolsexample.OtherActivity 3

@@ -1,1 +1,0 @@
-Activity com.example.android_custom_seekbar.MainActivity 2

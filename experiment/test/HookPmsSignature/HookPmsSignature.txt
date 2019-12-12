@@ -1,8 +1,0 @@
-InvocationHandler cn.wjdiankong.hookpms.PmsHookBinderInvocationHandler 3
-cn.wjdiankong.hookdemo.MyApplication cn.wjdiankong.hookpms.ServiceManagerWraper 1
-cn.wjdiankong.hookdemo.MyApplication.attachBaseContext cn.wjdiankong.hookpms.ServiceManagerWraper.hookPMS 1
-cn.wjdiankong.hookpms.ServiceManagerWraper cn.wjdiankong.hookpms.ServiceManagerWraper.hookPMS 2
-cn.wjdiankong.hookdemo.MyApplication cn.wjdiankong.hookdemo.MyApplication.attachBaseContext 1
-Activity cn.wjdiankong.hookdemo.MainActivity 3
-Application cn.wjdiankong.hookdemo.MyApplication 3
-InvocationHandler com.wlanplus.chang.PmsHookBinderInvocationHandler 3

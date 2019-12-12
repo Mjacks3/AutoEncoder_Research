@@ -1,5 +1,0 @@
-X509TrustManager 0
-com.android.SSLTrustKiller.UnsafeTrustManager 0
-com.android.SSLTrustKiller.Hook 1
-com.android.SSLTrustKiller.Hook.initialize 1
-com.android.SSLTrustKiller.UnsafeTrustManager.getInstance 1

@@ -1,3 +1,0 @@
-Drawable scut.carson_ho.diy_view.SuperEditText 1
-AppCompatEditText scut.carson_ho.diy_view.SuperEditText 3
-AppCompatActivity scut.carson_ho.superedittext.MainActivity 3

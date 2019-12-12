@@ -1,3 +1,0 @@
-Shader com.example.android_verticaltextview.VerticalTextView 1
-TextView com.example.android_verticaltextview.VerticalTextView 2
-Activity com.example.android_verticaltextview.MainActivity 3

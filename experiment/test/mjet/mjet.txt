@@ -1,5 +1,0 @@
-metasploit.MetasploitMBean metasploit.Metasploit 4
-metasploit.Metasploit metasploit.Metasploit.run 1
-metasploit.Metasploit.run metasploit.Payload.main 1
-metasploit.Payload metasploit.Payload.main 1
-metasploit.Metasploit metasploit.Payload 1

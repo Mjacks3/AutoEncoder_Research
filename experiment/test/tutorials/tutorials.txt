@@ -1,8 +1,0 @@
-ErrorCode com.example.stage.lib.sample.Errors 3
-Label com.example.stage.processor.sample.Groups 3
-com.example.stage.processor.sample.SampleProcessor com.example.stage.processor.sample.SampleDProcessor 4
-SingleLaneRecordProcessor com.example.stage.processor.sample.SampleProcessor 4
-com.example.stage.processor.sample.SampleDProcessor com.example.stage.processor.sample.SampleProcessor 1
-com.example.stage.processor.sample.SampleProcessor com.example.stage.processor.sample.SampleProcessor.init 1
-com.example.stage.processor.sample.SampleProcessor.init com.example.stage.processor.sample.SampleProcessor.getConfig 1
-com.example.stage.processor.sample.SampleProcessor com.example.stage.processor.sample.SampleProcessor.getConfig 1

@@ -1,8 +1,0 @@
-com.monkey.miclockview.MiClockView com.monkey.miclockview.DensityUtils 1
-View com.monkey.miclockview.MiClockView 3
-com.monkey.miclockview.MiClockView com.monkey.miclockview.MiClockView.MiClockView 1
-com.monkey.miclockview.DensityUtils com.monkey.miclockview.DensityUtils.sp2px 1
-com.monkey.miclockview.MiClockView.MiClockView com.monkey.miclockview.DensityUtils.sp2px 1
-AppCompatActivity com.monkey.miclockview.MainActivity 3
-android::test::ApplicationTestCaseApplication com.monkey.miclockview.ApplicationTest 2
-ApplicationTestCase com.monkey.miclockview.ApplicationTest 1

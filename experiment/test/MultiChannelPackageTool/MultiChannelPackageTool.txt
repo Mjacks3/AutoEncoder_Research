@@ -1,5 +1,0 @@
-com.android.zgj.multiChannelPackageTool.MCPTool com.android.zgj.multiChannelPackageTool.MCPTool.getChannelId 1
-com.android.zgj.multiChannelPackageTool.MCPTool.main com.android.zgj.multiChannelPackageTool.MCPTool.readContent 1
-com.android.zgj.multiChannelPackageTool.MCPTool.getChannelId com.android.zgj.multiChannelPackageTool.MCPTool.readContent 1
-com.android.zgj.multiChannelPackageTool.MCPTool com.android.zgj.multiChannelPackageTool.MCPTool.readContent 2
-com.android.zgj.multiChannelPackageTool.MCPTool com.android.zgj.multiChannelPackageTool.MCPTool.main 1

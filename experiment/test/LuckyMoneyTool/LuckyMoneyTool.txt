@@ -1,2 +1,0 @@
-Activity com.miui.hongbao.MainActivity 2
-AccessibilityService com.miui.hongbao.HongbaoService 3

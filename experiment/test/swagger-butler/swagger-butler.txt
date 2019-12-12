@@ -1,1 +1,0 @@
-SwaggerResourcesProvider com.didispace.swagger.butler.SwaggerResourcesProcessor 3

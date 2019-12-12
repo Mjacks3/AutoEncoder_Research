@@ -1,1 +1,0 @@
-SimpleApplication mygame.Main 2

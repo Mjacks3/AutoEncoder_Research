@@ -1,7 +1,0 @@
-AppGlideModule com.carouseleffect.MyAppGlideModule 3
-AppCompatActivity com.carouseleffect.MainActivity 3
-ViewPager com.carouseleffect.MainActivity 1
-ViewPager::PageTransformer com.carouseleffect.CarouselEffectTransformer 2
-AppCompatActivity com.carouseleffect.FullScreenActivity 3
-PagerAdapter com.carouseleffect.MyPagerAdapter 3
-Context com.carouseleffect.MyPagerAdapter 1

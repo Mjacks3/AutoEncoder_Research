@@ -1,5 +1,0 @@
-View com.gastudio.gabottleloading.library.GABottleLoadingView 2
-com.gastudio.gabottleloading.library.GABottleLoadingView com.gastudio.gabottleloading.library.GABottleLoadingView.performAnimation 1
-com.gastudio.gabottleloading.library.GABottleLoadingView com.gastudio.gabottleloading.library.GABottleLoadingView.cancel 1
-com.gastudio.gabottleloading.library.GABottleLoadingView.performAnimation com.gastudio.gabottleloading.library.GABottleLoadingView.cancel 1
-Activity com.gastudio.gabottleloading.gabottleloading.MainActivity 3

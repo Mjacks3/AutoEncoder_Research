@@ -1,2 +1,0 @@
-ReactContextBaseJavaModule me.neo.react.StatusBarModule 3
-ReactPackage me.neo.react.StatusBarPackage 2

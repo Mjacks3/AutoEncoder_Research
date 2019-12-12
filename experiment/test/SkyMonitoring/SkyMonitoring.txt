@@ -1,7 +1,0 @@
-Activity com.tamic.statsdkdemo.BaseActivity 7
-Button com.tamic.statsdkdemo.SecondActivity 1
-View::OnClickListener com.tamic.statsdkdemo.SecondActivity 2
-com.tamic.statsdkdemo.BaseActivity com.tamic.statsdkdemo.SecondActivity 3
-com.tamic.statsdkdemo.BaseActivity OnClickListener 1
-Application com.tamic.statsdkdemo.StatAppliation 3
-com.tamic.statsdkdemo.BaseActivity com.tamic.statsdkdemo.MainActivity 4

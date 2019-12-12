@@ -1,8 +1,0 @@
-com.example.androidthings.bluetooth.audio.A2dpSinkHelper 0
-com.example.androidthings.bluetooth.audio.A2dpSinkHelper.disconnect 0
-com.example.androidthings.bluetooth.audio.A2dpSinkActivity 1
-Activity 1
-com.example.androidthings.bluetooth.audio.BoardDefaults 2
-com.example.androidthings.bluetooth.audio.A2dpSinkActivity.onActivityResult 2
-com.example.androidthings.bluetooth.audio.BoardDefaults.getGPIOForPairing 2
-com.example.androidthings.bluetooth.audio.BoardDefaults.getGPIOForDisconnectAllBTDevices 2

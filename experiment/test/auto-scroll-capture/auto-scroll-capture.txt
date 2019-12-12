@@ -1,5 +1,0 @@
-Activity com.wanjian.scrollscreenshots.ScrollAct 3
-Activity com.wanjian.scrollscreenshots.DrawListViewAct 3
-Activity com.wanjian.scrollscreenshots.AutoScreenShotsAct 3
-Activity com.wanjian.scrollscreenshots.DrawScrollViewAct 3
-AppCompatActivity com.wanjian.scrollscreenshots.MainActivity 3

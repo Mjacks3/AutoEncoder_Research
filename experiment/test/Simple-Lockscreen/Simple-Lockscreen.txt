@@ -1,7 +1,0 @@
-Service org.example.lockscreen.LockScreenService 2
-BroadcastReceiver org.example.lockscreen.LockScreenService 1
-BroadcastReceiver org.example.lockscreen.LockScreenReceiver 3
-org.example.lockscreen.MainActivity org.example.lockscreen.MainActivity.onCreate 1
-Activity org.example.lockscreen.MainActivity 3
-org.example.lockscreen.MainActivity org.example.lockscreen.MainActivity.makeFullScreen 1
-org.example.lockscreen.MainActivity.onCreate org.example.lockscreen.MainActivity.makeFullScreen 1

@@ -1,6 +1,0 @@
-club.fishine.webviewdebughook.LRUCacheString,Boolean 0
-club.fishine.webviewdebughook.WebViewHook 1
-IXposedHookLoadPackage 1
-club.fishine.webviewdebughook.LRUCacheK,V 2
-java::util::LinkedHashMapK,V 2
-LinkedHashMap 2

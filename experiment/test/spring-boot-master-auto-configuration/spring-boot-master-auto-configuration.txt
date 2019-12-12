@@ -1,1 +1,0 @@
-BindingRegistry hornetq.autoconfigure.HornetQNoOpBindingRegistry 3

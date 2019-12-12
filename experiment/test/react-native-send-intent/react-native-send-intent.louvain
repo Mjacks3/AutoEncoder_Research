@@ -1,9 +1,0 @@
-com.burnweb.rnsendintent.FileProvider 0
-android::support::v4::content::FileProvider 0
-ReactContextBaseJavaModule 1
-com.burnweb.rnsendintent.RNSendIntentModule 1
-com.burnweb.rnsendintent.RNSendIntentModule.sendPhoneCall 1
-com.burnweb.rnsendintent.RNSendIntentModule.sendPhoneDial 1
-com.burnweb.rnsendintent.RNSendIntentPackage 2
-ReactPackage 2
-FileProvider 3

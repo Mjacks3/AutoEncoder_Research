@@ -1,8 +1,0 @@
-ActionBarActivity test.drision.com.loadinganimation.MainActivity 3
-ApplicationTestCase test.drision.com.loadinganimation.ApplicationTest 1
-android::test::ApplicationTestCaseApplication test.drision.com.loadinganimation.ApplicationTest 2
-View test.drision.com.loadinganimation.SoGouBrowserLoading 2
-test.drision.com.loadinganimation.MainActivity test.drision.com.loadinganimation.SoGouBrowserLoading 1
-test.drision.com.loadinganimation.MainActivity test.drision.com.loadinganimation.MainActivity.onCreate 1
-test.drision.com.loadinganimation.SoGouBrowserLoading test.drision.com.loadinganimation.SoGouBrowserLoading.setColor 1
-test.drision.com.loadinganimation.MainActivity.onCreate test.drision.com.loadinganimation.SoGouBrowserLoading.setColor 1

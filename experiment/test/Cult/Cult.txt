@@ -1,2 +1,0 @@
-AppCompatActivity com.github.ppamorim.sample.cult.activity.BaseActivity 3
-CardView com.github.ppamorim.cult.CultView 3

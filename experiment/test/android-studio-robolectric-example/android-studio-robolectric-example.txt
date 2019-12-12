@@ -1,3 +1,0 @@
-Activity com.example.joshskeen.myapplication.MyActivity 3
-TextView com.example.joshskeen.myapplication.MyActivity 1
-Button com.example.joshskeen.myapplication.MyActivity 1

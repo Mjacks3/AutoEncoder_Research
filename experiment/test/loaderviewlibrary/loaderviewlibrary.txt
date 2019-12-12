@@ -1,9 +1,0 @@
-com.elyeproj.loaderviewlibrary.LoaderView com.elyeproj.loaderviewlibrary.LoaderTextView 2
-AppCompatTextView com.elyeproj.loaderviewlibrary.LoaderTextView 3
-AppCompatActivity com.elyeproj.sampleloaderview.MainActivity 3
-ApplicationTestCase com.elyeproj.sampleloaderview.ApplicationTest 1
-android::test::ApplicationTestCaseApplication com.elyeproj.sampleloaderview.ApplicationTest 2
-com.elyeproj.loaderviewlibrary.LoaderView com.elyeproj.loaderviewlibrary.LoaderImageView 2
-AppCompatImageView com.elyeproj.loaderviewlibrary.LoaderImageView 3
-ApplicationTestCase com.elyeproj.loaderviewlibrary.ApplicationTest 1
-android::test::ApplicationTestCaseApplication com.elyeproj.loaderviewlibrary.ApplicationTest 2

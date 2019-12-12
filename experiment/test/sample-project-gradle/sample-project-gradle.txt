@@ -1,4 +1,0 @@
-org.web3j.sample.GreeterContractIT org.web3j.sample.GreeterContractIT.testGreeterContract 1
-org.web3j.sample.GreeterContractIT.testGreeterContract org.web3j.sample.Application.main 1
-org.web3j.sample.Application org.web3j.sample.Application.main 1
-org.web3j.sample.GreeterContractIT org.web3j.sample.Application 1

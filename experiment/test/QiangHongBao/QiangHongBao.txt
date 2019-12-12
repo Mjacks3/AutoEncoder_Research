@@ -1,3 +1,0 @@
-Activity com.codeboy.qianghongbao.MainActivity 3
-Handler com.codeboy.qianghongbao.QiangHongBaoService 1
-AccessibilityService com.codeboy.qianghongbao.QiangHongBaoService 3

@@ -1,8 +1,0 @@
-GenericFilterBean me.aboullaite.config.JwtFilter 3
-me.aboullaite.controller.UserController me.aboullaite.controller.UserController.login 1
-me.aboullaite.model.User me.aboullaite.model.User.getPassword 1
-me.aboullaite.controller.UserController.login me.aboullaite.model.User.getPassword 1
-me.aboullaite.controller.UserController me.aboullaite.model.User 1
-org::springframework::data::repository::CrudRepositoryUser,Long me.aboullaite.dao.UserDao 2
-CrudRepository me.aboullaite.dao.UserDao 1
-me.aboullaite.service.UserService me.aboullaite.service.impl.UserServiceImpl 4

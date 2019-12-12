@@ -1,8 +1,0 @@
-ExecutorService com.oldratlee.fucking.concurrency.util.Utils 1
-com.oldratlee.fucking.concurrency.NoPublishDemo com.oldratlee.fucking.concurrency.util.Utils 1
-MapInteger,Object com.oldratlee.fucking.concurrency.HashMapHangDemo 1
-com.oldratlee.fucking.concurrency.NoPublishDemo com.oldratlee.fucking.concurrency.NoPublishDemo.main 1
-com.oldratlee.fucking.concurrency.util.Utils.makeLoad com.oldratlee.fucking.concurrency.util.Utils.sleep 1
-com.oldratlee.fucking.concurrency.NoPublishDemo.main com.oldratlee.fucking.concurrency.util.Utils.sleep 1
-com.oldratlee.fucking.concurrency.util.Utils com.oldratlee.fucking.concurrency.util.Utils.sleep 2
-com.oldratlee.fucking.concurrency.util.Utils com.oldratlee.fucking.concurrency.util.Utils.makeLoad 1

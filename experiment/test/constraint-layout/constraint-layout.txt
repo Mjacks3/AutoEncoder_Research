@@ -1,3 +1,0 @@
-android::test::ApplicationTestCaseApplication com.google.googleio.ApplicationTest 2
-ApplicationTestCase com.google.googleio.ApplicationTest 1
-Activity com.google.googleio.MainActivity 3
