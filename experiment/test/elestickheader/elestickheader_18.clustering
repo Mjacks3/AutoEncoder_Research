@@ -1,0 +1,11 @@
+sunger.net.org.elestickheader.MainActivity 11
+sunger.net.org.elestickheader.ViewPagerAdapter 3
+FragmentPagerAdapter 12
+Fragment 3
+sunger.net.org.elestickheader.StickHeaderFragment 1
+com::chad::library::adapter::base::BaseQuickAdapterString,BaseViewHolder 3
+sunger.net.org.elestickheader.CommonAdapter 1
+BaseQuickAdapter 12
+sunger.net.org.elestickheader.MainActivity.onCreate 3
+AppCompatActivity 11
+sunger.net.org.elestickheader.ViewPagerAdapter.addItem 12
