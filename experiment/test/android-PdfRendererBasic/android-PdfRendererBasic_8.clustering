@@ -1,0 +1,13 @@
+View::OnClickListener 5
+com.example.android.pdfrendererbasic.PdfRendererBasicFragment 7
+com.example.android.pdfrendererbasic.tests.PdfRendererBasicFragmentTests 5
+Fragment 6
+OnClickListener 1
+com.example.android.pdfrendererbasic.tests.PdfRendererBasicFragmentTests.testActivityTitle 5
+ActivityInstrumentationTestCase2 5
+android::test::ActivityInstrumentationTestCase2MainActivity 5
+com.example.android.pdfrendererbasic.tests.PdfRendererBasicFragmentTests.testButtons_nextDisabledLastPage 5
+com.example.android.pdfrendererbasic.PdfRendererBasicFragment.getPageCount 5
+com.example.android.pdfrendererbasic.tests.PdfRendererBasicFragmentTests.testOrientationChangePreserveState 5
+AppCompatActivity 1
+com.example.android.pdfrendererbasic.MainActivity 1

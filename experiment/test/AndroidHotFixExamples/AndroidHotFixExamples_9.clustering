@@ -1,0 +1,17 @@
+Activity 1
+com.example.MainActivity 8
+android::test::ApplicationTestCaseApplication 1
+com.github.lzyzsd.androidhotfixexamples.ApplicationTest 6
+ApplicationTestCase 1
+AppCompatActivity 8
+com.github.lzyzsd.lib2.MainActivity 8
+com.github.lzyzsd.androidhotfixexamples.MainActivity 8
+com.github.lzyzsd.androidhotfixexamples.DexLoaderUtil 8
+com.github.lzyzsd.lib2.ApplicationTest 6
+com.github.lzyzsd.androidhotfixexamples.MainActivity.onCreate 8
+com.github.lzyzsd.androidhotfixexamples.DexLoaderUtil.copyDex 8
+com.github.lzyzsd.androidhotfixexamples.DexLoaderUtil.getDexPath 8
+com.github.lzyzsd.androidhotfixexamples.DexLoaderUtil.getOptimizedDexPath 8
+com.github.lzyzsd.androidhotfixexamples.DexLoaderUtil.injectAboveEqualApiLevel14 8
+com.github.lzyzsd.androidhotfixexamples.DexLoaderUtil.loadAndCall 8
+com.github.lzyzsd.androidhotfixexamples.DexLoaderUtil.call 6

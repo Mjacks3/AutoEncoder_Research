@@ -1,0 +1,10 @@
+com.wankun.logcount.kafka.MsgSender 1
+com.wankun.logcount.kafka.TailLog 1
+Thread 1
+HttpServlet 5
+com.wankun.logcount.spark.RecsysLogs 5
+com.wankun.logcount.spark.LogStream 2
+com.wankun.logcount.spark.LogStream.main 2
+com.wankun.logcount.spark.LogStream.openHBase 2
+com.wankun.logcount.spark.RecsysLogs.doPost 5
+com.wankun.logcount.spark.RecsysLogs.doGet 5

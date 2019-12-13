@@ -1,0 +1,14 @@
+Button 9
+com.zgzczw.zhfollowbutton.RippleButtonView 5
+Paint 9
+Activity 9
+com.zgzczw.zhfollowbutton.MainActivity 9
+ApplicationTestCase 5
+com.zgzczw.zhfollowbutton.ApplicationTest 8
+android::test::ApplicationTestCaseApplication 5
+com.zgzczw.zhfollowbutton.RippleButtonView.onTouchEvent 9
+com.zgzczw.zhfollowbutton.RippleButtonView.setFollowed 5
+com.zgzczw.zhfollowbutton.RevealFollowButton 7
+com.zgzczw.zhfollowbutton.RevealFollowButton.onTouchEvent 7
+FrameLayout 7
+com.zgzczw.zhfollowbutton.RevealFollowButton.setFollowed 7

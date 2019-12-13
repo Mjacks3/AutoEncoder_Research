@@ -1,0 +1,17 @@
+de.mateware.snackysample.ExampleActivity 8
+de.mateware.snackysample.ExampleActivity.onCreate 8
+AppCompatActivity 8
+de.mateware.snacky.Snacky.Builder.setView 8
+de.mateware.snacky.Snacky.Builder.setActivity 3
+de.mateware.snacky.Snacky.Builder 8
+de.mateware.snacky.Snacky.Builder.setText 8
+de.mateware.snacky.Snacky.Builder.setDuration 8
+de.mateware.snacky.Snacky.Builder.build 8
+de.mateware.snacky.Snacky.Builder.setActionText 8
+de.mateware.snacky.Snacky.Builder.setActionClickListener 8
+de.mateware.snacky.Snacky.Builder.success 8
+de.mateware.snacky.Snacky.Builder.warning 8
+de.mateware.snacky.Snacky.Builder.error 8
+de.mateware.snacky.Snacky.Builder.setBackgroundColor 8
+de.mateware.snacky.Snacky.Builder.setTextColor 8
+de.mateware.snacky.Snacky.Builder.setMaxLines 8
