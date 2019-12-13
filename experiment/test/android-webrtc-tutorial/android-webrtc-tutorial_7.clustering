@@ -1,0 +1,8 @@
+android::test::ApplicationTestCaseApplication 2
+me.pntutorial.pnrtcblog.ApplicationTest 2
+ApplicationTestCase 2
+me.pntutorial.pnrtcblog.MainActivity 2
+me.pntutorial.pnrtcblog.MainActivity.onOptionsItemSelected 2
+Activity 2
+me.pntutorial.pnrtcblog.MainActivity.signOut 3
+me.pntutorial.pnrtcblog.LoginActivity 2

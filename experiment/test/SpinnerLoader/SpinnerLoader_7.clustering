@@ -1,0 +1,15 @@
+com.fenjuly.mylibrary.SpinnerLoader 3
+com.fenjuly.mylibrary.SpinnerLoader.onDraw 3
+View 0
+com.fenjuly.mylibrary.SpinnerLoader.init 5
+com.fenjuly.mylibrary.SpinnerLoader.onRestoreInstanceState 3
+com.fenjuly.mylibrary.SpinnerLoader.initializePaints 2
+com.fenjuly.mylibrary.SpinnerLoader.initializePoints 3
+com.fenjuly.mylibrary.SpinnerLoader.calculateMoveingPoint 3
+ActionBarActivity 1
+com.fenjuly.spinnerloader.MainActivity 5
+ApplicationTestCase 1
+com.fenjuly.mylibrary.ApplicationTest 1
+android::test::ApplicationTestCaseApplication 1
+com.fenjuly.mylibrary.SpinnerLoader.SpinnerLoader 0
+com.fenjuly.mylibrary.SpinnerLoader.isDynamic 0
