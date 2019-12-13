@@ -1,0 +1,11 @@
+IBurpExtenderCallbacks 2
+burp.Utilities 2
+burp.BurpExtender 2
+IExtensionHelpers 3
+burp.BurpExtender.registerExtenderCallbacks 2
+burp.Utilities.getHeader 2
+burp.Utilities.getHeaderOffsets 2
+IBurpExtender 2
+burp.Utilities.out 2
+burp.Utilities.getPath 2
+burp.Utilities.addOrReplaceHeader 2

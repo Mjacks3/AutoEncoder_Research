@@ -1,0 +1,9 @@
+com.esotericsoftware.minlog.Log 4
+com.esotericsoftware.minlog.Log.trace 4
+com.esotericsoftware.minlog.Log.error 4
+com.esotericsoftware.minlog.Log.Logger.log 2
+com.esotericsoftware.minlog.Log.Logger 4
+com.esotericsoftware.minlog.Log.info 4
+com.esotericsoftware.minlog.Log.debug 4
+com.esotericsoftware.minlog.Log.warn 4
+com.esotericsoftware.minlog.Log.Logger.print 4

@@ -1,0 +1,15 @@
+RevealFrameLayout 4
+com.serchinastico.coolswitch.TargetFrameLayout 0
+ToggleButton 2
+OnCheckedChangeListener 2
+com.serchinastico.sample.SampleActivity 2
+com.serchinastico.sample.SampleActivity.onDestroy 2
+com.serchinastico.coolswitch.CoolSwitch 4
+com.serchinastico.coolswitch.CoolSwitch.removeAnimationListener 3
+ActionBarActivity 2
+com.serchinastico.coolswitch.CoolSwitch.AnimationListener 2
+RevealLinearLayout 3
+com.serchinastico.coolswitch.TargetLinearLayout 2
+com.serchinastico.sample.SampleActivity.onCreate 2
+com.serchinastico.coolswitch.CoolSwitch.addAnimationListener 0
+CompoundButton::OnCheckedChangeListener 4
