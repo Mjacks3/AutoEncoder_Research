@@ -1,0 +1,16 @@
+com.flavienlaurent.notboringactionbar.KenBurnsView 4
+com.flavienlaurent.notboringactionbar.KenBurnsView.animate 7
+com.flavienlaurent.notboringactionbar.KenBurnsView.setResourceIds 4
+com.flavienlaurent.notboringactionbar.NoBoringActionBarActivity.onCreate 7
+com.flavienlaurent.notboringactionbar.NoBoringActionBarActivity.getScrollY 7
+com.flavienlaurent.notboringactionbar.NoBoringActionBarActivity 7
+com.flavienlaurent.notboringactionbar.NoBoringActionBarActivity.clamp 7
+com.flavienlaurent.notboringactionbar.AlphaForegroundColorSpan 12
+com.flavienlaurent.notboringactionbar.AlphaForegroundColorSpan.setAlpha 5
+ForegroundColorSpan 3
+ImageView 7
+com.flavienlaurent.notboringactionbar.ParallaxImageView 7
+Activity 15
+com.flavienlaurent.notboringactionbar.MainActivity 4
+FrameLayout 7
+com.flavienlaurent.notboringactionbar.NoBoringActionBarActivity.getActionBarHeight 7

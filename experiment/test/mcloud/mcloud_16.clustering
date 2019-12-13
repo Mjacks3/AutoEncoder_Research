@@ -1,0 +1,10 @@
+BeanFactoryPostProcessor 15
+me.javaroad.mcloud.common.util.SpringUtils 15
+javax::persistence::AttributeConverterSetString,String 15
+me.javaroad.mcloud.common.data.convert.StringSetConvert 15
+AttributeConverter 15
+me.javaroad.mcloud.common.data.entity.BaseEntity 14
+me.javaroad.mcloud.common.data.entity.AuditingEntity 14
+Serializable 14
+me.javaroad.mcloud.common.data.convert.StringListConvert 14
+javax::persistence::AttributeConverterListString,String 15

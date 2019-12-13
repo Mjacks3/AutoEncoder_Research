@@ -1,0 +1,14 @@
+View 7
+fr.arnaud.camus.collapsingheader.MainActivity 10
+Toolbar 7
+AbsListView::OnScrollListener 7
+ActionBarActivity 7
+ObjectAnimator 7
+FloatingActionButton 7
+OnScrollListener 4
+ApplicationTestCase 12
+fr.arnaud.camus.collapsingheader.ApplicationTest 0
+android::test::ApplicationTestCaseApplication 12
+fr.arnaud.camus.collapsingheader.MainActivity.onScroll 7
+fr.arnaud.camus.collapsingheader.MainActivity.dpToPx 7
+fr.arnaud.camus.collapsingheader.MainActivity.isLollipop 7
