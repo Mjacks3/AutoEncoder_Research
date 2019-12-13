@@ -1,0 +1,15 @@
+com.remobile.splashscreen.RCTSplashScreen 9
+com.remobile.splashscreen.RCTSplashScreen.hide 9
+com.remobile.splashscreen.RCTSplashScreen.getActivity 9
+com.remobile.splashscreen.RCTSplashScreen.getName 9
+RCTBridgeModule 15
+RCTSplashScreen 9
+NSObject 15
+ReactPackage 9
+com.remobile.splashscreen.RCTSplashScreenPackage 9
+ios/RCTSplashScreen/RCTSplashScreen.h 9
+ios/RCTSplashScreen/RCTSplashScreen.m 9
+ReactContextBaseJavaModule 9
+React/RCTBridgeModule.h 9
+RCTSplashScreen.h 7
+React/RCTRootView.h 9

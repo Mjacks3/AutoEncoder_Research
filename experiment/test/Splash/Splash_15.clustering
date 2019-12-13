@@ -1,0 +1,7 @@
+android::test::ApplicationTestCaseApplication 8
+com.bignerdranch.android.splash.ApplicationTest 8
+Application 8
+com.bignerdranch.android.splash.App 8
+AppCompatActivity 8
+com.bignerdranch.android.splash.SplashActivity 8
+com.bignerdranch.android.splash.MainActivity 8

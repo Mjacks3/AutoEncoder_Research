@@ -1,0 +1,11 @@
+AppCompatTextView 14
+com.github.aakira.compoundicontextview.CompoundIconTextView 14
+com.github.aakira.compoundicontextview.sample.MainActivity 14
+com.github.aakira.compoundicontextview.CompoundIconTextView.setIconSizeResource 7
+com.github.aakira.compoundicontextview.sample.MainActivity.onCreate 9
+com.github.aakira.compoundicontextview.CompoundIconTextView.setIconSize 14
+AppCompatActivity 9
+com.github.aakira.compoundicontextview.CompoundIconTextView.setIconColorResource 9
+com.github.aakira.compoundicontextview.CompoundIconTextView.setIconColor 9
+com.github.aakira.compoundicontextview.CompoundIconTextView.setVectorDrawableTop 14
+com.github.aakira.compoundicontextview.CompoundIconTextView.setVectorDrawableRight 14

@@ -1,0 +1,16 @@
+com.yescpu.keyboardchangelistener.MainActivity 15
+com.yescpu.keyboardchangelib.KeyboardChangeListener 7
+ViewTreeObserver::OnGlobalLayoutListener 15
+com.yescpu.keyboardchangelib.KeyboardChangeListener.KeyboardListener 14
+com.yescpu.keyboardchangelib.KeyboardChangeListener.KeyboardListener.onKeyboardChange 7
+com.yescpu.keyboardchangelib.KeyboardChangeListener.onGlobalLayout 7
+android::test::ApplicationTestCaseApplication 7
+com.yescpu.keyboardchangelistener.ApplicationTest 15
+ApplicationTestCase 7
+AppCompatActivity 9
+com.yescpu.keyboardchangelistener.MainActivity.onDestroy 1
+com.yescpu.keyboardchangelib.KeyboardChangeListener.destroy 9
+com.yescpu.keyboardchangelib.ApplicationTest 11
+com.yescpu.keyboardchangelistener.MainActivity.onCreate 15
+com.yescpu.keyboardchangelib.KeyboardChangeListener.create 15
+com.yescpu.keyboardchangelib.KeyboardChangeListener.setKeyboardListener 14

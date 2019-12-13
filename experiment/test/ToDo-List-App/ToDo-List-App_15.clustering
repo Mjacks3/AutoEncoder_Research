@@ -1,0 +1,16 @@
+ViewHolder 8
+com.example.shivansh.to_dolist.ToDoTaskAdapter.ToDoTaskViewHolder 11
+TextView 8
+RecyclerView::AdapterToDoTaskAdapter.ToDoTaskViewHolder 8
+com.example.shivansh.to_dolist.ToDoTaskAdapter 2
+Adapter 8
+com.example.shivansh.to_dolist.DatabaseHelper 2
+com.example.shivansh.to_dolist.MainActivity 2
+AppCompatActivity 8
+com.example.shivansh.to_dolist.SplashScreen 8
+com.example.shivansh.to_dolist.NewToDoActivity 2
+DatePickerDialog 14
+EditText 14
+SQLiteOpenHelper 8
+com.example.shivansh.to_dolist.DatabaseHelper.onUpgrade 8
+com.example.shivansh.to_dolist.DatabaseHelper.onCreate 2
