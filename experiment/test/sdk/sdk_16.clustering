@@ -1,0 +1,6 @@
+Exception 15
+io.botan.sdk.BotanException 15
+io.botan.sdk.BotanIT 15
+io.botan.sdk.Botan 15
+io.botan.sdk.BotanIT.simpleAPIRequestShouldNotFail 15
+io.botan.sdk.Botan.track 15

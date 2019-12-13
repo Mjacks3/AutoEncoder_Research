@@ -1,0 +1,15 @@
+AnAction 0
+SelectorChapekAction 5
+SelectorChapekAction.actionPerformed 0
+SelectorGenerator.generate 5
+utils.Log.d 0
+SelectorDetector.detectAndCreateSelectors 4
+utils.Log 2
+SelectorDetector 0
+SelectorGenerator 4
+utils.Log.e 0
+Pattern 4
+Constants 4
+HashMapString,State 4
+utils.RunnableHelper 4
+utils.RunnableHelper.runWriteCommand 4

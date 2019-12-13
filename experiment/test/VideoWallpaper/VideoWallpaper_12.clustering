@@ -1,0 +1,13 @@
+com.dingmouren.sample.MainActivity 2
+com.dingmouren.sample.MainActivity.cancelSilence 7
+AppCompatActivity 2
+com.dingmouren.videowallpaper.VideoWallpaper 7
+com.dingmouren.videowallpaper.VideoWallpaper.setVoiceNormal 4
+WallpaperService 7
+com.dingmouren.sample.MainActivity.setSilence 7
+com.dingmouren.videowallpaper.VideoWallpaper.setVoiceSilence 2
+com.dingmouren.sample.SPUtil 7
+com.dingmouren.sample.MainActivity.setWallpaper 7
+com.dingmouren.sample.SPUtil.get 2
+com.dingmouren.sample.SPUtil.put 2
+com.dingmouren.videowallpaper.VideoWallpaper.setToWallPaper 7

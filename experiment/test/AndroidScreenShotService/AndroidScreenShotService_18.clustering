@@ -1,0 +1,6 @@
+com.cj.ScreenShotUtil.ShellUtils 3
+com.cj.ScreenShotUtil.ShellUtils.checkRootPermission 3
+com.cj.ScreenShotUtil.ScreentShotUtil.takeScreenshot 3
+com.cj.ScreenShotUtil.ScreentShotUtil 3
+com.cj.ScreenShotUtil.ShellUtils.execCommand 3
+com.cj.ScreenShotUtil.ScreentShotUtil.saveBitmap2file 3

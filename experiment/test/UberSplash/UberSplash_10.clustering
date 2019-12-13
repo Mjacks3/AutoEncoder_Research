@@ -1,0 +1,13 @@
+EditText 1
+com.kobe.ubersplash.FormView 5
+LinearLayout 1
+ApplicationTestCase 1
+com.kobe.ubersplash.ApplicationTest 9
+android::test::ApplicationTestCaseApplication 1
+VideoView 1
+com.kobe.ubersplash.MyVideoView 6
+AppCompatActivity 1
+com.kobe.ubersplash.MainActivity 6
+View::OnClickListener 1
+Button 1
+OnClickListener 1

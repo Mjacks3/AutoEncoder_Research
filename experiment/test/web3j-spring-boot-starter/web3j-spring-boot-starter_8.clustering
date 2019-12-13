@@ -1,0 +1,5 @@
+Web3j 6
+org.web3j.spring.autoconfigure.Web3jHealthIndicatorTest 6
+HealthIndicator 6
+AbstractHealthIndicator 6
+org.web3j.spring.actuate.Web3jHealthIndicator 6

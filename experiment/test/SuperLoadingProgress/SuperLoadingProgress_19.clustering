@@ -1,0 +1,14 @@
+com.example.kaiyicky.myapplication.MainActivity 14
+com.example.kaiyicky.myapplication.MainActivity.onCreate 14
+com.example.kaiyicky.myapplication.SuperLoadingProgress 17
+FragmentActivity 14
+com.example.kaiyicky.myapplication.SuperLoadingProgress.finishSuccess 17
+com.example.kaiyicky.myapplication.SuperLoadingProgress.setProgress 14
+com.example.kaiyicky.myapplication.SuperLoadingProgress.finishFail 17
+com.example.kaiyicky.myapplication.SuperLoadingProgress.getProgress 14
+ApplicationTestCase 17
+com.example.kaiyicky.myapplication.ApplicationTest 17
+android::test::ApplicationTestCaseApplication 17
+InstrumentationTestCase 9
+com.example.kaiyicky.myapplication.ExmapleTest 9
+View 12

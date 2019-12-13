@@ -1,0 +1,17 @@
+android::test::ApplicationTestCaseApplication 9
+com.sjl.foreground.ApplicationTest 3
+ApplicationTestCase 9
+Application::ActivityLifecycleCallbacks 4
+com.sjl.foreground.Foreground 4
+com.sjl.foreground.demo.DemoActivity 7
+ActivityLifecycleCallbacks 4
+com.sjl.foreground.demo.ApplicationTest 3
+com.sjl.foreground.demo.DemoActivity.onCreate 7
+ActionBarActivity 3
+com.sjl.foreground.Foreground.Listener 3
+com.sjl.foreground.demo.DemoActivity.startAnotherActivity 6
+com.sjl.foreground.Foreground.get 4
+com.sjl.foreground.Foreground.init 7
+com.sjl.foreground.Foreground.addListener 3
+com.sjl.foreground.demo.ActivityA 6
+com.sjl.foreground.demo.ActivityB 6

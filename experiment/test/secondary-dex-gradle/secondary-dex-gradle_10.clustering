@@ -1,0 +1,15 @@
+ActionBarActivity 1
+com.github.creativepsyco.secondarydex.bigmodule.lib.SecondActivity 6
+com.github.creativepsyco.secondarydex.MainActivity 1
+com.github.creativepsyco.secondarydex.bigmodule.lib.MyLoader 1
+Runnable 1
+com.github.creativepsyco.secondarydex.MyApp 1
+com.github.creativepsyco.secondarydex.plugin.SecondaryDex 9
+com.github.creativepsyco.secondarydex.MainActivity.onCreate 1
+com.github.creativepsyco.secondarydex.bigmodule.lib.MyLoader.run 4
+com.github.creativepsyco.secondarydex.MyApp.onCreate 6
+Application 1
+com.github.creativepsyco.secondarydex.plugin.SecondaryDex.loadSecondaryDex 9
+com.github.creativepsyco.secondarydex.plugin.FrameworkHack.appendDexListImplUnderICS 1
+com.github.creativepsyco.secondarydex.plugin.FrameworkHack 9
+com.github.creativepsyco.secondarydex.plugin.FrameworkHack.appendDexListImplICS 1

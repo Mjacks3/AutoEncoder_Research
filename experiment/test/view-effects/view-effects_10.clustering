@@ -1,0 +1,12 @@
+ir.mirrajabi.viewfilter.core.ViewFilter 1
+ir.mirrajabi.viewfilter.core.ViewFilter.applyFilterOnView 1
+ir.mirrajabi.viewfilter.core.ViewFilter.getFilteredBackgroundOfView 6
+ir.mirrajabi.viewfilter.core.ViewFilter.loadBitmapFromView 1
+ir.mirrajabi.viewfilter.utility.ViewHelper.getRelativeLeft 6
+ir.mirrajabi.viewfilter.utility.ViewHelper 1
+ir.mirrajabi.viewfilter.utility.ViewHelper.getRelativeTop 1
+ir.mirrajabi.viewfilter.core.IRenderer.render 1
+ir.mirrajabi.viewfilter.core.IRenderer 1
+ir.mirrajabi.viewfilter.renderers.BlurRenderer 1
+ir.mirrajabi.viewfilter.core.ViewFilter.getInstance 1
+ir.mirrajabi.viewfilter.core.ViewFilter.ViewFilter 1

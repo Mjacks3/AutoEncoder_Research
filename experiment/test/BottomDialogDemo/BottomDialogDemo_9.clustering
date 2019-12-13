@@ -1,0 +1,10 @@
+AppCompatActivity 8
+org.wangchenlong.bottomdialogdemo.MainActivity 8
+DialogFragment 8
+org.wangchenlong.bottomdialogdemo.BottomDialogFragment 3
+LinearLayout 8
+TextView 8
+ImageView 8
+android::test::ApplicationTestCaseApplication 8
+org.wangchenlong.bottomdialogdemo.ApplicationTest 8
+ApplicationTestCase 8

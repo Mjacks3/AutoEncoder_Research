@@ -1,0 +1,17 @@
+View::OnClickListener 9
+com.wangjie.draggableflagview.sample.MainActivity 1
+com.wangjie.draggableflagview.DraggableFlagView.OnDraggableFlagViewListener 9
+Activity 9
+OnClickListener 9
+com.wangjie.draggableflagview.DraggableFlagView 1
+com.wangjie.draggableflagview.sample.MainActivity.onClick 9
+com.wangjie.draggableflagview.sample.MainActivity.onCreate 9
+com.wangjie.draggableflagview.DraggableFlagView.setText 9
+RelativeLayout 5
+View 5
+ABApplication 5
+com.wangjie.draggableflagview.sample.MyApplication 9
+com.wangjie.draggableflagview.DraggableFlagView.onTouchEvent 1
+com.wangjie.draggableflagview.DraggableFlagView.setLayoutParams 2
+com.wangjie.draggableflagview.DraggableFlagView.OnDraggableFlagViewListener.onFlagDismiss 2
+com.wangjie.draggableflagview.DraggableFlagView.setOnDraggableFlagViewListener 7

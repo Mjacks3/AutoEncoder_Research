@@ -1,0 +1,17 @@
+com.jakewharton.rx.ReplayingShareObservableTest 2
+com.jakewharton.rx.ReplayingShareObservableTest.completeClearsCacheAndResubscribesStartingWithDefault 2
+com.jakewharton.rx.ReplayingShareFlowableTest.completeClearsCacheAndResubscribesStartingWithDefault 12
+com.jakewharton.rx.ReplayingShare.createWithDefault 12
+com.jakewharton.rx.ReplayingShareObservableTest.errorClearsCacheAndResubscribesStartingWithDefault 12
+com.jakewharton.rx.ReplayingShareFlowableTest.errorClearsCacheAndResubscribesStartingWithDefault 12
+com.jakewharton.rx.ReplayingShareObservableTest.defaultValueIsOverriddenByLatestEmissionForNewSubscriber 2
+com.jakewharton.rx.ReplayingShareFlowableTest.defaultValueOnSubscribe 12
+com.jakewharton.rx.ReplayingShareObservableTest.defaultValueOnSubscribe 12
+com.jakewharton.rx.ReplayingShareFlowableTest.defaultValueIsOverriddenByLatestEmissionForNewSubscriber 12
+com.jakewharton.rx.ReplayingShare 12
+com.jakewharton.rx.ReplayingShareFlowableTest 2
+io::reactivex::FlowableTransformerT,T 14
+com.jakewharton.rx.ReplayingShareT 14
+io::reactivex::ObservableTransformerT,T 14
+FlowableTransformer 10
+ObservableTransformer 14

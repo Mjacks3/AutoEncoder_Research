@@ -1,0 +1,16 @@
+com.example.lib.generator.DimenGenerator 6
+com.example.lib.generator.DimenGenerator.main 6
+com.example.lib.utils.MakeUtils.makeAll 6
+com.example.lib.utils.MakeUtils 6
+com.example.lib.constants.DimenTypes 6
+com.example.lib.constants.DimenTypes.getSwWidthDp 6
+com.example.lib.utils.MakeUtils.px2dip 6
+AppCompatActivity 6
+com.example.laddingwu.adapterapplication.MainActivity 1
+TextView 6
+View 6
+com.example.laddingwu.adapterapplication.SystemUtil 1
+com.example.laddingwu.adapterapplication.MainActivity.onCreate 1
+com.example.laddingwu.adapterapplication.SystemUtil.getDeviceBrand 2
+com.example.laddingwu.adapterapplication.SystemUtil.getSystemModel 2
+com.example.laddingwu.adapterapplication.SystemUtil.getSystemVersion 2

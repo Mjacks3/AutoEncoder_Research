@@ -1,0 +1,11 @@
+AppCompatActivity 4
+moe.feng.alipay.zerosdk.demo.MainActivity 4
+moe.feng.alipay.zerosdk.demo.MainActivity.onResume 5
+moe.feng.alipay.zerosdk.AlipayZeroSdk.hasInstalledAlipayClient 4
+moe.feng.alipay.zerosdk.AlipayZeroSdk 4
+moe.feng.alipay.zerosdk.AlipayZeroSdk.getAlipayClientVersion 4
+moe.feng.alipay.zerosdk.AlipayZeroSdk.startAlipayClient 4
+moe.feng.alipay.zerosdk.demo.MainActivity.onCreate 4
+moe.feng.alipay.zerosdk.AlipayZeroSdk.startIntentUrl 4
+moe.feng.alipay.zerosdk.AlipayZeroSdk.openAlipayScan 4
+moe.feng.alipay.zerosdk.AlipayZeroSdk.openAlipayBarcode 4

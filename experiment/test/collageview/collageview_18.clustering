@@ -1,0 +1,12 @@
+com.lopei.collageview.CollageView 12
+com.lopei.collageview.CollageView.IconSelector 8
+com.lopei.collageview.RectangleImageView 12
+com.lopei.collageview.RectangleImageView.onMeasure 2
+ImageView 2
+com.lopei.collageview.CollageView.ImageForm 2
+com.lopei.collageview.CollageView.ImageForm.getDivider 2
+com.lopei.collageview.CollageView.headerForm 8
+LinearLayout 3
+com.lopei.collageview.CollageView.IconSelector.getIconResId 3
+com.lopei.collageview.CollageView.OnPhotoClickListener.onPhotoClick 12
+com.lopei.collageview.CollageView.OnPhotoClickListener 3

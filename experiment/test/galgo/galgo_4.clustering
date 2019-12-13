@@ -1,0 +1,10 @@
+Parcelable 2
+com.inaka.galgo.GalgoOptions 2
+Binder 2
+com.inaka.galgo.GalgoService.LocalBinder 3
+Service 2
+com.inaka.galgo.GalgoService 3
+com.inaka.galgo.Galgo 2
+com.inaka.galgo.Galgo.enable 2
+com.inaka.galgo.GalgoOptions.Builder 2
+com.inaka.galgo.GalgoOptions.Builder.build 3
