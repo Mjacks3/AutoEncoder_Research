@@ -1,0 +1,16 @@
+com.github.silvestrpredko.dotprogressbar.DotProgressBar 7
+com.silvestr.dotprogressbarexample.MainActivity 2
+AppCompatActivity 7
+View 2
+com.silvestr.dotprogressbarexample.MainActivity.onCreate 2
+com.github.silvestrpredko.dotprogressbar.DotProgressBar.setVisibility 7
+com.github.silvestrpredko.dotprogressbar.DotProgressBar.getAnimationDirection 7
+com.github.silvestrpredko.dotprogressbar.DotProgressBar.changeAnimationDirection 7
+com.github.silvestrpredko.dotprogressbar.DotProgressBarBuilder.setStartColor 7
+com.github.silvestrpredko.dotprogressbar.DotProgressBarBuilder 2
+com.github.silvestrpredko.dotprogressbar.DotProgressBarBuilder.setDotAmount 7
+com.github.silvestrpredko.dotprogressbar.DotProgressBarBuilder.build 7
+com.silvestr.dotprogressbarexample.SecondActivity 4
+ApplicationTestCase 0
+com.silvestr.dotprogressbarexample.ApplicationTest 8
+android::test::ApplicationTestCaseApplication 0
