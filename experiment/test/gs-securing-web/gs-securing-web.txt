@@ -1,2 +1,0 @@
-WebSecurityConfigurerAdapter hello.WebSecurityConfig 3
-WebMvcConfigurer hello.MvcConfig 3

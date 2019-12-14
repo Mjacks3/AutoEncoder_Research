@@ -1,4 +1,0 @@
-OrderService OrderMapper
-OrderService Order
-OrderService LineItemMapper
-OrderService SequenceMapper

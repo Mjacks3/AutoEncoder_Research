@@ -1,9 +1,0 @@
-WebSecurityConfigurerAdapter 17
-cn.com.sina.alan.oauth.config.AlanOAuthWebConfig 17
-AuthenticationProvider 17
-cn.com.sina.alan.oauth.security.AlanSsoAuthProvider 17
-AuthorizationServerConfigurerAdapter 17
-cn.com.sina.alan.oauth.config.OAuthSecurityConfig 17
-cn.com.sina.alan.oauth.config.OAuthSecurityConfig.configure 17
-cn.com.sina.alan.oauth.config.OAuthSecurityConfig.clientDetails 17
-cn.com.sina.alan.oauth.config.OAuthSecurityConfig.tokenStore 17
