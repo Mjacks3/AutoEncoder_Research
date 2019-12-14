@@ -1,6 +1,0 @@
-Cart Item 7 3.5 Class
-Cart CartItem 8 4.5 Inherit
-CartItem Item 9 1.4 Class
-LineItem CartItem 3 4.0 Method
-LineItem Item 9 1.5  Method
-

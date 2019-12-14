@@ -1,3 +1,0 @@
-View::OnClickListener com.example.kot32.animationdemo.UninstallView 2
-View com.example.kot32.animationdemo.UninstallView 2
-View OnClickListener 1

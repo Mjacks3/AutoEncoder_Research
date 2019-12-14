@@ -1,6 +1,0 @@
-hello.GreetingIntegrationTests 3
-hello.Greeting 3
-WebSocketMessageBrokerConfigurer 3
-hello.WebSocketConfig 3
-hello.GreetingIntegrationTests.getGreeting 3
-hello.Greeting.getContent 3

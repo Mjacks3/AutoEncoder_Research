@@ -1,8 +1,0 @@
-com.mattkula.animatedpathview.sample.MyActivity.onCreate com.mattkula.animatedpathview.library.AnimatedPathView.setPath 1
-com.mattkula.animatedpathview.library.AnimatedPathView.AnimatedPathView com.mattkula.animatedpathview.library.AnimatedPathView.setPath 1
-com.mattkula.animatedpathview.library.AnimatedPathView com.mattkula.animatedpathview.library.AnimatedPathView.setPath 3
-com.mattkula.animatedpathview.sample.MyActivity com.mattkula.animatedpathview.sample.MyActivity.onCreate 1
-Activity com.mattkula.animatedpathview.sample.MyActivity 3
-com.mattkula.animatedpathview.library.AnimatedPathView com.mattkula.animatedpathview.library.AnimatedPathView.AnimatedPathView 1
-com.mattkula.animatedpathview.sample.MyActivity com.mattkula.animatedpathview.library.AnimatedPathView 1
-View com.mattkula.animatedpathview.library.AnimatedPathView 2

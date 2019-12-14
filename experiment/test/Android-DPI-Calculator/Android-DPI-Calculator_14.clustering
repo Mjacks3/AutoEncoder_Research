@@ -1,8 +1,0 @@
-JDialog 4
-net.nerrd.intellij.plugin.dpicalculator.form.DpiCalculatorDialog 4
-net.nerrd.intellij.plugin.dpicalculator.util.Calculator 4
-AnAction 4
-net.nerrd.intellij.plugin.dpicalculator.action.DpiCalculatorAction 4
-net.nerrd.intellij.plugin.dpicalculator.form.DpiCalculatorDialog.DpiCalculatorDialog 4
-net.nerrd.intellij.plugin.dpicalculator.util.Calculator.calculate 4
-net.nerrd.intellij.plugin.dpicalculator.util.Calculator.calculateRoundedToScale 4

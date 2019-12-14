@@ -1,9 +1,0 @@
-ScriptPlugin 14
-com.github.mlnick.elasticsearch.plugin.VectorScoringPlugin 14
-Plugin 14
-AbstractSearchScript 15
-com.github.mlnick.elasticsearch.script.PayloadVectorScoreScript 14
-ListString 15
-ListDouble 15
-NativeScriptFactory 15
-com.github.mlnick.elasticsearch.script.PayloadVectorScoreScript.Factory 14
