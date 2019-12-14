@@ -438,9 +438,8 @@ if args.experiment:
 
 
     #Training
-    """
-
-    for num in range(5, 6):
+    models = [2,5,10,15]
+    for num in models:
         args.num_clusters = int(num)
         args.save_dir = "experiment/" + str(args.num_clusters)
 
@@ -449,7 +448,8 @@ if args.experiment:
         if not os.path.exists(args.save_dir):
             os.makedirs(args.save_dir)
         train(args)
-    """
+    
+    
     #End Training
     
     
@@ -487,7 +487,7 @@ if args.experiment:
                         "19": []
                         }
     
-    """
+    
     for num_clusters in range(2,20,1):
         if os.path.exists("experiment/"+str(num_clusters)+"/model_final.h5"):
 
@@ -507,7 +507,7 @@ if args.experiment:
                     #print(args.test_dataset)
                     test(args) # Calculations will be done on files separately
     
-    """
+    
     
                 modq = calculate_modq(clusters,edge_list=edge_list)
                 print("\n\n MOD Q: "+ str(modq)) 
