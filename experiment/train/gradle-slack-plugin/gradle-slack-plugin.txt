@@ -1,0 +1,4 @@
+net.gpedro.integrations.slack.SlackApi net.gpedro.integrations.slack.SlackApi.call 1
+net.gpedro.integrations.slack.SlackApi.call net.gpedro.integrations.slack.SlackMessage.prepare 1
+net.gpedro.integrations.slack.SlackMessage net.gpedro.integrations.slack.SlackMessage.prepare 1
+net.gpedro.integrations.slack.SlackApi net.gpedro.integrations.slack.SlackMessage 1

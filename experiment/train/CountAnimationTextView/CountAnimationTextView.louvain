@@ -1,0 +1,15 @@
+com.daasuu.cat.CountAnimationTextView.CountAnimationListener 0
+com.daasuu.cat.CountAnimationTextView.CountAnimationTextView 0
+com.daasuu.cat.CountAnimationTextView.CountAnimationListener.onAnimationStart 0
+com.daasuu.cat.CountAnimationTextView.CountAnimationListener.onAnimationEnd 0
+com.daasuu.cat.CountAnimationTextView 1
+TextView 1
+com.daasuu.cat.CountAnimationTextView.setInterpolator 1
+com.daasuu.countanimationtextview.MainActivity 2
+AppCompatActivity 2
+com.daasuu.countanimationtextview.MainActivity.onCreate 3
+com.daasuu.cat.CountAnimationTextView.setAnimationDuration 3
+com.daasuu.cat.CountAnimationTextView.countAnimation 3
+com.daasuu.cat.CountAnimationTextView.setDecimalFormat 3
+com.daasuu.cat.CountAnimationTextView.setCountAnimationListener 3
+com.daasuu.cat.CountAnimationTextView.clearDecimalFormat 3
