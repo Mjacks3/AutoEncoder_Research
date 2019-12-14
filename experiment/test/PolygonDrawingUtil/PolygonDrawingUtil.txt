@@ -1,3 +1,0 @@
-com.stkent.polygondrawingutil.PolygonDrawingUtil com.stkent.polygondrawingutil.PolygonDrawingUtil.drawPolygon 1
-com.stkent.polygondrawingutil.PolygonDrawingUtil.drawPolygon com.stkent.polygondrawingutil.PolygonDrawingUtil.constructPolygonPath 1
-com.stkent.polygondrawingutil.PolygonDrawingUtil com.stkent.polygondrawingutil.PolygonDrawingUtil.constructPolygonPath 1
