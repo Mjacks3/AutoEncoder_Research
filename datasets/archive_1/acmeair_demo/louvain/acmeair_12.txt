@@ -1,4 +1,0 @@
-SimpleValueConverter BigDecimalConverter
-SimpleValueConverter BigIntegerConverter
-TypeConverter BigDecimalConverter
-TypeConverter BigIntegerConverter

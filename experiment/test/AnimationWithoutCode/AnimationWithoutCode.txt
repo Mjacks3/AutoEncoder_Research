@@ -1,3 +1,0 @@
-AppCompatActivity me.ghui.animatevactordrawable.MainActivity 3
-android::test::ApplicationTestCaseApplication me.ghui.animatevactordrawable.ApplicationTest 2
-ApplicationTestCase me.ghui.animatevactordrawable.ApplicationTest 1

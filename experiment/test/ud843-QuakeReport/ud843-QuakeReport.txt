@@ -1,1 +1,0 @@
-AppCompatActivity com.example.android.quakereport.EarthquakeActivity 2

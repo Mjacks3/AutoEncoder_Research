@@ -1,9 +1,0 @@
-Exception com.dpdearing.sandbox.gpsemulator.common.EmulatorCommandException 3
-IsSerializable com.dpdearing.sandbox.gpsemulator.common.EmulatorCommandException 3
-IsSerializable com.dpdearing.sandbox.gpsemulator.common.EmulatorConnectionException 3
-Exception com.dpdearing.sandbox.gpsemulator.common.EmulatorConnectionException 3
-EntryPoint com.dpdearing.sandbox.gpsemulator.client.GpsEmulator 3
-ClickMapHandler com.dpdearing.sandbox.gpsemulator.client.GpsEmulator 3
-RemoteService com.dpdearing.sandbox.gpsemulator.common.LocationService 5
-RemoteServiceServlet com.dpdearing.sandbox.gpsemulator.server.LocationServiceImpl 3
-com.dpdearing.sandbox.gpsemulator.common.LocationService com.dpdearing.sandbox.gpsemulator.server.LocationServiceImpl 4

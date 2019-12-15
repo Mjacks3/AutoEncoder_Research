@@ -1,6 +1,0 @@
-com.ebr163.attributesdispatcher.internal.AttributesProcessor 0
-AbstractProcessor 0
-com.ebr163.android.attributesdispatcher.view.MyCustomView 1
-EditText 1
-AppCompatActivity 2
-com.ebr163.android.attributesdispatcher.MainActivity 2

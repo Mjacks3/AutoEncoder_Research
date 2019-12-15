@@ -1,4 +1,0 @@
-View com.example.jcs.baiduwave.customView.WaveAntiAliased 3
-View com.example.jcs.baiduwave.customView.WaveAntiAliased_Shader 3
-AppCompatActivity com.example.jcs.baiduwave.MainActivity 3
-View com.example.jcs.baiduwave.customView.Wave 3
