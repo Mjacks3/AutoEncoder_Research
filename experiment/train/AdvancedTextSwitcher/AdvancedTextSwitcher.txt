@@ -1,0 +1,7 @@
+TextSwitcher sumimakito.android.advtextswitcher.AdvTextSwitcher 3
+ApplicationTestCase sumimakito.android.advtextswitcher.ApplicationTest 1
+android::test::ApplicationTestCaseApplication sumimakito.android.advtextswitcher.ApplicationTest 2
+Handler sumimakito.android.advtextswitcher.Switcher 1
+sumimakito.android.advtextswitcher.Switcher sumimakito.android.advtextswitcher.Switcher.attach 1
+sumimakito.android.advtextswitcher.Switcher.attach sumimakito.android.advtextswitcher.Switcher.pause 1
+sumimakito.android.advtextswitcher.Switcher sumimakito.android.advtextswitcher.Switcher.pause 1

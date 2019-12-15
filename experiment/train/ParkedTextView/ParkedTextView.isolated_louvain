@@ -1,0 +1,12 @@
+EditText 0
+com.goka.parkedtextview.ParkedTextView 0
+com.goka.parkedtextview.ParkedTextView.ParkedTextView 0
+com.goka.parkedtextview.ParkedTextView.setPlaceholderText 0
+com.goka.parkedtextview.ParkedTextView.setParkedHintColor 0
+com.goka.parkedtextview.ParkedTextView.getParkedText 0
+com.goka.parkedtextview.ApplicationTest 1
+android::test::ApplicationTestCaseApplication 1
+ApplicationTestCase 1
+com.goka.sample.ApplicationTest 1
+com.goka.sample.MainActivity 2
+AppCompatActivity 2

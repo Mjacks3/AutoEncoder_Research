@@ -1,0 +1,12 @@
+com.christmas.stickyheaderview.MainActivity com.christmas.stickyheaderview.DataUtil 1
+android::test::ApplicationTestCaseApplication com.christmas.stickyheaderview.ApplicationTest 2
+ApplicationTestCase com.christmas.stickyheaderview.ApplicationTest 1
+Adapter com.christmas.stickyheaderview.StickyExampleAdapter 1
+RecyclerView::AdapterRecyclerView.ViewHolder com.christmas.stickyheaderview.StickyExampleAdapter 2
+com.christmas.stickyheaderview.MainActivity com.christmas.stickyheaderview.MainActivity.onCreate 1
+com.christmas.stickyheaderview.MainActivity.onCreate com.christmas.stickyheaderview.DataUtil.getData 1
+com.christmas.stickyheaderview.DataUtil com.christmas.stickyheaderview.DataUtil.getData 1
+RecyclerView::ViewHolder com.christmas.stickyheaderview.StickyExampleAdapter.RecyclerViewHolder 2
+TextView com.christmas.stickyheaderview.StickyExampleAdapter.RecyclerViewHolder 1
+RelativeLayout com.christmas.stickyheaderview.StickyExampleAdapter.RecyclerViewHolder 1
+AppCompatActivity com.christmas.stickyheaderview.MainActivity 3

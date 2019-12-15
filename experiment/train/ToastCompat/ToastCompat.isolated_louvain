@@ -1,0 +1,10 @@
+me.drakeet.support.toast.ToastCompat.makeText 0
+Toast 0
+me.drakeet.support.toast.ToastCompat 0
+me.drakeet.support.toast.ToastCompat.setBadTokenListener 1
+me.drakeet.support.toast.ToastCompat.getView 1
+me.drakeet.toast.sample.MainActivity 2
+AppCompatActivity 2
+me.drakeet.toast.sample.MainActivity.onCreate 2
+me.drakeet.toast.sample.MainActivityTest 3
+ActivityTestRuleme.drakeet.toast.sample.MainActivity 3

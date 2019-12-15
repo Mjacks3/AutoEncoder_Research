@@ -1,0 +1,13 @@
+com.shehuan.niv.NiceImageView.setCornerRadius 0
+com.shehuan.niv.Utils.dp2px 0
+com.shehuan.niv.Utils 0
+com.shehuan.niv.NiceImageView 1
+com.shehuan.niv.NiceImageView.setCornerBottomLeftRadius 1
+AppCompatImageView 1
+com.shehuan.niv.NiceImageView.setInnerBorderWidth 1
+com.shehuan.niv.NiceImageView.setBorderWidth 1
+com.shehuan.niv.NiceImageView.setCornerTopRightRadius 1
+com.shehuan.niv.NiceImageView.setCornerBottomRightRadius 1
+com.shehuan.niv.NiceImageView.setCornerTopLeftRadius 1
+com.shehuan.niv.test.MainActivity 2
+AppCompatActivity 2

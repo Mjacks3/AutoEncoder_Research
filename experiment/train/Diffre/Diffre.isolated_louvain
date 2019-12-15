@@ -1,0 +1,16 @@
+io.github.rakshakhegde.diffre.DiffreView 0
+View 0
+Path 0
+io.github.rakshakhegde.diffre.DiffreView.onMeasure 0
+io.github.rakshakhegde.diffre.DiffreView.getRoundRectPath 0
+io.github.rakshakhegde.diffre.DiffreViewApi19 1
+Region 1
+io.github.rakshakhegde.diffre.DiffreViewApi19.computeCroppedProgressPath 1
+io.github.rakshakhegde.diffre.DiffreView.setRectPath 1
+AppCompatActivity 2
+io.github.rakshakhegde.diffre.MainActivity 2
+io.github.rakshakhegde.diffre.MainActivity.onCreate 2
+SeekBar 2
+io.github.rakshakhegde.diffre.DiffreView.setProgress 3
+io.github.rakshakhegde.diffre.DiffreView.computeCroppedProgressPath 3
+io.github.rakshakhegde.diffre.DiffreView.computeCroppedTextPath 3

@@ -1,0 +1,11 @@
+ReactPackage com.lynxit.contactswrapper.ContactsWrapperPackage 3
+NSObject RCTContactsWrapper 3
+ABPeoplePickerNavigationControllerDelegate RCTContactsWrapper 3
+CNContactPickerDelegate RCTContactsWrapper 3
+RCTBridgeModule RCTContactsWrapper 3
+ActivityEventListener com.lynxit.contactswrapper.ContactsWrapper 3
+ReactContextBaseJavaModule com.lynxit.contactswrapper.ContactsWrapper 3
+RCTContactsWrapper.h RCTBridgeModule.h 1
+ios/RCTContactsWrapper/RCTContactsWrapper.h RCTBridgeModule.h 1
+ios/RCTContactsWrapper/RCTContactsWrapper.h ios/RCTContactsWrapper/RCTContactsWrapper.m 1
+ios/RCTContactsWrapper/RCTContactsWrapper.m RCTContactsWrapper.h 1

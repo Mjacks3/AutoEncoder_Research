@@ -1,0 +1,15 @@
+com.jakewp11.template.R.id 0
+Activity 1
+com.jakewp11.template.Main 1
+WebView 1
+com.jakewp11.template.MyWebViewClient 2
+WebViewClient 2
+com.jakewp11.template.R.layout 3
+com.jakewp11.template.R.attr 4
+com.jakewp11.template.R 5
+com.jakewp11.template.R.styleable 6
+com.jakewp11.template.BuildConfig 7
+com.jakewp11.template.R.drawable 8
+com.jakewp11.template.R.string 9
+com.jakewp11.template.R.color 10
+com.jakewp11.template.R.style 11

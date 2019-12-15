@@ -1,0 +1,13 @@
+net.androidwing.hotxposed.HotXposed.hook 0
+net.androidwing.hotxposed.HotXposed 0
+net.androidwing.hotxposeddemo.HookUtil 0
+IXposedHookLoadPackage 0
+net.androidwing.hotxposeddemo.HookUtil.handleLoadPackage 0
+Activity 1
+net.androidwing.hotxposeddemo.MainActivity 1
+net.androidwing.hotxposeddemo.MainActivity.onCreate 1
+net.androidwing.hotxposeddemo.ShellUtil.checkRootPermission 2
+net.androidwing.hotxposeddemo.ShellUtil 2
+net.androidwing.hotxposeddemo.ShellUtil.execCommand 2
+net.androidwing.hotxposed.IHookerDispatcher 3
+net.androidwing.hotxposeddemo.HookerDispatcher 3

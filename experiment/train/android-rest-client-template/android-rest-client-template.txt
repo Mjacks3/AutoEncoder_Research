@@ -1,0 +1,15 @@
+com.codepath.apps.restclienttemplate.LoginActivity com.codepath.apps.restclienttemplate.models.SampleModel 1
+com::codepath::oauth::OAuthLoginActionBarActivityRestClient com.codepath.apps.restclienttemplate.LoginActivity 2
+com.codepath.apps.restclienttemplate.models.SampleModelDao com.codepath.apps.restclienttemplate.LoginActivity 1
+OAuthLoginActionBarActivity com.codepath.apps.restclienttemplate.LoginActivity 1
+com.codepath.apps.restclienttemplate.LoginActivity com.codepath.apps.restclienttemplate.models.SampleModelDao 1
+com.codepath.apps.restclienttemplate.LoginActivity com.codepath.apps.restclienttemplate.LoginActivity.onCreate 1
+com.codepath.apps.restclienttemplate.LoginActivity.onCreate com.codepath.apps.restclienttemplate.models.SampleModel.setName 1
+com.codepath.apps.restclienttemplate.models.SampleModel com.codepath.apps.restclienttemplate.models.SampleModel.setName 1
+com.codepath.apps.restclienttemplate.LoginActivity.onCreate com.codepath.apps.restclienttemplate.models.SampleModelDao.insertModel 1
+com.codepath.apps.restclienttemplate.models.SampleModelDao com.codepath.apps.restclienttemplate.models.SampleModelDao.insertModel 1
+Application com.codepath.apps.restclienttemplate.RestApplication 3
+com.codepath.apps.restclienttemplate.MyDatabase com.codepath.apps.restclienttemplate.RestApplication 1
+RoomDatabase com.codepath.apps.restclienttemplate.MyDatabase 4
+BaseApi com.codepath.apps.restclienttemplate.RestClient 1
+OAuthBaseClient com.codepath.apps.restclienttemplate.RestClient 3

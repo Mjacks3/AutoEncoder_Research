@@ -1,0 +1,13 @@
+Interceptor 0
+com.sanshengshui.multitenant.interceptor.MyInterceptor 0
+com.sanshengshui.multitenant.interceptor.MyInterceptor.intercept 0
+com.sanshengshui.multitenant.utils.SessionUtil.getSession 1
+com.sanshengshui.multitenant.utils.SessionUtil 1
+com.sanshengshui.multitenant.utils.SessionUtil.getRequest 1
+com.sanshengshui.multitenant.controller.TestController 2
+com.sanshengshui.multitenant.mapper.BomMapper 2
+com.sanshengshui.multitenant.controller.TestController.setSession 2
+com.sanshengshui.multitenant.MultiTenantApplicationTests 3
+com.sanshengshui.multitenant.MultiTenantApplication 4
+com.sanshengshui.multitenant.pojo.BomDO 5
+Serializable 5

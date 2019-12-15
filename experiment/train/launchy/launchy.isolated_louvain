@@ -1,0 +1,13 @@
+com.mikedg.android.glass.launchy.AppHelper.bindApplications 0
+com.mikedg.android.glass.launchy.MainActivity.onCreate 0
+com.mikedg.android.glass.launchy.AppHelper.registerIntentReceivers 0
+com.mikedg.android.glass.launchy.AppHelper.loadApplications 0
+com.mikedg.android.glass.launchy.AppHelper 0
+com.mikedg.android.glass.launchy.LongPressBroadcastReceiver 1
+BroadcastReceiver 1
+com.mikedg.android.glass.launchy.MainActivity.onDestroy 2
+com.mikedg.android.glass.launchy.AppHelper.onDestroy 2
+GestureDetector 3
+Activity 3
+com.mikedg.android.glass.launchy.LaunchActivity 3
+com.mikedg.android.glass.launchy.MainActivity 3
