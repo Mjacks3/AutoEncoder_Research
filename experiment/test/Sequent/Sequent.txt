@@ -1,7 +1,0 @@
-com.fujiyuu75.sequent.Sequent com.fujiyuu75.sequent.Sequent.origin 1
-com.fujiyuu75.sequent.Sequent.origin com.fujiyuu75.sequent.Sequent.Builder.offset 1
-com.fujiyuu75.sequent.Sequent.Builder com.fujiyuu75.sequent.Sequent.Builder.offset 1
-com.fujiyuu75.sequent.Sequent com.fujiyuu75.sequent.Sequent.Builder 1
-com.fujiyuu75.sequent.Animation com.fujiyuu75.sequent.Animation.getAnimId 1
-com.fujiyuu75.sequent.Sequent.origin com.fujiyuu75.sequent.Animation.getAnimId 1
-com.fujiyuu75.sequent.Sequent com.fujiyuu75.sequent.Animation 1

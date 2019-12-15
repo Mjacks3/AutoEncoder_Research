@@ -1,4 +1,0 @@
-AppCompatActivity ezy.demo.roundbutton.MainActivity 2
-View::OnClickListener ezy.demo.roundbutton.MainActivity 2
-TextView ezy.ui.view.RoundButton 3
-AppCompatActivity OnClickListener 1

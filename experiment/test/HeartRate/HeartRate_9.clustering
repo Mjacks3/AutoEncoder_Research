@@ -1,8 +1,0 @@
-com.heartrate.app.MainActivity 8
-com.heartrate.app.MainActivity.onCreate 8
-Activity 8
-com.heartrate.app.MainActivity.buildRenderer 8
-com.heartrate.app.MainActivity.setChartSettings 8
-com.heartrate.app.ImageProcessing 8
-com.heartrate.app.MainActivity.onPause 8
-com.heartrate.app.ImageProcessing.decodeYUV420SPtoRedAvg 8
