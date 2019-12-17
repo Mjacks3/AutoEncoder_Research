@@ -1,8 +1,8 @@
 import os
 import  matplotlib.pyplot as plt
 
-source_dir = "experiment/test/WeatherIconView"
-#source_dir = "experiment/test"
+#source_dir = "experiment/test/WeatherIconView"
+source_dir = "experiment/test"
 
 #Analyis meaning number of microservices generated
 louvain = []

@@ -1,7 +1,7 @@
 import os
 import  matplotlib.pyplot as plt
 
-#source_dir = "experiment/test/WeatherIconView"
+source_dir = "experiment/test/WeatherIconView"
 source_dir = "experiment/test"
 
 #Analyis meaning number of microservices generated
@@ -45,28 +45,28 @@ for r, d, f in os.walk(source_dir):
             if ".louvain" in a_file:
                 louvain.append(len(file_cluster_count))
 
-            elif "2.clustering" in a_file:
+            elif "_2.clustering" in a_file:
                 clus_2.append(len(file_cluster_count))
 
-            elif "3.clustering" in a_file:
+            elif "_3.clustering" in a_file:
                 clus_3.append(len(file_cluster_count))
 
-            elif "4.clustering" in a_file:
+            elif "_4.clustering" in a_file:
                 clus_4.append(len(file_cluster_count))
 
-            elif "5.clustering" in a_file:
+            elif "_5.clustering" in a_file:
                 clus_5.append(len(file_cluster_count))
 
-            elif "6.clustering" in a_file:
+            elif "_6.clustering" in a_file:
                 clus_6.append(len(file_cluster_count))
 
-            elif "7.clustering" in a_file:
+            elif "_7.clustering" in a_file:
                 clus_7.append(len(file_cluster_count))
 
-            elif "8.clustering" in a_file:
+            elif "_8.clustering" in a_file:
                 clus_8.append(len(file_cluster_count))
 
-            elif "9.clustering" in a_file:
+            elif "_9.clustering" in a_file:
                 clus_9.append(len(file_cluster_count))
 
             elif "10.clustering" in a_file:
@@ -100,18 +100,17 @@ for r, d, f in os.walk(source_dir):
                 clus_19.append(len(file_cluster_count))
 
 
-print(clus_3)
+#print(clus_3)
 #print(full_set)
 
 
 fig = plt.figure()
-fig.suptitle('Microservice Cluster Analysis for  750 Repository DataSet', fontsize=14, fontweight='bold')
+#fig.suptitle('Microservice Cluster Analysis for  750 Repository DataSet', fontsize=14, fontweight='bold')
 
 ax = fig.add_subplot(111)
 ax.boxplot(full_set)
-plt.xticks([1, 2, 3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18], ['Louvain', '2-Cluster AE', '3-Cluster AE', '4-Cluster AE','5-Cluster AE','6-Cluster AE','7-Cluster AE','8-Cluster AE','9-Cluster AE','10-Cluster AE','11-Cluster AE','12-Cluster AE','13-Cluster AE','14-Cluster AE','15-Cluster AE','16-Cluster AE','17-Cluster AE','18-Cluster AE','19-Cluster AE'], rotation='vertical')
-
-#ax.set_title('Number Microservices Generated Vs. Metho')
+plt.xticks([1,2, 3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19], ['Louvain','2-Cluster', '3-Cluster ', '4-Cluster','5-Cluster','6-Cluster','7-Cluster','8-Cluster ','9-Cluster','10-Cluster','11-Cluster','12-Cluster','13-Cluster','14-Cluster','15-Cluster','16-Cluster','17-Cluster','18-Cluster','19-Cluster'], rotation='vertical')
+ax.set_title('Microservice Cluster Analysis V1 for  750 Repository DataSet')
 ax.set_xlabel('Generation Method')
 ax.set_ylabel('Number of Clusters Generated')
 plt.ylim(0, 20) 
