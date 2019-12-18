@@ -1,0 +1,10 @@
+com.sunnyxibei.hencoderpractice.MainActivity 0
+AppCompatActivity 0
+com.sunnyxibei.hencoderpractice.ExampleUnitTest 1
+com.sunnyxibei.hencoderpractice.MainActivity.onOptionsItemSelected 2
+com.sunnyxibei.hencoderpractice.MapView.setBitmap 2
+com.sunnyxibei.hencoderpractice.MapView 3
+View 3
+com.sunnyxibei.hencoderpractice.MainActivity.onCreate 4
+com.sunnyxibei.hencoderpractice.MapView.reset 4
+com.sunnyxibei.hencoderpractice.ExampleInstrumentedTest 5

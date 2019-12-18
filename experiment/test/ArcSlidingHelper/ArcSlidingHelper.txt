@@ -1,0 +1,1 @@
+AppCompatActivity com.wuyr.arcslidinghelpertest.MainActivity 3

@@ -1,0 +1,13 @@
+FragmentActivity pl.charmas.android.tagview.example.MainActivity 3
+pl.charmas.android.tagview.example.StaticFragment pl.charmas.android.tagview.example.StaticFragment.onActivityCreated 1
+Fragment pl.charmas.android.tagview.example.StaticFragment 3
+pl.charmas.android.tagview.example.StaticFragment.onActivityCreated pl.charmas.android.tagview.TagView.setTags 1
+pl.charmas.android.tagview.TagView pl.charmas.android.tagview.TagView.setTags 2
+TextView pl.charmas.android.tagview.TagView 3
+pl.charmas.android.tagview.example.StaticFragment pl.charmas.android.tagview.TagView 1
+pl.charmas.android.tagview.TagView pl.charmas.android.tagview.TagView.Tag 1
+pl.charmas.android.tagview.TagView.Tag pl.charmas.android.tagview.TagView.Tag.getTag 1
+pl.charmas.android.tagview.TagView.setTags pl.charmas.android.tagview.TagView.Tag.getTag 1
+pl.charmas.android.tagview.TagView.setTags pl.charmas.android.tagview.TagView.Tag.getColor 1
+pl.charmas.android.tagview.TagView.Tag pl.charmas.android.tagview.TagView.Tag.getColor 1
+ListFragment pl.charmas.android.tagview.example.ListExampleFragment 3

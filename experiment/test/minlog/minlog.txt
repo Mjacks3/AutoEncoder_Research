@@ -1,0 +1,14 @@
+com.esotericsoftware.minlog.Log com.esotericsoftware.minlog.Log.trace 4
+com.esotericsoftware.minlog.Log.error com.esotericsoftware.minlog.Log.Logger.log 4
+com.esotericsoftware.minlog.Log.Logger com.esotericsoftware.minlog.Log.Logger.log 21
+com.esotericsoftware.minlog.Log.trace com.esotericsoftware.minlog.Log.Logger.log 4
+com.esotericsoftware.minlog.Log.info com.esotericsoftware.minlog.Log.Logger.log 4
+com.esotericsoftware.minlog.Log.debug com.esotericsoftware.minlog.Log.Logger.log 4
+com.esotericsoftware.minlog.Log.warn com.esotericsoftware.minlog.Log.Logger.log 4
+com.esotericsoftware.minlog.Log com.esotericsoftware.minlog.Log.Logger 20
+com.esotericsoftware.minlog.Log.Logger.log com.esotericsoftware.minlog.Log.Logger.print 21
+com.esotericsoftware.minlog.Log.Logger com.esotericsoftware.minlog.Log.Logger.print 21
+com.esotericsoftware.minlog.Log com.esotericsoftware.minlog.Log.error 4
+com.esotericsoftware.minlog.Log com.esotericsoftware.minlog.Log.debug 4
+com.esotericsoftware.minlog.Log com.esotericsoftware.minlog.Log.info 4
+com.esotericsoftware.minlog.Log com.esotericsoftware.minlog.Log.warn 4

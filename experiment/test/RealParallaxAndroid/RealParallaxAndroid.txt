@@ -1,0 +1,17 @@
+com.hmallet.realparallaxdemo.MainActivity com.hmallet.realparallaxdemo.MainActivity.onCreate 1
+AppCompatActivity com.hmallet.realparallaxdemo.MainActivity 3
+com.hmallet.realparallaxdemo.MainActivity.onCreate com.github.hmallet.realparallaxandroid.RealViewPager.configureWithMyListener 1
+com.github.hmallet.realparallaxandroid.RealViewPager com.github.hmallet.realparallaxandroid.RealViewPager.configureWithMyListener 1
+com.hmallet.realparallaxdemo.MainActivity com.github.hmallet.realparallaxandroid.RealViewPager 1
+ViewPager com.github.hmallet.realparallaxandroid.RealViewPager 3
+com.github.hmallet.realparallaxandroid.RealViewPager com.github.hmallet.realparallaxandroid.RealViewPager.manageScrollWithMyListeners 2
+com.hmallet.realparallaxdemo.MainActivity.onCreate com.github.hmallet.realparallaxandroid.RealViewPager.manageScrollWithMyListeners 1
+com.github.hmallet.realparallaxandroid.RealViewPager com.github.hmallet.realparallaxandroid.RealViewPager.setRealHorizontalScrollViewPosition 2
+com.github.hmallet.realparallaxandroid.RealViewPager.manageScrollWithMyListeners com.github.hmallet.realparallaxandroid.RealViewPager.setRealHorizontalScrollViewPosition 2
+FragmentPagerAdapter com.hmallet.realparallaxdemo.MyPagerAdapter 3
+ApplicationTestCase com.github.hmallet.realparallaxandroid.ApplicationTest 1
+android::test::ApplicationTestCaseApplication com.github.hmallet.realparallaxandroid.ApplicationTest 2
+Fragment com.hmallet.realparallaxdemo.Fragment3 7
+android::test::ApplicationTestCaseApplication com.hmallet.realparallaxdemo.ApplicationTest 2
+ApplicationTestCase com.hmallet.realparallaxdemo.ApplicationTest 1
+HorizontalScrollView com.github.hmallet.realparallaxandroid.RealHorizontalScrollView 3

@@ -1,0 +1,17 @@
+LinearLayoutManager com.example.nestedscrollview.CustomLinearLayoutManager 3
+LinearLayoutManager com.example.nestedscrollview.MyLinearLayoutManager 3
+ApplicationTestCase com.example.nestedscrollview.ApplicationTest 1
+android::test::ApplicationTestCaseApplication com.example.nestedscrollview.ApplicationTest 2
+ViewHolder com.example.nestedscrollview.RecyclerViewAdapter.ItemViewHolder 2
+com.example.nestedscrollview.RecyclerViewAdapter.HeaderViewHolder com.example.nestedscrollview.RecyclerViewAdapter.ItemViewHolder 1
+CardView com.example.nestedscrollview.RecyclerViewAdapter.ItemViewHolder 1
+AppCompatActivity com.example.nestedscrollview.MainActivity 3
+RecyclerView::AdapterRecyclerView.ViewHolder com.example.nestedscrollview.RecyclerViewAdapter 2
+Adapter com.example.nestedscrollview.RecyclerViewAdapter 1
+RecyclerView::AdapterRVAdapter.MyViewHolder com.example.nestedscrollview.RVAdapter 2
+Adapter com.example.nestedscrollview.RVAdapter 1
+CardView com.example.nestedscrollview.RVAdapter.MyViewHolder 1
+com.example.nestedscrollview.RecyclerViewAdapter.HeaderViewHolder com.example.nestedscrollview.RVAdapter.MyViewHolder 1
+ViewHolder com.example.nestedscrollview.RVAdapter.MyViewHolder 2
+CardView com.example.nestedscrollview.RecyclerViewAdapter.HeaderViewHolder 1
+RecyclerView::ViewHolder com.example.nestedscrollview.RecyclerViewAdapter.HeaderViewHolder 2

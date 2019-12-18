@@ -1,0 +1,7 @@
+FrameLayout 0
+com.dk.view.sinking.SinkingView 0
+com.dk.view.sinking.MainActivity 1
+Activity 1
+com.dk.view.sinking.MainActivity.onCreate 2
+com.dk.view.sinking.SinkingView.setPercent 2
+com.dk.view.sinking.SinkingView.clear 2
