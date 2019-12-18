@@ -1,0 +1,5 @@
+SherlockFragment com.example.android.navigationdrawerexample.MainActivity.PlanetFragment 3
+com.example.android.navigationdrawerexample.MainActivity com.example.android.navigationdrawerexample.MainActivity.onOptionsItemSelected 1
+SherlockFragmentActivity com.example.android.navigationdrawerexample.MainActivity 2
+com.example.android.navigationdrawerexample.MainActivity.onOptionsItemSelected com.example.android.navigationdrawerexample.MainActivity.setTitle 1
+com.example.android.navigationdrawerexample.MainActivity com.example.android.navigationdrawerexample.MainActivity.setTitle 1

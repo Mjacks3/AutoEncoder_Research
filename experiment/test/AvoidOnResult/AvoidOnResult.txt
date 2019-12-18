@@ -1,0 +1,5 @@
+io.github.anotherjack.avoidonresult.AvoidOnResult io.github.anotherjack.avoidonresult.AvoidOnResult.startForResult 4
+io.github.anotherjack.avoidonresult.AvoidOnResultFragment io.github.anotherjack.avoidonresult.AvoidOnResultFragment.startForResult 4
+io.github.anotherjack.avoidonresult.AvoidOnResult.startForResult io.github.anotherjack.avoidonresult.AvoidOnResultFragment.startForResult 4
+Fragment io.github.anotherjack.avoidonresult.AvoidOnResultFragment 3
+io.github.anotherjack.avoidonresult.AvoidOnResult io.github.anotherjack.avoidonresult.AvoidOnResultFragment 4

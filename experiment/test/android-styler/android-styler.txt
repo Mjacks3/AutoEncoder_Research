@@ -1,0 +1,8 @@
+EditorAction pro.alex_zaitsev.androidstyler.PasteAction 3
+pro.alex_zaitsev.androidstyler.PasteAction pro.alex_zaitsev.androidstyler.PasteAction.PasteAction 1
+pro.alex_zaitsev.androidstyler.PasteAction.PasteAction pro.alex_zaitsev.androidstyler.StylerUtils.showBalloonPopup 1
+pro.alex_zaitsev.androidstyler.StylerUtils pro.alex_zaitsev.androidstyler.StylerUtils.showBalloonPopup 1
+pro.alex_zaitsev.androidstyler.PasteAction pro.alex_zaitsev.androidstyler.StylerUtils 1
+pro.alex_zaitsev.androidstyler.PasteAction.PasteAction pro.alex_zaitsev.androidstyler.StylerEngine.style 1
+pro.alex_zaitsev.androidstyler.StylerEngine pro.alex_zaitsev.androidstyler.StylerEngine.style 1
+pro.alex_zaitsev.androidstyler.PasteAction pro.alex_zaitsev.androidstyler.StylerEngine 1

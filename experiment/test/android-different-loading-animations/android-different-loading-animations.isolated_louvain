@@ -1,0 +1,15 @@
+BaseAdapter 0
+com.raweng.differentloadinganimations.AnimationListAdapter 0
+LayoutInflater 0
+Context 0
+com.raweng.differentloadinganimations.AnimationMenuActivity 1
+Activity 1
+com.raweng.differentloadinganimations.AllAnimation.onBackPressed 2
+com.raweng.differentloadinganimations.AllAnimation.onDestroy 2
+com.raweng.differentloadinganimations.AllAnimation 3
+com.raweng.differentloadinganimations.AllAnimation.onCreate 3
+com.raweng.differentloadinganimations.AllAnimation.windowsAnimation 3
+com.raweng.differentloadinganimations.AllAnimation.waveAnimation 3
+com.raweng.differentloadinganimations.AllAnimation.leftToRightToLeftMove 3
+com.raweng.differentloadinganimations.AllAnimation.fourSquareAnimation 3
+com.raweng.differentloadinganimations.AllAnimation.incrementalHorizontalLoading 3

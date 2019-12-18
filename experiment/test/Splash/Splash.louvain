@@ -1,0 +1,8 @@
+ApplicationTestCase 0
+com.bignerdranch.android.splash.ApplicationTest 1
+android::test::ApplicationTestCaseApplication 1
+com.bignerdranch.android.splash.App 2
+Application 2
+com.bignerdranch.android.splash.SplashActivity 3
+AppCompatActivity 3
+com.bignerdranch.android.splash.MainActivity 3

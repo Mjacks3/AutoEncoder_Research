@@ -1,0 +1,3 @@
+com.cenyol.mybatisplus.CodeGenerator com.cenyol.mybatisplus.CodeGenerator.main 1
+com.cenyol.mybatisplus.CodeGenerator com.cenyol.mybatisplus.CodeGenerator.scanner 1
+com.cenyol.mybatisplus.CodeGenerator.main com.cenyol.mybatisplus.CodeGenerator.scanner 1

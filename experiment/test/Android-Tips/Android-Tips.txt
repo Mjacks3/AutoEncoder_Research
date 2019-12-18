@@ -1,0 +1,10 @@
+NetUtils NetUtils.getNotAvailableUrl 2
+Main.main NetUtils.getNotAvailableUrl 1
+Main NetUtils 1
+UrlMatcher UrlMatcher.getUrlStr 2
+NetUtils.getNotAvailableUrl UrlMatcher.getUrlStr 2
+NetUtils UrlMatcher 2
+Main Main.main 1
+BadUrlsSaver BadUrlsSaver.save 1
+Main.main BadUrlsSaver.save 1
+Main BadUrlsSaver 1

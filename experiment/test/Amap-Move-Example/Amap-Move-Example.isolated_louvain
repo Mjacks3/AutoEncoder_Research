@@ -1,0 +1,6 @@
+Activity 0
+Handler 0
+com.amap.api.example.MainActivity 0
+com.amap.api.example.MainActivity.onCreate 1
+com.amap.api.example.MainActivity.moveLooper 1
+com.amap.api.example.MainActivity.GetDistance 1

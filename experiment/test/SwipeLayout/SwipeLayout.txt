@@ -1,0 +1,2 @@
+LinearLayout com.github.lzyzsd.swipelayoutexample.SwipeLayout 2
+ActionBarActivity com.github.lzyzsd.swipelayoutexample.MainActivity 3
