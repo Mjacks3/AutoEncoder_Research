@@ -1,0 +1,10 @@
+com.jeanboy.app.luckymonkeypanel.MainActivity.onCreate 5
+com.jeanboy.app.luckymonkeypanel.LuckyMonkeyPanelView.startGame 5
+com.jeanboy.app.luckymonkeypanel.LuckyMonkeyPanelView 5
+com.jeanboy.app.luckymonkeypanel.MainActivity 5
+FrameLayout 5
+com.jeanboy.app.luckymonkeypanel.PanelItemView 5
+com.jeanboy.app.luckymonkeypanel.ItemView 5
+com.jeanboy.app.luckymonkeypanel.ItemView.setFocus 5
+AppCompatActivity 5
+com.jeanboy.app.luckymonkeypanel.LuckyMonkeyPanelView.tryToStop 5

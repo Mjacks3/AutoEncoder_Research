@@ -1,0 +1,11 @@
+com.xyz.stepview.MainActivity 12
+com.xyz.step.FlowViewHorizontal 12
+View 12
+com.xyz.step.FlowViewVertical 12
+com.xyz.stepview.VerticalActivity 12
+com.xyz.stepview.MainActivity.onCreate 12
+AppCompatActivity 12
+com.xyz.step.FlowViewHorizontal.setProgress 12
+com.xyz.step.FlowViewHorizontal.setKeyColor 12
+com.xyz.stepview.VerticalActivity.onCreate 12
+com.xyz.step.FlowViewVertical.setProgress 12

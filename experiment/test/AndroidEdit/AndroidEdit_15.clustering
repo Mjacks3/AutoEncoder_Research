@@ -1,0 +1,12 @@
+ren.qinc.edit_demo.MainActivity 12
+ren.qinc.edit_demo.MainActivity.onOptionsItemSelected 12
+AppCompatActivity 12
+ren.qinc.edit.PerformEdit 12
+ren.qinc.edit.PerformEdit.undo 12
+StackAction 12
+ren.qinc.edit.PerformEdit.redo 12
+ren.qinc.edit.PerformEdit.clearHistory 12
+ren.qinc.edit.PerformEdit.setDefaultText 12
+ren.qinc.edit_demo.MainActivity.onCreate 12
+ren.qinc.edit.PerformEdit.onTextChanged 12
+ren.qinc.edit.PerformEdit.onEditableChanged 12

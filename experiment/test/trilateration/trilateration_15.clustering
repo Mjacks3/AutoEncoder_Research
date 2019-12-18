@@ -1,0 +1,13 @@
+com.lemmingapex.trilateration.TrilaterationTest.TrilaterationTest 12
+com.lemmingapex.trilateration.NonLinearLeastSquaresSolver.solve 12
+com.lemmingapex.trilateration.NonLinearLeastSquaresSolver 12
+com.lemmingapex.trilateration.TrilaterationTest 12
+LeastSquaresOptimizer 12
+com.lemmingapex.trilateration.TrilaterationFunction 12
+com.lemmingapex.trilateration.TrilaterationFunction.value 12
+MultivariateJacobianFunction 12
+com.lemmingapex.trilateration.TrilaterationFunction.getPositions 12
+com.lemmingapex.trilateration.TrilaterationFunction.getDistances 12
+com.lemmingapex.trilateration.TrilaterationFunction.jacobian 12
+com.lemmingapex.trilateration.LinearLeastSquaresSolver 12
+com.lemmingapex.trilateration.LinearLeastSquaresSolver.solve 12

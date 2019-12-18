@@ -1,0 +1,9 @@
+ActionBarActivity 1
+com.inthecheesefactory.example.adjustableimageview.MainActivity 1
+ImageButton 1
+com.inthecheesefactory.thecheeselibrary.widget.AdjustableImageButton 1
+ImageView 1
+com.inthecheesefactory.thecheeselibrary.widget.AdjustableImageView 1
+android::test::ApplicationTestCaseApplication 1
+com.inthecheesefactory.example.adjustableimageview.ApplicationTest 1
+ApplicationTestCase 1

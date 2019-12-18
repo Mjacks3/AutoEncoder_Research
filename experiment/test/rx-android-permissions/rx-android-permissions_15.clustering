@@ -1,0 +1,13 @@
+de.halfbit.rxandroid.permissions.RxPermissions 12
+de.halfbit.rxandroid.permissions.RxPermissions.request 12
+de.halfbit.rxandroid.permissions.RxPermissions.PermissionsRequester 12
+Context 12
+HashMapString,PublishSubjectBoolean 12
+de.halfbit.rxandroid.permissions.RxPermissions.observe 12
+de.halfbit.rxandroid.permissions.RxPermissions.isGranted 12
+de.halfbit.rxandroid.permissions.RxPermissions.PermissionsRequester.request 12
+AndroidTestCase 12
+de.halfbit.rxandroid.permissions.RxPermissionsTest 12
+de.halfbit.rxandroid.permissions.RxPermissions.get 12
+de.halfbit.rxandroid.permissions.RxPermissions.RxPermissions 12
+de.halfbit.rxandroid.permissions.RxPermissions.PermissionsRequester.performRequestPermissions 12

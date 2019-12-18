@@ -1,0 +1,9 @@
+com.xwray.fontbinding.Bindings 12
+com.xwray.fontbinding.FontCache 12
+com.xwray.fontbindingsample.MainActivity 12
+AppCompatActivity 12
+com.xwray.fontbindingsample.MainActivity.onCreate 12
+com.xwray.fontbinding.FontCache.getInstance 12
+com.xwray.fontbinding.Bindings.setFont 12
+com.xwray.fontbinding.FontCache.addFont 12
+com.xwray.fontbinding.FontCache.get 12

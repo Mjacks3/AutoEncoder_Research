@@ -1,0 +1,11 @@
+ArrayAdapter 5
+demo.example.com.customarrayadapter.AndroidFlavorAdapter 5
+android::widget::ArrayAdapterAndroidFlavor 5
+ActionBarActivity 5
+demo.example.com.customarrayadapter.MainActivity 5
+demo.example.com.customarrayadapter.AndroidFlavor 5
+demo.example.com.customarrayadapter.MainActivityFragment 5
+Fragment 5
+ApplicationTestCase 5
+demo.example.com.customarrayadapter.ApplicationTest 5
+android::test::ApplicationTestCaseApplication 5

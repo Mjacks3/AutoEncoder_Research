@@ -1,0 +1,10 @@
+com.example.android.flavor.AndroidFlavorAdapter 12
+com.example.android.flavor.AndroidFlavor 12
+com.example.android.flavor.AndroidFlavorAdapter.getView 12
+com.example.android.flavor.AndroidFlavor.getVersionNumber 12
+com.example.android.flavor.AndroidFlavor.getImageResourceId 12
+ArrayAdapter 12
+android::widget::ArrayAdapterAndroidFlavor 12
+AppCompatActivity 12
+com.example.android.flavor.MainActivity 12
+com.example.android.flavor.AndroidFlavor.getVersionName 12

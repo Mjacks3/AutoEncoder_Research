@@ -1,0 +1,13 @@
+com.pacoworks.rxtuples.RxTuplesTest 12
+com.pacoworks.rxtuples.RxTuples 12
+com.pacoworks.rxtuples.RxTuplesTest.testToPair 12
+PairInteger,Integer 12
+QuintetInteger,Integer,Integer,Integer,Integer 12
+TripletInteger,Integer,Integer 12
+SeptetInteger,Integer,Integer,Integer,Integer,Integer,Integer 12
+SextetInteger,Integer,Integer,Integer,Integer,Integer 12
+OctetInteger,Integer,Integer,Integer,Integer,Integer,Integer,Integer 12
+QuartetInteger,Integer,Integer,Integer 12
+com.pacoworks.rxtuples.RxTuples.toPair 12
+AppCompatActivity 12
+com.pacoworks.rxtuples.MainActivity 12

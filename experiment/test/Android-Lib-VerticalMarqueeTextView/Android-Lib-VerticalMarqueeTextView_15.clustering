@@ -1,0 +1,8 @@
+ScrollView 12
+android.lib.widget.verticalmarqueetextview.VerticalMarqueeTextView 12
+Activity 12
+android.lib.widget.verticalmarqueetextview.demo.ExampleActivity 12
+android.lib.widget.verticalmarqueetextview.VerticalMarqueeTextView.onAttachedToWindow 12
+android.lib.widget.verticalmarqueetextview.VerticalMarqueeTextView.startMarquee 12
+android.lib.widget.verticalmarqueetextview.VerticalMarqueeTextView.getTopFadingEdgeStrength 12
+android.lib.widget.verticalmarqueetextview.VerticalMarqueeTextView.setMarqueeSpeed 12

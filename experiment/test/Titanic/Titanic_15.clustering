@@ -1,0 +1,15 @@
+com.romainpiel.titanic.library.Titanic 12
+com.romainpiel.titanic.library.TitanicTextView 12
+TextView 12
+com.romainpiel.titanic.sample.Typefaces 12
+com.romainpiel.titanic.sample.Typefaces.get 12
+com.romainpiel.titanic.sample.MainActivity.onCreate 12
+com.romainpiel.titanic.sample.MainActivity 12
+com.romainpiel.titanic.library.Titanic.start 12
+com.romainpiel.titanic.library.TitanicTextView.setSinking 12
+com.romainpiel.titanic.library.TitanicTextView.isSetUp 12
+com.romainpiel.titanic.library.TitanicTextView.setAnimationSetupCallback 12
+com.romainpiel.titanic.library.TitanicTextView.onSizeChanged 12
+com.romainpiel.titanic.library.TitanicTextView.AnimationSetupCallback 12
+com.romainpiel.titanic.library.TitanicTextView.AnimationSetupCallback.onSetupAnimation 12
+ActionBarActivity 12

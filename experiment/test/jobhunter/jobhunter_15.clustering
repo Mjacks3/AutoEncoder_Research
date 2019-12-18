@@ -1,0 +1,11 @@
+us.codecraft.jobhunter.dao.JobInfoDaoTest 12
+us.codecraft.jobhunter.dao.JobInfoDaoTest.test 12
+us.codecraft.jobhunter.model.LieTouJobInfo.setSource 12
+us.codecraft.jobhunter.model.LieTouJobInfo 12
+AfterExtractor 12
+PageModelPipeline 12
+us.codecraft.jobhunter.pipeline.JobInfoDaoPipeline 12
+us::codecraft::webmagic::pipeline::PageModelPipelineLieTouJobInfo 12
+us.codecraft.jobhunter.JobCrawler 12
+us.codecraft.jobhunter.JobCrawler.main 12
+us.codecraft.jobhunter.JobCrawler.crawl 12
