@@ -1,0 +1,10 @@
+cz.adamh.utils.NativeUtilsTest cz.adamh.utils.NativeUtilsTest.testLoadLibraryIllegalPrefix 1
+cz.adamh.utils.NativeUtilsTest.testLoadLibraryIllegalPath cz.adamh.utils.NativeUtils.loadLibraryFromJar 1
+cz.adamh.utils.NativeUtils cz.adamh.utils.NativeUtils.loadLibraryFromJar 4
+cz.adamh.utils.NativeUtilsTest.testLoadLibraryIllegalPrefix cz.adamh.utils.NativeUtils.loadLibraryFromJar 1
+cz.adamh.utils.NativeUtilsTest.testLoadLibraryNonExistentPath cz.adamh.utils.NativeUtils.loadLibraryFromJar 1
+cz.adamh.utils.NativeUtilsTest.testLoadLibraryNullPath cz.adamh.utils.NativeUtils.loadLibraryFromJar 1
+cz.adamh.utils.NativeUtilsTest cz.adamh.utils.NativeUtils 4
+cz.adamh.utils.NativeUtilsTest cz.adamh.utils.NativeUtilsTest.testLoadLibraryIllegalPath 1
+cz.adamh.utils.NativeUtilsTest cz.adamh.utils.NativeUtilsTest.testLoadLibraryNullPath 1
+cz.adamh.utils.NativeUtilsTest cz.adamh.utils.NativeUtilsTest.testLoadLibraryNonExistentPath 1

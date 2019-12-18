@@ -1,0 +1,8 @@
+ImageView swipe.android.com.chromeoverflowmenu.MainActivity 1
+LayoutInflater swipe.android.com.chromeoverflowmenu.MainActivity 1
+ActionBarActivity swipe.android.com.chromeoverflowmenu.MainActivity 3
+ListPopupWindow swipe.android.com.chromeoverflowmenu.MainActivity 1
+android::test::ApplicationTestCaseApplication swipe.android.com.chromeoverflowmenu.ApplicationTest 2
+swipe.android.com.chromeoverflowmenu.MainActivity swipe.android.com.chromeoverflowmenu.MainActivity.onCreate 1
+swipe.android.com.chromeoverflowmenu.MainActivity.onCreate swipe.android.com.chromeoverflowmenu.MainActivity.dpToPx 1
+swipe.android.com.chromeoverflowmenu.MainActivity swipe.android.com.chromeoverflowmenu.MainActivity.dpToPx 1

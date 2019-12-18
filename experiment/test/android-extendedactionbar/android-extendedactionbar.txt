@@ -1,0 +1,4 @@
+Activity me.eugeniomarletti.extendedactionbar.ExtendedActionBarActivity 2
+me.eugeniomarletti.extendedactionbar.ExtendedActionBarActivity me.eugeniomarletti.extendedactionbar.ExtendedActionBarActivity.onCreate 1
+me.eugeniomarletti.extendedactionbar.ExtendedActionBarActivity.onCreate me.eugeniomarletti.extendedactionbar.ExtendedActionBarActivity.findViewById 1
+me.eugeniomarletti.extendedactionbar.ExtendedActionBarActivity me.eugeniomarletti.extendedactionbar.ExtendedActionBarActivity.findViewById 1

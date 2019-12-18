@@ -1,0 +1,8 @@
+Adapter 0
+ru.adonixis.listtogridanimatedicon.SimpleAdapter 1
+RecyclerView::AdapterSimpleAdapter.SimpleViewHolder 1
+AppCompatActivity 2
+ru.adonixis.listtogridanimatedicon.MainActivity 2
+GridLayoutManager 2
+ru.adonixis.listtogridanimatedicon.MainActivity.onOptionsItemSelected 3
+ru.adonixis.listtogridanimatedicon.SimpleAdapter.getItemCount 3

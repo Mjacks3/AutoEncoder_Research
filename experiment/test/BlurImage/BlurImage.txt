@@ -1,0 +1,1 @@
+AppCompatActivity com.jackandphantom.blurimageproject.MainActivity 3

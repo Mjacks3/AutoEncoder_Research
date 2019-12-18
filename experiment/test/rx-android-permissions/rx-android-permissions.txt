@@ -1,0 +1,17 @@
+de.halfbit.rxandroid.permissions.RxPermissions de.halfbit.rxandroid.permissions.RxPermissions.request 1
+de.halfbit.rxandroid.permissions.RxPermissions.PermissionsRequester de.halfbit.rxandroid.permissions.RxPermissions 1
+Context de.halfbit.rxandroid.permissions.RxPermissions 2
+HashMapString,PublishSubjectBoolean de.halfbit.rxandroid.permissions.RxPermissions 2
+de.halfbit.rxandroid.permissions.RxPermissions.observe de.halfbit.rxandroid.permissions.RxPermissions.isGranted 1
+de.halfbit.rxandroid.permissions.RxPermissions de.halfbit.rxandroid.permissions.RxPermissions.isGranted 3
+de.halfbit.rxandroid.permissions.RxPermissions.request de.halfbit.rxandroid.permissions.RxPermissions.isGranted 1
+de.halfbit.rxandroid.permissions.RxPermissions.PermissionsRequester.request de.halfbit.rxandroid.permissions.RxPermissions.isGranted 1
+de.halfbit.rxandroid.permissions.RxPermissions de.halfbit.rxandroid.permissions.RxPermissions.PermissionsRequester 1
+de.halfbit.rxandroid.permissions.RxPermissions de.halfbit.rxandroid.permissions.RxPermissions.observe 1
+AndroidTestCase de.halfbit.rxandroid.permissions.RxPermissionsTest 3
+de.halfbit.rxandroid.permissions.RxPermissions de.halfbit.rxandroid.permissions.RxPermissions.get 1
+de.halfbit.rxandroid.permissions.RxPermissions de.halfbit.rxandroid.permissions.RxPermissions.RxPermissions 1
+de.halfbit.rxandroid.permissions.RxPermissions.get de.halfbit.rxandroid.permissions.RxPermissions.RxPermissions 1
+de.halfbit.rxandroid.permissions.RxPermissions.PermissionsRequester de.halfbit.rxandroid.permissions.RxPermissions.PermissionsRequester.request 1
+de.halfbit.rxandroid.permissions.RxPermissions.PermissionsRequester.request de.halfbit.rxandroid.permissions.RxPermissions.PermissionsRequester.performRequestPermissions 1
+de.halfbit.rxandroid.permissions.RxPermissions.PermissionsRequester de.halfbit.rxandroid.permissions.RxPermissions.PermissionsRequester.performRequestPermissions 1

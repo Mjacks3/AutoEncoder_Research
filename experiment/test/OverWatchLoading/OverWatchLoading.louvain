@@ -1,0 +1,10 @@
+com.czy.demo.ExampleInstrumentedTest 0
+com.czy.demo.MainActivity 1
+AppCompatActivity 1
+com.czy.demo.MainActivity.onCreate 2
+com.chenzy.owloading.OWLoadingView.stopAnim 2
+com.chenzy.owloading.OWLoadingView.startAnim 3
+com.chenzy.owloading.OWLoadingView 3
+SurfaceView 3
+com.chenzy.owloading.OWLoadingView.onWindowFocusChanged 3
+com.czy.demo.ExampleUnitTest 4
