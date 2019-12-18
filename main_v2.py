@@ -434,8 +434,7 @@ if args.experiment:
     graph_embedding(args)
     
     #End Graph Embedding
-    """
-
+    
 
     #Training
     models = [2,5,10,15]
@@ -486,8 +485,8 @@ if args.experiment:
                         "19": []
                         }
     
-    
-    for num_clusters in range(19,2,-1):
+ 
+    for num_clusters in range(2,20):
         if os.path.exists("experiment/"+str(num_clusters)+"/model_final.h5"):
 
             args.weights = "experiment/"+str(num_clusters)+"/model_final.h5"
@@ -506,44 +505,6 @@ if args.experiment:
                     test(args) # Calculations will be done on files separately
     
 
-    
-                modq = calculate_modq(clusters,edge_list=edge_list)
-                print("\n\n MOD Q: "+ str(modq)) 
-                cluster_qValue_map[str(num_clusters)].append(modq)
-
-
-        x =  [num_clusters for num in range(len(cluster_qValue_map[str(num_clusters)]))]
-
-        plt.plot(x,cluster_qValue_map[str(num_clusters)] , 'bo')
-        plt.xlabel("Number Clusters")
-        plt.ylabel("Modularity Q Value")
-
-    plt.show()
-
-
-
-    #clusters = test(args)
-
-    #modq = calculate_modq(clusters,edge_list=edge_list_loc)
-    #print("\n\n MOD Q: "+ str(modq)) 
-    """
-    
-    #End Test
-
-
-    
-    #Training
-#NEXT. VERY IMPORTANT
-    #for num_clusters in range (2,20):
-
-        
-
-        #for each num_clusters
-        #train
-        #save
-        #Test 
-        #metrics
-   
 
 else:
 
@@ -565,4 +526,3 @@ else:
             if args.analysis:
                 calculate_metrics(node_clusters,args.edge_list)
                 pass
-
