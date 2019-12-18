@@ -1,0 +1,3 @@
+AppCompatActivity com.example.adinugroho.diagonaltry.MainActivity 3
+android::test::ApplicationTestCaseApplication com.example.adinugroho.diagonaltry.ApplicationTest 2
+ApplicationTestCase com.example.adinugroho.diagonaltry.ApplicationTest 1

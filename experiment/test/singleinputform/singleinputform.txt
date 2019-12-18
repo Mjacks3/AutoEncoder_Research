@@ -1,0 +1,1 @@
+Activity com.flavienlaurent.minimalform.app.MainActivity 2

@@ -1,0 +1,12 @@
+io.github.rockerhieu.emojiconize.Emojiconize.Builder 0
+AppCompatActivity 0
+View 0
+io.github.rockerhieu.emojiconize.example.MainActivity 0
+io.github.rockerhieu.emojiconize.example.CustomTextView 1
+AppCompatTextView 1
+TextWatcher 2
+io.github.rockerhieu.emojiconize.EmojiconTextWatcher 2
+io.github.rockerhieu.emojiconize.example.MainActivity.onCreate 3
+io.github.rockerhieu.emojiconize.Emojiconize.activity 3
+io.github.rockerhieu.emojiconize.Emojiconize 3
+io.github.rockerhieu.emojiconize.Emojiconize.Builder.go 3

@@ -434,7 +434,7 @@ if args.experiment:
     graph_embedding(args)
     
     #End Graph Embedding
-    """
+
 
 
     #Training
@@ -463,31 +463,9 @@ if args.experiment:
     #test_dataset = "datasets/demo_1/acmeair"
     #edge_list_loc = "datasets/demo_1/acmeair/acmeair.txt"
     """
-
-    
-    cluster_qValue_map = { 
-                        "2" : [],
-                        "3" : [],
-                        "4" : [],
-                        "5" : [],
-                        "6" : [],
-                        "7" : [],
-                        "8" : [],
-                        "9" : [],
-                        "10": [],
-                        "11": [],
-                        "12": [],
-                        "13": [],
-                        "14": [],
-                        "15": [],
-                        "16": [],
-                        "17": [],
-                        "18": [],
-                        "19": []
-                        }
     
     
-    for num_clusters in range(19,2,-1):
+    for num_clusters in range(2,20):
         if os.path.exists("experiment/"+str(num_clusters)+"/model_final.h5"):
 
             args.weights = "experiment/"+str(num_clusters)+"/model_final.h5"
@@ -504,7 +482,7 @@ if args.experiment:
 
                     print(args.test_dataset)
                     test(args) # Calculations will be done on files separately
-    
+    """
 
     
                 modq = calculate_modq(clusters,edge_list=edge_list)
