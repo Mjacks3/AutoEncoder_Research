@@ -1,0 +1,14 @@
+com.xyz.stepview.MainActivity com.xyz.step.FlowViewHorizontal 1
+View com.xyz.step.FlowViewHorizontal 3
+View com.xyz.step.FlowViewVertical 3
+com.xyz.stepview.VerticalActivity com.xyz.step.FlowViewVertical 1
+com.xyz.stepview.MainActivity com.xyz.stepview.MainActivity.onCreate 1
+AppCompatActivity com.xyz.stepview.MainActivity 3
+com.xyz.step.FlowViewHorizontal com.xyz.step.FlowViewHorizontal.setProgress 1
+com.xyz.stepview.MainActivity.onCreate com.xyz.step.FlowViewHorizontal.setProgress 1
+com.xyz.step.FlowViewHorizontal com.xyz.step.FlowViewHorizontal.setKeyColor 1
+com.xyz.stepview.MainActivity.onCreate com.xyz.step.FlowViewHorizontal.setKeyColor 1
+com.xyz.stepview.VerticalActivity com.xyz.stepview.VerticalActivity.onCreate 1
+AppCompatActivity com.xyz.stepview.VerticalActivity 3
+com.xyz.step.FlowViewVertical com.xyz.step.FlowViewVertical.setProgress 1
+com.xyz.stepview.VerticalActivity.onCreate com.xyz.step.FlowViewVertical.setProgress 1

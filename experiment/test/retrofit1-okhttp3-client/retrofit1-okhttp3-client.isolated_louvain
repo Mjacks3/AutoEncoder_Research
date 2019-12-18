@@ -1,0 +1,8 @@
+com.jakewharton.retrofit.Ok3ClientIntegrationTest 0
+MockWebServer 0
+com.jakewharton.retrofit.Ok3ClientTest.emptyResponse 1
+com.jakewharton.retrofit.Ok3ClientTest 1
+com.jakewharton.retrofit.Ok3ClientTest.response 1
+com.jakewharton.retrofit.Ok3ClientTest.responseNoContentType 1
+Client 2
+com.jakewharton.retrofit.Ok3Client 2

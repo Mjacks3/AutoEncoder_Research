@@ -1,0 +1,14 @@
+MockWebServer com.jakewharton.espresso.OkHttp3IdlingResourceTest 1
+com.jakewharton.espresso.OkHttp3IdlingResourceTest com.jakewharton.espresso.OkHttp3IdlingResourceTest.nullNameThrows 1
+com.jakewharton.espresso.OkHttp3IdlingResourceTest.nullClientThrows com.jakewharton.espresso.OkHttp3IdlingResource.create 1
+com.jakewharton.espresso.OkHttp3IdlingResource com.jakewharton.espresso.OkHttp3IdlingResource.create 5
+com.jakewharton.espresso.OkHttp3IdlingResourceTest.nullNameThrows com.jakewharton.espresso.OkHttp3IdlingResource.create 1
+com.jakewharton.espresso.OkHttp3IdlingResourceTest.idleNow com.jakewharton.espresso.OkHttp3IdlingResource.create 1
+com.jakewharton.espresso.OkHttp3IdlingResourceTest.idleCallback com.jakewharton.espresso.OkHttp3IdlingResource.create 1
+com.jakewharton.espresso.OkHttp3IdlingResourceTest.name com.jakewharton.espresso.OkHttp3IdlingResource.create 1
+com.jakewharton.espresso.OkHttp3IdlingResourceTest com.jakewharton.espresso.OkHttp3IdlingResource 5
+IdlingResource com.jakewharton.espresso.OkHttp3IdlingResource 3
+com.jakewharton.espresso.OkHttp3IdlingResourceTest com.jakewharton.espresso.OkHttp3IdlingResourceTest.nullClientThrows 1
+com.jakewharton.espresso.OkHttp3IdlingResourceTest com.jakewharton.espresso.OkHttp3IdlingResourceTest.name 1
+com.jakewharton.espresso.OkHttp3IdlingResourceTest com.jakewharton.espresso.OkHttp3IdlingResourceTest.idleCallback 1
+com.jakewharton.espresso.OkHttp3IdlingResourceTest com.jakewharton.espresso.OkHttp3IdlingResourceTest.idleNow 1

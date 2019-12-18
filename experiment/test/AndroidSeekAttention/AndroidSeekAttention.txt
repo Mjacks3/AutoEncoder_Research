@@ -1,0 +1,5 @@
+Activity tada.com.example.bruce.androidtada.MyActivity 3
+tada.com.example.bruce.androidtada.MyActivity tada.com.example.bruce.androidtada.MyActivity.onCreate 1
+tada.com.example.bruce.androidtada.MyActivity.onCreate tada.com.example.bruce.androidtada.MyActivity.tada 1
+tada.com.example.bruce.androidtada.MyActivity tada.com.example.bruce.androidtada.MyActivity.tada 1
+android::test::ApplicationTestCaseApplication tada.com.example.bruce.androidtada.ApplicationTest 2

@@ -1,0 +1,10 @@
+com.sample.heanvenlyupdate.ExampleInstrumentedTest 0
+com.sample.heanvenlyupdate.MainActivity.onCreate 1
+com.sample.heanvenlyupdate.MainActivity 1
+com.sample.heanvenlyupdate.MainActivity.DownLoad 1
+AppCompatActivity 1
+com.sample.heanvenlyupdate.DownLoad.xUitlsDownLoad 2
+com.sample.heanvenlyupdate.DownLoad 2
+com.sample.heanvenlyupdate.MyApplication 3
+Application 3
+com.sample.heanvenlyupdate.ExampleUnitTest 4

@@ -1,0 +1,15 @@
+com.refresh.menuitem.sample.MainActivity com.refresh.menuitem.sample.MainActivity.onCreateOptionsMenu 1
+Activity com.refresh.menuitem.sample.MainActivity 3
+com.refresh.menuitem.RefreshMenuItemHelper com.refresh.menuitem.RefreshMenuItemHelper.onCreateOptionsMenu 1
+com.refresh.menuitem.sample.MainActivity.onCreateOptionsMenu com.refresh.menuitem.RefreshMenuItemHelper.onCreateOptionsMenu 1
+com.refresh.menuitem.sample.MainActivity com.refresh.menuitem.RefreshMenuItemHelper 2
+com.refresh.menuitem.sample.MainActivity.PlaceholderFragment com.refresh.menuitem.RefreshMenuItemHelper 1
+Fragment com.refresh.menuitem.sample.MainActivity.PlaceholderFragment 3
+com.refresh.menuitem.sample.MainActivity.PlaceholderFragment com.refresh.menuitem.sample.MainActivity.PlaceholderFragment.onCreateView 1
+com.refresh.menuitem.sample.MainActivity.PlaceholderFragment.onCreateView com.refresh.menuitem.RefreshMenuItemHelper.startLoading 1
+com.refresh.menuitem.RefreshMenuItemHelper com.refresh.menuitem.RefreshMenuItemHelper.startLoading 1
+com.refresh.menuitem.sample.MainActivity.PlaceholderFragment.onCreateView com.refresh.menuitem.RefreshMenuItemHelper.stopLoading 1
+com.refresh.menuitem.RefreshMenuItemHelper com.refresh.menuitem.RefreshMenuItemHelper.stopLoading 1
+com.refresh.menuitem.sample.MainActivity com.refresh.menuitem.sample.MainActivity.onOptionsItemSelected 1
+com.refresh.menuitem.sample.MainActivity.onOptionsItemSelected com.refresh.menuitem.RefreshMenuItemHelper.setMenuItem 1
+com.refresh.menuitem.RefreshMenuItemHelper com.refresh.menuitem.RefreshMenuItemHelper.setMenuItem 1
