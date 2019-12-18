@@ -1,0 +1,14 @@
+com.example.liangmutian.linkscrollmsky.MyActivity 1
+com.example.liangmutian.linkscrollmsky.MyActivity.onCreate 1
+View 1
+RelativeLayout 1
+AppCompatActivity 1
+Handler 1
+com.example.liangmutian.linkscrollmsky.RelativelayoutBehavior.layoutDependsOn 4
+com.example.liangmutian.linkscrollmsky.DensityUtil.getZhuangtai 1
+com.example.liangmutian.linkscrollmsky.DensityUtil 0
+com.example.liangmutian.linkscrollmsky.RelativelayoutBehavior 4
+Behavior 3
+CoordinatorLayout::BehaviorRelativeLayout 3
+Context 3
+com.example.liangmutian.linkscrollmsky.DensityUtil.dip2px 1

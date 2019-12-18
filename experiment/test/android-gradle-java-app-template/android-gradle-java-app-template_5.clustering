@@ -1,0 +1,11 @@
+SparseBooleanArray 3
+burrows.apps.example.template.adapter.BaseAdapterT,VHextendsRecyclerView.ViewHolder 1
+Adapter 3
+ListT 3
+RecyclerView::AdapterVH 3
+Fragment 3
+burrows.apps.example.template.fragment.PlaceholderFragment 3
+AppCompatActivity 3
+burrows.apps.example.template.activity.MainActivity 1
+ActivityTestRuleburrows.apps.example.template.activity.MainActivity 3
+burrows.apps.example.template.instrumentation.MainActivityTest 1

@@ -1,0 +1,9 @@
+AppCompatActivity 3
+com.king.supertextview.MainActivity 3
+com.king.view.supertextview.SuperTextView 3
+TextView 3
+com.king.supertextview.MainActivity.onCreate 3
+com.king.view.supertextview.SuperTextView.setDynamicText 6
+com.king.view.supertextview.SuperTextView.setOnDynamicListener 6
+com.king.view.supertextview.SuperTextView.setDynamicStyle 6
+com.king.view.supertextview.SuperTextView.start 6

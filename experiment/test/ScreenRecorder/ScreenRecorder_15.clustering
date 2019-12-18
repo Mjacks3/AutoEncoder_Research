@@ -1,0 +1,17 @@
+Binder 1
+com.glgjing.recorder.RecordService.RecordBinder 1
+Application 1
+com.glgjing.recorder.RecordApplication 6
+AppCompatActivity 6
+com.glgjing.recorder.MainActivity 11
+com.glgjing.recorder.RecordService 6
+Service 6
+com.glgjing.recorder.MainActivity.onActivityResult 6
+com.glgjing.recorder.RecordService.setMediaProject 6
+com.glgjing.recorder.RecordService.startRecord 6
+com.glgjing.recorder.MainActivity.onRequestPermissionsResult 6
+com.glgjing.recorder.RecordService.setConfig 6
+com.glgjing.recorder.RecordService.isRunning 6
+com.glgjing.recorder.MainActivity.onCreate 6
+com.glgjing.recorder.RecordService.stopRecord 11
+com.glgjing.recorder.RecordService.getsaveDirectory 6
