@@ -1,0 +1,1 @@
+Activity com.example.hugo.HugoActivity 3

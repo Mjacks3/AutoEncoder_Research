@@ -1,0 +1,16 @@
+DefaultHandler com.shirwa.simplistic_rss.RssHandler 3
+com.shirwa.simplistic_rss.RssReader com.shirwa.simplistic_rss.RssHandler 1
+com.shirwa.simplistic_rss.RssReader com.shirwa.simplistic_rss.RssReader.getItems 1
+com.shirwa.simplistic_rss.RssHandler com.shirwa.simplistic_rss.RssHandler.getRssItemList 1
+com.shirwa.simplistic_rss.RssReader.getItems com.shirwa.simplistic_rss.RssHandler.getRssItemList 1
+com.shirwa.simplistic_rss.RssHandler com.shirwa.simplistic_rss.RssItem 2
+com.shirwa.simplistic_rss.RssHandler com.shirwa.simplistic_rss.RssHandler.startElement 1
+com.shirwa.simplistic_rss.RssHandler.startElement com.shirwa.simplistic_rss.RssItem.setImageUrl 1
+com.shirwa.simplistic_rss.RssItem com.shirwa.simplistic_rss.RssItem.setImageUrl 1
+com.shirwa.simplistic_rss.RssHandler com.shirwa.simplistic_rss.RssHandler.characters 1
+com.shirwa.simplistic_rss.RssHandler.characters com.shirwa.simplistic_rss.RssItem.setTitle 1
+com.shirwa.simplistic_rss.RssItem com.shirwa.simplistic_rss.RssItem.setTitle 1
+com.shirwa.simplistic_rss.RssHandler.characters com.shirwa.simplistic_rss.RssItem.setLink 1
+com.shirwa.simplistic_rss.RssItem com.shirwa.simplistic_rss.RssItem.setLink 1
+com.shirwa.simplistic_rss.RssItem com.shirwa.simplistic_rss.RssItem.setDescription 1
+com.shirwa.simplistic_rss.RssHandler.characters com.shirwa.simplistic_rss.RssItem.setDescription 1

@@ -434,7 +434,7 @@ if args.experiment:
     graph_embedding(args)
     
     #End Graph Embedding
-    """
+    
 
 
     #Training
@@ -506,7 +506,7 @@ if args.experiment:
                     #print(args.test_dataset)
                     test(args) # Calculations will be done on files separately
 
-    
+    """
                 modq = calculate_modq(clusters,edge_list=edge_list)
                 print("\n\n MOD Q: "+ str(modq)) 
                 cluster_qValue_map[str(num_clusters)].append(modq)

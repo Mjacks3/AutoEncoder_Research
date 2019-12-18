@@ -1,0 +1,5 @@
+ApplicationTestCase com.yolocc.smartisantime.ApplicationTest 1
+android::test::ApplicationTestCaseApplication com.yolocc.smartisantime.ApplicationTest 2
+View com.yolocc.smartisantime.SmartisanTime 3
+Paint com.yolocc.smartisantime.SmartisanTime 1
+AppCompatActivity com.yolocc.smartisantime.MainActivity 3

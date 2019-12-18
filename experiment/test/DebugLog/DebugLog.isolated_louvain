@@ -1,0 +1,12 @@
+com.mustafaferhan.debuglog.DebugLog.i 0
+Activity 0
+com.mustafaferhan.debuglog_demo.MainActivity 0
+com.mustafaferhan.debuglog_demo.MainActivity.onCreate 0
+com.mustafaferhan.debuglog.DebugLog.w 1
+com.mustafaferhan.debuglog_demo.MainActivity.onResume 1
+com.mustafaferhan.debuglog.DebugLog.d 2
+com.mustafaferhan.debuglog.DebugLog.v 2
+com.mustafaferhan.debuglog.DebugLog.wtf 2
+com.mustafaferhan.debuglog.DebugLog.e 2
+com.mustafaferhan.debuglog.DebugLog 2
+com.mustafaferhan.debuglog.DebugLog.isDebuggable 2

@@ -1,0 +1,17 @@
+ActionBarActivity com.github.creativepsyco.secondarydex.bigmodule.lib.SecondActivity 3
+ActionBarActivity com.github.creativepsyco.secondarydex.MainActivity 3
+com.github.creativepsyco.secondarydex.MainActivity com.github.creativepsyco.secondarydex.bigmodule.lib.MyLoader 1
+Runnable com.github.creativepsyco.secondarydex.bigmodule.lib.MyLoader 3
+com.github.creativepsyco.secondarydex.MyApp com.github.creativepsyco.secondarydex.plugin.SecondaryDex 1
+com.github.creativepsyco.secondarydex.MainActivity com.github.creativepsyco.secondarydex.MainActivity.onCreate 1
+com.github.creativepsyco.secondarydex.MainActivity.onCreate com.github.creativepsyco.secondarydex.bigmodule.lib.MyLoader.run 1
+com.github.creativepsyco.secondarydex.bigmodule.lib.MyLoader com.github.creativepsyco.secondarydex.bigmodule.lib.MyLoader.run 1
+com.github.creativepsyco.secondarydex.MyApp com.github.creativepsyco.secondarydex.MyApp.onCreate 1
+Application com.github.creativepsyco.secondarydex.MyApp 3
+com.github.creativepsyco.secondarydex.MyApp.onCreate com.github.creativepsyco.secondarydex.plugin.SecondaryDex.loadSecondaryDex 1
+com.github.creativepsyco.secondarydex.plugin.SecondaryDex com.github.creativepsyco.secondarydex.plugin.SecondaryDex.loadSecondaryDex 2
+com.github.creativepsyco.secondarydex.plugin.SecondaryDex.loadSecondaryDex com.github.creativepsyco.secondarydex.plugin.FrameworkHack.appendDexListImplUnderICS 2
+com.github.creativepsyco.secondarydex.plugin.FrameworkHack com.github.creativepsyco.secondarydex.plugin.FrameworkHack.appendDexListImplUnderICS 2
+com.github.creativepsyco.secondarydex.plugin.SecondaryDex com.github.creativepsyco.secondarydex.plugin.FrameworkHack 2
+com.github.creativepsyco.secondarydex.plugin.SecondaryDex.loadSecondaryDex com.github.creativepsyco.secondarydex.plugin.FrameworkHack.appendDexListImplICS 2
+com.github.creativepsyco.secondarydex.plugin.FrameworkHack com.github.creativepsyco.secondarydex.plugin.FrameworkHack.appendDexListImplICS 2

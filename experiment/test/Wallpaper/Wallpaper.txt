@@ -1,0 +1,2 @@
+WallpaperService com.song.wallpaper.CameraLiveWallpaper 3
+AppCompatActivity com.song.wallpaper.MainActivity 3
