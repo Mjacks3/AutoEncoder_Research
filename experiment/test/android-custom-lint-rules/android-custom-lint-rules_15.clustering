@@ -1,0 +1,14 @@
+LintDetectorTest 3
+com.example.google.lint.MainActivityDetectorTest 3
+com.example.lint.checks.SampleCodeDetectorTest 3
+Issue 3
+com.example.google.lint.MainActivityDetector 3
+ResourceXmlDetector 6
+Detector::XmlScanner 6
+IssueRegistry 3
+com.example.google.lint.MyIssueRegistry 3
+Detector 3
+com.example.lint.checks.SampleCodeDetector 3
+UastScanner 3
+com.example.lint.checks.SampleIssueRegistry 3
+XmlScanner 3

@@ -466,7 +466,7 @@ if args.experiment:
 
     
     
-    for num_clusters in range(19,2,-1):
+    for num_clusters in range(19,1,-1):
         if os.path.exists("experiment/"+str(num_clusters)+"/model_final.h5"):
 
             args.weights = "experiment/"+str(num_clusters)+"/model_final.h5"

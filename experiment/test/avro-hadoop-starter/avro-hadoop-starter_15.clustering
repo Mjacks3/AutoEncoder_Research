@@ -1,0 +1,17 @@
+com.miguno.avro.hadoop.TweetCount 3
+com.miguno.avro.hadoop.ExitCode 6
+AvroReducer 3
+com.miguno.avro.hadoop.TweetCountReducer 6
+org::apache::avro::mapred::AvroReducerCharSequence,Integer,PairCharSequence,Integer 3
+org::apache::avro::mapred::AvroMapperTweet,PairCharSequence,Integer 7
+com.miguno.avro.hadoop.TweetCountMapper 9
+AvroMapper 7
+Configured 12
+Tool 12
+com.miguno.avro.hadoop.TweetCountTest 3
+com.miguno.avro.hadoop.TweetCountTest.testTweetCount 3
+ClusterMapReduceTestCase 3
+com.miguno.avro.util.AvroDataComparer.haveIdenticalContents 3
+com.miguno.avro.util.AvroDataComparer 3
+com.miguno.avro.hadoop.TweetCount.run 6
+com.miguno.avro.hadoop.ExitCode.intValue 12

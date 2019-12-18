@@ -1,0 +1,16 @@
+get_file 3
+get_file.get_file 3
+get_file.log_tag 3
+MapString,String 3
+canal.client.CanalClientTest 3
+sync_mongo 3
+sync_mongo.set_data 11
+sync_mongo.Conn 3
+canal.client.CanalClientTest.main 12
+canal.client.rabbitmq.push_rabbitmq 11
+canal.client.rabbitmq 11
+canal.client.redis.push_redis 3
+canal.client.redis 3
+sync_redis 11
+sync_redis.set_data 11
+sync_redis.conn_redis 11

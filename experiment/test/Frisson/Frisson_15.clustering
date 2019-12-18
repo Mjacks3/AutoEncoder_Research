@@ -1,0 +1,15 @@
+View 12
+com.intrusoft.library.FrissonView 12
+RectF 12
+com.intrusoft.library.FrissonView.setRadialGradient 12
+com.intrusoft.library.GradientGenerator 12
+com.intrusoft.library.GradientGenerator.getRadialGradient 7
+com.intrusoft.library.FrissonView.onMeasure 12
+AppCompatActivity 3
+com.intrusoft.funkyheader.app.MainActivity 7
+com.intrusoft.library.FrissonView.FrissonView 6
+com.intrusoft.library.FrissonView.init 6
+com.intrusoft.library.FrissonView.setLinearGradient 12
+com.intrusoft.library.GradientGenerator.getLinearGradient 3
+com.intrusoft.library.FrissonView.setTintColor 2
+com.intrusoft.library.FrissonView.setAutoTint 6

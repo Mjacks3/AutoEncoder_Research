@@ -1,0 +1,16 @@
+com.jkb.vcedittext.VerificationCodeEditText 12
+com.jkb.vcedittext.VerificationAction.OnVerificationCodeChangedListener 12
+com.jkb.vcedittext.VerificationAction 9
+AppCompatEditText 12
+android::support::v7::widget::AppCompatEditText 12
+com.jkb.vercodeedittext.MainActivity 6
+TextWatcher 12
+com.jkb.vcedittext.VerificationCodeEditText.afterTextChanged 2
+com.jkb.vcedittext.VerificationAction.OnVerificationCodeChangedListener.onInputCompleted 7
+com.jkb.vercodeedittext.MainActivity.onCreate 7
+AppCompatActivity 3
+com.jkb.vcedittext.VerificationCodeEditText.setOnVerificationCodeChangedListener 7
+com.jkb.vcedittext.VerificationCodeEditText.onTextChanged 12
+com.jkb.vcedittext.VerificationAction.OnVerificationCodeChangedListener.onVerCodeChanged 6
+com.jkb.vcedittext.VerificationCodeEditText.onTouchEvent 7
+com.jkb.vcedittext.VerificationCodeEditText.showKeyBoard 3

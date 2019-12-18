@@ -1,0 +1,9 @@
+ImageView 12
+com.baoyz.widget.BubbleImageView 12
+Activity 3
+com.baoyz.bubbleimageview.sample.SimpleActivity 3
+com.baoyz.widget.BubbleImageView.onDraw 12
+com.baoyz.widget.BubbleImageView.leftPath 12
+com.baoyz.widget.BubbleImageView.rightPath 12
+com.baoyz.bubbleimageview.sample.ChatListActivity 3
+com.baoyz.bubbleimageview.sample.MainActivity 3
