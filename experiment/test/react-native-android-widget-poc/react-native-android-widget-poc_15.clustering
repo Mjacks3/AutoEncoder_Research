@@ -1,0 +1,13 @@
+ReactContextBaseJavaModule 13
+com.androidwidgetpoc.BackgroundTaskBridge 13
+AppWidgetProvider 13
+com.androidwidgetpoc.WidgetProvider 13
+HeadlessJsTaskService 13
+com.androidwidgetpoc.BackgroundTask 13
+ReactApplication 13
+com.androidwidgetpoc.MainApplication 13
+Application 13
+ReactActivity 13
+com.androidwidgetpoc.MainActivity 13
+ReactPackage 13
+com.androidwidgetpoc.BackgroundTaskBridgePackage 13

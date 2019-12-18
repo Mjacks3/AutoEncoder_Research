@@ -1,0 +1,16 @@
+com.letv.pay.controller.OrderController 4
+com.letv.pay.controller.OrderController.addOrder 4
+com.letv.pay.server.OrderService.addOrder 4
+com.letv.pay.server.OrderService 4
+com.letv.pay.util.IDGenerator 4
+com.letv.pay.util.IDGenerator.genOrderId 1
+com.letv.pay.pojo.Order.setId 4
+com.letv.pay.pojo.Order 4
+com.letv.pay.pojo.Order.setUserId 4
+com.letv.pay.pojo.Order.setPrice 4
+com.letv.pay.pojo.Order.setStatus 4
+ShardingStrategy 2
+com.letv.pay.dao.OrderDao.UserIdShardingStrategy 3
+org::jfaster::mango::sharding::ShardingStrategyInteger,Integer 1
+com.letv.pay.dao.OrderDao.OrderIdShardingStrategy 3
+org::jfaster::mango::sharding::ShardingStrategyString,String 2

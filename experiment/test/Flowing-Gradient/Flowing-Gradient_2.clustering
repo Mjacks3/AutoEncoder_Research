@@ -1,0 +1,16 @@
+AppCompatActivity 0
+com.dynamitechetan.gradientbg.MainActivity 0
+ApplicationTestCase 0
+com.dynamitechetan.gradientbg.ApplicationTest 0
+android::test::ApplicationTestCaseApplication 0
+View 0
+com.dynamitechetan.flowinggradient.FlowingGradient 0
+RelativeLayout 0
+com.dynamitechetan.flowinggradient.FlowingGradientClass 0
+ImageView 0
+AnimationDrawable 0
+LinearLayout 0
+com.dynamitechetan.flowinggradient.FlowingGradientClass.start 0
+com.dynamitechetan.flowinggradient.FlowingGradientClass.setBackgroundResource 1
+com.dynamitechetan.flowinggradient.ApplicationTest 0
+com.dynamitechetan.flowinggradient.FlowingGradientClass.setAlpha 0

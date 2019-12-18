@@ -1,0 +1,17 @@
+travel.ithaka.android.horizontalpickerlib.PickerLayoutManager 13
+travel.ithaka.android.horizontalpickerlib.PickerLayoutManager.setScaleDownDistance 13
+travel.ithaka.android.horizontalpicker.MainActivity.onCreate 13
+travel.ithaka.android.horizontalpicker.MainActivity.getData 13
+travel.ithaka.android.horizontalpicker.MainActivity 13
+travel.ithaka.android.horizontalpickerlib.PickerLayoutManager.setOnScrollStopListener 13
+travel.ithaka.android.horizontalpickerlib.PickerLayoutManager.onScrollStateChanged 13
+travel.ithaka.android.horizontalpickerlib.PickerLayoutManager.onScrollStopListener.selectedView 13
+travel.ithaka.android.horizontalpickerlib.PickerLayoutManager.onScrollStopListener 13
+Adapter 13
+travel.ithaka.android.horizontalpicker.PickerAdapter 1
+RecyclerView::AdapterPickerAdapter.TextVH 13
+AppCompatActivity 13
+RecyclerView 13
+travel.ithaka.android.horizontalpickerlib.PickerLayoutManager.setChangeAlpha 13
+LinearLayoutManager 13
+travel.ithaka.android.horizontalpickerlib.PickerLayoutManager.setScaleDownBy 13

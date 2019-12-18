@@ -1,0 +1,6 @@
+org.springframework.samples.resources.support.GroovyMarkupViewResolverCustomizer 13
+org.springframework.samples.resources.ApplicationProperties 13
+org.springframework.samples.resources.support.GroovyMarkupViewResolverCustomizer.customizeViewResolver 13
+org.springframework.samples.resources.ApplicationProperties.getVersion 13
+WebMvcConfigurerAdapter 13
+org.springframework.samples.resources.WebConfig 13

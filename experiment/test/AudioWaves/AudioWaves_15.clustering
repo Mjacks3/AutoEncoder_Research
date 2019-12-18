@@ -1,0 +1,11 @@
+org.firezenk.audiowaves.Visualizer 13
+org.firezenk.audiowaves.IVisualizer 13
+LinearLayout 13
+AppCompatActivity 13
+org.firezenk.audiowaves.sample.MainActivity 13
+ApplicationTestCase 13
+org.firezenk.audiowaves.sample.ApplicationTest 13
+android::test::ApplicationTestCaseApplication 13
+org.firezenk.audiowaves.Visualizer.Visualizer 13
+org.firezenk.audiowaves.IVisualizer.setGravity 13
+org.firezenk.audiowaves.ApplicationTest 13

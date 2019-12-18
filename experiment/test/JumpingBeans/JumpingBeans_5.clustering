@@ -1,0 +1,12 @@
+net.frakbot.jumpingbeans.demo.MainActivity 4
+net.frakbot.jumpingbeans.JumpingBeans 4
+net.frakbot.jumpingbeans.demo.MainActivity.onResume 4
+AppCompatActivity 4
+net.frakbot.jumpingbeans.JumpingBeans.with 1
+net.frakbot.jumpingbeans.JumpingBeans.Builder.appendJumpingDots 4
+net.frakbot.jumpingbeans.JumpingBeans.Builder 4
+net.frakbot.jumpingbeans.JumpingBeans.Builder.build 4
+net.frakbot.jumpingbeans.JumpingBeans.Builder.makeTextJump 4
+net.frakbot.jumpingbeans.JumpingBeans.Builder.setLoopDuration 4
+net.frakbot.jumpingbeans.demo.MainActivity.onPause 4
+net.frakbot.jumpingbeans.JumpingBeans.stopJumping 4

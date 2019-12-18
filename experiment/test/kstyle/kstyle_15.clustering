@@ -1,0 +1,15 @@
+android::test::ApplicationTestCaseApplication 13
+com.keegan.kstyle.ApplicationTest 13
+ApplicationTestCase 13
+AppCompatActivity 13
+com.keegan.kstyle.AnimationActivity 13
+com.keegan.kstyle.SelectorActivity 13
+View::OnClickListener 13
+com.keegan.kstyle.ShapeActivity 13
+com.keegan.kstyle.RectangleActivity 13
+com.keegan.kstyle.RingActivity 13
+com.keegan.kstyle.OvalActivity 13
+com.keegan.kstyle.LineActivity 13
+com.keegan.kstyle.LayerListActivity 13
+com.keegan.kstyle.MainActivity 13
+OnClickListener 13

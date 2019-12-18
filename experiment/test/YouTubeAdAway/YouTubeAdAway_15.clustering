@@ -1,0 +1,12 @@
+Activity 14
+ma.wanam.youtubeadaway.MainActivity 8
+IXposedHookLoadPackage 13
+ma.wanam.youtubeadaway.Xposed 13
+ma.wanam.youtubeadaway.XChecker 13
+ma.wanam.youtubeadaway.MainActivity.onCreate 13
+ma.wanam.youtubeadaway.XChecker.isEnabled 13
+PackageInfo 13
+ma.wanam.youtubeadaway.utils.Utils 13
+android::os::AsyncTaskClassLoader,Void,Boolean 13
+ma.wanam.youtubeadaway.BFAsync 1
+AsyncTask 13
