@@ -1,0 +1,13 @@
+Application 3
+demo.leakcanary.srain.in.leakcanarydemo.ExampleApplication 10
+demo.leakcanary.srain.in.leakcanarydemo.TestActivity 2
+demo.leakcanary.srain.in.leakcanarydemo.TestActivity.onCreate 10
+Activity 10
+demo.leakcanary.srain.in.leakcanarydemo.TestDataModel.getInstance 2
+demo.leakcanary.srain.in.leakcanarydemo.TestDataModel 10
+demo.leakcanary.srain.in.leakcanarydemo.TestDataModel.setRetainedTextView 2
+ActionBarActivity 10
+demo.leakcanary.srain.in.leakcanarydemo.MainActivity 3
+android::test::ApplicationTestCaseApplication 10
+demo.leakcanary.srain.in.leakcanarydemo.ApplicationTest 10
+ApplicationTestCase 10

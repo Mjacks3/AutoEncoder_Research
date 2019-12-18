@@ -1,0 +1,11 @@
+Exception 0
+com.dpdearing.sandbox.gpsemulator.common.EmulatorCommandException 3
+IsSerializable 0
+com.dpdearing.sandbox.gpsemulator.common.EmulatorConnectionException 3
+EntryPoint 0
+com.dpdearing.sandbox.gpsemulator.client.GpsEmulator 3
+ClickMapHandler 0
+RemoteService 3
+com.dpdearing.sandbox.gpsemulator.common.LocationService 4
+RemoteServiceServlet 0
+com.dpdearing.sandbox.gpsemulator.server.LocationServiceImpl 3

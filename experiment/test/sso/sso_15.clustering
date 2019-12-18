@@ -1,0 +1,2 @@
+WebSecurityConfigurerAdapter 10
+demo.SsoApplication.LoginConfigurer 10

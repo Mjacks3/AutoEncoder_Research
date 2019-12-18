@@ -1,0 +1,10 @@
+MockWebServer 10
+com.jakewharton.espresso.OkHttp3IdlingResourceTest 10
+com.jakewharton.espresso.OkHttp3IdlingResourceTest.nullNameThrows 10
+com.jakewharton.espresso.OkHttp3IdlingResourceTest.nullClientThrows 10
+com.jakewharton.espresso.OkHttp3IdlingResource.create 10
+com.jakewharton.espresso.OkHttp3IdlingResource 10
+com.jakewharton.espresso.OkHttp3IdlingResourceTest.idleNow 10
+com.jakewharton.espresso.OkHttp3IdlingResourceTest.idleCallback 10
+com.jakewharton.espresso.OkHttp3IdlingResourceTest.name 10
+IdlingResource 10

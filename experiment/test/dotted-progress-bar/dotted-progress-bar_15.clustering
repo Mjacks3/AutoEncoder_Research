@@ -1,0 +1,13 @@
+AppCompatActivity 10
+com.trncic.dottedbarsample.MainActivity 10
+com.trncic.library.DottedProgressBar 10
+android::test::ApplicationTestCaseApplication 0
+com.trncic.library.ApplicationTest 10
+ApplicationTestCase 0
+com.trncic.dottedbarsample.MainActivity.startProgress 10
+com.trncic.dottedbarsample.MainActivity.onCreate 10
+com.trncic.library.DottedProgressBar.startProgress 10
+View 10
+com.trncic.dottedbarsample.ApplicationTest 10
+com.trncic.dottedbarsample.MainActivity.stopProgress 10
+com.trncic.library.DottedProgressBar.stopProgress 10

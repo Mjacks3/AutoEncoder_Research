@@ -1,0 +1,12 @@
+WebSecurityConfigurerAdapter 10
+dynamind.oauth2.api.Application.SecurityConfig 10
+dynamind.oauth2.Application.SecurityConfig 10
+dynamind.oauth2.Application.AuthorizationServerConfig 0
+dynamind.oauth2.Application.AuthorizationServerConfig.tokenStore 4
+dynamind.oauth2.Application.AuthorizationServerConfig.configure 4
+AuthorizationServerConfigurerAdapter 4
+dynamind.oauth2.Application.AuthorizationServerConfig.tokenEnhancer 4
+SpringBootServletInitializer 10
+dynamind.oauth2.Application 10
+dynamind.oauth2.api.Application 10
+dynamind.oauth2.client.Application 10

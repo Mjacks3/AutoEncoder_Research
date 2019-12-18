@@ -1,0 +1,13 @@
+FragmentActivity 3
+pl.charmas.android.tagview.example.MainActivity 4
+pl.charmas.android.tagview.example.StaticFragment 10
+pl.charmas.android.tagview.example.StaticFragment.onActivityCreated 10
+Fragment 10
+pl.charmas.android.tagview.TagView.setTags 10
+pl.charmas.android.tagview.TagView 10
+TextView 10
+pl.charmas.android.tagview.TagView.Tag 10
+pl.charmas.android.tagview.TagView.Tag.getTag 10
+pl.charmas.android.tagview.TagView.Tag.getColor 10
+ListFragment 3
+pl.charmas.android.tagview.example.ListExampleFragment 0

@@ -1,0 +1,13 @@
+AppCompatActivity 10
+alexjlockwood.nestedscrolling.MainActivity 10
+RecyclerView 10
+alexjlockwood.nestedscrolling.MaxHeightRecyclerView 10
+alexjlockwood.nestedscrolling.NestedScrollView2 10
+alexjlockwood.nestedscrolling.NestedScrollView2.onNestedScrollAccepted 10
+NestedScrollView 10
+NestedScrollingParent2 10
+alexjlockwood.nestedscrolling.CustomNestedScrollView2 10
+alexjlockwood.nestedscrolling.NestedScrollView2.onStartNestedScroll 10
+alexjlockwood.nestedscrolling.NestedScrollView2.onStopNestedScroll 10
+alexjlockwood.nestedscrolling.NestedScrollView2.onNestedScroll 10
+alexjlockwood.nestedscrolling.NestedScrollView2.onNestedPreScroll 10

@@ -1,0 +1,10 @@
+AppCompatActivity 10
+com.google.firebase.udacity.friendlychat.MainActivity 10
+android::widget::ArrayAdapterFriendlyMessage 10
+com.google.firebase.udacity.friendlychat.MessageAdapter 10
+ArrayAdapter 10
+com.google.firebase.udacity.friendlychat.FriendlyMessage 10
+com.google.firebase.udacity.friendlychat.MessageAdapter.getView 10
+com.google.firebase.udacity.friendlychat.FriendlyMessage.getPhotoUrl 3
+com.google.firebase.udacity.friendlychat.FriendlyMessage.getText 3
+com.google.firebase.udacity.friendlychat.FriendlyMessage.getName 10

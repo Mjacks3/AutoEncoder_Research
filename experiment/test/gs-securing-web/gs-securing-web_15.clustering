@@ -1,0 +1,4 @@
+WebSecurityConfigurerAdapter 10
+hello.WebSecurityConfig 10
+WebMvcConfigurer 10
+hello.MvcConfig 10

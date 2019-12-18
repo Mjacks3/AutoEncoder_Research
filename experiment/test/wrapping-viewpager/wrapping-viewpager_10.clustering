@@ -1,0 +1,15 @@
+AppCompatActivity 4
+xyz.santeri.wvp.sample.MainActivity 4
+xyz.santeri.wvp.WrappingFragmentPagerAdapter 1
+xyz.santeri.wvp.WrappingFragmentPagerAdapter.setPrimaryItem 5
+FragmentPagerAdapter 5
+xyz.santeri.wvp.WrappingFragmentStatePagerAdapter.setPrimaryItem 7
+xyz.santeri.wvp.WrappingViewPager.onPageChanged 7
+xyz.santeri.wvp.WrappingViewPager 6
+ViewPager 7
+xyz.santeri.wvp.WrappingFragmentStatePagerAdapter 4
+Animation::AnimationListener 7
+Fragment 5
+xyz.santeri.wvp.sample.ContentFragment 6
+FragmentStatePagerAdapter 6
+AnimationListener 6

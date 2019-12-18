@@ -1,0 +1,13 @@
+com.acme.tictactoe.model.TicTacToeTests 10
+com.acme.tictactoe.model.TicTacToeTests.test3inRowDiagonalFromTopLeftToBottomForO 10
+com.acme.tictactoe.model.TicTacToeTests.test3inRowAcrossTopForX 10
+com.acme.tictactoe.model.Board.mark 10
+com.acme.tictactoe.model.Board 10
+com.acme.tictactoe.model.Cell.setValue 4
+com.acme.tictactoe.model.Cell 10
+com.acme.tictactoe.model.Board.getWinner 10
+com.acme.tictactoe.model.Cell.getValue 4
+AppCompatActivity 10
+com.acme.tictactoe.controller.TicTacToeActivity 3
+com.acme.tictactoe.model.Board.Board 3
+com.acme.tictactoe.model.Board.restart 3

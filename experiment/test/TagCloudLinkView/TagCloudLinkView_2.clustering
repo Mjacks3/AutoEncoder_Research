@@ -1,0 +1,12 @@
+RelativeLayout 0
+com.ns.developer.tagview.widget.TagCloudLinkView 0
+com.ns.developer.tagview.widget.TagCloudLinkView.drawTags 0
+com.ns.developer.tagview.widget.TagCloudLinkView.remove 0
+com.ns.developer.tagview.widget.TagCloudLinkView.TagCloudLinkView 0
+com.ns.developer.tagview.entity.Tag.setId 0
+com.ns.developer.tagview.entity.Tag 0
+com.ns.developer.tagview.entity.Tag.getText 0
+com.ns.developer.tagview.widget.TagCloudLinkView.OnTagSelectListener 0
+com.ns.developer.tagview.widget.TagCloudLinkView.OnTagSelectListener.onTagSelected 0
+com.ns.developer.tagview.widget.TagCloudLinkView.OnTagDeleteListener.onTagDeleted 0
+com.ns.developer.tagview.widget.TagCloudLinkView.OnTagDeleteListener 0

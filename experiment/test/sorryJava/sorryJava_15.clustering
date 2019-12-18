@@ -1,0 +1,6 @@
+com.lzh.service.QcloudService 10
+com.lzh.controller.GifController 10
+com.lzh.service.GifService 10
+com.lzh.SorryJavaApplicationTests 10
+com.lzh.controller.GifController.renderGifPath 10
+com.lzh.service.QcloudService.upload 10

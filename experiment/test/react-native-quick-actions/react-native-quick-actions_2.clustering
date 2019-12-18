@@ -1,0 +1,15 @@
+NSObject 0
+RCTBridgeModule 0
+RNQuickActionManager.h 0
+React/RCTBridgeModule.h 1
+RNQuickAction/RNQuickAction/RNQuickActionManager.h 0
+ReactPackage 0
+com.reactNativeQuickActions.AppShortcutsPackage 0
++[RNQuickActionManageronQuickActionPress:completionHandler:] 0
+RNQuickAction 0
+RNQuickAction/RNQuickAction/RNQuickActionManager.m 0
+React/RCTBridge.h 0
+React/RCTConvert.h 0
+React/RCTEventDispatcher.h 0
+React/RCTUtils.h 0
+RNQuickActionManager 0

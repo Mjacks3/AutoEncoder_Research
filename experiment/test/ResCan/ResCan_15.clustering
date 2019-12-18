@@ -1,0 +1,9 @@
+JLabel 10
+Webcam 10
+VideoCapture 10
+Voice 10
+Webcam.main 10
+Webcam.listAllVoices 10
+Webcam.doMagic 10
+Webcam.showResult 10
+Webcam.toBufferedImage 10

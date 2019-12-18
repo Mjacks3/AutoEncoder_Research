@@ -1,0 +1,15 @@
+Runnable 10
+com.hnpolice.xiaoke.carspeedcontrol.view.SpeedControlView 10
+com.hnpolice.xiaoke.carspeedcontrol.ui.SpeedControlActivity 10
+View 10
+Paint 10
+RectF 10
+com.hnpolice.xiaoke.carspeedcontrol.ui.SpeedControlActivity.onStop 10
+AppCompatActivity 10
+com.hnpolice.xiaoke.carspeedcontrol.view.SpeedControlView.run 10
+com.hnpolice.xiaoke.carspeedcontrol.view.SpeedControlView.setSpeed 10
+com.hnpolice.xiaoke.carspeedcontrol.ui.SpeedControlActivity.onResume 10
+com.hnpolice.xiaoke.carspeedcontrol.view.SpeedControlView.setStart 10
+com.hnpolice.xiaoke.carspeedcontrol.test.MainActivity 10
+com.hnpolice.xiaoke.carspeedcontrol.ui.SpeedControlActivity.onCreate 10
+com.hnpolice.xiaoke.carspeedcontrol.view.SpeedControlView.setType 10

@@ -1,0 +1,16 @@
+android::test::ApplicationTestCaseApplication 10
+com.clock.daemon.ApplicationTest 10
+ApplicationTestCase 10
+View::OnClickListener 10
+com.clock.daemon.MainActivity 10
+AppCompatActivity 10
+OnClickListener 10
+Service 10
+com.clock.daemon.service.GrayService 10
+com.clock.daemon.service.BackgroundService 10
+com.clock.daemon.service.GrayService.GrayInnerService 10
+com.clock.daemon.receiver.WakeReceiver.WakeGrayInnerService 10
+com.clock.daemon.receiver.WakeReceiver.WakeNotifyService 10
+com.clock.daemon.service.WhiteService 10
+BroadcastReceiver 10
+com.clock.daemon.receiver.WakeReceiver 10

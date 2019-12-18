@@ -1,0 +1,9 @@
+com.moust.cordova.videoplayer.VideoPlayer 10
+com.moust.cordova.videoplayer.VideoPlayer.execute 10
+OnErrorListener 10
+OnPreparedListener 10
+OnCompletionListener 10
+CordovaPlugin 10
+OnDismissListener 10
+com.moust.cordova.videoplayer.VideoPlayer.stripFileProtocol 10
+com.moust.cordova.videoplayer.VideoPlayer.openVideoDialog 10

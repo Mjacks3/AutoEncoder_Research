@@ -1,0 +1,11 @@
+com.imooc.appoint.dto.AppointExecution 10
+com.imooc.appoint.dto.AppointExecution.AppointExecution 10
+com.imooc.appoint.enums.AppointStateEnum 10
+com.imooc.appoint.enums.AppointStateEnum.getState 10
+com.imooc.appoint.enums.AppointStateEnum.getStateInfo 10
+RuntimeException 10
+com.imooc.appoint.exception.AppointException 10
+com.imooc.appoint.exception.RepeatAppointException 10
+com.imooc.appoint.service.BookService 10
+com.imooc.appoint.service.Impl.BookServiceImpl 10
+com.imooc.appoint.exception.NoNumberException 10

@@ -1,0 +1,9 @@
+ListActivity 6
+com.melnykov.letterimageview.MainActivity 7
+com.melnykov.letterimageview.LetterImageView 7
+com.melnykov.letterimageview.LetterImageView.onDraw 6
+ImageView 7
+com.melnykov.letterimageview.LetterImageView.isOval 6
+com.melnykov.letterimageview.MainActivity.onCreate 7
+com.melnykov.letterimageview.LetterImageView.setOval 6
+com.melnykov.letterimageview.LetterImageView.setLetter 6

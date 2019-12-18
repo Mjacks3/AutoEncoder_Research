@@ -1,0 +1,10 @@
+com.example.android.flavor.AndroidFlavorAdapter 5
+com.example.android.flavor.AndroidFlavor 5
+com.example.android.flavor.AndroidFlavorAdapter.getView 5
+com.example.android.flavor.AndroidFlavor.getVersionNumber 5
+com.example.android.flavor.AndroidFlavor.getImageResourceId 5
+ArrayAdapter 7
+android::widget::ArrayAdapterAndroidFlavor 6
+AppCompatActivity 3
+com.example.android.flavor.MainActivity 8
+com.example.android.flavor.AndroidFlavor.getVersionName 5

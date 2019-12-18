@@ -1,0 +1,11 @@
+View 10
+com.yuqirong.searchbar.SearchBarView 10
+com.yuqirong.searchbar.MainActivity 10
+AppBarLayout::OnOffsetChangedListener 10
+AppCompatActivity 3
+com.yuqirong.searchbar.MainActivity.onOffsetChanged 10
+com.yuqirong.searchbar.SearchBarView.startClose 10
+com.yuqirong.searchbar.SearchBarView.isClose 10
+com.yuqirong.searchbar.SearchBarView.startOpen 10
+com.yuqirong.searchbar.SearchBarView.isOpen 10
+OnOffsetChangedListener 10

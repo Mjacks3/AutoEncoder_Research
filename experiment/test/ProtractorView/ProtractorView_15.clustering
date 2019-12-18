@@ -1,0 +1,12 @@
+AppCompatActivity 10
+com.goodiebag.protractorview.example.MainActivity 10
+View 10
+com.goodiebag.protractorview.ProtractorView 10
+com.goodiebag.protractorview.ProtractorView.onMeasure 10
+com.goodiebag.protractorview.ProtractorView.setTouchInside 10
+com.goodiebag.protractorview.ProtractorView.isEnabled 5
+com.goodiebag.protractorview.ProtractorView.OnProtractorViewChangeListener 10
+com.goodiebag.protractorview.ProtractorView.onTouchEvent 10
+com.goodiebag.protractorview.ProtractorView.OnProtractorViewChangeListener.onStartTrackingTouch 10
+com.goodiebag.protractorview.ProtractorView.OnProtractorViewChangeListener.onStopTrackingTouch 10
+com.goodiebag.protractorview.ProtractorView.OnProtractorViewChangeListener.onProgressChanged 10
