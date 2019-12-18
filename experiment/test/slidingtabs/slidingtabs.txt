@@ -1,0 +1,3 @@
+HorizontalScrollView com.nispok.views.SlidingTabLayout 3
+ApplicationTestCase com.nispok.slidingtabs.ApplicationTest 1
+android::test::ApplicationTestCaseApplication com.nispok.slidingtabs.ApplicationTest 2

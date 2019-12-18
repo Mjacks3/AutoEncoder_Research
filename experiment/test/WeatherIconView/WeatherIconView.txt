@@ -1,0 +1,2 @@
+TextView com.github.pwittchen.weathericonview.WeatherIconView 2
+Activity com.github.pwittchen.weathericonview.app.MyActivity 3

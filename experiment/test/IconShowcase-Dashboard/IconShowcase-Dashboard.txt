@@ -1,0 +1,3 @@
+ContentProvider jahirfiquitiva.apps.iconshowcase.demo.zooper.TemplateProvider 3
+AppCompatActivity jahirfiquitiva.apps.iconshowcase.demo.ApplyShortcut 3
+LaunchActivity jahirfiquitiva.apps.iconshowcase.demo.HomeActivity 3

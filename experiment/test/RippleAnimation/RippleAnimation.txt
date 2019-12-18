@@ -1,0 +1,2 @@
+View com.wuyr.rippleanimationtest.MainActivity 1
+AppCompatActivity com.wuyr.rippleanimationtest.MainActivity 3

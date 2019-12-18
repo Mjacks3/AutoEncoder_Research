@@ -1,0 +1,5 @@
+demo.SsoApplication 0
+demo.SsoApplication.LoginErrors 1
+WebSecurityConfigurerAdapter 2
+demo.SsoApplication.LoginConfigurer 2
+demo.ApplicationTests 3
