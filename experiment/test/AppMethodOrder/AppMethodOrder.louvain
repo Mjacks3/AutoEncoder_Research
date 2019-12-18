@@ -1,0 +1,14 @@
+com.zjw.appmethodorder.BaseActivity 0
+AppCompatActivity 0
+OnClickListener 0
+com.zjw.appmethodorder.MainActivity 1
+View::OnClickListener 1
+com.zjw.appmethodorder.SecondActivity 2
+com.zjw.appmethodorder.SecondActivity.click 2
+com.zjw.appmethodorder.SecondActivity.finish 2
+com.zjw.appmethodorder.ExampleUnitTest 3
+TextView 4
+com.zjw.appmethodorder.MyTextView 4
+Application 5
+com.zjw.appmethodorder.MyApplication 5
+com.zjw.appmethodorder.ExampleInstrumentedTest 6

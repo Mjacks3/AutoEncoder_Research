@@ -1,0 +1,2 @@
+ActionBarActivity com.jiahuan.popseekbar.sample.MainActivity 3
+View com.jiahuan.popseekbar.PopSeekBarView 2

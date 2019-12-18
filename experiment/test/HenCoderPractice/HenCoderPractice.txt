@@ -1,0 +1,9 @@
+AppCompatActivity com.sunnyxibei.hencoderpractice.MainActivity 3
+com.sunnyxibei.hencoderpractice.MainActivity com.sunnyxibei.hencoderpractice.MainActivity.onOptionsItemSelected 1
+com.sunnyxibei.hencoderpractice.MapView com.sunnyxibei.hencoderpractice.MapView.setBitmap 1
+com.sunnyxibei.hencoderpractice.MainActivity.onOptionsItemSelected com.sunnyxibei.hencoderpractice.MapView.setBitmap 1
+View com.sunnyxibei.hencoderpractice.MapView 3
+com.sunnyxibei.hencoderpractice.MainActivity com.sunnyxibei.hencoderpractice.MapView 2
+com.sunnyxibei.hencoderpractice.MainActivity com.sunnyxibei.hencoderpractice.MainActivity.onCreate 1
+com.sunnyxibei.hencoderpractice.MainActivity.onCreate com.sunnyxibei.hencoderpractice.MapView.reset 1
+com.sunnyxibei.hencoderpractice.MapView com.sunnyxibei.hencoderpractice.MapView.reset 1

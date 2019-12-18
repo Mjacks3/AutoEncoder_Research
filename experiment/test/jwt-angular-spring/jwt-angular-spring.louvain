@@ -1,0 +1,5 @@
+GenericFilterBean 0
+com.nibado.example.jwtangspr.JwtFilter 0
+com.nibado.example.jwtangspr.WebApplication 1
+com.nibado.example.jwtangspr.UserController 2
+com.nibado.example.jwtangspr.ApiController 3

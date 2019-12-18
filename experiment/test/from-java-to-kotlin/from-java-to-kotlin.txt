@@ -1,0 +1,3 @@
+Developer Developer.equals 1
+Developer.equals Developer.Developer 1
+Developer Developer.Developer 1

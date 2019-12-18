@@ -435,7 +435,7 @@ if args.experiment:
     
     #End Graph Embedding
     """
-
+    """
 
     #Training
     models = [2,5,10,15]
@@ -465,30 +465,8 @@ if args.experiment:
     #edge_list_loc = "datasets/demo_1/acmeair/acmeair.txt"
     """
 
-    
-    cluster_qValue_map = { 
-                        "2" : [],
-                        "3" : [],
-                        "4" : [],
-                        "5" : [],
-                        "6" : [],
-                        "7" : [],
-                        "8" : [],
-                        "9" : [],
-                        "10": [],
-                        "11": [],
-                        "12": [],
-                        "13": [],
-                        "14": [],
-                        "15": [],
-                        "16": [],
-                        "17": [],
-                        "18": [],
-                        "19": []
-                        }
-    
-    
-    for num_clusters in range(2,20,1):
+
+    for num_clusters in range(2,20):
         if os.path.exists("experiment/"+str(num_clusters)+"/model_final.h5"):
 
             args.weights = "experiment/"+str(num_clusters)+"/model_final.h5"
@@ -496,39 +474,24 @@ if args.experiment:
     
             for r, d, f in os.walk("experiment/test"): # for each file 
                 #print (r)
-                if len(f) >= 4 and r.split("/")[-1] +  "_" + str(args.num_clusters)+ ".clustering" not in f  : 
-                    print(num_clusters)
+                if len(f) >= 4 and r.split("/")[-1] +  "_" + str(args.num_clusters)+ ".clustering" not in f  :       
                     for file_name in f: 
                         if ".txt" in file_name:
                             edge_list = r+"/"+file_name
                         elif ".embedding" in file_name:
                             args.test_dataset = r
 
-                    #print(args.test_dataset)
+                    print(args.test_dataset)
                     test(args) # Calculations will be done on files separately
     
+
+
     
-    
-                modq = calculate_modq(clusters,edge_list=edge_list)
-                print("\n\n MOD Q: "+ str(modq)) 
-                cluster_qValue_map[str(num_clusters)].append(modq)
-
-
-        x =  [num_clusters for num in range(len(cluster_qValue_map[str(num_clusters)]))]
-
-        plt.plot(x,cluster_qValue_map[str(num_clusters)] , 'bo')
-        plt.xlabel("Number Clusters")
-        plt.ylabel("Modularity Q Value")
-
-    plt.show()
-
-
-
     #clusters = test(args)
 
     #modq = calculate_modq(clusters,edge_list=edge_list_loc)
     #print("\n\n MOD Q: "+ str(modq)) 
-    """
+
     
     #End Test
 

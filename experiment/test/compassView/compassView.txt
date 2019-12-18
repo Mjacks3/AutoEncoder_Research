@@ -1,0 +1,4 @@
+View com.wingsofts.threed.CompassView 3
+AppCompatActivity com.wingsofts.threed.MainActivity 3
+android::test::ApplicationTestCaseApplication com.wingsofts.threed.ApplicationTest 2
+ApplicationTestCase com.wingsofts.threed.ApplicationTest 1

@@ -1,0 +1,2 @@
+AppCompatActivity com.borjabravo.readmoretextviewsample.MainActivity 3
+TextView com.borjabravo.readmoretextview.ReadMoreTextView 2

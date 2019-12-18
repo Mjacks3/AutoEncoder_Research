@@ -1,0 +1,9 @@
+AppCompatActivity scrollingimageview.android.q42.com.sampleapp.MainActivity 3
+com.q42.android.scrollingimageview.ScrollingImageView com.q42.android.scrollingimageview.ScrollingImageViewBitmapLoader 1
+com.q42.android.scrollingimageview.ScrollingImageView com.q42.android.scrollingimageview.ScrollingImageView.ScrollingImageView 1
+View com.q42.android.scrollingimageview.ScrollingImageView 3
+com.q42.android.scrollingimageview.ScrollingImageViewBitmapLoader com.q42.android.scrollingimageview.ScrollingImageView 1
+com.q42.android.scrollingimageview.ScrollingImageViewBitmapLoader com.q42.android.scrollingimageview.ScrollingImageViewBitmapLoader.loadBitmap 1
+com.q42.android.scrollingimageview.ScrollingImageView.ScrollingImageView com.q42.android.scrollingimageview.ScrollingImageViewBitmapLoader.loadBitmap 1
+com.q42.android.scrollingimageview.ScrollingImageView.ScrollingImageView com.q42.android.scrollingimageview.ScrollingImageView.start 1
+com.q42.android.scrollingimageview.ScrollingImageView com.q42.android.scrollingimageview.ScrollingImageView.start 1
