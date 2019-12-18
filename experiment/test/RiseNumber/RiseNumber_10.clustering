@@ -1,0 +1,15 @@
+Activity 6
+com.gitonway.lee.risenumberlib.MainActivity 2
+com.gitonway.lee.risenumber.lib.RiseNumberBase 8
+com.gitonway.lee.risenumber.lib.RiseNumberTextView 8
+TextView 2
+android::test::ApplicationTestCaseApplication 2
+com.gitonway.lee.risenumber.lib.ApplicationTest 3
+ApplicationTestCase 2
+com.gitonway.lee.risenumber.lib.RiseNumberTextView.EndListener 8
+com.gitonway.lee.risenumberlib.ApplicationTest 3
+com.gitonway.lee.risenumberlib.MainActivity.onCreate 8
+com.gitonway.lee.risenumber.lib.RiseNumberTextView.start 3
+com.gitonway.lee.risenumber.lib.RiseNumberTextView.isRunning 1
+com.gitonway.lee.risenumber.lib.RiseNumberTextView.EndListener.onEndFinish 2
+com.gitonway.lee.risenumber.lib.RiseNumberTextView.withNumber 5

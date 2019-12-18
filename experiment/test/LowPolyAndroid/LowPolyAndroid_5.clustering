@@ -1,0 +1,9 @@
+com.zzhoujay.lowpolyandroid.MainActivity 1
+com.zzhoujay.lowpolyandroid.MainActivity.onCreate 3
+AppCompatActivity 3
+com.zzhoujay.lowpoly.LowPoly.generate 1
+com.zzhoujay.lowpoly.LowPoly 3
+ApplicationTestCase 3
+com.zzhoujay.lowpoly.ApplicationTest 3
+android::test::ApplicationTestCaseApplication 3
+com.zzhoujay.lowpolyandroid.ApplicationTest 3

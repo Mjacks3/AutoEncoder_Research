@@ -1,0 +1,11 @@
+ListView 1
+com.accurme.wangyiyunbottomsheetdialog.BottomSheetDialogListView 4
+com.accurme.wangyiyunbottomsheetdialog.MainActivity 8
+AppCompatActivity 1
+AppCompatDialog 8
+com.accurme.wangyiyunbottomsheetdialog.SpringBackBottomSheetDialog 2
+com.accurme.wangyiyunbottomsheetdialog.MainActivity.onCreate 8
+com.accurme.wangyiyunbottomsheetdialog.SpringBackBottomSheetDialog.setContentView 2
+com.accurme.wangyiyunbottomsheetdialog.BottomSheetDialogListView.bindBottomSheetDialog 4
+com.accurme.wangyiyunbottomsheetdialog.SpringBackBottomSheetDialog.addSpringBackDisLimit 2
+com.accurme.wangyiyunbottomsheetdialog.BottomSheetDialogListView.setCoordinatorDisallow 4

@@ -1,0 +1,10 @@
+ryancheng.example.progressbar.CircularProgressDrawable 1
+ryancheng.example.progressbar.CircularProgressDrawable.stop 3
+Drawable 1
+Animatable 3
+ryancheng.example.progressbar.CircularProgressDrawable.isRunning 1
+ryancheng.example.progressbar.CircularProgressDrawable.start 3
+View 1
+ryancheng.example.progressbar.CircularProgress 1
+Activity 1
+ryancheng.example.progressbar.MainActivity 3

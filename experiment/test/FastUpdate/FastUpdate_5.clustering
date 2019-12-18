@@ -1,0 +1,15 @@
+feature.Callback 3
+customview.ConfirmDialog 3
+Dialog 3
+util.UpdateAppUtils 3
+BroadcastReceiver 3
+util.UpdateAppReceiver 3
+AppCompatActivity 3
+com.example.teprinciple.updateappdemo.MainActivity 3
+com.example.teprinciple.updateappdemo.MainActivity.kotlin 3
+util.UpdateAppUtils.from 3
+customview.ConfirmDialog.ConfirmDialog 3
+feature.Callback.callback 3
+util.UpdateAppUtils.update 1
+util.UpdateAppUtils.isWifiConnected 3
+customview.ConfirmDialog.setContent 3

@@ -1,0 +1,5 @@
+UI 8
+org.strangeway.electronvaadin.app.MainUI 8
+BootstrapListener 8
+org.strangeway.electronvaadin.server.AppServlet 8
+VaadinServlet 8

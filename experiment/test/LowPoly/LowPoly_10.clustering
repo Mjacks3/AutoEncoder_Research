@@ -1,0 +1,10 @@
+android::test::ApplicationTestCaseApplication 8
+com.uniquestudio.lowpolyandroid.ApplicationTest 1
+ApplicationTestCase 8
+AppCompatActivity 2
+com.uniquestudio.lowpolyandroid.MainActivity 2
+com.uniquestudio.lowpoly.LowPoly 3
+com.uniquestudio.lowpoly.LowPoly.generate 3
+com.uniquestudio.lowpolyandroid.MainActivity.onCreate 3
+com.uniquestudio.lowpoly.LowPoly.getTriangles 2
+com.uniquestudio.lowpoly.ApplicationTest 1

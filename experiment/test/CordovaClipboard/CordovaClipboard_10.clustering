@@ -1,0 +1,12 @@
+CDVPlugin 8
+CDVClipboard 8
+CordovaPlugin 8
+com.verso.cordova.clipboard.Clipboard 8
+src/ios/CDVClipboard.h 1
+src/ios/CDVClipboard.m 1
+Foundation/Foundation.h 6
+CDVClipboard.h 1
+Cordova/CDVPlugin.h 6
+Cordova/CDVPluginResult.h 8
+BaseCommand 8
+Cordova.Extension.Commands.Clipboard 8

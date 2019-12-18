@@ -1,0 +1,13 @@
+Application 3
+com.bulong.demo.MyApplication 3
+AppCompatActivity 3
+com.bulong.demo.activity.RudeActivity 3
+com.bulong.rudeness.RudenessScreenHelper 3
+com.bulong.rudeness.RudenessScreenHelper.inactivate 3
+com.bulong.rudeness.RudenessScreenHelper.restoreDensity 3
+com.bulong.demo.activity.MainActivity 3
+com.bulong.demo.MyApplication.onCreate 1
+com.bulong.rudeness.RudenessScreenHelper.activate 3
+com.bulong.rudeness.RudenessScreenHelper.RudenessScreenHelper 3
+com.bulong.rudeness.RudenessScreenHelper.resetDensity 1
+com.bulong.demo.activity.NormalActivity 3
