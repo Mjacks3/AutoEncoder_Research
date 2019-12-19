@@ -1,0 +1,17 @@
+com.example.slidingfinish.MainActivity 4
+com.example.slidingfinish.SwipeBackActivity 4
+com.example.view.SwipeBackLayout 4
+com.example.slidingfinish.AbsActivity 4
+Activity 4
+OnClickListener 4
+com.example.slidingfinish.NormalActivity 4
+com.example.slidingfinish.ScrollActivity 4
+com.example.slidingfinish.ViewPagerActivity 4
+com.example.slidingfinish.MainActivity.onClick 4
+com.example.slidingfinish.SwipeBackActivity.startActivity 4
+com.example.slidingfinish.AbsActivity.onCreate 4
+FrameLayout 4
+PagerAdapter 3
+com.example.slidingfinish.ViewPagerActivity.Adapter 4
+com.example.slidingfinish.SwipeBackActivity.onCreate 4
+com.example.view.SwipeBackLayout.attachToActivity 4

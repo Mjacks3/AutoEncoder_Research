@@ -1,0 +1,15 @@
+in.srain.cube.clipboardcompat.demo.MainActivity 0
+in.srain.cube.clipboardcompat.ClipboardManagerCompat 4
+in.srain.cube.clipboardcompat.ClipboardManagerCompatImplBase 4
+in.srain.cube.clipboardcompat.ClipboardManagerCompatImplHC 4
+in.srain.cube.clipboardcompat.ClipboardManagerCompatImplHCBefore 4
+ApplicationTestCase 0
+in.srain.cube.clipboardcompat.ApplicationTest 0
+android::test::ApplicationTestCaseApplication 0
+Activity 0
+in.srain.cube.clipboardcompat.ClipboardManagerCompatFactory 0
+in.srain.cube.clipboardcompat.clipboardcompat.ApplicationTest 0
+in.srain.cube.clipboardcompat.demo.MainActivity.onCreate 4
+in.srain.cube.clipboardcompat.ClipboardManagerCompatFactory.create 0
+in.srain.cube.clipboardcompat.ClipboardManagerCompat.addPrimaryClipChangedListener 0
+in.srain.cube.clipboardcompat.ClipboardManagerCompat.getText 0
