@@ -1,0 +1,6 @@
+
+Groundtruth (handcrafted) data from 
+
+- Acemair: https://github.com/blueperf/acmeair-monolithic-java
+- DayTrader: https://github.com/WASdev/sample.daytrader7
+- PlantsByWebsphere: https://github.com/WASdev/sample.plantsbywebsphere

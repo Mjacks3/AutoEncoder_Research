@@ -1,0 +1,808 @@
+{
+    "micro_detail_partition_by_natural_seam": {
+        "nodes": [
+            {
+                "id": "ResetDBBean",
+                "group": 0,
+                "group_label": "Core Business Function",
+                "filepath": "Class, src/com/ibm/websphere/samples/pbw/bean/ResetDBBean.java",
+                "semantics": [
+                    "init"
+                ]
+            },
+            {
+                "id": "OrderInfo",
+                "group": 0,
+                "group_label": "Core Business Function",
+                "filepath": "Class, src/com/ibm/websphere/samples/pbw/war/OrderInfo.java",
+                "semantics": [
+                    "shoppingcart-checkout",
+                    "shoppingcart-submitorder"
+                ]
+            },
+            {
+                "id": "Inventory",
+                "group": 0,
+                "group_label": "Core Business Function",
+                "filepath": "Class, src/com/ibm/websphere/samples/pbw/jpa/Inventory.java",
+                "semantics": [
+                    "shoppingcart-recalculate",
+                    "category-browse-details",
+                    "shoppingcart-submitorder",
+                    "category-addtocart",
+                    "init",
+                    "category-browse",
+                    "shoppingcart-checkout"
+                ]
+            },
+            {
+                "id": "ValidatePasswords",
+                "group": 1,
+                "group_label": "Utility",
+                "filepath": "Class, src/com/ibm/websphere/samples/pbw/war/ValidatePasswords.java",
+                "semantics": []
+            },
+            {
+                "id": "Supplier",
+                "group": 0,
+                "group_label": "Core Business Function",
+                "filepath": "Class, src/com/ibm/websphere/samples/pbw/jpa/Supplier.java",
+                "semantics": [
+                    "init"
+                ]
+            },
+            {
+                "id": "EMailMessage",
+                "group": 0,
+                "group_label": "Core Business Function",
+                "filepath": "Class, src/com/ibm/websphere/samples/pbw/bean/EMailMessage.java",
+                "semantics": [
+                    "shoppingcart-submitorder"
+                ]
+            },
+            {
+                "id": "BackOrderMgr",
+                "group": 0,
+                "group_label": "Core Business Function",
+                "filepath": "Class, src/com/ibm/websphere/samples/pbw/bean/BackOrderMgr.java",
+                "semantics": []
+            },
+            {
+                "id": "PopulateDBBean",
+                "group": 0,
+                "group_label": "Core Business Function",
+                "filepath": "Class, src/com/ibm/websphere/samples/pbw/bean/PopulateDBBean.java",
+                "semantics": [
+                    "init"
+                ]
+            },
+            {
+                "id": "OrderItem",
+                "group": 0,
+                "group_label": "Core Business Function",
+                "filepath": "Class, src/com/ibm/websphere/samples/pbw/jpa/OrderItem.java",
+                "semantics": [
+                    "shoppingcart-submitorder",
+                    "init"
+                ]
+            },
+            {
+                "id": "PK",
+                "group": 0,
+                "group_label": "Core Business Function",
+                "filepath": "Class, src/com/ibm/websphere/samples/pbw/jpa/OrderItem.java",
+                "semantics": []
+            },
+            {
+                "id": "SuppliersBean",
+                "group": 0,
+                "group_label": "Core Business Function",
+                "filepath": "Class, src/com/ibm/websphere/samples/pbw/bean/SuppliersBean.java",
+                "semantics": []
+            },
+            {
+                "id": "MailAction",
+                "group": 0,
+                "group_label": "Core Business Function",
+                "filepath": "Class, src/com/ibm/websphere/samples/pbw/war/MailAction.java",
+                "semantics": []
+            },
+            {
+                "id": "Populate",
+                "group": 0,
+                "group_label": "Core Business Function",
+                "filepath": "Class, src/com/ibm/websphere/samples/pbw/war/Populate.java",
+                "semantics": []
+            },
+            {
+                "id": "MailerAppException",
+                "group": 0,
+                "group_label": "Core Business Function",
+                "filepath": "Class, src/com/ibm/websphere/samples/pbw/bean/MailerAppException.java",
+                "semantics": [
+                    "shoppingcart-submitorder"
+                ]
+            },
+            {
+                "id": "ShoppingCartBean",
+                "group": 0,
+                "group_label": "Core Business Function",
+                "filepath": "Class, src/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java",
+                "semantics": [
+                    "shoppingcart-checkout",
+                    "shoppingcart-recalculate",
+                    "shoppingcart-submitorder",
+                    "category-addtocart"
+                ]
+            },
+            {
+                "id": "AccountServlet",
+                "group": 0,
+                "group_label": "Core Business Function",
+                "filepath": "Class, src/com/ibm/websphere/samples/pbw/war/AccountServlet.java",
+                "semantics": []
+            },
+            {
+                "id": "Util",
+                "group": 0,
+                "group_label": "Core Business Function",
+                "filepath": "Class, src/com/ibm/websphere/samples/pbw/utils/Util.java",
+                "semantics": [
+                    "category-browse-details",
+                    "shoppingcart-submitorder",
+                    "init",
+                    "category-browse",
+                    "shoppingcart-checkout"
+                ]
+            },
+            {
+                "id": "CustomerMgr",
+                "group": 0,
+                "group_label": "Core Business Function",
+                "filepath": "Class, src/com/ibm/websphere/samples/pbw/bean/CustomerMgr.java",
+                "semantics": [
+                    "login-login"
+                ]
+            },
+            {
+                "id": "OrderKey",
+                "group": 1,
+                "group_label": "Utility",
+                "filepath": "Class, src/com/ibm/websphere/samples/pbw/jpa/OrderKey.java",
+                "semantics": []
+            },
+            {
+                "id": "NoSupplierException",
+                "group": 1,
+                "group_label": "Utility",
+                "filepath": "Class, src/com/ibm/websphere/samples/pbw/bean/NoSupplierException.java",
+                "semantics": []
+            },
+            {
+                "id": "HelpBean",
+                "group": 0,
+                "group_label": "Core Business Function",
+                "filepath": "Class, src/com/ibm/websphere/samples/pbw/war/HelpBean.java",
+                "semantics": []
+            },
+            {
+                "id": "Customer",
+                "group": 0,
+                "group_label": "Core Business Function",
+                "filepath": "Class, src/com/ibm/websphere/samples/pbw/jpa/Customer.java",
+                "semantics": [
+                    "login-register",
+                    "login-login",
+                    "shoppingcart-submitorder",
+                    "init",
+                    "shoppingcart-checkout"
+                ]
+            },
+            {
+                "id": "MailerBean",
+                "group": 0,
+                "group_label": "Core Business Function",
+                "filepath": "Class, src/com/ibm/websphere/samples/pbw/bean/MailerBean.java",
+                "semantics": [
+                    "shoppingcart-submitorder"
+                ]
+            },
+            {
+                "id": "ValidatorUtils",
+                "group": 1,
+                "group_label": "Utility",
+                "filepath": "Class, src/com/ibm/websphere/samples/pbw/war/ValidatorUtils.java",
+                "semantics": []
+            },
+            {
+                "id": "CatalogMgr",
+                "group": 0,
+                "group_label": "Core Business Function",
+                "filepath": "Class, src/com/ibm/websphere/samples/pbw/bean/CatalogMgr.java",
+                "semantics": [
+                    "init",
+                    "category-browse",
+                    "category-browse-details"
+                ]
+            },
+            {
+                "id": "ImageServlet",
+                "group": 0,
+                "group_label": "Core Business Function",
+                "filepath": "Class, src/com/ibm/websphere/samples/pbw/war/ImageServlet.java",
+                "semantics": [
+                    "category-browse",
+                    "category-browse-details"
+                ]
+            },
+            {
+                "id": "AccountBean",
+                "group": 0,
+                "group_label": "Core Business Function",
+                "filepath": "Class, src/com/ibm/websphere/samples/pbw/war/AccountBean.java",
+                "semantics": [
+                    "shoppingcart-checkout",
+                    "login-register",
+                    "login-login",
+                    "shoppingcart-submitorder"
+                ]
+            },
+            {
+                "id": "ListProperties",
+                "group": 0,
+                "group_label": "Core Business Function",
+                "filepath": "Class, src/com/ibm/websphere/samples/pbw/utils/ListProperties.java",
+                "semantics": [
+                    "init"
+                ]
+            },
+            {
+                "id": "LoginInfo",
+                "group": 0,
+                "group_label": "Core Business Function",
+                "filepath": "Class, src/com/ibm/websphere/samples/pbw/war/LoginInfo.java",
+                "semantics": [
+                    "login-register",
+                    "login-login"
+                ]
+            },
+            {
+                "id": "Order",
+                "group": 0,
+                "group_label": "Core Business Function",
+                "filepath": "Class, src/com/ibm/websphere/samples/pbw/jpa/Order.java",
+                "semantics": [
+                    "shoppingcart-submitorder",
+                    "init"
+                ]
+            },
+            {
+                "id": "ShoppingCartContent",
+                "group": 1,
+                "group_label": "Utility",
+                "filepath": "Class, src/com/ibm/websphere/samples/pbw/bean/ShoppingCartContent.java",
+                "semantics": []
+            },
+            {
+                "id": "AdminServlet",
+                "group": 0,
+                "group_label": "Core Business Function",
+                "filepath": "Class, src/com/ibm/websphere/samples/pbw/war/AdminServlet.java",
+                "semantics": []
+            },
+            {
+                "id": "ShoppingBean",
+                "group": 0,
+                "group_label": "Core Business Function",
+                "filepath": "Class, src/com/ibm/websphere/samples/pbw/war/ShoppingBean.java",
+                "semantics": [
+                    "shoppingcart-recalculate",
+                    "category-browse-details",
+                    "category-addtocart",
+                    "category-browse",
+                    "shoppingcart-checkout"
+                ]
+            },
+            {
+                "id": "ProductBean",
+                "group": 0,
+                "group_label": "Core Business Function",
+                "filepath": "Class, src/com/ibm/websphere/samples/pbw/war/ProductBean.java",
+                "semantics": [
+                    "category-addtocart",
+                    "category-browse",
+                    "category-browse-details"
+                ]
+            },
+            {
+                "id": "ShoppingItem",
+                "group": 0,
+                "group_label": "Core Business Function",
+                "filepath": "Class, src/com/ibm/websphere/samples/pbw/war/ShoppingItem.java",
+                "semantics": [
+                    "shoppingcart-checkout",
+                    "shoppingcart-recalculate",
+                    "shoppingcart-submitorder",
+                    "category-addtocart"
+                ]
+            },
+            {
+                "id": "BackOrder",
+                "group": 0,
+                "group_label": "Core Business Function",
+                "filepath": "Class, src/com/ibm/websphere/samples/pbw/jpa/BackOrder.java",
+                "semantics": [
+                    "init"
+                ]
+            },
+            {
+                "id": "BackOrderItem",
+                "group": 0,
+                "group_label": "Core Business Function",
+                "filepath": "Class, src/com/ibm/websphere/samples/pbw/war/BackOrderItem.java",
+                "semantics": []
+            },
+            {
+                "id": "Core Business Function",
+                "group": 0,
+                "group_label": "Core Business Function",
+                "filepath": "Cluster",
+                "semantics": [
+                    "init",
+                    "shoppingcart-checkout",
+                    "shoppingcart-submitorder",
+                    "shoppingcart-recalculate",
+                    "category-browse-details",
+                    "category-addtocart",
+                    "category-browse",
+                    "login-login",
+                    "login-register"
+                ]
+            },
+            {
+                "id": "Utility",
+                "group": 1,
+                "group_label": "Utility",
+                "filepath": "Cluster",
+                "semantics": []
+            }
+        ],
+        "links": [
+            {
+                "source": "ImageServlet",
+                "target": "Util",
+                "value": 5.51085950651685
+            },
+            {
+                "source": "ImageServlet",
+                "target": "CatalogMgr",
+                "value": 5.51085950651685
+            },
+            {
+                "source": "CatalogMgr",
+                "target": "Inventory",
+                "value": 6.8888779583328805
+            },
+            {
+                "source": "AccountBean",
+                "target": "LoginInfo",
+                "value": 3.302585092994046
+            },
+            {
+                "source": "AccountBean",
+                "target": "Customer",
+                "value": 4.637586159726386
+            },
+            {
+                "source": "ShoppingBean",
+                "target": "CatalogMgr",
+                "value": 3.5649493574615367
+            },
+            {
+                "source": "ShoppingBean",
+                "target": "Inventory",
+                "value": 5.477336814478207
+            },
+            {
+                "source": "ShoppingBean",
+                "target": "ProductBean",
+                "value": 5.532599493153256
+            },
+            {
+                "source": "ProductBean",
+                "target": "Inventory",
+                "value": 3.8903717578961645
+            },
+            {
+                "source": "ProductBean",
+                "target": "Util",
+                "value": 3.5649493574615367
+            },
+            {
+                "source": "ShoppingItem",
+                "target": "Inventory",
+                "value": 4.367295829986475
+            },
+            {
+                "source": "AccountBean",
+                "target": "OrderInfo",
+                "value": 4.871201010907891
+            },
+            {
+                "source": "ShoppingCartBean",
+                "target": "Inventory",
+                "value": 3.9444389791664403
+            },
+            {
+                "source": "OrderInfo",
+                "target": "Util",
+                "value": 2.386294361119891
+            },
+            {
+                "source": "PopulateDBBean",
+                "target": "Util",
+                "value": 1.0
+            },
+            {
+                "source": "PopulateDBBean",
+                "target": "ResetDBBean",
+                "value": 1.0
+            },
+            {
+                "source": "ResetDBBean",
+                "target": "Util",
+                "value": 7.683360945766275
+            },
+            {
+                "source": "Util",
+                "target": "ListProperties",
+                "value": 2.791759469228055
+            },
+            {
+                "source": "ListProperties",
+                "target": "Util",
+                "value": 6.062595033026967
+            },
+            {
+                "source": "ResetDBBean",
+                "target": "Inventory",
+                "value": 7.4692503167957724
+            },
+            {
+                "source": "ResetDBBean",
+                "target": "CatalogMgr",
+                "value": 5.454347296253507
+            },
+            {
+                "source": "CatalogMgr",
+                "target": "Util",
+                "value": 4.871201010907891
+            },
+            {
+                "source": "CatalogMgr",
+                "target": "BackOrder",
+                "value": 1.0
+            },
+            {
+                "source": "CatalogMgr",
+                "target": "Supplier",
+                "value": 1.0
+            },
+            {
+                "source": "CatalogMgr",
+                "target": "Customer",
+                "value": 1.0
+            },
+            {
+                "source": "CatalogMgr",
+                "target": "Order",
+                "value": 1.6931471805599454
+            },
+            {
+                "source": "CatalogMgr",
+                "target": "OrderItem",
+                "value": 2.386294361119891
+            },
+            {
+                "source": "OrderItem",
+                "target": "Util",
+                "value": 3.0794415416798357
+            },
+            {
+                "source": "ResetDBBean",
+                "target": "Customer",
+                "value": 3.302585092994046
+            },
+            {
+                "source": "Util",
+                "target": "Supplier",
+                "value": 3.0794415416798357
+            },
+            {
+                "source": "ShoppingBean",
+                "target": "ShoppingCartBean",
+                "value": 2.9459101490553135
+            },
+            {
+                "source": "ShoppingBean",
+                "target": "ShoppingItem",
+                "value": 2.09861228866811
+            },
+            {
+                "source": "AccountBean",
+                "target": "CustomerMgr",
+                "value": 1.6931471805599454
+            },
+            {
+                "source": "CustomerMgr",
+                "target": "Customer",
+                "value": 1.0
+            },
+            {
+                "source": "AccountBean",
+                "target": "ShoppingCartBean",
+                "value": 1.6931471805599454
+            },
+            {
+                "source": "AccountBean",
+                "target": "Util",
+                "value": 2.6094379124341005
+            },
+            {
+                "source": "AccountBean",
+                "target": "Inventory",
+                "value": 2.791759469228055
+            },
+            {
+                "source": "AccountBean",
+                "target": "OrderItem",
+                "value": 3.772588722239781
+            },
+            {
+                "source": "OrderItem",
+                "target": "Inventory",
+                "value": 3.6390573296152584
+            },
+            {
+                "source": "AccountBean",
+                "target": "Order",
+                "value": 4.9889840465642745
+            },
+            {
+                "source": "OrderItem",
+                "target": "Order",
+                "value": 2.791759469228055
+            },
+            {
+                "source": "OrderInfo",
+                "target": "Order",
+                "value": 4.465735902799727
+            },
+            {
+                "source": "AccountBean",
+                "target": "MailerBean",
+                "value": 1.6931471805599454
+            },
+            {
+                "source": "MailerBean",
+                "target": "Util",
+                "value": 3.302585092994046
+            },
+            {
+                "source": "MailerBean",
+                "target": "Order",
+                "value": 3.6390573296152584
+            },
+            {
+                "source": "MailerBean",
+                "target": "Customer",
+                "value": 1.6931471805599454
+            },
+            {
+                "source": "MailerBean",
+                "target": "EMailMessage",
+                "value": 3.995732273553991
+            },
+            {
+                "source": "MailerBean",
+                "target": "MailerAppException",
+                "value": 1.6931471805599454
+            },
+            {
+                "source": "MailerBean",
+                "target": "ShoppingCartBean",
+                "value": 1.6931471805599454
+            },
+            {
+                "source": "AccountBean",
+                "target": "ShoppingBean",
+                "value": 1.0
+            },
+            {
+                "source": "Core Business Function",
+                "target": "ResetDBBean",
+                "value": 1.6487212707001282
+            },
+            {
+                "source": "Core Business Function",
+                "target": "OrderInfo",
+                "value": 1.6487212707001282
+            },
+            {
+                "source": "Core Business Function",
+                "target": "Inventory",
+                "value": 1.6487212707001282
+            },
+            {
+                "source": "Utility",
+                "target": "ValidatePasswords",
+                "value": 1.6487212707001282
+            },
+            {
+                "source": "Core Business Function",
+                "target": "Supplier",
+                "value": 1.6487212707001282
+            },
+            {
+                "source": "Core Business Function",
+                "target": "EMailMessage",
+                "value": 1.6487212707001282
+            },
+            {
+                "source": "Core Business Function",
+                "target": "BackOrderMgr",
+                "value": 1.6487212707001282
+            },
+            {
+                "source": "Core Business Function",
+                "target": "PopulateDBBean",
+                "value": 1.6487212707001282
+            },
+            {
+                "source": "Core Business Function",
+                "target": "OrderItem",
+                "value": 1.6487212707001282
+            },
+            {
+                "source": "Core Business Function",
+                "target": "PK",
+                "value": 1.6487212707001282
+            },
+            {
+                "source": "Core Business Function",
+                "target": "SuppliersBean",
+                "value": 1.6487212707001282
+            },
+            {
+                "source": "Core Business Function",
+                "target": "MailAction",
+                "value": 1.6487212707001282
+            },
+            {
+                "source": "Core Business Function",
+                "target": "Populate",
+                "value": 1.6487212707001282
+            },
+            {
+                "source": "Core Business Function",
+                "target": "MailerAppException",
+                "value": 1.6487212707001282
+            },
+            {
+                "source": "Core Business Function",
+                "target": "ShoppingCartBean",
+                "value": 1.6487212707001282
+            },
+            {
+                "source": "Core Business Function",
+                "target": "AccountServlet",
+                "value": 1.6487212707001282
+            },
+            {
+                "source": "Core Business Function",
+                "target": "Util",
+                "value": 1.6487212707001282
+            },
+            {
+                "source": "Core Business Function",
+                "target": "CustomerMgr",
+                "value": 1.6487212707001282
+            },
+            {
+                "source": "Utility",
+                "target": "OrderKey",
+                "value": 1.6487212707001282
+            },
+            {
+                "source": "Utility",
+                "target": "NoSupplierException",
+                "value": 1.6487212707001282
+            },
+            {
+                "source": "Core Business Function",
+                "target": "HelpBean",
+                "value": 1.6487212707001282
+            },
+            {
+                "source": "Core Business Function",
+                "target": "Customer",
+                "value": 1.6487212707001282
+            },
+            {
+                "source": "Core Business Function",
+                "target": "MailerBean",
+                "value": 1.6487212707001282
+            },
+            {
+                "source": "Utility",
+                "target": "ValidatorUtils",
+                "value": 1.6487212707001282
+            },
+            {
+                "source": "Core Business Function",
+                "target": "CatalogMgr",
+                "value": 1.6487212707001282
+            },
+            {
+                "source": "Core Business Function",
+                "target": "ImageServlet",
+                "value": 1.6487212707001282
+            },
+            {
+                "source": "Core Business Function",
+                "target": "AccountBean",
+                "value": 1.6487212707001282
+            },
+            {
+                "source": "Core Business Function",
+                "target": "ListProperties",
+                "value": 1.6487212707001282
+            },
+            {
+                "source": "Core Business Function",
+                "target": "LoginInfo",
+                "value": 1.6487212707001282
+            },
+            {
+                "source": "Core Business Function",
+                "target": "Order",
+                "value": 1.6487212707001282
+            },
+            {
+                "source": "Utility",
+                "target": "ShoppingCartContent",
+                "value": 1.6487212707001282
+            },
+            {
+                "source": "Core Business Function",
+                "target": "AdminServlet",
+                "value": 1.6487212707001282
+            },
+            {
+                "source": "Core Business Function",
+                "target": "ShoppingBean",
+                "value": 1.6487212707001282
+            },
+            {
+                "source": "Core Business Function",
+                "target": "ProductBean",
+                "value": 1.6487212707001282
+            },
+            {
+                "source": "Core Business Function",
+                "target": "ShoppingItem",
+                "value": 1.6487212707001282
+            },
+            {
+                "source": "Core Business Function",
+                "target": "BackOrder",
+                "value": 1.6487212707001282
+            },
+            {
+                "source": "Core Business Function",
+                "target": "BackOrderItem",
+                "value": 1.6487212707001282
+            }
+        ]
+    }
+}

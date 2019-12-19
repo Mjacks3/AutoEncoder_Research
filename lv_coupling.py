@@ -108,10 +108,15 @@ for r, d, f in os.walk(source_dir):
 
 
 
+full_set_minus_zeros = []
+for item in data:
+    full_set_minus_zeros.append([i for i in item if float(i) != 0.0])
+
+
 fig = plt.figure()
 
 ax = fig.add_subplot(111)
-ax.boxplot(data[0:])
+ax.boxplot(full_set_minus_zeros[0:])
 plt.xticks([1,2], ['Louvain Clusters', 'AutoEncoder Clusters'])
 
 ax.set_title('AutoEncoder Coupling Analysis ~ 750 Repository Dataset')

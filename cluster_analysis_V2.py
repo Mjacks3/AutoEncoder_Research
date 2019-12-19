@@ -17,7 +17,7 @@ data = [louvain, autoencoder]
 for r, d, f in os.walk(source_dir):
     qvalue_file = r+"/"+r.split("/")[-1] +".qvalues"
 
-    if os.path.exists(r+"/"+r.split("/")[-1] +".louvain"):
+    if os.path.exists(r+"/"+r.split("/")[-1] +".isolated_louvain"):
         file_cluster_count = set([])
         with open(r+"/"+r.split("/")[-1] +".louvain") as fi:
             all_lines = fi.read().splitlines()

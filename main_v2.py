@@ -426,15 +426,18 @@ if __name__ == "__main__":
     print('+' * 75)
 
 if args.experiment:
-    """
+
     #Graph Embedding
+    """
     
-    args.dp_loc = "experiment/test"
+    
+    args.dp_loc = "xperiment/train"
     args.wk_params = ["weight", "int"]
     graph_embedding(args)
     
     #End Graph Embedding
     """
+    
 
 
     #Training
@@ -486,8 +489,8 @@ if args.experiment:
                         "18": [],
                         "19": []
                         }
-    
     """
+
     for num_clusters in range(2,20,1):
         if os.path.exists("experiment/"+str(num_clusters)+"/model_final.h5"):
 
@@ -506,8 +509,9 @@ if args.experiment:
 
                     #print(args.test_dataset)
                     test(args) # Calculations will be done on files separately
-    
     """
+    
+    
     
                 modq = calculate_modq(clusters,edge_list=edge_list)
                 print("\n\n MOD Q: "+ str(modq)) 

@@ -107,15 +107,18 @@ for r, d, f in os.walk(source_dir):
         
 
 fig = plt.figure()
+full_set_minus_zeros = []
+for item in data:
+    full_set_minus_zeros.append([i for i in item if float(i) != 0.0])
 
 ax = fig.add_subplot(111)
-ax.boxplot(data[0:])
+ax.boxplot(full_set_minus_zeros[0:])
 plt.xticks([1,2], ['Louvain Clusters', 'AutoEncoder Clusters'])
 
-ax.set_title('AutoEncoder Deoupling Analysis ~ 750 Repository Dataset')
+ax.set_title('AutoEncoder Decoupling Analysis ~ 750 Repository Dataset')
 ax.set_xlabel('Generation Method')
 ax.set_ylabel('Coupling Value')
-#plt.ylim(0, 20) 
+plt.ylim(-.02, .3) 
 
 plt.show()
 

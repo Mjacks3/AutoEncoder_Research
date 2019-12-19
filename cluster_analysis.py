@@ -35,14 +35,14 @@ full_set = [louvain, clus_2,clus_3,clus_4,clus_5,clus_6,clus_7,clus_8,clus_9,clu
 
 for r, d, f in os.walk(source_dir):
     for a_file in f:
-        if ".louvain" in a_file or ".clustering" in a_file:
+        if ".isolated_louvain" in a_file or ".clustering" in a_file:
             file_cluster_count = set([])
             with open(r+'/'+ a_file) as fi:
                 all_lines = fi.read().splitlines()
                 for  line in all_lines:
                     file_cluster_count.add(line.split()[-1])
 
-            if ".louvain" in a_file:
+            if ".isolated_louvain" in a_file:
                 louvain.append(len(file_cluster_count))
 
             elif "_2.clustering" in a_file:
@@ -110,7 +110,7 @@ fig = plt.figure()
 ax = fig.add_subplot(111)
 ax.boxplot(full_set)
 plt.xticks([1,2, 3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19], ['Louvain','2-Cluster', '3-Cluster ', '4-Cluster','5-Cluster','6-Cluster','7-Cluster','8-Cluster ','9-Cluster','10-Cluster','11-Cluster','12-Cluster','13-Cluster','14-Cluster','15-Cluster','16-Cluster','17-Cluster','18-Cluster','19-Cluster'], rotation='vertical')
-ax.set_title('Microservice Cluster Analysis V1 for  750 Repository DataSet')
+ax.set_title('Microservice Cluster Analysis  for  750 Repository DataSet')
 ax.set_xlabel('Generation Method')
 ax.set_ylabel('Number of Clusters Generated')
 plt.ylim(0, 20) 

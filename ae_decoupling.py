@@ -37,7 +37,7 @@ for r, d, f in os.walk(source_dir):
     with open(edge_list_file) as fi:
         edge_list = fi.read().splitlines()
     for a_file in f:
-        if "louvain" in a_file or "clustering" in a_file:
+        if "isolated_louvain" in a_file or "clustering" in a_file:
             
                 with open(r+'/'+ a_file) as fi:
                     clusters = fi.read().splitlines()
@@ -133,14 +133,19 @@ print(full_set)
 
 fig = plt.figure()
 
+full_set_minus_zeros = []
+for item in full_set:
+    full_set_minus_zeros.append([i for i in item if float(i) != 0.0])
+
+
 ax = fig.add_subplot(111)
-ax.boxplot(full_set[0:])
+ax.boxplot(full_set_minus_zeros[0:])
 plt.xticks([1,2, 3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19], ['Louvain', '2-Cluster', '3-Cluster ', '4-Cluster','5-Cluster','6-Cluster','7-Cluster','8-Cluster ','9-Cluster','10-Cluster','11-Cluster','12-Cluster','13-Cluster','14-Cluster','15-Cluster','16-Cluster','17-Cluster','18-Cluster','19-Cluster'], rotation='vertical')
 
-ax.set_title('AutoEncoder Coupling Analysis ~ 750 Repository Dataset')
+ax.set_title('AutoEncoder De-coupling Analysis ~ 750 Repository Dataset')
 ax.set_xlabel('N_Cluster Size')
 ax.set_ylabel('Coupling Value')
-#plt.ylim(0, 20) 
+plt.ylim(-.02, .3) 
 
 plt.show()
 
