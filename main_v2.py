@@ -128,13 +128,30 @@ def train(args):
         model.autoencoder.load_weights(args.pretrained_weights)
     else:  
         pretrain_optimizer = SGD(1.0, 0.9)
-        model.pretrain(x, y = None, optimizer=pretrain_optimizer, epochs=args.pretrain_epochs, batch_size=args.batch_size,
-                       save_dir=args.save_dir, verbose=args.verbose, aug_pretrain=args.aug_pretrain)
-  
+        i_epoch = 0
+        
+        for epochs_this_iteration in range(0,510,10):
+            temp_save_dir = args.save_dir+ "/"+ str(epochs_this_iteration)
+            print(temp_save_dir)
+
+            if not os.path.exists(temp_save_dir):
+                os.makedirs(temp_save_dir)
+
+            for r, d, f in os.walk(temp_save_dir):
+                print(f)
+                if len(f) == 0:
+                    
+                    model.pretrain(x, y = None, optimizer=pretrain_optimizer, epochs=epochs_this_iteration - i_epoch, batch_size=args.batch_size,
+                                save_dir=temp_save_dir, verbose=args.verbose, aug_pretrain=args.aug_pretrain)
+                    #Then fit
+                    model.fit(x, y = None,  maxiter=args.maxiter, batch_size=args.batch_size, update_interval=args.update_interval,
+                                    save_dir=temp_save_dir, aug_cluster=args.aug_cluster)
+                    i_epoch = epochs_this_iteration
+                    
 
     # clustering
-    y_pred = model.fit(x, y = None,  maxiter=args.maxiter, batch_size=args.batch_size, update_interval=args.update_interval,
-                       save_dir=args.save_dir, aug_cluster=args.aug_cluster)
+    #y_pred = model.fit(x, y = None,  maxiter=args.maxiter, batch_size=args.batch_size, update_interval=args.update_interval,
+    #                   save_dir=args.save_dir, aug_cluster=args.aug_cluster)
     
     return 0
 
@@ -171,189 +188,6 @@ def test(args):
     return 0
     
 
-def calculate_modq(clusters, edge_list='' ):
-    #cluster_pairs='/home/mjacks3/monize/tahdith/datasets/train/Java.git/Java.git.txt.clusters'
-    if not os.path.exists(edge_list):
-        print("Cannot Find Edge List. Exiting")
-        return 0
-
-    #Assemble Mappings for formula calculations
-    node_partition_mapping = {}
-    partion_node_counting = {}
-
-    for pair in clusters:
-        node_partion = pair.split()
-        node_partition_mapping[node_partion[0]] = node_partion[1]
-
-    for a in set(node_partition_mapping.values()):
-        partion_node_counting[a] = 0
-        for b in node_partition_mapping.items():
-            if str(b[1]) == str(a) :
-                partion_node_counting[a] += 1
-
-    #Calculate M_Norm, Sum of weights in graph
-    m_norm = 0
-
-    with open(edge_list) as f:
-        for edge in f:
-            m_norm += 1
-
-    #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-    #Modularity Q Calculation
-    #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-    modQ = 0 
-
-    for partition in partion_node_counting.keys():
-        internal = 0 
-        incident = 0
-        with open(edge_list) as f:
-            for edge in f:
-                source_dest = edge.split()
-
-                if node_partition_mapping[source_dest[0]] == str(partition) and \
-                node_partition_mapping[source_dest[1]] == str(partition):
-                    internal += 1
-                    incident += 1
-
-                elif node_partition_mapping[source_dest[0]] == str(partition) or \
-                node_partition_mapping[source_dest[1]] == str(partition):
-
-                    incident += 1
-
-        modQ += ( (internal/(2.0*m_norm)) -   (incident/(2.0*m_norm))**2)
-
-    print("Modularity Q Value")
-    print(modQ)
-
-    return modQ
-
-
-def calculate_metrics(clusters, edge_list='' ):
-    #cluster_pairs='/home/mjacks3/monize/tahdith/datasets/train/Java.git/Java.git.txt.clusters'
-    if not os.path.exists(edge_list):
-        print("Cannot Find Edge List. Exiting")
-        return 0
-
-    #Assemble Mappings for formula calculations
-    node_partition_mapping = {}
-    partion_node_counting = {}
-
-    for pair in clusters:
-        node_partion = pair.split()
-        node_partition_mapping[node_partion[0]] = node_partion[1]
-
-    for a in set(node_partition_mapping.values()):
-        partion_node_counting[a] = 0
-        for b in node_partition_mapping.items():
-            if str(b[1]) == str(a) :
-                partion_node_counting[a] += 1
-
-    #Calculate M_Norm, Sum of weights in graph
-    m_norm = 0
-
-    with open(edge_list) as f:
-        for edge in f:
-            m_norm += 1
-
-    #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-    #Modularity Q Calculation
-    #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-    modQ = 0 
-
-    for partition in partion_node_counting.keys():
-        internal = 0 
-        incident = 0
-        with open(edge_list) as f:
-            for edge in f:
-                source_dest = edge.split()
-
-                if node_partition_mapping[source_dest[0]] == str(partition) and \
-                node_partition_mapping[source_dest[1]] == str(partition):
-                    internal += 1
-                    incident += 1
-
-                elif node_partition_mapping[source_dest[0]] == str(partition) or \
-                node_partition_mapping[source_dest[1]] == str(partition):
-
-                    incident += 1
-
-        modQ += ( (internal/(2.0*m_norm)) -   (incident/(2.0*m_norm))**2)
-
-    print("Modularity Q Value")
-    print(modQ)
-    """
-
-
-
-    for partition_a in partion_node_counting.keys():
-        for partition_b in partion_node_counting.keys():
-            if partition_a == partition_b:
-
-                
-                actual_edges =  0 
-                possible_edges =   (partion_node_counting[partition_a] - 1) * partion_node_counting[partition_b]
-
-                with open(edge_list) as f:
-                        for edge in f:
-                            source_dest = edge.split()
-
-                            if source_dest[0] not in node_partition_mapping:
-                                #print("unmapped node: " , source_dest[0])
-                                pass #A bug if hit;  each node should be mapped
-
-                            elif source_dest[1] not in node_partition_mapping:
-                                #print("unmapped node: " , source_dest[1])
-                                pass #A bug if hit;  each node should be mapped
-
-
-                            elif (str(node_partition_mapping[source_dest[0]]) == partition_a and \
-                                str(node_partition_mapping[source_dest[1]]) == partition_b):
-
-                                actual_edges += 1
-                #print(partition_a + " to " + partition_b)
-                #print(str(actual_edges)+ "/" + str(possible_edges))
-                #print()
-
-
-
-                
-
-            else:
-                #print(partition_a+" "  partition_b " ", end="")
-                actual_edges =  0 
-                possible_edges =  2* partion_node_counting[partition_a] * partion_node_counting[partition_b]
-
-                with open(edge_list) as f:
-                        for edge in f:
-                            source_dest = edge.split()
-
-                            if source_dest[0] not in node_partition_mapping:
-                                #print("unmapped node: " , source_dest[0])
-                                pass #A bug if hit;  each node should be mapped
-
-                            elif source_dest[1] not in node_partition_mapping:
-                                #print("unmapped node: " , source_dest[1])
-                                pass #A bug if hit;  each node should be mapped
-
-
-                            elif (str(node_partition_mapping[source_dest[0]]) == partition_a and \
-                                str(node_partition_mapping[source_dest[1]]) == partition_b)  or \
-                                (str(node_partition_mapping[source_dest[0]]) == partition_b and \
-                                str(node_partition_mapping[source_dest[1]]) == partition_a):
-
-                                actual_edges += 1
-                #print(partition_a + " to " + partition_b)
-                #print(str(actual_edges)+ "/" + str(possible_edges))
-                #print()
-    """
-                
-    #print(partion_node_counting)  
-
-    #plt.plot([10], [modQ], 'ro')
-    #plt.show()
-
 
 
 if __name__ == "__main__":
@@ -362,11 +196,6 @@ if __name__ == "__main__":
 
     parser = argparse.ArgumentParser(description='main')
 
-
-
-
-
-           
 
     # Parameters for pretraining
     parser.add_argument('--training', action='store_true', help="Training")
@@ -449,9 +278,9 @@ if args.experiment:
 
         print("NUM CLUSTERS THIS ITR: " + str (args.num_clusters))
         
-        #if not os.path.exists(args.save_dir):
-        #    os.makedirs(args.save_dir)
-        #train(args)
+        if not os.path.exists(args.save_dir):
+            os.makedirs(args.save_dir)
+        train(args)
     
     #End Training
     
@@ -511,26 +340,6 @@ if args.experiment:
                     test(args) # Calculations will be done on files separately
     
     
-    
-                modq = calculate_modq(clusters,edge_list=edge_list)
-                print("\n\n MOD Q: "+ str(modq)) 
-                cluster_qValue_map[str(num_clusters)].append(modq)
-
-
-        x =  [num_clusters for num in range(len(cluster_qValue_map[str(num_clusters)]))]
-
-        plt.plot(x,cluster_qValue_map[str(num_clusters)] , 'bo')
-        plt.xlabel("Number Clusters")
-        plt.ylabel("Modularity Q Value")
-
-    plt.show()
-
-
-
-    #clusters = test(args)
-
-    #modq = calculate_modq(clusters,edge_list=edge_list_loc)
-    #print("\n\n MOD Q: "+ str(modq)) 
     """
     
     #End Test
