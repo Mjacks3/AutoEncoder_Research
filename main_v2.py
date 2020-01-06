@@ -441,18 +441,18 @@ if args.experiment:
 
 
     #Training
-    """
-
-    for num in range(5, 6):
+    
+    models = [5,10]
+    for num in models:
         args.num_clusters = int(num)
         args.save_dir = "experiment/" + str(args.num_clusters)
 
         print("NUM CLUSTERS THIS ITR: " + str (args.num_clusters))
         
-        if not os.path.exists(args.save_dir):
-            os.makedirs(args.save_dir)
-        train(args)
-    """
+        #if not os.path.exists(args.save_dir):
+        #    os.makedirs(args.save_dir)
+        #train(args)
+    
     #End Training
     
     
@@ -489,7 +489,7 @@ if args.experiment:
                         "18": [],
                         "19": []
                         }
-    """
+
 
     for num_clusters in range(2,20,1):
         if os.path.exists("experiment/"+str(num_clusters)+"/model_final.h5"):
@@ -509,7 +509,6 @@ if args.experiment:
 
                     #print(args.test_dataset)
                     test(args) # Calculations will be done on files separately
-    """
     
     
     

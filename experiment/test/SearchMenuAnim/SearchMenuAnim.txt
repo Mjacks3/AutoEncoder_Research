@@ -1,2 +1,0 @@
-Activity com.netease.kongnan.searchmenuanim.MainActivity 3
-android::test::ApplicationTestCaseApplication com.netease.kongnan.searchmenuanim.ApplicationTest 2

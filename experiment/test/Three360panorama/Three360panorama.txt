@@ -1,9 +1,0 @@
-AppCompatActivity com.zph.three360panorama.WebViewActivity 3
-AppCompatActivity com.zph.three360panorama.OpenGLActivity 3
-AppCompatActivity com.zph.three360panorama.MainActivity 2
-Intent com.zph.three360panorama.MainActivity 1
-Button com.zph.three360panorama.MainActivity 1
-View::OnClickListener com.zph.three360panorama.MainActivity 2
-AppCompatActivity com.zph.three360panorama.GoogleVRActivity 3
-AppCompatActivity OnClickListener 1
-Application com.zph.three360panorama.APPAplication 3
