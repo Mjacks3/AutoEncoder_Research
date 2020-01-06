@@ -139,14 +139,14 @@ def train(args):
 
             for r, d, f in os.walk(temp_save_dir):
                 print(f)
-                if len(f) == 0:
+                if len(f)  < 4:
                     
                     model.pretrain(x, y = None, optimizer=pretrain_optimizer, epochs=epochs_this_iteration - i_epoch, batch_size=args.batch_size,
                                 save_dir=temp_save_dir, verbose=args.verbose, aug_pretrain=args.aug_pretrain)
                     #Then fit
                     model.fit(x, y = None,  maxiter=args.maxiter, batch_size=args.batch_size, update_interval=args.update_interval,
                                     save_dir=temp_save_dir, aug_cluster=args.aug_cluster)
-                    i_epoch = epochs_this_iteration
+            i_epoch = epochs_this_iteration
                     
 
     # clustering
