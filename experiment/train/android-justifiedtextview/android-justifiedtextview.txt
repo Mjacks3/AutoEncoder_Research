@@ -1,8 +1,0 @@
-me.biubiubiu.justifytext.TextActivity me.biubiubiu.justifytext.TextActivity.onCreate 1
-Activity me.biubiubiu.justifytext.TextActivity 3
-me.biubiubiu.justifytext.TextActivity.onCreate me.biubiubiu.justifytext.MyScrollView.setAlternativeScrollView 1
-me.biubiubiu.justifytext.MyScrollView me.biubiubiu.justifytext.MyScrollView.setAlternativeScrollView 1
-me.biubiubiu.justifytext.TextActivity me.biubiubiu.justifytext.MyScrollView 1
-ScrollView me.biubiubiu.justifytext.MyScrollView 3
-TextView me.biubiubiu.justifytext.library.JustifyTextView 2
-Activity me.biubiubiu.justifytext.DemoActivity 3

@@ -1,9 +1,0 @@
-android::test::ApplicationTestCaseApplication 0
-ApplicationTestCase 0
-sumimakito.android.advtextswitcher.ApplicationTest 0
-sumimakito.android.advtextswitcher.Switcher 1
-Handler 1
-sumimakito.android.advtextswitcher.Switcher.attach 1
-sumimakito.android.advtextswitcher.Switcher.pause 1
-sumimakito.android.advtextswitcher.AdvTextSwitcher 2
-TextSwitcher 2

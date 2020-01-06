@@ -1,8 +1,0 @@
-dubbo.common.service.HelloService dubbo.provider.service.impl.HelloServiceImpl 4
-io::netty::channel::ChannelInitializerSocketChannel netty.DispatcherServletChannelInitializer 2
-ChannelInitializer netty.DispatcherServletChannelInitializer 1
-netty.MyServer netty.MyServer.main 1
-netty.MyServer.main netty.MyServer.MyServer 1
-netty.MyServer netty.MyServer.MyServer 1
-io::netty::channel::ChannelInboundMessageHandlerAdapterHttpRequest netty.ServletNettyHandler 2
-ChannelInboundMessageHandlerAdapter netty.ServletNettyHandler 1

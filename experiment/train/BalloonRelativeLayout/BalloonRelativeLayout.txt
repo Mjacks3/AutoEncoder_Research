@@ -1,8 +1,0 @@
-MediaPlayer::OnCompletionListener com.zhuyong.balloonrelativelayout.MainActivity 2
-MediaPlayer::OnPreparedListener com.zhuyong.balloonrelativelayout.MainActivity 2
-AppCompatActivity com.zhuyong.balloonrelativelayout.MainActivity 2
-Handler com.zhuyong.balloonrelativelayout.MainActivity 1
-AppCompatActivity OnPreparedListener 1
-OnCompletionListener OnPreparedListener 1
-VideoView com.zhuyong.balloonrelativelayout.CustomVideoView 3
-RelativeLayout com.zhuyong.balloonrelativelayout.BalloonRelativeLayout 3

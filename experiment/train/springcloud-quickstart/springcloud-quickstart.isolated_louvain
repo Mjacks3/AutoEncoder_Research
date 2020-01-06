@@ -1,7 +1,0 @@
-com.example.routingribbon.HelloService 0
-RestTemplate 0
-com.example.routingribbon.HelloController 0
-com.example.ZipkinClientApplication0 1
-com.example.ZipkinClientApplication0.ZipkinClientService1Interface 1
-com.example.routingribbon.HelloController.hi 2
-com.example.routingribbon.HelloService.hiService 2

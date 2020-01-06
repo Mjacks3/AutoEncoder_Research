@@ -1,5 +1,0 @@
-TextView com.example.android.emojify.MainActivity 1
-ImageView com.example.android.emojify.MainActivity 1
-FloatingActionButton com.example.android.emojify.MainActivity 1
-Button com.example.android.emojify.MainActivity 1
-AppCompatActivity com.example.android.emojify.MainActivity 3

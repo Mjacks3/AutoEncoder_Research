@@ -1,4 +1,0 @@
-ReactPackage com.centaurwarchief.smslistener.SmsListenerPackage 2
-BroadcastReceiver com.centaurwarchief.smslistener.SmsReceiver 3
-ReactContextBaseJavaModule com.centaurwarchief.smslistener.SmsListenerModule 3
-LifecycleEventListener com.centaurwarchief.smslistener.SmsListenerModule 3

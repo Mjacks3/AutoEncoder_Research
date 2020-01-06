@@ -1,3 +1,0 @@
-Activity com.jakewp11.template.Main 3
-WebView com.jakewp11.template.Main 1
-WebViewClient com.jakewp11.template.MyWebViewClient 3

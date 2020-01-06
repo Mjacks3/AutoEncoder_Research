@@ -1,2 +1,0 @@
-Activity com.dd.sample.MainActivity 3
-FrameLayout com.dd.ShadowLayout 2

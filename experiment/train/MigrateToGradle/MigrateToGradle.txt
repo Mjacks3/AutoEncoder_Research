@@ -1,2 +1,0 @@
-ActionBarActivity com.github.ShinChven.migratetogradle.MainActivity 3
-android::test::ApplicationTestCaseApplication com.github.example.libmodule.lib.ApplicationTest 2
