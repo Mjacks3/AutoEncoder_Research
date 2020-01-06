@@ -1,0 +1,14 @@
+dubbo.consumer.controller.TestController 0
+dubbo.provider.service.impl.HelloServiceImpl 1
+dubbo.common.service.HelloService 1
+netty.MyServer 2
+netty.MyServer.main 2
+netty.MyServer.MyServer 2
+ChannelInitializer 3
+netty.DispatcherServletChannelInitializer 3
+io::netty::channel::ChannelInitializerSocketChannel 3
+dubbo.consumer.test.ConsumerTest 4
+netty.ServletNettyHandler 5
+io::netty::channel::ChannelInboundMessageHandlerAdapterHttpRequest 5
+ChannelInboundMessageHandlerAdapter 5
+StartProvider 6

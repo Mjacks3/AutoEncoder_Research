@@ -1,0 +1,15 @@
+com.coderfolk.multilamp.model.Target 0
+com.coderfolk.multilamp.shapes.Rectangle.draw 0
+com.coderfolk.multilamp.model.Target.getView 0
+com.coderfolk.multilamp.model.Target.getMessage 0
+com.coderfolk.multilamp.model.Target.getDirection 0
+com.coderfolk.multilamp.shapes.Circle.draw 0
+com.coderfolk.demoApp.MainActivity.onCreate 1
+com.coderfolk.demoApp.MainActivity 1
+com.coderfolk.multilamp.customView.MultiLamp.build 1
+com.coderfolk.multilamp.customView.MultiLamp 1
+AppCompatActivity 1
+RelativeLayout 1
+com.coderfolk.multilamp.shapes.Rectangle 2
+com.coderfolk.multilamp.shapes.Shape 2
+com.coderfolk.multilamp.shapes.Circle 2

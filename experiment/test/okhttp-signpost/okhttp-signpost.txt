@@ -1,5 +1,0 @@
-AbstractOAuthProvider se.akerfeldt.okhttp.signpost.OkHttpOAuthProvider 3
-HttpResponse se.akerfeldt.okhttp.signpost.OkHttpResponseAdapter 3
-HttpRequest se.akerfeldt.okhttp.signpost.OkHttpRequestAdapter 3
-Interceptor se.akerfeldt.okhttp.signpost.SigningInterceptor 2
-AbstractOAuthConsumer se.akerfeldt.okhttp.signpost.OkHttpOAuthConsumer 3

@@ -1,0 +1,2 @@
+Fragment com.example.kyrie.PathMorphFragment 3
+Fragment com.example.kyrie.PolygonsFragment 3

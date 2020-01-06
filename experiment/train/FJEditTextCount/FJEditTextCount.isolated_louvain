@@ -1,0 +1,9 @@
+fj.edittextcount.lib.FJEditTextCount 0
+RelativeLayout 0
+fj.edittextcount.lib.FJEditTextCount.show 0
+fj.edittextcount.lib.FJEditTextCount.setText 0
+fj.edittextcount.lib.FJEditTextCount.calculateLength 0
+fj.edittextcount.test.MainActivity.onCreate 1
+fj.edittextcount.test.MainActivity 1
+fj.edittextcount.lib.FJEditTextCount.getText 1
+AppCompatActivity 1

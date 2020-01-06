@@ -1,0 +1,16 @@
+com.thelittlenaruto.supportdesignexample.helper.Cheeses 0
+ListFragment 1
+com.thelittlenaruto.supportdesignexample.activity.MainActivity.ArrayListFragment 1
+com.thelittlenaruto.supportdesignexample.activity.MainActivity 2
+AppCompatActivity 2
+com.thelittlenaruto.supportdesignexample.activity.MainActivity.MyAdapter 3
+FragmentStatePagerAdapter 3
+com.thelittlenaruto.supportdesignexample.customview.WrapContentHeightViewPager 4
+ViewPager 4
+com.thelittlenaruto.supportdesignexample.ApplicationTest 5
+android::test::ApplicationTestCaseApplication 5
+ApplicationTestCase 5
+NestedScrollView 6
+com.thelittlenaruto.supportdesignexample.customview.MyNestedScrollView 6
+com.thelittlenaruto.supportdesignexample.customview.NestedListView 7
+ListView 7

@@ -1,0 +1,4 @@
+Activity org.michaelevans.chromahashview.demo.MainActivity 3
+MessageDigest org.michaelevans.chromahashview.ChromaHashView 1
+EditText org.michaelevans.chromahashview.ChromaHashView 2
+Paint org.michaelevans.chromahashview.ChromaHashView 1

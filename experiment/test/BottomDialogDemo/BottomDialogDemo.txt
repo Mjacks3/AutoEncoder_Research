@@ -1,7 +1,0 @@
-AppCompatActivity org.wangchenlong.bottomdialogdemo.MainActivity 3
-DialogFragment org.wangchenlong.bottomdialogdemo.BottomDialogFragment 3
-LinearLayout org.wangchenlong.bottomdialogdemo.BottomDialogFragment 1
-TextView org.wangchenlong.bottomdialogdemo.BottomDialogFragment 1
-ImageView org.wangchenlong.bottomdialogdemo.BottomDialogFragment 1
-android::test::ApplicationTestCaseApplication org.wangchenlong.bottomdialogdemo.ApplicationTest 2
-ApplicationTestCase org.wangchenlong.bottomdialogdemo.ApplicationTest 1

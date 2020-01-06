@@ -1,0 +1,7 @@
+Activity com.morgoo.myjavahook.MainActivity 3
+com.morgoo.myjavahook.MainActivity com.morgoo.myjavahook.MainActivity.onCreate 1
+com.morgoo.myjavahook.MainActivity.onCreate com.morgoo.myjavahook.HookTest.main 1
+com.morgoo.myjavahook.HookTest com.morgoo.myjavahook.HookTest.main 2
+com.morgoo.myjavahook.MainActivity com.morgoo.myjavahook.HookTest 1
+com.morgoo.myjavahook.HookTest.main com.morgoo.myjavahook.HookTest.HookTest 2
+com.morgoo.myjavahook.HookTest com.morgoo.myjavahook.HookTest.HookTest 2

@@ -1,0 +1,11 @@
+LinearLayout 0
+Dialog 0
+ImageView 0
+TextView 0
+com.jeevandeshmukh.glidetoastlib.GlideToast.makeToast.show 0
+com.jeevandeshmukh.glidetoastlib.GlideToast.makeToast.setGravity 0
+com.jeevandeshmukh.glidetoastlib.GlideToast.makeToast.setStyle 0
+com.jeevandeshmukh.glidetoastlib.GlideToast.makeToast 0
+AppCompatActivity 1
+com.jeevandeshmukh.glidetoast.MainActivity 1
+com.jeevandeshmukh.glidetoast.MainActivity.onCreate 1

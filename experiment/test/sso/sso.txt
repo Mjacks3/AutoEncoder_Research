@@ -1,1 +1,0 @@
-WebSecurityConfigurerAdapter demo.SsoApplication.LoginConfigurer 3

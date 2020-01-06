@@ -1,0 +1,17 @@
+ImageView 0
+com.joooonho.SelectableRoundedImageView 0
+com.joooonho.SelectableRoundedImageView.setOval 0
+com.joooonho.SelectableRoundedImageView.getBorderWidth 0
+com.joooonho.SelectableRoundedImageView.getBorderColor 0
+com.joooonho.SelectableRoundedImageView.setBorderColor 0
+com.joooonho.SelectableRoundedImageView.getBorderColors 0
+com.joooonho.SelectableRoundedImageView.isOval 0
+com.joooonho.SelectableRoundedImageView.getScaleType 0
+com.joooonho.MainActivity 1
+Activity 1
+com.joooonho.SelectableRoundedImageView.setScaleType 2
+com.joooonho.SelectableRoundedImageView.SelectableRoundedImageView 2
+com.joooonho.MainActivity.onCreate 3
+com.joooonho.SelectableRoundedImageView.setImageResource 3
+com.joooonho.SelectableRoundedImageView.setImageDrawable 3
+com.joooonho.SelectableRoundedImageView.setImageURI 3

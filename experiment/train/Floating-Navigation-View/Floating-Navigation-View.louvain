@@ -1,0 +1,13 @@
+AbsSavedState 0
+com.andremion.floatingnavigationview.FloatingNavigationView.SavedState 0
+Parcelable 0
+com.andremion.floatingnavigationview.FloatingNavigationView 1
+FloatingActionButton 1
+com.andremion.floatingnavigationview.FloatingNavigationView.close 1
+com.andremion.floatingnavigationview.sample.MainActivity.onCreate 1
+com.andremion.floatingnavigationview.FloatingNavigationView.open 1
+com.andremion.floatingnavigationview.FloatingNavigationView.setNavigationItemSelectedListener 1
+AppCompatActivity 2
+com.andremion.floatingnavigationview.sample.MainActivity 2
+com.andremion.floatingnavigationview.sample.MainActivity.onBackPressed 3
+com.andremion.floatingnavigationview.FloatingNavigationView.isOpened 3

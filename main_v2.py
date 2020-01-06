@@ -66,42 +66,72 @@ def graph_embedding(args):
  
     return 0
 
-def load_other_batch_data(data_path):
-    #data_ path should be our trai or test directory
-    x = []
-    y = []
-    data = []
-    for r, d, f in os.walk(data_path):
-        for file in f:
-            if 'embedding' in file:
-                with open(r+'/'+ file) as fi:
-                    temp = fi.readlines()
-                    for line in temp[1:]:
-                        #print(line)
-                        data.append(line)
+def load_other_batch_data(data_path,cascade = -1 ):
+    if cascade != -1:
+        x = []
+        y = []
+        data = []
+        print("This iteration: ")
+        print(cascade)
+        for rdf, itr in zip(os.walk(data_path), range(cascade)):
+            
+            r = rdf[0]
+            f = rdf[2]
+            
+            for file in f:
+                if 'embedding' in file:
+                    with open(r+'/'+ file) as fi:
+                        temp = fi.readlines()
+                        for line in temp[1:]:
+                            #print(line)
+                            data.append(line)
 
-    data = [list(map(str, line.split())) for line in data]
-    data = np.array(data)
-    #print(type(data))
-    x, y = data[:, 1:], data[:, 0]
-    x = x.astype('float64')
-    #x = x.reshape([-1, 4, 4, 1])
-    #x = x.reshape([-1, 28, 28, 1]) / 255.
+        data = [list(map(str, line.split())) for line in data]
+        data = np.array(data)
+        #print(type(data))
+        x, y = data[:, 1:], data[:, 0]
+        x = x.astype('float64')
+        #x = x.reshape([-1, 4, 4, 1])
+        #x = x.reshape([-1, 28, 28, 1]) / 255.
+
+
+    else:
+
+        #data_ path should be our trai or test directory
+        x = []
+        y = []
+        data = []
+        for r, d, f in os.walk(data_path):
+            for file in f:
+                if 'embedding' in file:
+                    with open(r+'/'+ file) as fi:
+                        temp = fi.readlines()
+                        for line in temp[1:]:
+                            #print(line)
+                            data.append(line)
+
+        data = [list(map(str, line.split())) for line in data]
+        data = np.array(data)
+        #print(type(data))
+        x, y = data[:, 1:], data[:, 0]
+        x = x.astype('float64')
+        #x = x.reshape([-1, 4, 4, 1])
+        #x = x.reshape([-1, 28, 28, 1]) / 255.
 
     return x, y.astype(str)
 
   
 
-def load_data(dataset):
-    x, y = load_other_batch_data(dataset)
+def load_data(dataset,cascade =-1):
+    x, y = load_other_batch_data(dataset,cascade)
     return x.reshape([x.shape[0], -1]), y
 
 
 
 
-def _get_data_and_model(args,dataset):
+def _get_data_and_model(args,dataset, cascade=-1):
     # prepare dataset
-    x, y = load_other_batch_data(dataset)
+    x, y = load_other_batch_data(dataset,cascade)
 
     # prepare the model
     n_clusters = args.num_clusters
@@ -116,27 +146,36 @@ def _get_data_and_model(args,dataset):
 
 
 def train(args):
-    # get data and model
-    (x, y), model = _get_data_and_model(args, args.train_dataset)
-    model.model.summary()
 
-    # pretraining
     if not os.path.exists(args.save_dir):
         os.makedirs(args.save_dir)
 
-    if args.pretrained_weights is not None and os.path.exists(args.pretrained_weights):  # load pretrained weights
-        model.autoencoder.load_weights(args.pretrained_weights)
-    else:  
-        pretrain_optimizer = SGD(1.0, 0.9)
-        model.pretrain(x, y = None, optimizer=pretrain_optimizer, epochs=args.pretrain_epochs, batch_size=args.batch_size,
-                       save_dir=args.save_dir, verbose=args.verbose, aug_pretrain=args.aug_pretrain)
-  
 
-    # clustering
-    y_pred = model.fit(x, y = None,  maxiter=args.maxiter, batch_size=args.batch_size, update_interval=args.update_interval,
-                       save_dir=args.save_dir, aug_cluster=args.aug_cluster)
+    for training_set_size_this_iteration in range(10,510,10):
+        # get data and model
+        (x, y), model = _get_data_and_model(args, args.train_dataset,training_set_size_this_iteration)
+
+        pretrain_optimizer = SGD(1.0, 0.9)
     
-    return 0
+        temp_save_dir = args.save_dir+ "/"+ str(training_set_size_this_iteration)
+        print(temp_save_dir)
+
+        if not os.path.exists(temp_save_dir):
+            os.makedirs(temp_save_dir)
+
+        for r, d, f in os.walk(temp_save_dir):
+            print(f)
+            if len(f) < 4:
+
+                # pretraining
+                model.pretrain(x, y = None, optimizer=pretrain_optimizer, epochs=args.pretrain_epochs, batch_size=args.batch_size,
+                            save_dir=temp_save_dir, verbose=args.verbose, aug_pretrain=args.aug_pretrain)
+                #Then fit
+                model.fit(x, y = None,  maxiter=args.maxiter, batch_size=args.batch_size, update_interval=args.update_interval,
+                                save_dir=temp_save_dir, aug_cluster=args.aug_cluster)
+        
+                    
+        return 0
 
 
 
@@ -171,189 +210,6 @@ def test(args):
     return 0
     
 
-def calculate_modq(clusters, edge_list='' ):
-    #cluster_pairs='/home/mjacks3/monize/tahdith/datasets/train/Java.git/Java.git.txt.clusters'
-    if not os.path.exists(edge_list):
-        print("Cannot Find Edge List. Exiting")
-        return 0
-
-    #Assemble Mappings for formula calculations
-    node_partition_mapping = {}
-    partion_node_counting = {}
-
-    for pair in clusters:
-        node_partion = pair.split()
-        node_partition_mapping[node_partion[0]] = node_partion[1]
-
-    for a in set(node_partition_mapping.values()):
-        partion_node_counting[a] = 0
-        for b in node_partition_mapping.items():
-            if str(b[1]) == str(a) :
-                partion_node_counting[a] += 1
-
-    #Calculate M_Norm, Sum of weights in graph
-    m_norm = 0
-
-    with open(edge_list) as f:
-        for edge in f:
-            m_norm += 1
-
-    #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-    #Modularity Q Calculation
-    #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-    modQ = 0 
-
-    for partition in partion_node_counting.keys():
-        internal = 0 
-        incident = 0
-        with open(edge_list) as f:
-            for edge in f:
-                source_dest = edge.split()
-
-                if node_partition_mapping[source_dest[0]] == str(partition) and \
-                node_partition_mapping[source_dest[1]] == str(partition):
-                    internal += 1
-                    incident += 1
-
-                elif node_partition_mapping[source_dest[0]] == str(partition) or \
-                node_partition_mapping[source_dest[1]] == str(partition):
-
-                    incident += 1
-
-        modQ += ( (internal/(2.0*m_norm)) -   (incident/(2.0*m_norm))**2)
-
-    print("Modularity Q Value")
-    print(modQ)
-
-    return modQ
-
-
-def calculate_metrics(clusters, edge_list='' ):
-    #cluster_pairs='/home/mjacks3/monize/tahdith/datasets/train/Java.git/Java.git.txt.clusters'
-    if not os.path.exists(edge_list):
-        print("Cannot Find Edge List. Exiting")
-        return 0
-
-    #Assemble Mappings for formula calculations
-    node_partition_mapping = {}
-    partion_node_counting = {}
-
-    for pair in clusters:
-        node_partion = pair.split()
-        node_partition_mapping[node_partion[0]] = node_partion[1]
-
-    for a in set(node_partition_mapping.values()):
-        partion_node_counting[a] = 0
-        for b in node_partition_mapping.items():
-            if str(b[1]) == str(a) :
-                partion_node_counting[a] += 1
-
-    #Calculate M_Norm, Sum of weights in graph
-    m_norm = 0
-
-    with open(edge_list) as f:
-        for edge in f:
-            m_norm += 1
-
-    #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-    #Modularity Q Calculation
-    #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-    modQ = 0 
-
-    for partition in partion_node_counting.keys():
-        internal = 0 
-        incident = 0
-        with open(edge_list) as f:
-            for edge in f:
-                source_dest = edge.split()
-
-                if node_partition_mapping[source_dest[0]] == str(partition) and \
-                node_partition_mapping[source_dest[1]] == str(partition):
-                    internal += 1
-                    incident += 1
-
-                elif node_partition_mapping[source_dest[0]] == str(partition) or \
-                node_partition_mapping[source_dest[1]] == str(partition):
-
-                    incident += 1
-
-        modQ += ( (internal/(2.0*m_norm)) -   (incident/(2.0*m_norm))**2)
-
-    print("Modularity Q Value")
-    print(modQ)
-    """
-
-
-
-    for partition_a in partion_node_counting.keys():
-        for partition_b in partion_node_counting.keys():
-            if partition_a == partition_b:
-
-                
-                actual_edges =  0 
-                possible_edges =   (partion_node_counting[partition_a] - 1) * partion_node_counting[partition_b]
-
-                with open(edge_list) as f:
-                        for edge in f:
-                            source_dest = edge.split()
-
-                            if source_dest[0] not in node_partition_mapping:
-                                #print("unmapped node: " , source_dest[0])
-                                pass #A bug if hit;  each node should be mapped
-
-                            elif source_dest[1] not in node_partition_mapping:
-                                #print("unmapped node: " , source_dest[1])
-                                pass #A bug if hit;  each node should be mapped
-
-
-                            elif (str(node_partition_mapping[source_dest[0]]) == partition_a and \
-                                str(node_partition_mapping[source_dest[1]]) == partition_b):
-
-                                actual_edges += 1
-                #print(partition_a + " to " + partition_b)
-                #print(str(actual_edges)+ "/" + str(possible_edges))
-                #print()
-
-
-
-                
-
-            else:
-                #print(partition_a+" "  partition_b " ", end="")
-                actual_edges =  0 
-                possible_edges =  2* partion_node_counting[partition_a] * partion_node_counting[partition_b]
-
-                with open(edge_list) as f:
-                        for edge in f:
-                            source_dest = edge.split()
-
-                            if source_dest[0] not in node_partition_mapping:
-                                #print("unmapped node: " , source_dest[0])
-                                pass #A bug if hit;  each node should be mapped
-
-                            elif source_dest[1] not in node_partition_mapping:
-                                #print("unmapped node: " , source_dest[1])
-                                pass #A bug if hit;  each node should be mapped
-
-
-                            elif (str(node_partition_mapping[source_dest[0]]) == partition_a and \
-                                str(node_partition_mapping[source_dest[1]]) == partition_b)  or \
-                                (str(node_partition_mapping[source_dest[0]]) == partition_b and \
-                                str(node_partition_mapping[source_dest[1]]) == partition_a):
-
-                                actual_edges += 1
-                #print(partition_a + " to " + partition_b)
-                #print(str(actual_edges)+ "/" + str(possible_edges))
-                #print()
-    """
-                
-    #print(partion_node_counting)  
-
-    #plt.plot([10], [modQ], 'ro')
-    #plt.show()
-
 
 
 if __name__ == "__main__":
@@ -362,11 +218,6 @@ if __name__ == "__main__":
 
     parser = argparse.ArgumentParser(description='main')
 
-
-
-
-
-           
 
     # Parameters for pretraining
     parser.add_argument('--training', action='store_true', help="Training")
@@ -441,9 +292,9 @@ if args.experiment:
 
 
     #Training
-    """
-
-    for num in range(5, 6):
+    
+    models = [5,10]
+    for num in models:
         args.num_clusters = int(num)
         args.save_dir = "experiment/" + str(args.num_clusters)
 
@@ -452,7 +303,7 @@ if args.experiment:
         if not os.path.exists(args.save_dir):
             os.makedirs(args.save_dir)
         train(args)
-    """
+    
     #End Training
     
     
@@ -489,7 +340,7 @@ if args.experiment:
                         "18": [],
                         "19": []
                         }
-    """
+
 
     for num_clusters in range(2,20,1):
         if os.path.exists("experiment/"+str(num_clusters)+"/model_final.h5"):
@@ -509,29 +360,8 @@ if args.experiment:
 
                     #print(args.test_dataset)
                     test(args) # Calculations will be done on files separately
-    """
     
     
-    
-                modq = calculate_modq(clusters,edge_list=edge_list)
-                print("\n\n MOD Q: "+ str(modq)) 
-                cluster_qValue_map[str(num_clusters)].append(modq)
-
-
-        x =  [num_clusters for num in range(len(cluster_qValue_map[str(num_clusters)]))]
-
-        plt.plot(x,cluster_qValue_map[str(num_clusters)] , 'bo')
-        plt.xlabel("Number Clusters")
-        plt.ylabel("Modularity Q Value")
-
-    plt.show()
-
-
-
-    #clusters = test(args)
-
-    #modq = calculate_modq(clusters,edge_list=edge_list_loc)
-    #print("\n\n MOD Q: "+ str(modq)) 
     """
     
     #End Test
