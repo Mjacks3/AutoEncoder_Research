@@ -1,0 +1,10 @@
+com.flavienlaurent.tickplusdrawable.MainActivity com.flavienlaurent.tickplusdrawable.TickPlusDrawable 1
+Drawable com.flavienlaurent.tickplusdrawable.TickPlusDrawable 2
+com.flavienlaurent.tickplusdrawable.TickPlusDrawable com.flavienlaurent.tickplusdrawable.TickPlusDrawable.toggle 2
+com.flavienlaurent.tickplusdrawable.MainActivity.onCreate com.flavienlaurent.tickplusdrawable.TickPlusDrawable.toggle 1
+com.flavienlaurent.tickplusdrawable.TickPlusDrawable.toggle com.flavienlaurent.tickplusdrawable.TickPlusDrawable.animatePlus 2
+com.flavienlaurent.tickplusdrawable.TickPlusDrawable com.flavienlaurent.tickplusdrawable.TickPlusDrawable.animatePlus 2
+com.flavienlaurent.tickplusdrawable.TickPlusDrawable com.flavienlaurent.tickplusdrawable.TickPlusDrawable.animateTick 2
+com.flavienlaurent.tickplusdrawable.TickPlusDrawable.toggle com.flavienlaurent.tickplusdrawable.TickPlusDrawable.animateTick 2
+Activity com.flavienlaurent.tickplusdrawable.MainActivity 3
+com.flavienlaurent.tickplusdrawable.MainActivity com.flavienlaurent.tickplusdrawable.MainActivity.onCreate 1

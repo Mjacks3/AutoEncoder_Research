@@ -11,7 +11,7 @@ from FcDEC import FcDEC
 import matplotlib.pyplot as plt
 
 #import tensorflow as tf
-
+sub_epoch_count = "" 
 
 def graph_embedding(args):
 
@@ -177,7 +177,7 @@ def test(args):
     name = args.test_dataset.split("/")[-1]
     print(name)
 
-    with open(args.test_dataset +"/"+name + "_" + str(args.num_clusters)+ ".clustering",'w+') as f:
+    with open(args.test_dataset +"/"+name + "_" + str(args.num_clusters)+ "-"+ str(sub_epoch_count)+ ".clustering",'w+') as f:
         for node_id, cluster in zip(y, y_pred):
             f.write( str(node_id) + " " + str(cluster) +"\n")
 
@@ -266,7 +266,7 @@ if args.experiment:
     
     #End Graph Embedding
     """
-    
+    """
 
 
     #Training
@@ -283,6 +283,7 @@ if args.experiment:
         train(args)
     
     #End Training
+    """
     
     
     #Test
@@ -318,29 +319,36 @@ if args.experiment:
                         "18": [],
                         "19": []
                         }
-
-
-    for num_clusters in range(2,20,1):
-        if os.path.exists("experiment/"+str(num_clusters)+"/model_final.h5"):
-
-            args.weights = "experiment/"+str(num_clusters)+"/model_final.h5"
-            args.num_clusters = num_clusters
-    
-            for r, d, f in os.walk("experiment/test"): # for each file 
-                #print (r)
-                if len(f) >= 4 and r.split("/")[-1] +  "_" + str(args.num_clusters)+ ".clustering" not in f  : 
-                    print(num_clusters)
-                    for file_name in f: 
-                        if ".txt" in file_name:
-                            edge_list = r+"/"+file_name
-                        elif ".embedding" in file_name:
-                            args.test_dataset = r
-
-                    #print(args.test_dataset)
-                    test(args) # Calculations will be done on files separately
-    
-    
     """
+    models = [5,10]
+    for num_clusters in models:
+        for r0, d0, f0 in os.walk("experiment/"+ str(num_clusters)):
+            print(r0)
+            if os.path.exists(r0+"/model_final.h5"):
+                args.weights = r0+"/model_final.h5"
+                args.num_clusters = num_clusters
+
+                sub_epoch_count = r0.split("/")[-1]
+                print(sub_epoch_count)
+
+                for r, d, f in os.walk("experiment/test"): # for each file
+                    if len(f) >= 4 and r.split("/")[-1] +  "_" + str(args.num_clusters)+ "-"+ str(sub_epoch_count)+ ".clustering" not in f  :
+                        print(num_clusters)
+                        for file_name in f: 
+                            if ".embedding" in file_name:
+                                args.test_dataset = r
+                                test(args)
+                            else:
+                                pass
+
+                        #print(args.test_dataset)
+                        #test(args)
+                
+
+
+    
+    
+ 
     
     #End Test
 

@@ -1,0 +1,1 @@
+GenericFilterBean com.nibado.example.jwtangspr.JwtFilter 3

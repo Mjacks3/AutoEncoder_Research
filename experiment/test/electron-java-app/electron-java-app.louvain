@@ -1,0 +1,7 @@
+org.strangeway.electronvaadin.app.MainUI.Task 0
+org.strangeway.electronvaadin.app.MainUI 1
+UI 1
+org.strangeway.electronvaadin.server.AppServlet 2
+VaadinServlet 2
+BootstrapListener 2
+org.strangeway.electronvaadin.Launcher 3

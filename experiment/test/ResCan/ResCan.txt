@@ -1,0 +1,12 @@
+JLabel Webcam 1
+VideoCapture Webcam 1
+Voice Webcam 1
+Webcam Webcam.main 1
+Webcam Webcam.listAllVoices 1
+Webcam.main Webcam.listAllVoices 1
+Webcam.main Webcam.doMagic 1
+Webcam Webcam.doMagic 1
+Webcam Webcam.showResult 1
+Webcam.main Webcam.showResult 1
+Webcam Webcam.toBufferedImage 1
+Webcam.main Webcam.toBufferedImage 1

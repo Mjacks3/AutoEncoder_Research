@@ -1,0 +1,16 @@
+com.lixin.wechat.MainActivity com.lixin.wechat.MyApplication 2
+Application com.lixin.wechat.MyApplication 3
+com.lixin.wechat.MainActivity com.lixin.wechat.MainActivity.copyFile 2
+com.lixin.wechat.MainActivity.onCreate com.lixin.wechat.MainActivity.copyFile 1
+com.lixin.wechat.MainActivity.copyFile com.lixin.wechat.MyApplication.getContextObject 2
+com.lixin.wechat.MyApplication com.lixin.wechat.MyApplication.getContextObject 2
+com.lixin.wechat.MainActivity com.lixin.wechat.MainActivity.onCreate 1
+com.lixin.wechat.MainActivity.onCreate com.lixin.wechat.MainActivity.execRootCmd 1
+com.lixin.wechat.MainActivity com.lixin.wechat.MainActivity.execRootCmd 2
+AppCompatActivity com.lixin.wechat.MainActivity 3
+com.lixin.wechat.MainActivity.copyFile com.lixin.wechat.LogUtil.e 2
+com.lixin.wechat.LogUtil com.lixin.wechat.LogUtil.e 3
+com.lixin.wechat.MainActivity.execRootCmd com.lixin.wechat.LogUtil.e 2
+com.lixin.wechat.MainActivity com.lixin.wechat.LogUtil 3
+com.lixin.wechat.MainActivity.execRootCmd com.lixin.wechat.MainActivity.getMD5 2
+com.lixin.wechat.MainActivity com.lixin.wechat.MainActivity.getMD5 2
