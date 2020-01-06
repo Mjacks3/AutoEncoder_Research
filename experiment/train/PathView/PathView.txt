@@ -1,0 +1,14 @@
+View com.wuyr.pathviewtest.CanvasView 3
+com.wuyr.pathviewtest.MainActivity com.wuyr.pathviewtest.CanvasView 3
+com.wuyr.pathviewtest.MainActivity com.wuyr.pathviewtest.MainActivity.play 1
+AppCompatActivity com.wuyr.pathviewtest.MainActivity 3
+com.wuyr.pathviewtest.MainActivity.play com.wuyr.pathviewtest.CanvasView.getPaths 1
+com.wuyr.pathviewtest.CanvasView com.wuyr.pathviewtest.CanvasView.getPaths 1
+com.wuyr.pathviewtest.MainActivity com.wuyr.pathviewtest.MainActivity.draw 1
+com.wuyr.pathviewtest.MainActivity.draw com.wuyr.pathviewtest.CanvasView.clear 1
+com.wuyr.pathviewtest.CanvasView com.wuyr.pathviewtest.CanvasView.clear 2
+com.wuyr.pathviewtest.CanvasView.clear com.wuyr.pathviewtest.CanvasView.setPath 2
+com.wuyr.pathviewtest.CanvasView com.wuyr.pathviewtest.CanvasView.setPath 2
+com.wuyr.pathviewtest.MainActivity com.wuyr.pathviewtest.MainActivity.onCreate 1
+com.wuyr.pathviewtest.MainActivity.onCreate com.wuyr.pathviewtest.CanvasView.setLineWidth 1
+com.wuyr.pathviewtest.CanvasView com.wuyr.pathviewtest.CanvasView.setLineWidth 1

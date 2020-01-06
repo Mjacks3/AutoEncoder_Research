@@ -1,0 +1,14 @@
+jp.shts.android.storyprogressbar.MainActivity.onCreate 0
+jp.shts.android.storiesprogressview.StoriesProgressView.setStoriesCount 0
+jp.shts.android.storiesprogressview.StoriesProgressView 0
+jp.shts.android.storiesprogressview.StoriesProgressView.setStoryDuration 0
+jp.shts.android.storiesprogressview.StoriesProgressView.setStoriesListener 0
+jp.shts.android.storiesprogressview.StoriesProgressView.startStories 0
+jp.shts.android.storiesprogressview.StoriesProgressView.reverse 0
+jp.shts.android.storiesprogressview.StoriesProgressView.skip 0
+LinearLayout 0
+jp.shts.android.storyprogressbar.MainActivity 1
+jp.shts.android.storiesprogressview.StoriesProgressView.StoriesListener 1
+AppCompatActivity 1
+jp.shts.android.storyprogressbar.MainActivity.onDestroy 2
+jp.shts.android.storiesprogressview.StoriesProgressView.destroy 2

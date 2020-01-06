@@ -1,0 +1,12 @@
+test.jinesh.captchaimageviewlib.CaptchaImageView 0
+android::support::v7::widget::AppCompatImageView 0
+AppCompatImageView 0
+test.jinesh.captcha.MainActivity 1
+AppCompatActivity 1
+Button 1
+EditText 1
+ImageView 1
+test.jinesh.captcha.MainActivity.onCreate 2
+test.jinesh.captchaimageviewlib.CaptchaImageView.setCaptchaType 2
+test.jinesh.captchaimageviewlib.CaptchaImageView.regenerate 2
+test.jinesh.captchaimageviewlib.CaptchaImageView.getCaptchaCode 2

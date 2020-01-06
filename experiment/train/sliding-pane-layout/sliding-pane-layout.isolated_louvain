@@ -1,0 +1,8 @@
+SlidingPaneLayout 0
+com.sqisland.android.sliding_pane_layout.CrossFadeSlidingPaneLayout 0
+com.sqisland.android.sliding_pane_layout.TwoPaneActivity 1
+Activity 1
+com.sqisland.android.sliding_pane_layout.PartiallyShownPaneActivity 1
+com.sqisland.android.sliding_pane_layout.CrossFadePaneActivity 1
+com.sqisland.android.sliding_pane_layout.MainActivity 2
+ListActivity 2

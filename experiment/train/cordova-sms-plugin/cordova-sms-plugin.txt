@@ -1,0 +1,15 @@
+CordovaPlugin com.cordova.plugins.sms.Sms 3
+CDVPlugin Sms 2
+MFMessageComposeViewControllerDelegate Sms 2
+CDVPlugin MFMessageComposeViewControllerDelegate 1
+src/ios/Sms.h src/ios/Sms.m 1
+BaseCommand WPCordovaClassLib.Cordova.Commands.Sms 3
+src/ios/Sms.m Sms.h 1
+Sms.h Foundation/Foundation.h 1
+src/ios/Sms.h Foundation/Foundation.h 1
+src/ios/Sms.h Cordova/CDVPlugin.h 1
+Sms.h Cordova/CDVPlugin.h 1
+Sms.h MessageUI/MessageUI.h 1
+src/ios/Sms.h MessageUI/MessageUI.h 1
+Sms.h MessageUI/MFMessageComposeViewController.h 1
+src/ios/Sms.h MessageUI/MFMessageComposeViewController.h 1

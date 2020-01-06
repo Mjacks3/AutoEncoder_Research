@@ -1,0 +1,16 @@
+in.srain.cube.actionqueue.MainActivity in.srain.cube.actionqueue.MainActivity.onCreateOptionsMenu 1
+ApplicationTestCase in.srain.cube.actionqueque.ApplicationTest 1
+android::test::ApplicationTestCaseApplication in.srain.cube.actionqueque.ApplicationTest 2
+ApplicationTestCase in.srain.cube.actionqueue.ApplicationTest 1
+android::test::ApplicationTestCaseApplication in.srain.cube.actionqueue.ApplicationTest 2
+DialogInterface in.srain.cube.actionqueue.MainActivity 1
+Activity in.srain.cube.actionqueue.MainActivity 3
+in.srain.cube.actionqueque.ActionQueue in.srain.cube.actionqueue.MainActivity 1
+in.srain.cube.actionqueque.ActionQueue in.srain.cube.actionqueque.ActionQueue.Action 2
+in.srain.cube.actionqueque.ActionQueue in.srain.cube.actionqueque.ActionQueue.add 2
+in.srain.cube.actionqueue.MainActivity.onCreateOptionsMenu in.srain.cube.actionqueque.ActionQueue.add 1
+in.srain.cube.actionqueue.MainActivity in.srain.cube.actionqueque.ActionQueue 1
+in.srain.cube.actionqueque.ActionQueue.add in.srain.cube.actionqueque.ActionQueue.Action.equals 2
+in.srain.cube.actionqueque.ActionQueue.Action in.srain.cube.actionqueque.ActionQueue.Action.equals 2
+in.srain.cube.actionqueque.ActionQueue.add in.srain.cube.actionqueque.ActionQueue.Action.onAction 2
+in.srain.cube.actionqueque.ActionQueue.Action in.srain.cube.actionqueque.ActionQueue.Action.onAction 2

@@ -1,0 +1,5 @@
+SnowFlake SnowFlake.main 1
+SnowFlake SnowFlake.SnowFlake 1
+SnowFlake.main SnowFlake.SnowFlake 1
+SnowFlake.main SnowFlake.nextId 1
+SnowFlake SnowFlake.nextId 1

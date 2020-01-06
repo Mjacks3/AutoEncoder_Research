@@ -1,0 +1,16 @@
+com.jeevandeshmukh.glidetoast.ExampleUnitTest 0
+com.jeevandeshmukh.glidetoastlib.GlideToast.makeToast 1
+LinearLayout 1
+Dialog 1
+ImageView 1
+TextView 1
+com.jeevandeshmukh.glidetoastlib.GlideToast.makeToast.show 1
+com.jeevandeshmukh.glidetoastlib.GlideToast.makeToast.setGravity 1
+com.jeevandeshmukh.glidetoastlib.GlideToast.makeToast.setStyle 1
+com.jeevandeshmukh.glidetoastlib.ExampleUnitTest 2
+com.jeevandeshmukh.glidetoastlib.ExampleInstrumentedTest 3
+AppCompatActivity 4
+com.jeevandeshmukh.glidetoast.MainActivity 4
+com.jeevandeshmukh.glidetoast.MainActivity.onCreate 4
+com.jeevandeshmukh.glidetoast.ExampleInstrumentedTest 5
+com.jeevandeshmukh.glidetoastlib.GlideToast 6

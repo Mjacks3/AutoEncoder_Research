@@ -1,0 +1,10 @@
+com.inf.os.fileup.ApplicationTest 0
+android::test::ApplicationTestCaseApplication 0
+ApplicationTestCase 0
+mgks.os.fileup.MainActivity 1
+AppCompatActivity 1
+WebView 1
+mgks.os.fileup.MainActivity.onCreate 1
+mgks.os.fileup.MainActivity.file_permission 1
+mgks.os.fileup.MainActivity.Callback 2
+WebViewClient 2
