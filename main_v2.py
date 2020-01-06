@@ -152,11 +152,6 @@ def train(args):
 
 
     for training_set_size_this_iteration in range(10,510,10):
-        # get data and model
-        (x, y), model = _get_data_and_model(args, args.train_dataset,training_set_size_this_iteration)
-
-        pretrain_optimizer = SGD(1.0, 0.9)
-    
         temp_save_dir = args.save_dir+ "/"+ str(training_set_size_this_iteration)
         print(temp_save_dir)
 
@@ -167,6 +162,11 @@ def train(args):
             print(f)
             if len(f) < 4:
 
+                # get data and model
+                (x, y), model = _get_data_and_model(args, args.train_dataset,training_set_size_this_iteration)
+
+                pretrain_optimizer = SGD(1.0, 0.9)
+    
                 # pretraining
                 model.pretrain(x, y = None, optimizer=pretrain_optimizer, epochs=args.pretrain_epochs, batch_size=args.batch_size,
                             save_dir=temp_save_dir, verbose=args.verbose, aug_pretrain=args.aug_pretrain)
