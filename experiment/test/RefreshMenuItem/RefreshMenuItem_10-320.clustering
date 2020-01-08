@@ -1,0 +1,12 @@
+com.refresh.menuitem.sample.MainActivity 2
+com.refresh.menuitem.sample.MainActivity.onCreateOptionsMenu 9
+Activity 7
+com.refresh.menuitem.RefreshMenuItemHelper 7
+com.refresh.menuitem.RefreshMenuItemHelper.onCreateOptionsMenu 2
+com.refresh.menuitem.sample.MainActivity.PlaceholderFragment 2
+Fragment 4
+com.refresh.menuitem.sample.MainActivity.PlaceholderFragment.onCreateView 4
+com.refresh.menuitem.RefreshMenuItemHelper.startLoading 7
+com.refresh.menuitem.RefreshMenuItemHelper.stopLoading 4
+com.refresh.menuitem.sample.MainActivity.onOptionsItemSelected 9
+com.refresh.menuitem.RefreshMenuItemHelper.setMenuItem 7

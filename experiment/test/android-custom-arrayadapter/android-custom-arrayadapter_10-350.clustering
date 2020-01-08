@@ -1,0 +1,11 @@
+ArrayAdapter 9
+demo.example.com.customarrayadapter.AndroidFlavorAdapter 3
+android::widget::ArrayAdapterAndroidFlavor 9
+ActionBarActivity 9
+demo.example.com.customarrayadapter.MainActivity 9
+demo.example.com.customarrayadapter.AndroidFlavor 9
+demo.example.com.customarrayadapter.MainActivityFragment 3
+Fragment 9
+ApplicationTestCase 9
+demo.example.com.customarrayadapter.ApplicationTest 9
+android::test::ApplicationTestCaseApplication 9

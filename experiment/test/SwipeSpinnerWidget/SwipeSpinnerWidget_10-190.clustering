@@ -1,0 +1,10 @@
+net.darkion.swipespinner.MainActivity 9
+net.darkion.swipespinner.SwipeSpinnerHelper 1
+AppCompatActivity 1
+net.darkion.swipespinner.SwipeSpinnerHelper.ScrollCallbacks 1
+net.darkion.swipespinner.SwipeSpinnerHelper.isVertical 1
+net.darkion.swipespinner.MainActivity.onCreate 1
+net.darkion.swipespinner.SwipeSpinnerHelper.ScrollCallbacks.onResetScroll 1
+net.darkion.swipespinner.SwipeSpinnerHelper.bindRecyclerView 1
+net.darkion.swipespinner.SwipeSpinnerHelper.setScrollCallbacks 1
+net.darkion.swipespinner.SwipeSpinnerHelper.getRecyclerView 1

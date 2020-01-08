@@ -1,0 +1,5 @@
+UI 2
+org.strangeway.electronvaadin.app.MainUI 2
+BootstrapListener 2
+org.strangeway.electronvaadin.server.AppServlet 2
+VaadinServlet 2

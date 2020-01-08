@@ -1,0 +1,11 @@
+ReactPackage 9
+com.jamesisaac.rnbackgroundtask.BackgroundTaskPackage 9
+Job 9
+com.jamesisaac.rnbackgroundtask.RNJob 9
+HeadlessJsTaskService 9
+com.jamesisaac.rnbackgroundtask.HeadlessTaskService 9
+JobCreator 9
+com.jamesisaac.rnbackgroundtask.RNJobCreator 9
+ReactContextBaseJavaModule 9
+com.jamesisaac.rnbackgroundtask.BackgroundTaskModule 9
+LifecycleEventListener 9

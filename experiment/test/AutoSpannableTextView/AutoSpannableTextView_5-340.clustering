@@ -1,0 +1,13 @@
+ApplicationTestCase 2
+com.len.ApplicationTest 3
+android::test::ApplicationTestCaseApplication 2
+com.len.MainActivity 3
+com.len.MainActivity.onCreate 3
+AppCompatActivity 3
+com.len.library.AutoLinkStyleTextView 0
+com.len.library.AutoLinkStyleTextView.setOnClickCallBack 1
+AppCompatTextView 3
+com.len.library.AutoLinkStyleTextView.setStartImageText 0
+com.len.library.AutoLinkStyleTextView.ClickCallBack 0
+com.len.library.AutoLinkStyleTextView.AutoLinkStyleTextView 0
+com.len.library.AutoLinkStyleTextView.ClickCallBack.onClick 3

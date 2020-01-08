@@ -1,0 +1,14 @@
+AppCompatActivity 2
+com.luolc.emojirain.sample.MainActivity 1
+com.luolc.emojirain.EmojiRainLayout 2
+EditText 2
+PercentFrameLayout 1
+com.luolc.emojirain.sample.MainActivity.onCreate 1
+com.luolc.emojirain.EmojiRainLayout.addEmoji 2
+com.luolc.emojirain.utils.Randoms 3
+com.luolc.emojirain.EmojiRainLayout.startDropping 3
+com.luolc.emojirain.utils.Randoms.setSeed 1
+com.luolc.emojirain.utils.Randoms.floatAround 3
+com.luolc.emojirain.utils.Randoms.floatInRange 1
+com.luolc.emojirain.utils.Randoms.positiveGaussian 1
+com.luolc.emojirain.utils.Randoms.floatStandard 1

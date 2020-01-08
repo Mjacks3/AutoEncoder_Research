@@ -1,0 +1,16 @@
+com.in28minutes.todo.TodoRestController 4
+com.in28minutes.todo.TodoService 8
+com.in28minutes.todo.TodoService.deleteTodo 8
+com.in28minutes.todo.Todo.getId 5
+com.in28minutes.todo.Todo 8
+com.in28minutes.todo.TodoController 8
+com.in28minutes.todo.TodoRestController.retrieveTodo 5
+com.in28minutes.todo.TodoService.retrieveTodo 4
+com.in28minutes.todo.TodoController.updateTodo 0
+com.in28minutes.todo.Todo.setUser 8
+com.in28minutes.todo.Todo.equals 8
+com.in28minutes.todo.Todo.Todo 8
+WebSecurityConfigurerAdapter 8
+com.in28minutes.security.SecurityConfiguration 0
+com.in28minutes.todo.Todo.setDone 8
+com.in28minutes.todo.Todo.isDone 8

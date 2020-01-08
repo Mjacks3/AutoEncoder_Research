@@ -1,0 +1,14 @@
+OnFocusChangeListener 5
+com.hardik.floatinglabel.FloatingLabelView 5
+Animation 5
+LinearLayout 5
+Activity 5
+com.example.floatinglableexample.ExampleActivity 9
+com.hardik.floatinglabel.OnFloatingLableFocusChangeListener 5
+com.hardik.floatinglabel.LibActivity 5
+com.hardik.floatinglabel.FloatingLabelView.onFocusChange 5
+com.hardik.floatinglabel.OnFloatingLableFocusChangeListener.onFocusChange 5
+com.hardik.floatinglabel.FloatingLabelView.FloatingLabelView 5
+com.hardik.floatinglabel.FloatingLabelView.setFloatHintText 5
+com.hardik.floatinglabel.FloatingLabelView.setTextHint 5
+com.hardik.floatinglabel.FloatingLabelView.setText 5

@@ -1,0 +1,15 @@
+es.dmoral.prefs.Prefs 0
+es.dmoral.prefs.Prefs.getOrderedStringSet 2
+es.dmoral.prefs.Prefs.getStringSet 2
+es.dmoral.prefs.Prefs.readDouble 0
+es.dmoral.prefs.Prefs.contains 2
+es.dmoral.prefs.Prefs.remove 0
+es.dmoral.prefs.Prefs.readInt 8
+es.dmoral.prefs.Prefs.putOrderedStringSet 2
+es.dmoral.prefs.Prefs.read 8
+es.dmoral.prefs.Prefs.putStringSet 8
+es.dmoral.prefs.Prefs.writeInt 2
+es.dmoral.prefs.Prefs.write 2
+es.dmoral.prefs.Prefs.readLong 1
+es.dmoral.prefs.Prefs.writeDouble 1
+es.dmoral.prefs.Prefs.writeLong 3

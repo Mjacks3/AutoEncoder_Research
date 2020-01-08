@@ -1,0 +1,12 @@
+com.example.android.cardview.CardViewActivity 9
+com.example.android.cardview.CardViewFragment 2
+SeekBar 5
+Fragment 5
+CardView 5
+Activity 5
+android::test::ActivityInstrumentationTestCase2CardViewActivity 9
+com.example.android.cardview.SampleTests 5
+ActivityInstrumentationTestCase2 9
+com.example.android.cardview.CardViewActivity.onCreate 9
+com.example.android.cardview.CardViewFragment.newInstance 5
+com.example.android.cardview.CardViewFragment.CardViewFragment 5

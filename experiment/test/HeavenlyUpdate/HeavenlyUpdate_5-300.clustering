@@ -1,0 +1,8 @@
+com.sample.heanvenlyupdate.MainActivity 1
+com.sample.heanvenlyupdate.MainActivity.onCreate 2
+AppCompatActivity 2
+com.sample.heanvenlyupdate.MainActivity.DownLoad 1
+com.sample.heanvenlyupdate.DownLoad.xUitlsDownLoad 1
+com.sample.heanvenlyupdate.DownLoad 2
+Application 2
+com.sample.heanvenlyupdate.MyApplication 2

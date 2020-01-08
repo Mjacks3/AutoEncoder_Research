@@ -1,0 +1,13 @@
+ReactContextBaseJavaModule 0
+com.androidwidgetpoc.BackgroundTaskBridge 7
+AppWidgetProvider 0
+com.androidwidgetpoc.WidgetProvider 0
+HeadlessJsTaskService 7
+com.androidwidgetpoc.BackgroundTask 7
+ReactApplication 0
+com.androidwidgetpoc.MainApplication 7
+Application 0
+ReactActivity 7
+com.androidwidgetpoc.MainActivity 7
+ReactPackage 0
+com.androidwidgetpoc.BackgroundTaskBridgePackage 7

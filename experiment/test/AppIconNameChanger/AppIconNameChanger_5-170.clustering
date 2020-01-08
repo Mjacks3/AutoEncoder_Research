@@ -1,0 +1,10 @@
+ListString 0
+in.myinnos.library.AppIconNameChanger 2
+in.myinnos.library.AppIconNameChanger.Builder 0
+in.myinnos.library.AppIconNameChanger.Builder.build 2
+in.myinnos.library.AppIconNameChanger.AppIconNameChanger 0
+in.myinnos.changeappiconandname.MainActivity 1
+AppCompatActivity 3
+Button 3
+in.myinnos.changeappiconandname.MainActivity.onCreate 3
+in.myinnos.changeappiconandname.MainActivity.setAppIcon 3

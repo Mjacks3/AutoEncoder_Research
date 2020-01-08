@@ -1,0 +1,16 @@
+car.location.CarLocationController 7
+car.location.CarRepository 7
+org::springframework::data::mongodb::repository::ReactiveMongoRepositoryCar,Long 7
+ReactiveMongoRepository 7
+car.location.LocationServiceApp 0
+car.location.LocationServiceApp.initData 0
+car.app.ClientUploadApp.main 9
+car.LocationGenerator.location 9
+car.LocationGenerator 9
+car.app.ClientUploadApp 0
+car.app.CarController 7
+car.app.CarController.book 7
+car.Car.getId 4
+car.Car 7
+car.location.CarLocationController.getCarStream 0
+car.location.CarRepository.findCarsBy 4

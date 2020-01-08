@@ -1,0 +1,13 @@
+Paint 2
+com.qincis.slideback.DefaultSlideView 3
+com.qincis.slideback.ISlideView 5
+FrameLayout 5
+com.qincis.slideback.SlideControlLayout 5
+AppCompatActivity 2
+com.qincis.slideback.demo.DemoActivity 2
+com.qincis.slideback.DefaultSlideView.onDraw 5
+com.qincis.slideback.DefaultSlideView.getHeight 5
+com.qincis.slideback.DefaultSlideView.getWidth 5
+com.qincis.slideback.SlideBack 5
+com.qincis.slideback.demo.DemoActivity.onCreate 2
+com.qincis.slideback.SlideBack.create 2

@@ -1,0 +1,17 @@
+Cache 4
+com.wooyoo.learning.util.RedisCache 4
+Serializable 3
+com.wooyoo.learning.dao.domain.Product 2
+com.wooyoo.learning.ProductController 3
+com.wooyoo.learning.SpringBootMybatisWithRedisApplicationTests 3
+com.wooyoo.learning.util.ApplicationContextHolder 0
+ApplicationContextAware 4
+com.wooyoo.learning.util.RedisCache.getReadWriteLock 0
+com.wooyoo.learning.util.ApplicationContextHolder.getBean 0
+RuntimeException 3
+com.wooyoo.learning.ProductNotFoundException 0
+com.wooyoo.learning.ProductController.updateProductInfo 3
+com.wooyoo.learning.dao.domain.Product.setName 2
+com.wooyoo.learning.SpringBootMybatisWithRedisApplicationTests.test 3
+com.wooyoo.learning.dao.domain.Product.setPrice 2
+com.wooyoo.learning.dao.domain.Product.getPrice 2

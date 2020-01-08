@@ -1,0 +1,15 @@
+com.google.example.maps.roadsapi.ApplicationTest 4
+com.google.example.maps.roadsapi.MainActivity 6
+AsyncTaskVoid,Void,ListSnappedPoint 6
+AsyncTaskVoid,Integer,MapString,SpeedLimit 6
+ListSnappedPoint 6
+ListLatLng 6
+MapString,SpeedLimit 6
+OnMapReadyCallback 6
+ActionBarActivity 6
+ActivityInstrumentationTestCase2 6
+android::test::ActivityInstrumentationTestCase2MainActivity 6
+com.google.example.maps.roadsapi.ApplicationTest.testSampleFlow 6
+com.google.example.maps.roadsapi.MainActivity.onGpxButtonClick 2
+com.google.example.maps.roadsapi.MainActivity.onSnapToRoadsButtonClick 6
+com.google.example.maps.roadsapi.MainActivity.onSpeedLimitButtonClick 2

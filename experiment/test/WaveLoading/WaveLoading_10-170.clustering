@@ -1,0 +1,14 @@
+AppCompatActivity 9
+com.race604.waveloading.MainActivity 9
+com.race604.waveloading.MainActivity.onCreate 1
+com.race604.drawable.wave.WaveDrawable 9
+com.race604.drawable.wave.WaveDrawable.setWaveAmplitude 9
+AnimatorUpdateListener 9
+Animatable 9
+ValueAnimator::AnimatorUpdateListener 9
+Drawable 9
+com.race604.drawable.wave.WaveDrawable.setWaveLength 9
+com.race604.drawable.wave.WaveDrawable.setWaveSpeed 9
+com.race604.drawable.wave.WaveDrawable.setIndeterminate 9
+com.race604.drawable.wave.WaveDrawable.WaveDrawable 9
+com.race604.drawable.wave.WaveDrawable.start 9

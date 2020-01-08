@@ -1,0 +1,8 @@
+ZuulFilter 1
+org.springframework.cloud.samplezuulfilters.UppercaseRequestEntityFilter 1
+org.springframework.cloud.samplezuulfilters.QueryParamPortPreFilter 1
+org.springframework.cloud.samplezuulfilters.AddResponseHeaderFilter 1
+org.springframework.cloud.samplezuulfilters.QueryParamServiceIdPreFilter 1
+org.springframework.cloud.samplezuulfilters.ModifyResponseDataStreamFilter 1
+org.springframework.cloud.samplezuulfilters.ModifyResponseBodyFilter 1
+org.springframework.cloud.samplezuulfilters.PrefixRequestEntityFilter 1

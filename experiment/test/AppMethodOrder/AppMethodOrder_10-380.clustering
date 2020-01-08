@@ -1,0 +1,12 @@
+AppCompatActivity 0
+com.zjw.appmethodorder.BaseActivity 0
+com.zjw.appmethodorder.MyTextView 8
+com.zjw.appmethodorder.MainActivity 8
+View::OnClickListener 8
+com.zjw.appmethodorder.SecondActivity 0
+TextView 8
+Application 1
+com.zjw.appmethodorder.MyApplication 1
+OnClickListener 0
+com.zjw.appmethodorder.SecondActivity.click 0
+com.zjw.appmethodorder.SecondActivity.finish 0

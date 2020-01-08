@@ -1,0 +1,15 @@
+Activity 5
+com.hathy.listsandcards.CardViewActivity 5
+TextView 5
+ImageView 5
+com.hathy.listsandcards.RecyclerViewActivity 5
+RecyclerView::AdapterRVAdapter.PersonViewHolder 5
+com.hathy.listsandcards.RVAdapter 5
+Adapter 5
+ListPerson 5
+RecyclerView::ViewHolder 5
+com.hathy.listsandcards.RVAdapter.PersonViewHolder 5
+CardView 5
+android::test::ApplicationTestCaseApplication 5
+com.hathy.listsandcards.ApplicationTest 5
+ApplicationTestCase 5

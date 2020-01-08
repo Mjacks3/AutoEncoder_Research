@@ -1,0 +1,11 @@
+Activity 3
+net.simonvt.adapterviewanimator.samples.AnimatorSample 3
+net.simonvt.adapterviewanimator.samples.AnimatorSample.onCreate 3
+net.simonvt.adapterviewanimator.AdapterViewAnimator.animate 3
+net.simonvt.adapterviewanimator.AdapterViewAnimator 3
+net.simonvt.adapterviewanimator.AdapterViewAnimator.Callback.onMoveView 3
+net.simonvt.adapterviewanimator.AdapterViewAnimator.Callback 3
+net.simonvt.adapterviewanimator.AdapterViewAnimator.Callback.onAddView 3
+net.simonvt.adapterviewanimator.AdapterViewAnimator.Callback.onRemoveView 3
+View 2
+net.simonvt.adapterviewanimator.AdapterViewAnimator.ViewCopy 3

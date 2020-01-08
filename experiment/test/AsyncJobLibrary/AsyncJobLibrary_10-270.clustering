@@ -1,0 +1,17 @@
+com.arasthel.asyncjob.AsyncJob.AsyncJobBuilder 5
+com.arasthel.asyncjob.AsyncJob.AsyncJobBuilder.create 3
+com.arasthel.asyncjob.AsyncJob.setActionInBackground 5
+com.arasthel.asyncjob.AsyncJob 5
+com.arasthel.asyncjob.AsyncJob.setActionOnResult 5
+com.arasthel.asyncjob.AsyncJob.setExecutorService 5
+com.arasthel.asyncjob.AsyncJob.doOnMainThread 5
+com.arasthel.asyncjob.AsyncJob.OnMainThreadJob 5
+com.arasthel.asyncjob.AsyncJob.OnMainThreadJob.doInUIThread 4
+com.arasthel.asyncjob.AsyncJob.doInBackground 4
+com.arasthel.asyncjob.AsyncJob.OnBackgroundJob 5
+com.arasthel.asyncjob.AsyncJob.OnBackgroundJob.doOnBackground 5
+com.arasthel.asyncjob.AsyncJob.start 4
+com.arasthel.asyncjob.AsyncJob.getExecutorService 4
+com.arasthel.asyncjob.AsyncJob.cancel 5
+com.arasthel.asyncjob.AsyncJob.AsyncResultAction.onResult 5
+com.arasthel.asyncjob.AsyncJob.AsyncResultAction 5

@@ -1,0 +1,10 @@
+AbstractOAuthProvider 5
+se.akerfeldt.okhttp.signpost.OkHttpOAuthProvider 5
+HttpResponse 5
+se.akerfeldt.okhttp.signpost.OkHttpResponseAdapter 5
+HttpRequest 5
+se.akerfeldt.okhttp.signpost.OkHttpRequestAdapter 5
+Interceptor 5
+se.akerfeldt.okhttp.signpost.SigningInterceptor 5
+AbstractOAuthConsumer 5
+se.akerfeldt.okhttp.signpost.OkHttpOAuthConsumer 5

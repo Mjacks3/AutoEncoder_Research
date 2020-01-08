@@ -1,0 +1,12 @@
+com.yinglan.shadowdemo.MainActivity 3
+com.yinglan.shadowimageview.ShadowImageView 4
+RelativeLayout 3
+AppCompatActivity 3
+com.yinglan.shadowimageview.ShadowImageView.dispatchDraw 1
+com.yinglan.shadowimageview.ShadowImageView.getDarkerColor 1
+com.yinglan.shadowdemo.MainActivity.onCreate 1
+com.yinglan.shadowimageview.ShadowImageView.setImageResource 1
+com.yinglan.shadowimageview.ShadowImageView.setImageDrawable 1
+com.yinglan.shadowimageview.ShadowImageView.setImageRadius 1
+ImageView 1
+com.yinglan.shadowimageview.RoundImageView 1

@@ -1,0 +1,6 @@
+PointF 5
+nl.codesoup.cubicbezier.CubicBezierInterpolator 5
+Interpolator 5
+nl.codesoup.cubicbezier.CubicBezierInterpolator.getInterpolation 5
+nl.codesoup.cubicbezier.CubicBezierInterpolator.getBezierCoordinateY 5
+nl.codesoup.cubicbezier.CubicBezierInterpolator.getXForTime 5

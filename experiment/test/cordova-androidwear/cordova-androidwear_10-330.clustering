@@ -1,0 +1,10 @@
+Service 8
+net.trentgardner.cordova.androidwear.WearProviderService 9
+CapabilityClient::OnCapabilityChangedListener 9
+MessageClient::OnMessageReceivedListener 8
+OnMessageReceivedListener 9
+OnCapabilityChangedListener 8
+CordovaPlugin 8
+net.trentgardner.cordova.androidwear.AndroidWearPlugin 8
+net.trentgardner.cordova.androidwear.WearProviderService.onMessageReceived 8
+net.trentgardner.cordova.androidwear.WearProviderService.onCapabilityChanged 8

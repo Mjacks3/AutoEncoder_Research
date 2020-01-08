@@ -1,0 +1,11 @@
+ReactPackage 3
+com.jamesisaac.rnbackgroundtask.BackgroundTaskPackage 3
+Job 3
+com.jamesisaac.rnbackgroundtask.RNJob 0
+HeadlessJsTaskService 0
+com.jamesisaac.rnbackgroundtask.HeadlessTaskService 3
+JobCreator 3
+com.jamesisaac.rnbackgroundtask.RNJobCreator 3
+ReactContextBaseJavaModule 0
+com.jamesisaac.rnbackgroundtask.BackgroundTaskModule 3
+LifecycleEventListener 0

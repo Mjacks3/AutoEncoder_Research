@@ -1,0 +1,12 @@
+org.mitre.ascv.example.Example 7
+org.mitre.ascv.AndroidSegmentedControlView 0
+RadioGroup 7
+org.mitre.ascv.AndroidSegmentedControlView.OnSelectionChangedListener 7
+org.mitre.ascv.AndroidSegmentedControlView.setItems 7
+org.mitre.ascv.example.Example.onCreate 7
+Activity 7
+org.mitre.ascv.AndroidSegmentedControlView.setColors 7
+org.mitre.ascv.AndroidSegmentedControlView.setDefaultSelection 7
+org.mitre.ascv.AndroidSegmentedControlView.setStretch 7
+org.mitre.ascv.AndroidSegmentedControlView.getChecked 7
+org.mitre.ascv.AndroidSegmentedControlView.OnSelectionChangedListener.newSelection 3

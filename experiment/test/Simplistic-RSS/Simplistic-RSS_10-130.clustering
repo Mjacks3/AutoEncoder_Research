@@ -1,0 +1,12 @@
+DefaultHandler 0
+com.shirwa.simplistic_rss.RssHandler 0
+com.shirwa.simplistic_rss.RssReader 6
+com.shirwa.simplistic_rss.RssReader.getItems 0
+com.shirwa.simplistic_rss.RssHandler.getRssItemList 6
+com.shirwa.simplistic_rss.RssItem 0
+com.shirwa.simplistic_rss.RssHandler.startElement 0
+com.shirwa.simplistic_rss.RssItem.setImageUrl 0
+com.shirwa.simplistic_rss.RssHandler.characters 0
+com.shirwa.simplistic_rss.RssItem.setTitle 6
+com.shirwa.simplistic_rss.RssItem.setLink 6
+com.shirwa.simplistic_rss.RssItem.setDescription 6

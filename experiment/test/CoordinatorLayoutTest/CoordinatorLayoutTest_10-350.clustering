@@ -1,0 +1,7 @@
+Adapter 9
+com.example.jack.coordinatorlayouttest.ToolbarAdapter 9
+RecyclerView::AdapterRecyclerView.ViewHolder 9
+AppCompatActivity 9
+com.example.jack.coordinatorlayouttest.ScrollingActivity 9
+com.example.jack.coordinatorlayouttest.ScrollingActivity.onCreate 9
+com.example.jack.coordinatorlayouttest.ScrollingActivity.setToolbar2Alpha 3

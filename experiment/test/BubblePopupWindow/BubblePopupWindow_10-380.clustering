@@ -1,0 +1,17 @@
+PopupWindow 2
+com.yuyh.library.BubblePopupWindow 8
+com.yuyh.bubble.MainActivity 0
+com.yuyh.library.BubbleRelativeLayout 8
+RelativeLayout 0
+LayoutInflater 4
+AppCompatActivity 4
+com.yuyh.library.BubblePopupWindow.show 4
+com.yuyh.bubble.MainActivity.center 4
+com.yuyh.bubble.MainActivity.rightBottom 4
+com.yuyh.bubble.MainActivity.rightTop 4
+com.yuyh.bubble.MainActivity.leftBottom 4
+com.yuyh.bubble.MainActivity.leftTop 4
+com.yuyh.library.BubbleRelativeLayout.setBubbleParams 0
+com.yuyh.library.BubblePopupWindow.getMeasureHeight 0
+com.yuyh.library.BubblePopupWindow.getMeasuredWidth 0
+com.yuyh.library.BubblePopupWindow.setBubbleView 1

@@ -1,0 +1,13 @@
+com.example.horizontalscrollselectedview.MainActivity 9
+com.example.horizontalselectedviewlibrary.HorizontalselectedView 9
+View 9
+com.example.horizontalscrollselectedview.MainActivity.onClick 8
+AppCompatActivity 8
+ListString 9
+View::OnClickListener 9
+com.example.horizontalselectedviewlibrary.HorizontalselectedView.setAnLeftOffset 8
+com.example.horizontalselectedviewlibrary.HorizontalselectedView.setAnRightOffset 8
+com.example.horizontalselectedviewlibrary.HorizontalselectedView.getSelectedString 8
+com.example.horizontalscrollselectedview.MainActivity.onCreate 5
+com.example.horizontalselectedviewlibrary.HorizontalselectedView.setData 9
+OnClickListener 9

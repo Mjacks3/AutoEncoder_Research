@@ -1,0 +1,17 @@
+razerdp.demo.HorizontalActivity 4
+razerdp.demo.HorizontalActivity.onClick 8
+AppCompatActivity 8
+OnClickListener 8
+razerdp.widget.UnderLineLinearLayout.setLineGravity 8
+razerdp.demo.MainActivity.onClick 8
+razerdp.widget.UnderLineLinearLayout 6
+LinearLayout 6
+razerdp.demo.MainActivity 4
+razerdp.demo.UIHelper 8
+razerdp.demo.UIHelper.pxToDip 2
+razerdp.widget.UnderLineLinearLayout.getLineMarginSide 8
+razerdp.widget.UnderLineLinearLayout.setLineMarginSide 8
+razerdp.demo.UIHelper.dipToPx 2
+android::test::ApplicationTestCaseApplication 9
+razerdp.demo.ApplicationTest 4
+ApplicationTestCase 9

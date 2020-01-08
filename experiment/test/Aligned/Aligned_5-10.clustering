@@ -1,0 +1,15 @@
+com.actinarium.aligned.sample.overlay.CheckersLayer.Factory 0
+com.actinarium.aligned.sample.overlay.CheckersLayer 0
+RhythmSpecLayer 0
+com.actinarium.aligned.sample.overlay.LayoutBounds 0
+RhythmSpecLayerFactory 0
+com::actinarium::rhythm::config::RhythmSpecLayerFactoryCheckersLayer 0
+AppCompatActivity 0
+com.actinarium.aligned.sample.MainActivity 0
+android::widget::TextView 0
+com.actinarium.aligned.TextView 0
+TextView 0
+com::actinarium::rhythm::config::RhythmSpecLayerFactoryLayoutBounds 0
+com.actinarium.aligned.sample.overlay.LayoutBounds.Factory 0
+com.actinarium.aligned.sample.overlay.CheckersLayer.Factory.getForConfig 0
+com.actinarium.aligned.sample.overlay.CheckersLayer.CheckersLayer 0

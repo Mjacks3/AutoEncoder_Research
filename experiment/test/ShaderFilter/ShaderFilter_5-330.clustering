@@ -1,0 +1,17 @@
+Activity 3
+com.research.shaderfilter.MainActivity 3
+GLSurfaceView 3
+com.research.shaderfilter.GLLayer.onDrawFrame 4
+com.research.shaderfilter.GLLayer.getVertexShader 0
+com.research.shaderfilter.GLLayer 4
+GLSurfaceView::Renderer 0
+Renderer 0
+com.research.shaderfilter.GLLayer.getFragmentShader 0
+com.research.shaderfilter.RawResourceReader.readTextFileFromRawResource 0
+com.research.shaderfilter.RawResourceReader 0
+com.research.shaderfilter.GLLayer.onSurfaceCreated 3
+com.research.shaderfilter.TextureHelper 3
+com.research.shaderfilter.TextureHelper.loadTexture 4
+com.research.shaderfilter.ShaderHelper 4
+com.research.shaderfilter.ShaderHelper.compileShader 0
+com.research.shaderfilter.ShaderHelper.createAndLinkProgram 0

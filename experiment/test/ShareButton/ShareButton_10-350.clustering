@@ -1,0 +1,10 @@
+com.example.administrator.sharebutton.MainActivity.onCreate 9
+com.example.administrator.sharebutton.ShareButtonView.startAnimation 3
+com.example.administrator.sharebutton.ShareButtonView 9
+com.example.administrator.sharebutton.ShareButtonView.startRevealAnim 9
+com.example.administrator.sharebutton.MainActivity 9
+AppCompatActivity 9
+com.example.administrator.sharebutton.ShareButtonView.reset 9
+AnimatorSet 9
+ValueAnimator 9
+View 9

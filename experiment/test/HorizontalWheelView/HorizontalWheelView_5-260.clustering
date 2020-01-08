@@ -1,0 +1,14 @@
+com.github.shchurov.horizontalwheelview.HorizontalWheelView 1
+com.github.shchurov.horizontalwheelview.HorizontalWheelView.Listener 0
+com.github.shchurov.horizontalwheelview.sample.SampleActivity 0
+View 0
+com.github.shchurov.horizontalwheelview.HorizontalWheelView.setDegreesAngle 0
+com.github.shchurov.horizontalwheelview.HorizontalWheelView.setRadiansAngle 0
+com.github.shchurov.horizontalwheelview.HorizontalWheelView.setCompleteTurnFraction 0
+com.github.shchurov.horizontalwheelview.HorizontalWheelView.Listener.onRotationChanged 2
+com.github.shchurov.horizontalwheelview.HorizontalWheelView.getCompleteTurnFraction 4
+com.github.shchurov.horizontalwheelview.HorizontalWheelView.getDegreesAngle 0
+com.github.shchurov.horizontalwheelview.HorizontalWheelView.getRadiansAngle 2
+Activity 0
+com.github.shchurov.horizontalwheelview.sample.SampleActivity.onCreate 4
+com.github.shchurov.horizontalwheelview.HorizontalWheelView.setListener 0

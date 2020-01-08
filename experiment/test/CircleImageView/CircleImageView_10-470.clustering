@@ -1,0 +1,10 @@
+Paint 2
+com.zuowei.circleimageview.CircleImageView 0
+Path 2
+RectF 2
+ImageView 2
+com.zuowei.circleimageview.CircleImageView.setBackgroundColor 2
+com.zuowei.circleimageview.CircleImageView.setBackgroundDrawable 2
+com.zuowei.circleimageview.CircleImageView.setBackground 2
+AppCompatActivity 2
+com.circleimageview.sample.MainActivity 2

@@ -1,0 +1,12 @@
+ApplicationTestCase 7
+com.dahanis.piechart.ApplicationTest 4
+android::test::ApplicationTestCaseApplication 7
+AppCompatActivity 7
+com.dahanis.piechart.MainActivity 7
+com.dahanis.piechart.PieChartView 7
+com.dahanis.piechart.PieChartView.onDraw 7
+View 7
+com.dahanis.piechart.PieChartView.drawSector 7
+com.dahanis.piechart.PieChartView.drawMarkerLineAndText 7
+com.dahanis.piechart.MainActivity.onCreate 5
+com.dahanis.piechart.PieChartView.setData 4

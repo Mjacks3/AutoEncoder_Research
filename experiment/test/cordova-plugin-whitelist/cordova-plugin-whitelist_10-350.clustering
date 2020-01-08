@@ -1,0 +1,5 @@
+CordovaPlugin 9
+org.apache.cordova.test.WhitelistAPI 9
+org.apache.cordova.whitelist.WhitelistPlugin 9
+org.apache.cordova.whitelist.WhitelistPlugin.shouldAllowRequest 9
+org.apache.cordova.whitelist.WhitelistPlugin.shouldAllowNavigation 9

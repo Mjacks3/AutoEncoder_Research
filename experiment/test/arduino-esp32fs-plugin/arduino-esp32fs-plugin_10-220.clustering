@@ -1,0 +1,5 @@
+Editor 1
+com.esp32.mkspiffs.ESP32FS 1
+Tool 1
+com.esp32.mkspiffs.ESP32FS.getMenuTitle 1
+com.esp32.mkspiffs.ESP32FS.run 0

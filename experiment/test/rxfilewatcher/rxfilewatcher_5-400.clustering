@@ -1,0 +1,7 @@
+de.helmbold.rxfilewatcher.PathObservablesTest 3
+de.helmbold.rxfilewatcher.PathObservablesTest.shouldWatchDirectoryNonRecursively 3
+de.helmbold.rxfilewatcher.PathObservablesTest.shouldCloseWatchService 3
+de.helmbold.rxfilewatcher.PathObservables.watchNonRecursive 3
+de.helmbold.rxfilewatcher.PathObservables 3
+de.helmbold.rxfilewatcher.PathObservablesTest.shouldWatchDirectoryRecursively 3
+de.helmbold.rxfilewatcher.PathObservables.watchRecursive 3

@@ -1,0 +1,11 @@
+ViewFlipper 8
+com.dreamlive.upmarqueeview.UPMarqueeView 0
+com.dreamlive.upmarqueeviewdemo.MainActivity 2
+ListView 0
+ListString 0
+AppCompatActivity 0
+com.dreamlive.upmarqueeview.UPMarqueeView.OnItemClickListener 8
+com.dreamlive.upmarqueeview.UPMarqueeView.setViews 8
+com.dreamlive.upmarqueeviewdemo.MainActivity.onCreate 1
+com.dreamlive.upmarqueeview.UPMarqueeView.OnItemClickListener.onItemClick 8
+com.dreamlive.upmarqueeview.UPMarqueeView.setOnItemClickListener 1

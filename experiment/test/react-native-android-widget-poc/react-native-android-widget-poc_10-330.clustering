@@ -1,0 +1,13 @@
+ReactContextBaseJavaModule 8
+com.androidwidgetpoc.BackgroundTaskBridge 8
+AppWidgetProvider 8
+com.androidwidgetpoc.WidgetProvider 8
+HeadlessJsTaskService 8
+com.androidwidgetpoc.BackgroundTask 8
+ReactApplication 8
+com.androidwidgetpoc.MainApplication 0
+Application 8
+ReactActivity 8
+com.androidwidgetpoc.MainActivity 8
+ReactPackage 8
+com.androidwidgetpoc.BackgroundTaskBridgePackage 8

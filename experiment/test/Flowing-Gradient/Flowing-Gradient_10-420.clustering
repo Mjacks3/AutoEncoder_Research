@@ -1,0 +1,16 @@
+AppCompatActivity 8
+com.dynamitechetan.gradientbg.MainActivity 2
+ApplicationTestCase 8
+com.dynamitechetan.gradientbg.ApplicationTest 8
+android::test::ApplicationTestCaseApplication 8
+View 8
+com.dynamitechetan.flowinggradient.FlowingGradient 8
+RelativeLayout 0
+com.dynamitechetan.flowinggradient.FlowingGradientClass 0
+ImageView 0
+AnimationDrawable 0
+LinearLayout 0
+com.dynamitechetan.flowinggradient.FlowingGradientClass.start 8
+com.dynamitechetan.flowinggradient.FlowingGradientClass.setBackgroundResource 8
+com.dynamitechetan.flowinggradient.ApplicationTest 8
+com.dynamitechetan.flowinggradient.FlowingGradientClass.setAlpha 8

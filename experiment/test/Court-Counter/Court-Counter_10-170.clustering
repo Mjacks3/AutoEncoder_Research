@@ -1,0 +1,11 @@
+com.example.android.courtcounter.MainActivity 9
+com.example.android.courtcounter.MainActivity.addThreeForTeamB 9
+AppCompatActivity 9
+com.example.android.courtcounter.MainActivity.displayForTeamB 9
+com.example.android.courtcounter.MainActivity.resetScore 9
+com.example.android.courtcounter.MainActivity.addTwoForTeamB 9
+com.example.android.courtcounter.MainActivity.addOneForTeamB 9
+com.example.android.courtcounter.MainActivity.addTwoForTeamA 9
+com.example.android.courtcounter.MainActivity.displayForTeamA 9
+com.example.android.courtcounter.MainActivity.addThreeForTeamA 9
+com.example.android.courtcounter.MainActivity.addOneForTeamA 9

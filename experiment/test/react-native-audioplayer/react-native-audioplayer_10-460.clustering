@@ -1,0 +1,13 @@
+NSObject 4
+RNAudioPlayer 4
+RCTBridgeModule 4
+ReactContextBaseJavaModule 4
+com.sh3rawi.RNAudioPlayer.RNAudioPlayerModule 4
+ReactApplicationContext 4
+MediaPlayer 4
+ReactPackage 4
+com.sh3rawi.RNAudioPlayer.RNAudioPlayer 4
+RNAudioPlayer.m 7
+RNAudioPlayer.h 4
+RCTBridgeModule.h 1
+AVFoundation/AVFoundation.h 1

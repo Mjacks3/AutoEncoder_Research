@@ -1,0 +1,11 @@
+Logger 5
+com.example.config.ResourceServerConfiguration 7
+JwtAccessTokenConverter 4
+ResourceServerConfigurerAdapter 5
+TokenStore 5
+com.example.config.JwtConfiguration 4
+AuthorizationServerConfigurerAdapter 5
+com.example.OAuth2Configuration 4
+com.example.OAuth2Configuration.configure 4
+com.example.OAuth2Configuration.tokenStore 4
+com.example.OAuth2Configuration.jwtTokenEnhancer 4

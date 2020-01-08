@@ -1,0 +1,9 @@
+android::test::ApplicationTestCaseApplication 5
+com.scp.frescoforround.ApplicationTest 5
+ApplicationTestCase 5
+AppCompatActivity 5
+com.scp.frescoforround.MainActivity 5
+scp.com.frescobase.ApplicationTest 5
+com.scp.frescoforhierarchy.ApplicationTest 5
+com.scp.frescoforhierarchy.MainActivity 5
+scp.com.frescobase.MainActivity 5

@@ -1,0 +1,16 @@
+io.github.commonq.lib.RefreshLayout 1
+io.github.commonq.lib.OnLoadListener 1
+io.github.commonq.lib.RefreshLayout.dispatchTouchEvent 7
+io.github.commonq.xswiperefresh.MainActivity 1
+SwipeRefreshLayout 1
+io.github.commonq.lib.RefreshLayout.setLoading 1
+io.github.commonq.xswiperefresh.MainActivity.onCreate 1
+io.github.commonq.lib.OnLoadListener.onLoad 1
+android::test::ApplicationTestCaseApplication 7
+io.github.commonq.xswiperefresh.ApplicationTest 7
+ApplicationTestCase 7
+ActionBarActivity 1
+io.github.commonq.lib.ApplicationTest 7
+io.github.commonq.lib.RefreshLayout.setFooterView 1
+io.github.commonq.lib.RefreshLayout.setDirection 1
+io.github.commonq.lib.RefreshLayout.setOnLoadListener 1

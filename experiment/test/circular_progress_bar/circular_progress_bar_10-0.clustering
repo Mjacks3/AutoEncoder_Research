@@ -1,0 +1,15 @@
+com.lylc.widget.circularprogressbar.example.MainActivity 5
+com.lylc.widget.circularprogressbar.CircularProgressBar 5
+ProgressBar 5
+com.lylc.widget.circularprogressbar.CircularProgressBar.ProgressAnimationListener 5
+ActionBarActivity 5
+com.lylc.widget.circularprogressbar.example.MainActivity.onCreate 5
+com.lylc.widget.circularprogressbar.CircularProgressBar.setProgress 5
+com.lylc.widget.circularprogressbar.CircularProgressBar.animateProgressTo 5
+com.lylc.widget.circularprogressbar.CircularProgressBar.ProgressAnimationListener.onAnimationFinish 5
+com.lylc.widget.circularprogressbar.CircularProgressBar.ProgressAnimationListener.onAnimationStart 5
+com.lylc.widget.circularprogressbar.CircularProgressBar.ProgressAnimationListener.onAnimationProgress 5
+com.lylc.widget.circularprogressbar.CircularProgressBar.setTitle 5
+com.lylc.widget.circularprogressbar.CircularProgressBar.setSubTitle 5
+com.lylc.widget.circularprogressbar.CircularProgressBar.CircularProgressBar 5
+com.lylc.widget.circularprogressbar.CircularProgressBar.init 5

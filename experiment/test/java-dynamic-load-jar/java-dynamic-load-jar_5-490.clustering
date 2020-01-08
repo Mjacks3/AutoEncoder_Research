@@ -1,0 +1,9 @@
+cn.trinea.java.dynamic.load.jar2.ClassJar2 0
+cn.trinea.java.dynamic.load.common.CommonClass 4
+cn.trinea.java.dynamic.load.jar2.ChildCommonClass2 0
+cn.trinea.java.dynamic.load.jar2.ClassJar2.getString 0
+cn.trinea.java.dynamic.load.common.CommonClass.getString 0
+URLClassLoader 4
+cn.trinea.java.dynamic.load.host.loader.JarClassLoader 0
+cn.trinea.java.dynamic.load.host.loader.JarClassLoader.loadClass 0
+cn.trinea.java.dynamic.load.host.loader.JarClassLoader.getCommonLibLoader 3

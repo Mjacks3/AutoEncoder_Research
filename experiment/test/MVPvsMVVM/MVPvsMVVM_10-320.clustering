@@ -1,0 +1,17 @@
+upday.mvpvsmvvm.mvp.PresenterTest 7
+upday.mvpvsmvvm.mvp.Presenter 1
+upday.mvpvsmvvm.mvp.IPresenter 7
+upday.mvpvsmvvm.datamodel.IDataModel 5
+upday.mvpvsmvvm.datamodel.DataModel 4
+AppCompatActivity 7
+upday.mvpvsmvvm.mvvm.MVVMActivity 5
+upday.mvpvsmvvm.mvvm.ViewModelTest 2
+upday.mvpvsmvvm.mvvm.ViewModelTest.testGetGreeting_emitsCorrectGreeting 7
+upday.mvpvsmvvm.mvvm.ViewModel 4
+upday.mvpvsmvvm.mvvm.ViewModel.getGreeting 2
+upday.mvpvsmvvm.mvp.IView 9
+upday.mvpvsmvvm.mvp.MVPActivity 5
+Application 2
+upday.mvpvsmvvm.DroidconApplication 2
+upday.mvpvsmvvm.mvp.PresenterTest.testGetGreeting_set_whenViewBinded 7
+upday.mvpvsmvvm.mvp.Presenter.bind 7

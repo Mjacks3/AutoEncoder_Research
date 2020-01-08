@@ -1,0 +1,15 @@
+Activity 9
+com.hathy.listsandcards.CardViewActivity 9
+TextView 9
+ImageView 9
+com.hathy.listsandcards.RecyclerViewActivity 9
+RecyclerView::AdapterRVAdapter.PersonViewHolder 4
+com.hathy.listsandcards.RVAdapter 9
+Adapter 4
+ListPerson 4
+RecyclerView::ViewHolder 9
+com.hathy.listsandcards.RVAdapter.PersonViewHolder 9
+CardView 9
+android::test::ApplicationTestCaseApplication 9
+com.hathy.listsandcards.ApplicationTest 9
+ApplicationTestCase 9

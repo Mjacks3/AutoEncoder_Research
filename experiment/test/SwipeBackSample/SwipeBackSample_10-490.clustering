@@ -1,0 +1,11 @@
+ApplicationTestCase 8
+com.hhl.swipebacksample.ApplicationTest 1
+android::test::ApplicationTestCaseApplication 8
+AppCompatActivity 8
+com.hhl.swipebacksample.BaseActivity 8
+SlidingPaneLayout::PanelSlideListener 8
+PanelSlideListener 8
+com.hhl.swipebacksample.MainActivity 8
+com.hhl.swipebacksample.NextActivity 8
+com.hhl.swipebacksample.BaseActivity.onCreate 8
+com.hhl.swipebacksample.BaseActivity.isSupportSwipeBack 8

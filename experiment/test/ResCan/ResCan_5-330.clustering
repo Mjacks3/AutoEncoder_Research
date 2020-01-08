@@ -1,0 +1,9 @@
+JLabel 0
+Webcam 0
+VideoCapture 0
+Voice 0
+Webcam.main 3
+Webcam.listAllVoices 3
+Webcam.doMagic 3
+Webcam.showResult 3
+Webcam.toBufferedImage 3

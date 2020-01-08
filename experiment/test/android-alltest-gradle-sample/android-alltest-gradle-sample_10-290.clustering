@@ -1,0 +1,15 @@
+ActivityInstrumentationTestCase2 9
+com.soagrowers.android.MyActivityInstrumentation 9
+android::test::ActivityInstrumentationTestCase2MyActivity 9
+Solo 9
+com.soagrowers.android.MyActivityRobotium 3
+Button 3
+com.soagrowers.android.MyActivity 9
+TextView 3
+ActionBarActivity 3
+RobolectricTestRunner 3
+com.soagrowers.android.RobolectricGradleTestRunner 3
+com.soagrowers.android.MyClassTest 9
+com.soagrowers.android.MyClass 9
+com.soagrowers.android.MyClassTest.testAdd 9
+com.soagrowers.android.MyClass.add 9

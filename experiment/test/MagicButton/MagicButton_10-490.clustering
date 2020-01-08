@@ -1,0 +1,8 @@
+FrameLayout 8
+br.com.bloder.magic.view.MagicButton 8
+ApplicationTestCase 8
+br.com.bloder.magic.ApplicationTest 8
+android::test::ApplicationTestCaseApplication 8
+AppCompatActivity 8
+br.com.bloder.magicbutton.MainActivity 8
+br.com.bloder.magicbutton.ApplicationTest 8

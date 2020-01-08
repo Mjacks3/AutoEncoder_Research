@@ -1,0 +1,17 @@
+com.bureak.parallaxswipeback.ParallaxSwipeBackActivity 3
+com.bureak.parallaxswipeback.ParallaxSwipeBackActivity.startParallaxSwipeBackActivty 8
+com.bureak.parallaxswipeback.MainActivity.onCreate 3
+com.bureak.parallaxswipeback.NextActivity.onCreate 3
+com.bureak.parallaxswipeback.NextActivity 3
+com.bureak.parallaxswipeback.MainActivity 3
+SlidingPaneLayout::PanelSlideListener 3
+AppCompatActivity 3
+com.bureak.parallaxswipeback.ParallaxSwipeBackActivity.screenshots 3
+PanelSlideListener 8
+com.bureak.parallaxswipeback.ParallaxSwipeBackActivity.onCreate 7
+com.bureak.parallaxswipeback.ParallaxSwipeBackActivity.dip2px 7
+com.bureak.parallaxswipeback.ParallaxSwipeBackActivity.setContentView 3
+android::test::ApplicationTestCaseApplication 3
+com.bureak.parallaxswipeback.ApplicationTest 2
+ApplicationTestCase 3
+com.bureak.parallaxswipeback.ParallaxSwipeBackActivity.getBitmap 3

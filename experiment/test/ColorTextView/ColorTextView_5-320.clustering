@@ -1,0 +1,7 @@
+AppCompatTextView 2
+com.zhw.cmcm.ColorTextView 2
+AppCompatActivity 3
+com.zhw.cmcm.MainActivity 3
+com.zhw.cmcm.ColorTextView.ColorTextView 2
+com.zhw.cmcm.ColorTextView.color 2
+com.zhw.cmcm.ColorTextView.findAndSetStrColor 3

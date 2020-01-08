@@ -1,0 +1,15 @@
+com.paveldudka.fragments.FastBlurFragment 7
+com.paveldudka.fragments.FastBlurFragment.onCreateView 7
+com.paveldudka.util.FastBlur.doBlur 4
+com.paveldudka.util.FastBlur 7
+com.paveldudka.MainActivity 6
+com.paveldudka.MainActivity.onCreate 7
+com.paveldudka.MainActivity.CustomPagerAdapter.getCount 7
+com.paveldudka.MainActivity.CustomPagerAdapter 0
+com.paveldudka.MainActivity.CustomPagerAdapter.getPageTitle 7
+ViewPager::PageTransformer 7
+com.paveldudka.util.ZoomOutPageTransformer 7
+FragmentActivity 7
+Fragment 0
+com.paveldudka.fragments.RSBlurFragment 7
+FragmentStatePagerAdapter 7

@@ -1,0 +1,10 @@
+AppCompatActivity 7
+org.wangchenlong.bottomdialogdemo.MainActivity 0
+DialogFragment 7
+org.wangchenlong.bottomdialogdemo.BottomDialogFragment 9
+LinearLayout 7
+TextView 7
+ImageView 7
+android::test::ApplicationTestCaseApplication 7
+org.wangchenlong.bottomdialogdemo.ApplicationTest 0
+ApplicationTestCase 7

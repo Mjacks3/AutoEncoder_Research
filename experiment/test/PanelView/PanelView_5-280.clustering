@@ -1,0 +1,15 @@
+com.wingsofts.panelview.MainActivity 1
+com.wingsofts.panelview.PanelView 4
+View 4
+com.wingsofts.panelview.PanelView.onMeasure 4
+com.wingsofts.panelview.PxUtils.dpToPx 3
+com.wingsofts.panelview.PxUtils 4
+AppCompatActivity 4
+android::test::ApplicationTestCaseApplication 3
+com.wingsofts.panelview.ApplicationTest 3
+ApplicationTestCase 3
+com.wingsofts.panelview.PanelView.PanelView 4
+com.wingsofts.panelview.PxUtils.spToPx 4
+com.wingsofts.panelview.MainActivity.onCreate 3
+com.wingsofts.panelview.PanelView.setText 3
+com.wingsofts.panelview.PanelView.setPercent 3

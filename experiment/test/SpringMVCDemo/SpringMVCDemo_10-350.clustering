@@ -1,0 +1,11 @@
+JpaRepository 9
+com.gaussic.repository.BlogRepository 6
+com.gaussic.controller.BlogController 1
+org::springframework::data::jpa::repository::JpaRepositoryBlogEntity,Integer 6
+com.gaussic.repository.UserRepository 3
+com.gaussic.controller.MainController 3
+org::springframework::data::jpa::repository::JpaRepositoryUserEntity,Integer 9
+com.gaussic.controller.MainController.updateUserPost 3
+com.gaussic.repository.UserRepository.updateUser 3
+com.gaussic.controller.BlogController.updateBlogP 3
+com.gaussic.repository.BlogRepository.updateBlog 1

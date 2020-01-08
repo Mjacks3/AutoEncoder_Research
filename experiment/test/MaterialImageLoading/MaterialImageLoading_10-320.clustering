@@ -1,0 +1,15 @@
+AppCompatActivity 5
+com.github.florent37.materialimageanimation.sample.MaterialImageLoadingMainActivity 5
+Random 5
+ImageView 5
+ApplicationTestCase 7
+com.github.florent37.materialimageanimation.ApplicationTest 1
+android::test::ApplicationTestCaseApplication 7
+com.github.florent37.materialimageloading.MaterialImageLoading 1
+ObjectAnimator 9
+ValueAnimator 9
+Drawable 9
+com.github.florent37.materialimageanimation.sample.MaterialImageLoadingMainActivity.onStart 5
+com.github.florent37.materialimageloading.MaterialImageLoading.animate 5
+com.github.florent37.materialimageloading.MaterialImageLoading.setDuration 5
+com.github.florent37.materialimageloading.MaterialImageLoading.start 5

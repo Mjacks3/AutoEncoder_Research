@@ -1,0 +1,12 @@
+FragmentActivity 6
+tree.love.animtabsview.demo.MainActivity 8
+Fragment 8
+tree.love.animtabsview.demo.MainActivity.PlaceholderFragment 8
+tree.love.animtabsview.AnimTabsView 7
+tree.love.animtabsview.AnimTabsView.selecteItem 8
+RelativeLayout 8
+tree.love.animtabsview.AnimTabsView.getItemView 8
+tree.love.animtabsview.AnimTabsView.onLayout 8
+tree.love.animtabsview.demo.MainActivity.PlaceholderFragment.onCreateView 6
+tree.love.animtabsview.AnimTabsView.addItem 8
+tree.love.animtabsview.AnimTabsView.setOnAnimTabsItemViewChangeListener 8

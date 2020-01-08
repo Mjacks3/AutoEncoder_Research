@@ -1,0 +1,13 @@
+View 0
+com.czy.zydownloading.ZYDownloading 2
+com.czy.zydownloading.ZYDownloading.Point 0
+Paint 0
+ValueAnimator 0
+com.chenzy.demo.MainActivity 2
+Path 0
+View::OnClickListener 2
+Activity 2
+OnClickListener 0
+com.chenzy.demo.MainActivity.onClick 2
+com.czy.zydownloading.ZYDownloading.startDownload 1
+com.czy.zydownloading.ZYDownloading.setProgress 1

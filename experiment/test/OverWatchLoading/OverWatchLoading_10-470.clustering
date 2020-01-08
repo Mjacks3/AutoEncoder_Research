@@ -1,0 +1,8 @@
+AppCompatActivity 2
+com.czy.demo.MainActivity 2
+com.czy.demo.MainActivity.onCreate 0
+com.chenzy.owloading.OWLoadingView.startAnim 0
+com.chenzy.owloading.OWLoadingView 0
+com.chenzy.owloading.OWLoadingView.onWindowFocusChanged 2
+SurfaceView 2
+com.chenzy.owloading.OWLoadingView.stopAnim 0

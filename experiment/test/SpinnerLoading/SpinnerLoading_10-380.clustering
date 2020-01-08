@@ -1,0 +1,17 @@
+com.lusfold.spinnerloading.utils.SpinnerLoadingUtils 2
+com.lusfold.spinnerloading.utils.SpinnerLoadingUtils.getVector 0
+com.lusfold.spinnerloading.SpinnerLoading.onApplyTrans 2
+com.lusfold.spinnerloading.utils.SpinnerLoadingUtils.getLength 0
+com.lusfold.spinnerloading.Animation.CallbackAnimation.TransformationListener 0
+com.lusfold.spinnerloading.SpinnerLoading 0
+View 2
+com.lusfold.spinnerloading.Animation.CallbackAnimation 2
+com.lusfold.spinnerloading.Animation.CallbackAnimation.applyTransformation 2
+Animation 2
+com.lusfold.spinnerloading.Animation.CallbackAnimation.TransformationListener.onApplyTrans 1
+AppCompatActivity 4
+sample.MainActivity 1
+ApplicationTestCase 1
+com.lusfold.spinnerloading.ApplicationTest 8
+android::test::ApplicationTestCaseApplication 1
+com.lusfold.spinnerloading.utils.SpinnerLoadingUtils.getDistance 0

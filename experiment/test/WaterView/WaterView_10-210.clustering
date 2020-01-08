@@ -1,0 +1,10 @@
+com.ltb.laer.waterview.MainActivity 0
+com.ltb.laer.waterview.view.WaterView 4
+FrameLayout 0
+com.ltb.laer.waterview.model.Water 0
+com.ltb.laer.waterview.MainActivity.onRest 8
+com.ltb.laer.waterview.view.WaterView.setWaters 0
+com.ltb.laer.waterview.MainActivity.onCreate 8
+com.ltb.laer.waterview.model.Water.getNumber 4
+com.ltb.laer.waterview.model.Water.getName 6
+AppCompatActivity 4

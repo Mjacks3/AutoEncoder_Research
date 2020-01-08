@@ -1,0 +1,10 @@
+AppCompatActivity 9
+org.wangchenlong.bottomdialogdemo.MainActivity 3
+DialogFragment 9
+org.wangchenlong.bottomdialogdemo.BottomDialogFragment 1
+LinearLayout 9
+TextView 9
+ImageView 9
+android::test::ApplicationTestCaseApplication 9
+org.wangchenlong.bottomdialogdemo.ApplicationTest 3
+ApplicationTestCase 9

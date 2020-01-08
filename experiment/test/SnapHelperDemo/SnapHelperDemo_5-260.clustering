@@ -1,0 +1,17 @@
+com.czm.snaphelperdemo.SnapHelperActivity 1
+com.czm.snaphelperdemo.SnapHelperActivity.onCreate 4
+RecyclerView 1
+ArrayListString 1
+LinearLayoutManager 1
+com.czm.snaphelperdemo.GallerySnapHelper 1
+AppCompatActivity 1
+com.czm.snaphelperdemo.GallerySnapHelper.attachToRecyclerView 2
+SnapHelper 1
+RecyclerView::AdapterSnapHelperAdapter.GalleryViewHoler 1
+com.czm.snaphelperdemo.SnapHelperAdapter 0
+LayoutInflater 1
+Adapter 1
+com.czm.snaphelperdemo.GallerySnapHelper.createSnapScroller 4
+com.czm.snaphelperdemo.GallerySnapHelper.calculateDistanceToFinalSnap 1
+com.czm.snaphelperdemo.GallerySnapHelper.findTargetSnapPosition 0
+com.czm.snaphelperdemo.GallerySnapHelper.findSnapView 1

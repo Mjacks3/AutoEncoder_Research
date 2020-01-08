@@ -1,0 +1,17 @@
+android::support::v7::widget::RecyclerView::AdapterViewHolder 6
+com.leohan.refresh.RecyclerViewAdapter 6
+Adapter 4
+SwipeRefreshLayout 8
+com.leohan.refresh.MainActivity 0
+AppCompatActivity 8
+Toolbar 8
+RecyclerView 8
+com.leohan.refresh.MainActivity.onCreate 8
+com.leohan.refresh.MainActivity.initView 9
+com.leohan.refresh.MainActivity.initData 8
+com.leohan.refresh.RecyclerViewAdapter.OnItemClickListener 8
+com.leohan.refresh.RecyclerViewAdapter.getItemViewType 6
+com.leohan.refresh.RecyclerViewAdapter.getItemCount 4
+com.leohan.refresh.RecyclerViewAdapter.onBindViewHolder 8
+com.leohan.refresh.RecyclerViewAdapter.OnItemClickListener.onItemClick 6
+com.leohan.refresh.RecyclerViewAdapter.OnItemClickListener.onItemLongClick 6

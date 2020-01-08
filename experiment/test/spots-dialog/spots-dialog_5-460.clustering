@@ -1,0 +1,17 @@
+Activity 2
+dmax.dialog.sample.MainActivity 2
+View::OnClickListener 1
+OnClickListener 2
+dmax.dialog.SpotsDialog 2
+dmax.dialog.ProgressLayout 2
+FrameLayout 3
+dmax.dialog.SpotsDialog.Builder 2
+AlertDialog 2
+dmax.dialog.SpotsDialog.setMessage 2
+dmax.dialog.ProgressLayout.getSpotsCount 2
+dmax.dialog.sample.MainActivity.onClick 2
+dmax.dialog.SpotsDialog.Builder.build 1
+dmax.dialog.SpotsDialog.Builder.setCancelable 2
+dmax.dialog.SpotsDialog.Builder.setContext 2
+dmax.dialog.SpotsDialog.Builder.setTheme 2
+dmax.dialog.SpotsDialog.Builder.setMessage 1

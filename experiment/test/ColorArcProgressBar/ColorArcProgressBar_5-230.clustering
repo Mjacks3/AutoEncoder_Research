@@ -1,0 +1,12 @@
+AppCompatActivity 1
+com.shinelw.colorarcprogressbar.DemoActivity 3
+ApplicationTestCase 3
+com.shinelw.library.ApplicationTest 4
+android::test::ApplicationTestCaseApplication 4
+com.shinelw.library.ColorArcProgressBar 1
+View 1
+com.shinelw.colorarcprogressbar.DemoActivity.onCreate 1
+com.shinelw.library.ColorArcProgressBar.ColorArcProgressBar 3
+com.shinelw.library.ColorArcProgressBar.setCurrentValues 1
+com.shinelw.colorarcprogressbar.ApplicationTest 4
+com.shinelw.library.ColorArcProgressBar.setMaxValues 1

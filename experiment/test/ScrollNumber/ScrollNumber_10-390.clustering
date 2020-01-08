@@ -1,0 +1,15 @@
+top.wuhaojie.scrollnumber.MainActivity 5
+top.wuhaojie.scrollnumber.MainActivity.onCreate 3
+AppCompatActivity 3
+top.wuhaojie.library.MultiScrollNumber 3
+top.wuhaojie.library.MultiScrollNumber.setTextColors 3
+LinearLayout 3
+top.wuhaojie.library.MultiScrollNumber.setScrollVelocity 1
+top.wuhaojie.library.MultiScrollNumber.setTextFont 1
+top.wuhaojie.library.MultiScrollNumber.setNumber 1
+top.wuhaojie.library.MultiScrollNumber.MultiScrollNumber 3
+ApplicationTestCase 9
+top.wuhaojie.library.ApplicationTest 5
+android::test::ApplicationTestCaseApplication 9
+top.wuhaojie.scrollnumber.ApplicationTest 5
+top.wuhaojie.library.MultiScrollNumber.setTextSize 3

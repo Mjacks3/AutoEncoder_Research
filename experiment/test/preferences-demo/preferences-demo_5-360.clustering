@@ -1,0 +1,16 @@
+de.jakobulbrich.preferences.TimePreferenceDialogFragmentCompat 1
+de.jakobulbrich.preferences.TimePreferenceDialogFragmentCompat.onDialogClosed 1
+de.jakobulbrich.preferences.TimePreference 1
+de.jakobulbrich.preferences.TimePreference.onSetInitialValue 3
+DialogPreference 2
+de.jakobulbrich.preferences.TimePreference.setTime 2
+ApplicationTestCase 3
+de.jakobulbrich.preferences.ApplicationTest 1
+android::test::ApplicationTestCaseApplication 3
+de.jakobulbrich.preferences.PreferenceFragmentCustom 2
+PreferenceDialogFragmentCompat 3
+PreferenceFragmentCompat 2
+AppCompatActivity 1
+de.jakobulbrich.preferences.MainActivity 1
+de.jakobulbrich.preferences.PreferenceFragmentCustom.onDisplayPreferenceDialog 1
+de.jakobulbrich.preferences.TimePreferenceDialogFragmentCompat.newInstance 3

@@ -1,0 +1,10 @@
+me.panpf.switchbutton.SwitchButton 6
+me.panpf.switchbutton.SwitchButton.getCompoundPaddingRight 6
+me.panpf.switchbutton.SwitchButton.onMeasure 6
+Activity 6
+me.panpf.switchbutton.sample.MainActivity 6
+me.panpf.switchbutton.SwitchButton.SwitchButton 6
+me.panpf.switchbutton.SwitchButton.setChecked 6
+me.panpf.switchbutton.SwitchButton.setDrawableResIds 6
+me.panpf.switchbutton.SwitchButton.setDrawables 8
+CompoundButton 8

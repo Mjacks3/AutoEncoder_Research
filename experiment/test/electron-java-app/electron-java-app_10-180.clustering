@@ -1,0 +1,5 @@
+UI 7
+org.strangeway.electronvaadin.app.MainUI 7
+BootstrapListener 7
+org.strangeway.electronvaadin.server.AppServlet 7
+VaadinServlet 7

@@ -1,0 +1,6 @@
+Exception 1
+io.botan.sdk.BotanException 1
+io.botan.sdk.BotanIT 1
+io.botan.sdk.Botan 1
+io.botan.sdk.BotanIT.simpleAPIRequestShouldNotFail 1
+io.botan.sdk.Botan.track 1

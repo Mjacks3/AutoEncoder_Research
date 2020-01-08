@@ -1,0 +1,12 @@
+AppCompatActivity 2
+com.gjiazhe.springrecyclerview.sample.HorizontalActivity 2
+com.gjiazhe.springrecyclerview.sample.MainActivity 2
+com.gjiazhe.springrecyclerview.sample.StaggeredGridLayoutActivity 8
+com.gjiazhe.springrecyclerview.sample.VerticalActivity 8
+com.gjiazhe.springrecyclerview.sample.VerticalActivity.onCreate 2
+com.gjiazhe.springrecyclerview.SpringRecyclerView.setLayoutManager 2
+com.gjiazhe.springrecyclerview.sample.StaggeredGridLayoutActivity.onCreate 2
+com.gjiazhe.springrecyclerview.sample.HorizontalActivity.onCreate 8
+com.gjiazhe.springrecyclerview.SpringRecyclerView 2
+android.support.v7.widget.TempRecyclerView 8
+RecyclerView 2

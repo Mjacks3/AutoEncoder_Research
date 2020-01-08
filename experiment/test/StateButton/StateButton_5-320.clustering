@@ -1,0 +1,12 @@
+AppCompatButton 0
+com.deadline.statebutton.StateButton 3
+StateListDrawable 0
+ColorStateList 0
+AppCompatImageView 1
+com.deadline.statebutton.StateImageView 0
+com.deadline.statebutton.StateButton.onMeasure 3
+com.deadline.statebutton.StateButton.setRound 2
+com.deadline.statebutton.StateButton.setRadius 2
+com.deadline.statebutton.StateImageView.StateImageView 1
+com.deadline.statebutton.StateImageView.setStateBackground 1
+com.deadline.statebutton.StateImageView.setAnimationDuration 1

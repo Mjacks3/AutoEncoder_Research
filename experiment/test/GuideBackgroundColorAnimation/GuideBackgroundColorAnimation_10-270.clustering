@@ -1,0 +1,17 @@
+FragmentStatePagerAdapter 5
+cn.taurusxi.guidebackgroundcoloranimation.sample.SampleActivity.MyFragmentStatePager 4
+FragmentActivity 5
+cn.taurusxi.guidebackgroundcoloranimation.sample.SampleActivity 4
+Fragment 3
+cn.taurusxi.guidebackgroundcoloranimation.sample.SampleActivity.MyFragment 4
+ViewPager 5
+cn.taurusxi.guidebackgroundcoloranimation.library.ColorAnimationView 0
+ValueAnimator::AnimatorUpdateListener 5
+Animator::AnimatorListener 5
+ValueAnimator 5
+View 0
+cn.taurusxi.guidebackgroundcoloranimation.sample.SampleActivity.onCreate 0
+cn.taurusxi.guidebackgroundcoloranimation.library.ColorAnimationView.setmViewPager 5
+cn.taurusxi.guidebackgroundcoloranimation.library.ColorAnimationView.setOnPageChangeListener 5
+AnimatorUpdateListener 8
+AnimatorListener 3

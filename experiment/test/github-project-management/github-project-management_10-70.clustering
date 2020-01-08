@@ -1,0 +1,7 @@
+com.sample.github.GithubApplicationTests 1
+com.sample.github.GithubApplicationTests.contextLoads 1
+com.sample.github.GithubApplication.main 4
+com.sample.github.GithubApplication 1
+JpaRepository 1
+com.sample.github.user.UserRepository 1
+org::springframework::data::jpa::repository::JpaRepositoryUser,Long 1

@@ -1,0 +1,17 @@
+jp.co.recruit_lifestyle.sample.MainActivity 1
+jp.co.recruit_lifestyle.sample.MainActivity.onCreate 9
+AppCompatActivity 1
+jp.co.recruit_lifestyle.android.widget.PlayPauseButton 9
+jp.co.recruit_lifestyle.android.widget.PlayPauseButton.setOnControlStatusChangeListener 5
+View 1
+jp.co.recruit_lifestyle.android.widget.PlayPauseButton.OnControlStatusChangeListener 5
+ApplicationTestCase 1
+jp.co.recruit_lifestyle.sample.ApplicationTest 1
+android::test::ApplicationTestCaseApplication 1
+jp.co.recruit_lifestyle.android.widget.PlayPauseButton.onTouchEvent 5
+jp.co.recruit_lifestyle.android.widget.PlayPauseButton.onRestoreInstanceState 5
+jp.co.recruit_lifestyle.android.widget.PlayPauseButton.setPlayed 1
+jp.co.recruit_lifestyle.android.widget.PlayPauseButton.startAnimation 1
+jp.co.recruit_lifestyle.android.widget.PlayPauseButton.OnControlStatusChangeListener.onStatusChange 1
+jp.co.recruit_lifestyle.android.widget.PlayPauseButton.onSaveInstanceState 1
+jp.co.recruit_lifestyle.android.widget.PlayPauseButton.isPlayed 9

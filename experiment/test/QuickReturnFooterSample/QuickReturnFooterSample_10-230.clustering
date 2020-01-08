@@ -1,0 +1,17 @@
+AppCompatActivity 2
+com.example.quickreturnbehavior.MainActivity 6
+RecyclerView::AdapterSimpleStringRecyclerViewAdapter.ViewHolder 2
+com.example.quickreturnbehavior.SimpleStringRecyclerViewAdapter 6
+Adapter 2
+ApplicationTestCase 2
+com.example.quickreturnbehavior.ApplicationTest 6
+android::test::ApplicationTestCaseApplication 2
+CoordinatorLayout::BehaviorView 6
+com.example.quickreturnbehavior.QuickReturnFooterBehavior 6
+Behavior 6
+com.example.quickreturnbehavior.SimpleStringRecyclerViewAdapter.ViewHolder 6
+RecyclerView::ViewHolder 2
+View 2
+TextView 2
+com.example.quickreturnbehavior.SimpleStringRecyclerViewAdapter.onCreateViewHolder 6
+com.example.quickreturnbehavior.SimpleStringRecyclerViewAdapter.ViewHolder.ViewHolder 4

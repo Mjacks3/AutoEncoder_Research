@@ -1,0 +1,13 @@
+com.koali.service.UserService 7
+com.koali.service.Impl.UserServiceImpl 1
+com.koali.service.UserServiceTest 7
+com.koali.service.UserServiceTest.selectUserByNameService 7
+com.koali.dao.UserDaoTest.selectByName 7
+com.koali.pojo.User.toString 1
+com.koali.pojo.User 1
+com.koali.realm.myrealm 7
+com.koali.dao.UserDaoTest 7
+com.koali.realm.myrealm.doGetAuthenticationInfo 1
+AuthorizingRealm 1
+com.koali.pojo.User.getPassword 1
+com.koali.pojo.User.getUsername 1

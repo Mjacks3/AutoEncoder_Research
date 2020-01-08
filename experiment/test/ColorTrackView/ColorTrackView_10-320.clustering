@@ -1,0 +1,16 @@
+com.zhy.viewpagerIndicator.ViewPagerUseActivity 7
+com.zhy.viewpagerIndicator.TabFragment 7
+Fragment 4
+com.zhy.viewpagerIndicator.ViewPagerUseActivity.onCreate 5
+FragmentActivity 5
+com.zhy.view.ColorTrackView 2
+com.zhy.view.ColorTrackView.setDirection 5
+com.zhy.viewpagerIndicator.SimpleUseActivity.startRightChange 2
+com.zhy.viewpagerIndicator.SimpleUseActivity.startLeftChange 2
+View 5
+com.zhy.viewpagerIndicator.SimpleUseActivity 5
+com.zhy.view.ColorTrackView.setProgress 9
+com.zhy.viewpagerIndicator.TabFragment.newInstance 9
+Activity 5
+ListActivity 7
+com.zhy.viewpagerIndicator.HomeActivity 7

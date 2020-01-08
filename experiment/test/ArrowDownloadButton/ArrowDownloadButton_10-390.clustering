@@ -1,0 +1,17 @@
+com.fenjuly.arrowdownloadbutton.MainActivity 5
+com.fenjuly.arrowdownloadbutton.MainActivity.onCreate 5
+ActionBarActivity 5
+com.fenjuly.library.ArrowDownloadButton 9
+com.fenjuly.library.ArrowDownloadButton.startAnimating 8
+View 3
+com.fenjuly.library.ArrowDownloadButton.setProgress 8
+com.fenjuly.library.ArrowDownloadButton.reset 8
+ApplicationTestCase 5
+com.fenjuly.library.ApplicationTest 5
+android::test::ApplicationTestCaseApplication 5
+com.fenjuly.arrowdownloadbutton.ApplicationTest 5
+com.fenjuly.library.ArrowDownloadButton.onDraw 9
+com.fenjuly.library.ArrowDownloadButton.drawArrow 9
+com.fenjuly.library.ArrowDownloadButton.animating 9
+com.fenjuly.library.ArrowDownloadButton.initializePaints 9
+com.fenjuly.library.ArrowDownloadButton.initializePoints 5

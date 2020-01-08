@@ -1,0 +1,16 @@
+com.library.tangxiaolv.hf.HFuncTests 4
+com.library.tangxiaolv.hf.HFuncTests.filterParallel 5
+com.library.tangxiaolv.hf.HFunc.filterParallel 5
+com.library.tangxiaolv.hf.HFunc 5
+com.library.tangxiaolv.hf.HFunc.filter 5
+com.library.tangxiaolv.hf.HFuncTests.filter 5
+com.library.tangxiaolv.hf.HFunc.map 8
+com.library.tangxiaolv.hf.HFunc.Func2.call 5
+com.library.tangxiaolv.hf.HFunc.mapParallel 5
+com.library.tangxiaolv.hf.HFunc.reduceParallel 4
+com.library.tangxiaolv.hf.HFunc.reduce 4
+com.library.tangxiaolv.hf.HFunc.Func2 5
+com.library.tangxiaolv.hf.HFuncTests.mapParallel 4
+com.library.tangxiaolv.hf.HFuncTests.reduce 5
+com.library.tangxiaolv.hf.HFuncTests.map 5
+com.library.tangxiaolv.hf.HFuncTests.reduceParallel 3

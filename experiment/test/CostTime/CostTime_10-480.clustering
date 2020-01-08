@@ -1,0 +1,16 @@
+MapString,Long 3
+me.wangyuwei.costtime.TimeCache 0
+AppCompatActivity 3
+wangyuwei.me.demo.MainActivity 3
+wangyuwei.costtime.TimeCache 0
+ClassFileTransformer 3
+wangyuwei.costtime.CostClassFileTransformer 0
+wangyuwei.demo.Demo3 4
+wangyuwei.demo.Demo2.main 3
+ClassLoader 5
+wangyuwei.demo.Any 3
+wangyuwei.demo.Any.show 0
+wangyuwei.demo.Any.getAge 0
+ClassVisitor 3
+plugin.CostClassVisitor 3
+wangyuwei.costtime.CostClassVisitor 3

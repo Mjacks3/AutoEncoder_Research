@@ -1,0 +1,8 @@
+com.akaita.android.easylauncher.filter.EasyLauncherFilter 5
+com.akaita.android.easylauncher.filter.GrayscaleFilter 5
+com.akaita.android.easylauncher.filter.ColorRibbonFilter 5
+Serializable 5
+com.akaita.android.easylauncher.plugin.EasyLauncherConfig 5
+com.akaita.android.easylauncher.filter.OverlayFilter 5
+Activity 5
+com.akaita.android.easylauncher.example.MainActivity 5

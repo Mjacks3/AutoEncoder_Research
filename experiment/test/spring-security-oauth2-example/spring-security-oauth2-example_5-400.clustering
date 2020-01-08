@@ -1,0 +1,9 @@
+WebSecurityConfigurerAdapter 3
+cn.com.sina.alan.oauth.config.AlanOAuthWebConfig 3
+AuthenticationProvider 3
+cn.com.sina.alan.oauth.security.AlanSsoAuthProvider 3
+AuthorizationServerConfigurerAdapter 3
+cn.com.sina.alan.oauth.config.OAuthSecurityConfig 3
+cn.com.sina.alan.oauth.config.OAuthSecurityConfig.configure 3
+cn.com.sina.alan.oauth.config.OAuthSecurityConfig.clientDetails 3
+cn.com.sina.alan.oauth.config.OAuthSecurityConfig.tokenStore 3

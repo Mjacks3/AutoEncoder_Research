@@ -1,0 +1,14 @@
+com.example.numberseekbar.NumberSeekBar 3
+com.example.numberseekbar.NumberSeekBar.setBitmap 3
+com.example.numberseekbar.NumberSeekBar.setPadding 4
+com.example.numberseekbar.NumberSeekBar.onDraw 3
+com.example.numberseekbar.NumberSeekBar.setMyPadding 3
+com.example.numberseekbar.MainActivity.onCreate 2
+com.example.numberseekbar.MainActivity 4
+com.example.numberseekbar.NumberSeekBar.setTextSize 4
+com.example.numberseekbar.NumberSeekBar.setTextColor 4
+com.example.numberseekbar.NumberSeekBar.setImagePadding 4
+com.example.numberseekbar.NumberSeekBar.setTextPadding 4
+SeekBar 4
+Handler 4
+Activity 4

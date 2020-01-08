@@ -1,0 +1,10 @@
+Application 3
+com.uphyca.gradle.android.aspectj.MyApplication 3
+com.uphyca.gradle.android.aspectj.MoodIndicator.Moody 3
+com.uphyca.gradle.android.aspectj.MoodIndicator.MoodyImpl 3
+AppCompatActivity 3
+com.uphyca.gradle.android.aspectj.MyActivity 3
+com.uphyca.gradle.android.aspectj.Greeter 3
+com.uphyca.gradle.android.aspectj.HelloWorld 3
+ActivityTestRulecom.uphyca.gradle.android.aspectj.MyActivity 3
+com.uphyca.gradle.android.aspectj.MyActivityTest 3

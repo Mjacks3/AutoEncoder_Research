@@ -1,0 +1,8 @@
+com.wacai.springboot.dubbo.autoconfigure.DubboAutoConfiguration 7
+com.wacai.springboot.dubbo.commands.DubboServiceLatchCommandLineRunner 7
+CommandLineRunner 7
+Logger 5
+com.wacai.springboot.dubbo.autoconfigure.DubboAutoConfiguration.configureDubboServiceLatchCommandLineRunner 7
+com.wacai.springboot.dubbo.commands.DubboServiceLatchCommandLineRunner.setDomain 7
+com.wacai.springboot.dubbo.commands.DubboServiceLatchCommandLineRunner.run 5
+com.wacai.springboot.dubbo.commands.DubboServiceLatchCommandLineRunner.getDomain 7

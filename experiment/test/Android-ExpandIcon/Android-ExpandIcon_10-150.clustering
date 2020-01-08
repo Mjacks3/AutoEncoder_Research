@@ -1,0 +1,13 @@
+GestureDetector::OnGestureListener 5
+com.github.zagum.expandicon.sample.SampleActivity 7
+AppCompatActivity 5
+OnGestureListener 5
+com.github.zagum.expandicon.sample.SampleActivity.onCreate 5
+com.github.zagum.expandicon.sample.SampleActivity.onScroll 9
+com.github.zagum.expandicon.ExpandIconView.setFraction 7
+com.github.zagum.expandicon.ExpandIconView 8
+View 5
+com.github.zagum.expandicon.ExpandIconView.setAnimationDuration 5
+com.github.zagum.expandicon.ExpandIconView.switchState 7
+com.github.zagum.expandicon.ExpandIconView.ExpandIconView 9
+com.github.zagum.expandicon.ExpandIconView.setState 5

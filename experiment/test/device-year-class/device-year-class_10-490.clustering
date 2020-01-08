@@ -1,0 +1,11 @@
+com.facebook.device.yearclass.DeviceInfo 1
+com.facebook.device.yearclass.DeviceInfo.getTotalMemory 1
+com.facebook.device.yearclass.YearClassTest.testTotalRAM 1
+com.facebook.device.yearclass.YearClass.get 8
+com.facebook.device.yearclass.sample.MainActivity.onCreate 0
+com.facebook.device.yearclass.YearClass 0
+com.facebook.device.yearclass.sample.MainActivity 1
+Activity 8
+com.facebook.device.yearclass.DeviceInfo.getCPUMaxFreqKHz 0
+com.facebook.device.yearclass.YearClassTest 8
+com.facebook.device.yearclass.DeviceInfo.getNumberOfCPUCores 8

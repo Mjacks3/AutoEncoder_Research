@@ -1,0 +1,5 @@
+AppCompatActivity 4
+com.example.yone.materialdesign.DetailActivity 1
+com.example.yone.materialdesign.MainActivity 1
+com.example.yone.materialdesign.MainActivity.onCreate 4
+com.example.yone.materialdesign.MainActivity.setupDrawerContent 4

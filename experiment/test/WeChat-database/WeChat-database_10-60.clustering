@@ -1,0 +1,11 @@
+com.lixin.wechat.MainActivity 7
+com.lixin.wechat.MyApplication 4
+Application 0
+com.lixin.wechat.MainActivity.copyFile 7
+com.lixin.wechat.MainActivity.onCreate 0
+com.lixin.wechat.MyApplication.getContextObject 0
+com.lixin.wechat.MainActivity.execRootCmd 7
+AppCompatActivity 7
+com.lixin.wechat.LogUtil.e 7
+com.lixin.wechat.LogUtil 7
+com.lixin.wechat.MainActivity.getMD5 7

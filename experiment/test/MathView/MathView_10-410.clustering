@@ -1,0 +1,12 @@
+io.github.kexanie.mathviewtest.MainActivity 1
+io.github.kexanie.mathviewtest.MainActivity.onResume 9
+io.github.kexanie.library.MathView.setText 1
+io.github.kexanie.library.MathView.MathView 1
+io.github.kexanie.library.MathView 1
+io.github.kexanie.library.MathView.setEngine 9
+WebView 9
+AppCompatActivity 1
+ApplicationTestCase 1
+io.github.kexanie.library.ApplicationTest 9
+android::test::ApplicationTestCaseApplication 1
+io.github.kexanie.mathviewtest.ApplicationTest 9

@@ -320,7 +320,7 @@ if args.experiment:
                         "19": []
                         }
     """
-    models = [5,10]
+    models = [10]
     for num_clusters in models:
         for r0, d0, f0 in os.walk("experiment/"+ str(num_clusters)):
             print(r0)

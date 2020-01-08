@@ -1,0 +1,12 @@
+FrameLayout 5
+com.alexjlockwood.example.playpauseanimation.PlayPauseView 7
+com.alexjlockwood.example.playpauseanimation.MainActivity 5
+Drawable 5
+com.alexjlockwood.example.playpauseanimation.PlayPauseDrawable 5
+com.alexjlockwood.example.playpauseanimation.MainActivity.onCreate 5
+AppCompatActivity 5
+com.alexjlockwood.example.playpauseanimation.PlayPauseView.toggle 9
+com.alexjlockwood.example.playpauseanimation.PlayPauseDrawable.isPlay 5
+com.alexjlockwood.example.playpauseanimation.PlayPauseDrawable.getPausePlayAnimator 5
+com.alexjlockwood.example.playpauseanimation.PlayPauseView.onDraw 5
+com.alexjlockwood.example.playpauseanimation.PlayPauseDrawable.draw 5

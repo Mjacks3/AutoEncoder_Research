@@ -1,0 +1,16 @@
+AppCompatActivity 5
+com.recker.flybannerdemo.MainActivity 7
+ApplicationTestCase 5
+com.recker.flybannerdemo.ApplicationTest 5
+android::test::ApplicationTestCaseApplication 7
+RelativeLayout 5
+com.recker.flybanner.FlyBanner 5
+com.recker.flybanner.FlyBanner.setPoinstPosition 7
+com.recker.flybanner.FlyBanner.startAutoPlay 5
+com.recker.flybanner.FlyBanner.dispatchTouchEvent 7
+com.recker.flybanner.ApplicationTest 5
+com.recker.flybanner.FlyBanner.stopAutoPlay 5
+com.recker.flybannerdemo.MainActivity.onCreate 7
+com.recker.flybanner.FlyBanner.setImages 5
+com.recker.flybanner.FlyBanner.setOnItemClickListener 5
+com.recker.flybanner.FlyBanner.setImagesUrl 5

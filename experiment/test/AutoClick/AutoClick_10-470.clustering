@@ -1,0 +1,14 @@
+com::robotium::solo::Solo 0
+com.heyniu.auto.Solo 0
+InstrumentationTestRunner 8
+com.heyniu.auto.InstrumentationTestRunner 2
+android::test::InstrumentationTestRunner 5
+com::robotium::solo::Solo::Config 2
+com.heyniu.auto.Solo.Config 2
+com.heyniu.auto.Solo.Config.Mode 2
+Config 2
+ActivityInstrumentationTestCase2 8
+application.iteration.Iteration 0
+com.heyniu.auto.Solo.login 8
+com.heyniu.auto.Solo.scrollLeft 0
+com.heyniu.auto.Solo.acrossForShellCommand 0

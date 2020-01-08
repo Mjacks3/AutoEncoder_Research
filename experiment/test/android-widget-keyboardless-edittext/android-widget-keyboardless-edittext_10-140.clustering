@@ -1,0 +1,10 @@
+net.simplyadvanced.widgets.KeyboardlessEditText 7
+net.simplyadvanced.utils.ReflectionUtils 7
+net.simplyadvanced.widgets.KeyboardlessEditText2.onTouchEvent 7
+EditText 7
+net.simplyadvanced.utils.ReflectionUtils.invokeMethod 7
+net.simplyadvanced.widgets.KeyboardlessEditText2.invokeMethod 7
+Activity 5
+net.simplyadvanced.examplekeyboardlessedittext.app.MainActivity 5
+OnClickListener 5
+View::OnClickListener 5

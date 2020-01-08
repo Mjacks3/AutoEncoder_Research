@@ -1,0 +1,16 @@
+android::test::ApplicationTestCaseApplication 1
+com.anton46.collectionitempicker.ApplicationTest 2
+ApplicationTestCase 1
+LinearLayout 1
+com.anton46.collectionitempicker.CollectionPicker 2
+com.anton46.collectionitempicker.sample.MainActivity 1
+com.anton46.collectionitempicker.sample.ApplicationTest 2
+ActionBarActivity 1
+TextView 2
+com.anton46.collectionitempicker.CollectionPicker.CollectionPicker 3
+com.anton46.collectionitempicker.CollectionPicker.drawItemView 0
+com.anton46.collectionitempicker.Utils.dpToPx 3
+com.anton46.collectionitempicker.Utils 2
+com.anton46.collectionitempicker.sample.MainActivity.onCreate 1
+com.anton46.collectionitempicker.CollectionPicker.setItems 1
+com.anton46.collectionitempicker.CollectionPicker.setOnItemClickListener 1

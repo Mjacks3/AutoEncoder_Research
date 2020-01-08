@@ -1,0 +1,7 @@
+org.goodev.retrofitdemo.MainActivity 9
+org.goodev.retrofitdemo.MainActivity.onCreate 5
+org.goodev.retrofitdemo.GitHubClient 5
+org.goodev.retrofitdemo.GitHubClient.getContributors 8
+CallbackListContributor 5
+ListActivity 5
+ListView 5

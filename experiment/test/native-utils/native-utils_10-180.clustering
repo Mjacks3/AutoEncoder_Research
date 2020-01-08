@@ -1,0 +1,7 @@
+cz.adamh.utils.NativeUtilsTest 7
+cz.adamh.utils.NativeUtilsTest.testLoadLibraryIllegalPrefix 7
+cz.adamh.utils.NativeUtilsTest.testLoadLibraryIllegalPath 7
+cz.adamh.utils.NativeUtils.loadLibraryFromJar 7
+cz.adamh.utils.NativeUtils 7
+cz.adamh.utils.NativeUtilsTest.testLoadLibraryNonExistentPath 7
+cz.adamh.utils.NativeUtilsTest.testLoadLibraryNullPath 7

@@ -1,0 +1,10 @@
+AbstractOAuthProvider 9
+se.akerfeldt.okhttp.signpost.OkHttpOAuthProvider 9
+HttpResponse 9
+se.akerfeldt.okhttp.signpost.OkHttpResponseAdapter 9
+HttpRequest 9
+se.akerfeldt.okhttp.signpost.OkHttpRequestAdapter 9
+Interceptor 9
+se.akerfeldt.okhttp.signpost.SigningInterceptor 9
+AbstractOAuthConsumer 9
+se.akerfeldt.okhttp.signpost.OkHttpOAuthConsumer 9

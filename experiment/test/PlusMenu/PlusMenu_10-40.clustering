@@ -1,0 +1,16 @@
+com.dsy.plusmenu.KickBackAnimator 9
+com.dsy.plusmenu.KickBackAnimator.evaluate 9
+android::animation::TypeEvaluatorFloat 9
+TypeEvaluator 9
+com.dsy.plusmenu.MoreWindow 9
+com.dsy.plusmenu.KickBackAnimator.calculate 9
+com.dsy.plusmenu.MainActivity.onCreate 9
+com.dsy.plusmenu.MoreWindow.showMoreWindow 9
+com.dsy.plusmenu.MainActivity 9
+PopupWindow 9
+OnClickListener 9
+com.dsy.plusmenu.KickBackAnimator.setDuration 9
+com.dsy.plusmenu.MoreWindow.init 9
+com.dsy.plusmenu.MoreWindow.onClick 9
+RelativeLayout 9
+AppCompatActivity 9
