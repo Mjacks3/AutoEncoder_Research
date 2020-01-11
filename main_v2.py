@@ -436,9 +436,9 @@ if args.experiment:
     #End Graph Embedding
 
 
-
+    """
     #Training
-    models = [2,5,10,15]
+    models = [4,8]
     for num in models:
         args.num_clusters = int(num)
         args.save_dir = "experiment/" + str(args.num_clusters)
@@ -462,8 +462,8 @@ if args.experiment:
     #args.weights = "experiment/3/model_final.h5"
     #test_dataset = "datasets/demo_1/acmeair"
     #edge_list_loc = "datasets/demo_1/acmeair/acmeair.txt"
+    
     """
-
     
   
 
@@ -485,7 +485,7 @@ if args.experiment:
                     print(args.test_dataset)
                     test(args) # Calculations will be done on files separately
     """
-
+    """
 
                 modq = calculate_modq(clusters,edge_list=edge_list)
                 print("\n\n MOD Q: "+ str(modq)) 
