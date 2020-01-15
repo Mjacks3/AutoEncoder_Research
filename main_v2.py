@@ -228,7 +228,7 @@ if __name__ == "__main__":
                         help="Whether to use data augmentation during pretraining phase")
     parser.add_argument('--pretrained-weights', default=None, type=str,
                         help="Pretrained weights of the autoencoder")
-    parser.add_argument('--pretrain-epochs', default=300, type=int,
+    parser.add_argument('--pretrain-epochs', default=10, type=int,
                         help="Number of epochs for pretraining")
     parser.add_argument('-v', '--verbose', default=1, type=int,
                         help="Verbose for pretraining")
@@ -319,27 +319,6 @@ if args.experiment:
     #edge_list_loc = "datasets/demo_1/acmeair/acmeair.txt"
     """
 
-    
-    cluster_qValue_map = { 
-                        "2" : [],
-                        "3" : [],
-                        "4" : [],
-                        "5" : [],
-                        "6" : [],
-                        "7" : [],
-                        "8" : [],
-                        "9" : [],
-                        "10": [],
-                        "11": [],
-                        "12": [],
-                        "13": [],
-                        "14": [],
-                        "15": [],
-                        "16": [],
-                        "17": [],
-                        "18": [],
-                        "19": []
-                        }
 
 
     for num_clusters in range(2,20,1):
