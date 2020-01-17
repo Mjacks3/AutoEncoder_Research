@@ -8,10 +8,10 @@ source_dir = "experiment/test/WeatherIconView"
 source_dir = "experiment/test"
 modq_values  = []
 avg_mod_q_values = []
-model = "10"
+model = "5"
 epoch_labels = []
-epochs = [10,50]
-#epochs = [10,50,130,220,390, 440]
+epochs = [10,20,30,50,130,220,390, 440] # for 10 
+epochs = [10,20,50,100,130,190,220,270,360] # 5
 
 for epoch in epochs:
     epoch_labels.append(str(epoch) + "-epochs")
@@ -121,7 +121,7 @@ ax.plot(bins, y, 'k--', linewidth=1.5, label='Theoretical')
 # tidy up the figure
 ax.grid(True)
 ax.legend(loc='right')
-ax.set_title('Cumulative Step Distribution of Modularity Q Scores - 10 Class Model (10 Epochs) ')
+ax.set_title('Cumulative Step Distribution of Modularity Q Scores Across 751 Repositories - 5 Class Models')
 ax.set_xlabel('Modularity Q Value')
 ax.set_ylabel('Likelihood of occurrence')
 
