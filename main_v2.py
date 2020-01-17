@@ -130,7 +130,7 @@ def train(args):
         pretrain_optimizer = SGD(1.0, 0.9)
         i_epoch = 0
         
-        for epochs_this_iteration in range(0,510,10):
+        for epochs_this_iteration in range(0,10,1):
             temp_save_dir = args.save_dir+ "/"+ str(epochs_this_iteration)
             print(temp_save_dir)
 
@@ -266,7 +266,7 @@ if args.experiment:
     
     #End Graph Embedding
     """
-    """
+
 
 
     #Training
@@ -283,7 +283,7 @@ if args.experiment:
         train(args)
     
     #End Training
-    """
+    
     
     
     #Test
@@ -320,7 +320,8 @@ if args.experiment:
                         "19": []
                         }
     """
-    models = [10]
+    """
+    models = [5,10]
     for num_clusters in models:
         for r0, d0, f0 in os.walk("experiment/"+ str(num_clusters)):
             print(r0)
@@ -349,7 +350,7 @@ if args.experiment:
     
     
  
-    
+    """
     #End Test
 
 
