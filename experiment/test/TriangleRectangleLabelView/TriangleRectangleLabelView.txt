@@ -1,0 +1,4 @@
+ActionBarActivity com.ecloud.trianglerectanglelabelview.demo.MainActivity 3
+android::test::ApplicationTestCaseApplication com.ecloud.trianglerectanglelabelview.ApplicationTest 2
+ApplicationTestCase com.ecloud.trianglerectanglelabelview.ApplicationTest 1
+TextView com.ecloud.trianglerectanglelabelview.TriangleRectangleLabelView 3

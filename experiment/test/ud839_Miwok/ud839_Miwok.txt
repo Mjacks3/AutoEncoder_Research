@@ -1,9 +1,0 @@
-AppCompatActivity com.example.android.miwok.ColorsActivity 2
-AppCompatActivity com.example.android.miwok.FamilyActivity 2
-com.example.android.miwok.ColorsActivity com.example.android.miwok.FamilyActivity 1
-com.example.android.miwok.ColorsActivity com.example.android.miwok.MainActivity 1
-AppCompatActivity com.example.android.miwok.MainActivity 2
-AppCompatActivity com.example.android.miwok.PhrasesActivity 2
-com.example.android.miwok.ColorsActivity com.example.android.miwok.PhrasesActivity 1
-com.example.android.miwok.ColorsActivity com.example.android.miwok.NumbersActivity 1
-AppCompatActivity com.example.android.miwok.NumbersActivity 2

@@ -1,5 +1,0 @@
-AccessibilityService com.ileja.autoreply.AutoReplyService 3
-AccessibilityNodeInfo com.ileja.autoreply.AutoReplyService 1
-android::test::ApplicationTestCaseApplication com.ileja.autoreply.ApplicationTest 2
-ApplicationTestCase com.ileja.autoreply.ApplicationTest 1
-AppCompatActivity com.ileja.autoreply.MainActivity 3

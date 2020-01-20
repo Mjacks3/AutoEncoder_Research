@@ -1,1 +1,0 @@
-AppCompatActivity ru.adonixis.animatedmenuitems.MainActivity 2
