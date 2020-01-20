@@ -1,0 +1,14 @@
+ApplicationTestCase 12
+me.philio.myapplication.ApplicationTest 12
+android::test::ApplicationTestCaseApplication 12
+me.philio.pinentry.ApplicationTest 12
+me.philio.pinentry.demo.MainActivity 12
+me.philio.pinentry.PinEntryView 12
+ViewGroup 12
+ActionBarActivity 12
+me.philio.pinentry.PinEntryView.OnPinEnteredListener 12
+me.philio.pinentry.PinEntryView.getAccentRequiresFocus 12
+me.philio.pinentry.PinEntryView.setText 12
+me.philio.pinentry.PinEntryView.OnPinEnteredListener.onPinEntered 12
+me.philio.pinentry.demo.MainActivity.onCreate 12
+me.philio.pinentry.PinEntryView.setOnPinEnteredListener 12

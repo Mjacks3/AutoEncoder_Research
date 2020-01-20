@@ -1,0 +1,16 @@
+com.webileapps.navdrawer.MainActivity 12
+com.webileapps.navdrawer.PageSlidingTabStripFragment 12
+Fragment 12
+DrawerLayout 12
+SherlockFragmentActivity 12
+ListView 12
+ActionBarDrawerToggle 12
+FragmentPagerAdapter 12
+com.webileapps.navdrawer.PageSlidingTabStripFragment.MyPagerAdapter 12
+SherlockFragment 12
+com.webileapps.navdrawer.PlanetFragment 12
+com.webileapps.navdrawer.PageSlidingTabStripFragment.MyPagerAdapter.getItem 12
+com.webileapps.navdrawer.SuperAwesomeCardFragment.newInstance 10
+com.webileapps.navdrawer.SuperAwesomeCardFragment 12
+com.webileapps.navdrawer.MainActivity.onConfigurationChanged 12
+com.webileapps.navdrawer.PageSlidingTabStripFragment.newInstance 12

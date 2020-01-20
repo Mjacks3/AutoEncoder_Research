@@ -1,0 +1,14 @@
+org.apache.hadoop.util.VersionInfo._getProtocVersion 12
+org.apache.hadoop.util.VersionInfo.main 12
+org.apache.hadoop.util.VersionInfo 12
+org.apache.hadoop.util.VersionInfo.VersionInfo 12
+org.apache.hadoop.util.VersionInfo._getBuildVersion 12
+org.apache.hadoop.util.VersionInfo._getSrcChecksum 12
+org.apache.hadoop.util.VersionInfo._getVersion 12
+Harness.main 12
+org.apache.hadoop.util.VersionInfo._getRevision 12
+Harness 12
+org.apache.hadoop.util.VersionInfo._getDate 12
+org.apache.hadoop.util.VersionInfo._getBranch 12
+org.apache.hadoop.util.VersionInfo._getUrl 12
+org.apache.hadoop.util.VersionInfo._getUser 12

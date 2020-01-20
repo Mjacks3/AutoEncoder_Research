@@ -1,0 +1,4 @@
+CordovaPlugin 12
+org.apache.cordova.speechrecognizer.SpeechRecognizer 12
+BroadcastReceiver 12
+org.apache.cordova.speechrecognizer.LanguageDetailsChecker 12

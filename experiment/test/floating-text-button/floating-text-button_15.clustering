@@ -1,0 +1,17 @@
+CoordinatorLayout::BehaviorFloatingTextButton 12
+ru.dimorinny.floatingtextbutton.behavior.SnackbarBehavior 12
+Behavior 12
+FrameLayout 12
+ru.dimorinny.floatingtextbutton.FloatingTextButton 12
+ru.dimorinny.floatingsample.MainActivity 12
+ru.dimorinny.floatingtextbutton.util.DimensionUtils 12
+ru.dimorinny.floatingtextbutton.FloatingTextButton.setOnLongClickListener 12
+ru.dimorinny.floatingtextbutton.FloatingTextButton.setTitle 12
+ru.dimorinny.floatingtextbutton.FloatingTextButton.setTitleColor 12
+ru.dimorinny.floatingtextbutton.FloatingTextButton.setLeftIconDrawable 12
+ru.dimorinny.floatingtextbutton.FloatingTextButton.setRightIconDrawable 12
+ru.dimorinny.floatingtextbutton.FloatingTextButton.setBackgroundColor 12
+ru.dimorinny.floatingtextbutton.util.DimensionUtils.dpToPx 12
+AppCompatActivity 12
+ru.dimorinny.floatingsample.MainActivity.onCreate 12
+ru.dimorinny.floatingtextbutton.FloatingTextButton.setOnClickListener 12

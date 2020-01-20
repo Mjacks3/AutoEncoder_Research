@@ -1,0 +1,12 @@
+com.intrusoft.squint.Squint.Direction 12
+com.intrusoft.squint.Squint 12
+com.intrusoft.squint.Squint.Gravity 12
+AppCompatActivity 12
+com.intrusoft.diagonalApp.MainActivity 12
+ImageView 12
+com.intrusoft.squint.DiagonalView 12
+com.intrusoft.squint.PathHelper 12
+com.intrusoft.diagonalApp.MainActivity.onCreate 12
+com.intrusoft.squint.DiagonalView.draw 12
+com.intrusoft.squint.DiagonalView.setScaleType 12
+com.intrusoft.squint.PathHelper.getPathFor 12
