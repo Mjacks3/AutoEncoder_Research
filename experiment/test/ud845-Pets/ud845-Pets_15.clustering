@@ -1,0 +1,7 @@
+BaseColumns 13
+com.example.android.pets.data.PetContract.PetEntry 13
+AppCompatActivity 13
+com.example.android.pets.CatalogActivity 13
+SQLiteOpenHelper 13
+com.example.android.pets.data.PetDbHelper 13
+com.example.android.pets.EditorActivity 13

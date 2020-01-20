@@ -1,0 +1,13 @@
+AppCompatActivity 13
+com.kingja.switchbutton.MainActivity 13
+ApplicationTestCase 13
+com.kingja.switchbutton.ApplicationTest 13
+android::test::ApplicationTestCaseApplication 13
+lib.kingja.switchbutton.SwitchMultiButton 13
+lib.kingja.switchbutton.SwitchMultiButton.setSelectedTab 13
+View 13
+lib.kingja.switchbutton.SwitchMultiButton.OnSwitchListener.onSwitch 13
+lib.kingja.switchbutton.SwitchMultiButton.OnSwitchListener 13
+lib.kingja.switchbutton.SwitchMultiButton.onTouchEvent 13
+lib.kingja.switchbutton.SwitchMultiButton.setEnabled 13
+lib.kingja.switchbutton.SwitchMultiButton.isEnabled 13
