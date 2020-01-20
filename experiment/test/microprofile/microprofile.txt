@@ -1,0 +1,1 @@
+AbstractMojo org.eclipse.microprofile.maven.pdf.PdfArtifactMojo 2

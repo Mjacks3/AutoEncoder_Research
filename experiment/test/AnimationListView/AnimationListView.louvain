@@ -1,9 +1,0 @@
-de.cypressworks.animationlistview.AnimationListView 0
-ListView 0
-CollectionLong 0
-MapLong,Float 0
-MapLong,Integer 0
-de.cypressworks.animationlistview.AnimationListView.ManipulatorTextendsListAdapter 1
-de.cypressworks.animationlistview.AnimationListView.setAdapter 2
-de.cypressworks.animationlistview.AnimationListView.Manipulator.manipulate 2
-de.cypressworks.animationlistview.AnimationListView.Manipulator 2

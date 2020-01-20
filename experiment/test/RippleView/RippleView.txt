@@ -1,3 +1,0 @@
-com.indris.material.RippleView com.indris.sample.RippleViewActivity 1
-Activity com.indris.sample.RippleViewActivity 3
-Button com.indris.material.RippleView 3
