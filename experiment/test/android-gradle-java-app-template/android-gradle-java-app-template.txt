@@ -1,7 +1,0 @@
-SparseBooleanArray burrows.apps.example.template.adapter.BaseAdapterT,VHextendsRecyclerView.ViewHolder 1
-Adapter burrows.apps.example.template.adapter.BaseAdapterT,VHextendsRecyclerView.ViewHolder 1
-ListT burrows.apps.example.template.adapter.BaseAdapterT,VHextendsRecyclerView.ViewHolder 1
-RecyclerView::AdapterVH burrows.apps.example.template.adapter.BaseAdapterT,VHextendsRecyclerView.ViewHolder 2
-Fragment burrows.apps.example.template.fragment.PlaceholderFragment 3
-AppCompatActivity burrows.apps.example.template.activity.MainActivity 3
-ActivityTestRuleburrows.apps.example.template.activity.MainActivity burrows.apps.example.template.instrumentation.MainActivityTest 1

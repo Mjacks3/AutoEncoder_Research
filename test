@@ -1,5 +1,0 @@
-while true
-do
-python3 main_v2.py --experiment
-sleep 5
-done
