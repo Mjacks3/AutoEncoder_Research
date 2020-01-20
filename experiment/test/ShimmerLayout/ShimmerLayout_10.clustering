@@ -1,0 +1,12 @@
+io.supercharge.shimmerlayout.ShimmerLayout 3
+io.supercharge.shimmerlayout.ShimmerLayout.setMaskWidth 8
+io.supercharge.shimmerlayout.ShimmerLayout.ShimmerLayout 3
+io.supercharge.shimmerlayout.ShimmerLayout.setGradientCenterColorWidth 8
+io.supercharge.shimmerlayout.ShimmerLayout.startShimmerAnimation 8
+io.supercharge.shimmerlayout.ShimmerLayout.setVisibility 3
+io.supercharge.shimmeringlayout.MainActivity.onCreate 7
+io.supercharge.shimmerlayout.ShimmerLayout.setShimmerAngle 8
+AppCompatActivity 8
+io.supercharge.shimmeringlayout.MainActivity 8
+io.supercharge.shimmerlayout.ShimmerLayout.stopShimmerAnimation 3
+FrameLayout 7

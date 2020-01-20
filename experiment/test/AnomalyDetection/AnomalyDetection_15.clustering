@@ -1,0 +1,8 @@
+Test 10
+Test.main 10
+iforest.IForest 10
+iforest.IForest.train 10
+iforest.IForest.predict 10
+iforest.ITree.createITree 10
+iforest.ITree 10
+iforest.ITree.ITree 10
