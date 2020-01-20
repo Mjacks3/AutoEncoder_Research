@@ -1,3 +1,0 @@
-ListFragment com.trickyandroid.fragmenttranslate.app.SlidingListFragment 3
-Activity com.trickyandroid.fragmenttranslate.app.MainActivity 3
-RelativeLayout com.trickyandroid.fragmenttranslate.app.view.SlidingRelativeLayout 2

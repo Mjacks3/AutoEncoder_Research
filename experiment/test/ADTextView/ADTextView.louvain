@@ -1,0 +1,15 @@
+com.brioal.adtestview.ExampleInstrumentedTest 0
+com.brioal.adtestview.AdTextViewActivity.onCreate 1
+com.brioal.adtestview.AdTextViewActivity 1
+com.brioal.adtestview.AdTextViewActivity.init 1
+com.brioal.adtextviewlib.view.ADTextView.setInterval 1
+Activity 1
+Toast 1
+com.brioal.adtextviewlib.view.ADTextView 2
+com.brioal.adtextviewlib.view.ADTextView.init 2
+com.brioal.adtextviewlib.view.OnAdChangeListener.DiyTextView 2
+com.brioal.adtextviewlib.view.OnAdChangeListener 2
+TextSwitcher 2
+com.brioal.adtextviewlib.ExampleUnitTest 3
+com.brioal.adtextviewlib.ExampleInstrumentedTest 4
+com.brioal.adtestview.ExampleUnitTest 5

@@ -1,5 +1,0 @@
-davenkin.HelloWorldTest davenkin.HelloWorld 1
-davenkin.HelloWordApi davenkin.HelloWorld 4
-davenkin.HelloWorldTest davenkin.HelloWorldTest.testHelloWorld 1
-davenkin.HelloWorldTest.testHelloWorld davenkin.HelloWorld.sayHello 1
-davenkin.HelloWorld davenkin.HelloWorld.sayHello 1
