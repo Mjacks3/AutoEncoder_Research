@@ -1,0 +1,14 @@
+ViewPager::PageTransformer 6
+com.bala.welcomescreens.IntroScreenActivity.CrossfadePageTransformer 6
+PagerAdapter 6
+com.bala.welcomescreens.IntroScreenActivity 6
+LinearLayout 6
+Button 6
+ViewPager 6
+ImageButton 6
+AppCompatActivity 6
+com.bala.welcomescreens.IntroScreenActivity.onBackPressed 1
+com.bala.welcomescreens.IntroScreenFragment.newInstance 6
+com.bala.welcomescreens.IntroScreenFragment 1
+Fragment 6
+com.bala.welcomescreens.SplashScreenActivity 1
