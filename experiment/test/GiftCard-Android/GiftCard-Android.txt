@@ -1,5 +1,0 @@
-Activity com.example.martinrgb.giftcard_android.MainActivity 3
-View com.example.martinrgb.giftcard_android.MainActivity.ViewSpringListener 1
-SpringListener com.example.martinrgb.giftcard_android.MainActivity.ViewSpringListener 3
-ApplicationTestCase com.example.martinrgb.giftcard_android.ApplicationTest 1
-android::test::ApplicationTestCaseApplication com.example.martinrgb.giftcard_android.ApplicationTest 2

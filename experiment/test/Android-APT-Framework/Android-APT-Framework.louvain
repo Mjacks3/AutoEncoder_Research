@@ -1,0 +1,12 @@
+。（值得注意的是：在ElementType的分类中，class、interface、Annotation、enum同属一类为Type，并且从官方注解来看，似乎interface是包含 0
+com.example.GetMsg 1
+com.lizhaoxuan.cakedao.ApplicationTest 2
+android::test::ApplicationTestCaseApplication 2
+ApplicationTestCase 2
+AppCompatActivity 3
+com.lizhaoxuan.cakedao.MainActivity 3
+com.example.CakeProcessor 4
+AbstractProcessor 4
+com.lizhaoxuan.cakedao.ExampleUnitTest 5
+OnClick 6
+OnceClick 7

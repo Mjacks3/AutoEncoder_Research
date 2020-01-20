@@ -1,9 +1,0 @@
-ImageView 5
-swipe.android.com.chromeoverflowmenu.MainActivity 9
-LayoutInflater 5
-ActionBarActivity 3
-ListPopupWindow 3
-android::test::ApplicationTestCaseApplication 5
-swipe.android.com.chromeoverflowmenu.ApplicationTest 3
-swipe.android.com.chromeoverflowmenu.MainActivity.onCreate 5
-swipe.android.com.chromeoverflowmenu.MainActivity.dpToPx 5

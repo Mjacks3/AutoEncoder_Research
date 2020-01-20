@@ -1,9 +1,0 @@
-Button 7
-com.shashank.sony.fancytoastlibrary.MainActivity 7
-View::OnClickListener 7
-AppCompatActivity 0
-com.shashank.sony.fancytoastlibrary.MainActivity.onClick 0
-com.shashank.sony.fancytoastlib.FancyToast 0
-com.shashank.sony.fancytoastlib.FancyToast.makeText 7
-Toast 0
-OnClickListener 7

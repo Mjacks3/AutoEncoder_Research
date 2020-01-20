@@ -1,0 +1,5 @@
+FrameLayout com.wrapp.floatlabelededittext.FloatLabeledEditText 3
+ActionBarActivity com.wrapp.example.floatlabelededittext.MainActivity 3
+com.wrapp.floatlabelededittext.FloatLabeledEditText com.wrapp.floatlabelededittext.FloatLabeledEditText.FloatLabeledEditText 1
+com.wrapp.floatlabelededittext.FloatLabeledEditText com.wrapp.floatlabelededittext.FloatLabeledEditText.addView 1
+com.wrapp.floatlabelededittext.FloatLabeledEditText.FloatLabeledEditText com.wrapp.floatlabelededittext.FloatLabeledEditText.addView 1

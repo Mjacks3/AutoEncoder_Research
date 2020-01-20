@@ -1,0 +1,7 @@
+org.pkaq.web.controller.TigerCtrl 0
+TigerSayHi 1
+Tiger 1
+TigerSayHi.main 1
+Tiger.sayHi 1
+CommandLineRunner 2
+org.pkaq.Booter 2

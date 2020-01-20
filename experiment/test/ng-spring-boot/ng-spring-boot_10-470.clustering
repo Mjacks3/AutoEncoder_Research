@@ -1,8 +1,0 @@
-org::springframework::data::jpa::repository::JpaRepositoryItem,Integer 2
-be.g00glen00b.repository.ItemRepository 2
-JpaRepository 2
-be.g00glen00b.controller.ItemController 2
-be.g00glen00b.controller.ItemController.updateItem 2
-be.g00glen00b.model.Item 2
-be.g00glen00b.model.Item.setId 2
-be.g00glen00b.controller.ItemController.addItem 2

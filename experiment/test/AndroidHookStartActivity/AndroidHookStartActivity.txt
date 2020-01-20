@@ -1,0 +1,8 @@
+com.bolex.androidhookstartactivity.MainActivity com.bolex.androidhookstartactivity.MainActivity.onCreate 1
+AppCompatActivity com.bolex.androidhookstartactivity.MainActivity 3
+com.bolex.androidhookstartactivity.MainActivity.onCreate com.bolex.androidhookstartactivity.AMSHook.AMSHookUtil.hookStartActivity 1
+com.bolex.androidhookstartactivity.AMSHook.AMSHookUtil com.bolex.androidhookstartactivity.AMSHook.AMSHookUtil.hookStartActivity 1
+com.bolex.androidhookstartactivity.MainActivity com.bolex.androidhookstartactivity.AMSHook.AMSHookUtil 1
+InvocationHandler com.bolex.androidhookstartactivity.AMSHook.HookInvocationHandler 3
+AppCompatActivity com.bolex.androidhookstartactivity.HostActivity 3
+AppCompatActivity other.packages.OtherActivity 3

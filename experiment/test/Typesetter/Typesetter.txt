@@ -1,0 +1,10 @@
+AppCompatActivity com.bignerdranch.android.typesetter.TypesetterActivity 3
+com.bignerdranch.android.typesetter.TypesetterActivity com.bignerdranch.android.typesetter.BitmapUtils 1
+com.bignerdranch.android.typesetter.TypesetterActivity com.bignerdranch.android.typesetter.TypesetterActivity.onCreate 1
+com.bignerdranch.android.typesetter.TypesetterActivity.onCreate com.bignerdranch.android.typesetter.BitmapUtils.getBitmapFromView 1
+com.bignerdranch.android.typesetter.BitmapUtils com.bignerdranch.android.typesetter.BitmapUtils.getBitmapFromView 1
+com.bignerdranch.android.typesetter.AndroidUtils com.bignerdranch.android.typesetter.AndroidUtils.hideKeyboard 1
+com.bignerdranch.android.typesetter.TypesetterActivity.onCreate com.bignerdranch.android.typesetter.AndroidUtils.hideKeyboard 1
+com.bignerdranch.android.typesetter.TypesetterActivity com.bignerdranch.android.typesetter.AndroidUtils 1
+CoordinatorLayout::BehaviorView com.bignerdranch.android.typesetter.FloatingActionButtonAwareBehaviour 2
+Behavior com.bignerdranch.android.typesetter.FloatingActionButtonAwareBehaviour 1

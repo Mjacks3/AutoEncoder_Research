@@ -1,7 +1,0 @@
-Pattern 8
-bin.xposed.NoWechatRevoke.Wechat 8
-bin.xposed.NoWechatRevoke.Main 8
-IXposedHookLoadPackage 8
-bin.xposed.NoWechatRevoke.Wechat.init 8
-bin.xposed.NoWechatRevoke.Main.handleLoadPackage 8
-bin.xposed.NoWechatRevoke.Wechat.setArgs 2

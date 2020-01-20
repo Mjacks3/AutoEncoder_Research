@@ -1,8 +1,0 @@
-Activity 8
-com.db.circularmeterdemo.MainActivity 8
-com.db.circularcounter.CircularCounter 4
-View 8
-com.db.circularmeterdemo.MainActivity.onCreate 4
-com.db.circularcounter.CircularCounter.setFirstWidth 8
-com.db.circularcounter.CircularCounter.setFirstColor 8
-com.db.circularcounter.CircularCounter.setValues 8

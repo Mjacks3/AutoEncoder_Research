@@ -1,7 +1,0 @@
-MockWebServer 3
-retrofit2.converter.fastjson.FastJsonConverterFactoryTest 3
-Converter::Factory 4
-retrofit2.converter.fastjson.FastJsonConverterFactory 4
-Factory 4
-retrofit2.converter.fastjson.FastJsonConverterFactoryTest.setUp 4
-retrofit2.converter.fastjson.FastJsonConverterFactory.create 2

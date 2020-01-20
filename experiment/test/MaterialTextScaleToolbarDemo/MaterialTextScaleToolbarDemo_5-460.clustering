@@ -1,9 +1,0 @@
-ApplicationTestCase 2
-com.bigfat.materialcontactheaderdemo.ApplicationTest 2
-android::test::ApplicationTestCaseApplication 2
-ActionBarActivity 2
-com.bigfat.materialcontactheaderdemo.MainActivity 1
-AbsListView::OnScrollListener 2
-OnScrollListener 2
-com.bigfat.materialcontactheaderdemo.MainActivity.onScroll 2
-com.bigfat.materialcontactheaderdemo.MainActivity.getScrollY 3

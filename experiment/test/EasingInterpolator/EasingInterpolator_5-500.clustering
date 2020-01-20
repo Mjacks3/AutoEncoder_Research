@@ -1,9 +1,0 @@
-AppCompatActivity 4
-com.daasuu.easinginterpolator.MainActivity 2
-FrameLayout 3
-com.daasuu.easinginterpolator.EasingGraphView 2
-Interpolator 3
-com.daasuu.ei.EasingInterpolator 2
-com.daasuu.easinginterpolator.EasingGraphView.dispatchDraw 2
-com.daasuu.ei.EasingInterpolator.getEase 2
-com.daasuu.ei.EasingInterpolator.getInterpolation 3

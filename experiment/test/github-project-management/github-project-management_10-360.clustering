@@ -1,7 +1,0 @@
-com.sample.github.GithubApplicationTests 7
-com.sample.github.GithubApplicationTests.contextLoads 7
-com.sample.github.GithubApplication.main 2
-com.sample.github.GithubApplication 7
-JpaRepository 7
-com.sample.github.user.UserRepository 7
-org::springframework::data::jpa::repository::JpaRepositoryUser,Long 7

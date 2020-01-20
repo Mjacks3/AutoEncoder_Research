@@ -1,0 +1,9 @@
+com.sothree.multiitemrowlistadapter.MultiItemRowListAdapter.PlaceholderView 0
+View 0
+WrapperListAdapter 1
+com.sothree.multiitemrowlistadapter.MultiItemRowListAdapter 1
+com.sothree.multiitemrowlistadapter.demo.DemoActivity 2
+ListActivity 2
+LoaderManager::LoaderCallbacksCursor 2
+OnItemClickListener 2
+LoaderCallbacks 2

@@ -267,7 +267,7 @@ if args.experiment:
     #End Graph Embedding
     """
 
-
+    """
 
     #Training
     
@@ -283,7 +283,7 @@ if args.experiment:
         train(args)
     
     #End Training
-    
+    """
     
     
     #Test
@@ -320,21 +320,21 @@ if args.experiment:
                         "19": []
                         }
     """
-    """
+    
     models = [5,10]
     for num_clusters in models:
         for r0, d0, f0 in os.walk("experiment/"+ str(num_clusters)):
-            print(r0)
+            #print(r0)
             if os.path.exists(r0+"/model_final.h5"):
                 args.weights = r0+"/model_final.h5"
                 args.num_clusters = num_clusters
 
                 sub_epoch_count = r0.split("/")[-1]
-                print(sub_epoch_count)
+                #print(sub_epoch_count)
 
                 for r, d, f in os.walk("experiment/test"): # for each file
                     if len(f) >= 4 and r.split("/")[-1] +  "_" + str(args.num_clusters)+ "-"+ str(sub_epoch_count)+ ".clustering" not in f  :
-                        print(num_clusters)
+                        #print(num_clusters)
                         for file_name in f: 
                             if ".embedding" in file_name:
                                 args.test_dataset = r
@@ -345,11 +345,6 @@ if args.experiment:
                         #print(args.test_dataset)
                         #test(args)
                 
-
-
-    
-    
- 
     """
     #End Test
 
