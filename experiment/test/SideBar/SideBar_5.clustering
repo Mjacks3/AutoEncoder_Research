@@ -1,0 +1,7 @@
+com.kongnan.sidebar.MainActivity 0
+com.kongnan.sidebar.SideBar 0
+View 4
+AppCompatActivity 0
+TextView 4
+com.kongnan.sidebar.MainActivity.onCreate 0
+com.kongnan.sidebar.SideBar.setOnTouchingLetterChangedListener 0
