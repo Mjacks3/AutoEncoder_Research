@@ -434,7 +434,7 @@ if args.experiment:
     graph_embedding(args)
     
     #End Graph Embedding
-    """
+    
     
 
     #Training
@@ -451,7 +451,7 @@ if args.experiment:
     
     
     #End Training
-    """
+    
     
     #Test
     #loop to get num clusters +
@@ -464,9 +464,9 @@ if args.experiment:
     #test_dataset = "datasets/demo_1/acmeair"
     #edge_list_loc = "datasets/demo_1/acmeair/acmeair.txt"
     """
-    """
-
-    for num_clusters in range(2,20):
+    
+    models = [2,5,10,15]
+    for num_clusters in models:
         if os.path.exists("experiment/"+str(num_clusters)+"/model_final.h5"):
 
             args.weights = "experiment/"+str(num_clusters)+"/model_final.h5"
@@ -486,7 +486,7 @@ if args.experiment:
     
 
 
-    """
+    
     #clusters = test(args)
 
     #modq = calculate_modq(clusters,edge_list=edge_list_loc)

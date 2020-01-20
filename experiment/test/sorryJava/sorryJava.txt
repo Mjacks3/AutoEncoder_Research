@@ -1,8 +1,0 @@
-com.lzh.service.QcloudService com.lzh.controller.GifController 1
-com.lzh.service.GifService com.lzh.controller.GifController 1
-com.lzh.controller.GifController com.lzh.service.QcloudService 1
-com.lzh.service.QcloudService com.lzh.SorryJavaApplicationTests 1
-com.lzh.service.GifService com.lzh.SorryJavaApplicationTests 1
-com.lzh.controller.GifController com.lzh.controller.GifController.renderGifPath 1
-com.lzh.controller.GifController.renderGifPath com.lzh.service.QcloudService.upload 1
-com.lzh.service.QcloudService com.lzh.service.QcloudService.upload 1

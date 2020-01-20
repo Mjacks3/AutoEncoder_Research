@@ -1,9 +1,0 @@
-android::test::ApplicationTestCaseApplication 4
-com.scp.frescoforround.ApplicationTest 4
-ApplicationTestCase 4
-AppCompatActivity 4
-com.scp.frescoforround.MainActivity 4
-scp.com.frescobase.ApplicationTest 4
-com.scp.frescoforhierarchy.ApplicationTest 4
-com.scp.frescoforhierarchy.MainActivity 4
-scp.com.frescobase.MainActivity 4

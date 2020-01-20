@@ -1,2 +1,0 @@
-Activity com.example.activity.MainActivity 3
-Application com.example.DeckardApplication 3

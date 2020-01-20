@@ -1,0 +1,6 @@
+com.alibaba.dubbo.demo.DemoService 0
+com.alibaba.dubbo.demo.impl.DemoServiceImpl 0
+com.alibaba.dubbo.demo.impl.Provider 1
+com.alibaba.dubbo.consumer.Consumer 2
+com.alibaba.dubbo.consumer.Consumer.main 2
+com.alibaba.dubbo.demo.DemoService.getPermissions 2

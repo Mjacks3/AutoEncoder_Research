@@ -1,0 +1,12 @@
+ReactPackage 0
+com.github.wumke.RNExitApp.RNExitAppPackage 0
+ios/RNExitApp/RNExitApp.m 1
+UIKit/UIKit.h 1
+RCTBridgeModule.h 1
+NSObject 2
+RNExitApp 2
+RCTBridgeModule 2
+ReactContextBaseJavaModule 3
+com.github.wumke.RNExitApp.RNExitAppModule 3
+ReactApplicationContext 3
+AlarmManager 3
