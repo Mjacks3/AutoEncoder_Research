@@ -1,0 +1,14 @@
+UncategorizedDataAccessException 12
+com.spring4all.spring.boot.starter.hbase.api.HbaseSystemException 12
+com.spring4all.spring.boot.starter.hbase.api.HbaseOperations 3
+com.spring4all.spring.boot.starter.hbase.api.HbaseTemplate 12
+com.spring4all.spring.boot.starter.hbase.api.MutatorCallback 12
+com.spring4all.spring.boot.starter.hbase.api.HbaseTemplate.execute 12
+com.spring4all.spring.boot.starter.hbase.api.HbaseTemplate.getConnection 12
+com.spring4all.spring.boot.starter.hbase.api.HbaseTemplate.HbaseTemplate 12
+com.spring4all.spring.boot.starter.hbase.api.MutatorCallback.doInMutator 12
+com.spring4all.spring.boot.starter.hbase.api.HbaseTemplate.setConfiguration 12
+com.spring4all.spring.boot.starter.hbase.api.TableCallback 12
+com.spring4all.spring.boot.starter.hbase.api.TableCallback.doInTable 12
+com.spring4all.spring.boot.starter.hbase.api.RowMapper.mapRow 3
+com.spring4all.spring.boot.starter.hbase.api.RowMapper 7

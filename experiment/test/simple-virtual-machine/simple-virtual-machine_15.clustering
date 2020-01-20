@@ -1,0 +1,13 @@
+vm.VM.exec 12
+vm.VM.cpu 6
+vm.VM 3
+vm.Test 3
+vm.FuncMetaData 12
+vm.Context 3
+vm.VM.disInstr 2
+vm.VM.stackString 6
+vm.VM.callStackString 2
+vm.VM.dumpDataMemory 2
+vm.Test.main 12
+vm.Bytecode.Instruction 14
+vm.Bytecode 3

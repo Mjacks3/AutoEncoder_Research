@@ -1,0 +1,7 @@
+com.alexjlockwood.activity.transitions.DetailsActivity 12
+com.alexjlockwood.activity.transitions.DetailsFragment 12
+Fragment 3
+Activity 3
+com.alexjlockwood.activity.transitions.MainActivity 12
+com.alexjlockwood.activity.transitions.DetailsActivity.finishAfterTransition 3
+com.alexjlockwood.activity.transitions.DetailsFragment.newInstance 12
