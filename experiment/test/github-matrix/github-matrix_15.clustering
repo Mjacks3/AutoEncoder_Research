@@ -1,0 +1,11 @@
+com.winterbe.matrix.GithubScheduler 9
+com.winterbe.matrix.GithubScheduler.stop 9
+com.winterbe.matrix.GithubCollectorTest.testFetchLatestCommits 9
+com.winterbe.matrix.GithubCollector.collect 13
+com.winterbe.matrix.GithubCollector 9
+com.winterbe.matrix.GithubCollectorTest 9
+com.winterbe.matrix.Drop.setCode 9
+com.winterbe.matrix.Drop 9
+Comparable 9
+ComparableDrop 9
+com.winterbe.matrix.Drop.setFileSha 9
