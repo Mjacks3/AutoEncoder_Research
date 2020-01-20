@@ -1,9 +1,0 @@
-com.moust.cordova.videoplayer.VideoPlayer 8
-com.moust.cordova.videoplayer.VideoPlayer.execute 13
-OnErrorListener 13
-OnPreparedListener 13
-OnCompletionListener 13
-CordovaPlugin 13
-OnDismissListener 13
-com.moust.cordova.videoplayer.VideoPlayer.stripFileProtocol 13
-com.moust.cordova.videoplayer.VideoPlayer.openVideoDialog 13

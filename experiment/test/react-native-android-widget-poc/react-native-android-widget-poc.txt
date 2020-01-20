@@ -1,7 +1,0 @@
-ReactContextBaseJavaModule com.androidwidgetpoc.BackgroundTaskBridge 3
-AppWidgetProvider com.androidwidgetpoc.WidgetProvider 3
-HeadlessJsTaskService com.androidwidgetpoc.BackgroundTask 3
-ReactApplication com.androidwidgetpoc.MainApplication 3
-Application com.androidwidgetpoc.MainApplication 3
-ReactActivity com.androidwidgetpoc.MainActivity 3
-ReactPackage com.androidwidgetpoc.BackgroundTaskBridgePackage 2

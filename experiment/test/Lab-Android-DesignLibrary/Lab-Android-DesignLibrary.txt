@@ -1,0 +1,11 @@
+ActionBarDrawerToggle com.inthecheesefactory.lab.designlibrary.CodeLabActivity 1
+DrawerLayout com.inthecheesefactory.lab.designlibrary.CodeLabActivity 1
+AppCompatActivity com.inthecheesefactory.lab.designlibrary.CodeLabActivity 3
+ActionBarDrawerToggle com.inthecheesefactory.lab.designlibrary.MainActivity 1
+CoordinatorLayout com.inthecheesefactory.lab.designlibrary.MainActivity 1
+AppCompatActivity com.inthecheesefactory.lab.designlibrary.MainActivity 3
+CollapsingToolbarLayout com.inthecheesefactory.lab.designlibrary.MainActivity 1
+Toolbar com.inthecheesefactory.lab.designlibrary.MainActivity 1
+DrawerLayout com.inthecheesefactory.lab.designlibrary.MainActivity 1
+FloatingActionButton com.inthecheesefactory.lab.designlibrary.MainActivity 1
+android::test::ApplicationTestCaseApplication com.inthecheesefactory.designlibrary.ApplicationTest 2

@@ -1,9 +1,0 @@
-pro.kondratev.xlsxpoiexample.MainActivity pro.kondratev.xlsxpoiexample.MainActivity.onWriteClick 1
-EditText pro.kondratev.xlsxpoiexample.MainActivity 1
-Activity pro.kondratev.xlsxpoiexample.MainActivity 3
-pro.kondratev.xlsxpoiexample.MainActivity pro.kondratev.xlsxpoiexample.MainActivity.share 1
-pro.kondratev.xlsxpoiexample.MainActivity.onWriteClick pro.kondratev.xlsxpoiexample.MainActivity.share 1
-ContentProvider pro.kondratev.xlsxpoiexample.ShareContentProvider 2
-pro.kondratev.xlsxpoiexample.MainActivity pro.kondratev.xlsxpoiexample.MainActivity.onReadClick 1
-pro.kondratev.xlsxpoiexample.MainActivity.onReadClick pro.kondratev.xlsxpoiexample.MainActivity.getCellAsString 1
-pro.kondratev.xlsxpoiexample.MainActivity pro.kondratev.xlsxpoiexample.MainActivity.getCellAsString 1
