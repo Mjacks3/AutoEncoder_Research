@@ -1,8 +1,0 @@
-MapLong,Integer 8
-de.cypressworks.animationlistview.AnimationListView 2
-CollectionLong 8
-MapLong,Float 8
-ListView 8
-de.cypressworks.animationlistview.AnimationListView.setAdapter 6
-de.cypressworks.animationlistview.AnimationListView.Manipulator.manipulate 1
-de.cypressworks.animationlistview.AnimationListView.Manipulator 6

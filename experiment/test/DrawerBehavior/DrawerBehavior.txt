@@ -1,0 +1,7 @@
+AppCompatActivity com.example.behavior.drawer.DrawerLayoutActivity 3
+AppCompatActivity com.example.behavior.drawer.DrawerBehaviorActivity 3
+View com.jakewharton.behavior.drawer.ContentScrimDrawer.Base 3
+com.jakewharton.behavior.drawer.ContentScrimDrawer com.jakewharton.behavior.drawer.ContentScrimDrawer.Base 2
+com.jakewharton.behavior.drawer.ContentScrimDrawer com.jakewharton.behavior.drawer.ContentScrimDrawer.JellyBeanMr2 2
+ColorDrawable com.jakewharton.behavior.drawer.ContentScrimDrawer.JellyBeanMr2 3
+CoordinatorLayout::BehaviorView com.jakewharton.behavior.drawer.DrawerBehavior 2

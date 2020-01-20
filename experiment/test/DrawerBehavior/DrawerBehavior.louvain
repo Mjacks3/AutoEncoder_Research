@@ -1,0 +1,11 @@
+com.example.behavior.drawer.DrawerLayoutActivity 0
+com.example.behavior.drawer.DrawerBehaviorActivity 0
+AppCompatActivity 0
+CoordinatorLayout::BehaviorView 1
+com.jakewharton.behavior.drawer.DrawerBehavior 1
+View 2
+com.jakewharton.behavior.drawer.ContentScrimDrawer.Base 2
+com.jakewharton.behavior.drawer.ContentScrimDrawer 3
+com.jakewharton.behavior.drawer.ContentScrimDrawer.JellyBeanMr2 3
+ColorDrawable 3
+Behavior 4
