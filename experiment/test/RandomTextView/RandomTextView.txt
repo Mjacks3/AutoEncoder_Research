@@ -1,0 +1,14 @@
+com.example.liangmutian.randomtextview.MainActivity com.example.liangmutian.randomtextview.MainActivity.start4 4
+Activity com.example.liangmutian.randomtextview.MainActivity 3
+com.example.liangmutian.randomtextview.MainActivity.onCreate com.example.liangmutian.randomtextviewlibrary.RandomTextView.setPianyilian 1
+com.example.liangmutian.randomtextview.MainActivity.start4 com.example.liangmutian.randomtextviewlibrary.RandomTextView.setPianyilian 4
+com.example.liangmutian.randomtextviewlibrary.RandomTextView com.example.liangmutian.randomtextviewlibrary.RandomTextView.setPianyilian 5
+TextView com.example.liangmutian.randomtextviewlibrary.RandomTextView 3
+com.example.liangmutian.randomtextview.MainActivity com.example.liangmutian.randomtextviewlibrary.RandomTextView 5
+com.example.liangmutian.randomtextview.MainActivity.onCreate com.example.liangmutian.randomtextviewlibrary.RandomTextView.start 1
+com.example.liangmutian.randomtextviewlibrary.RandomTextView com.example.liangmutian.randomtextviewlibrary.RandomTextView.start 5
+com.example.liangmutian.randomtextview.MainActivity.start4 com.example.liangmutian.randomtextviewlibrary.RandomTextView.start 4
+Application com.example.liangmutian.randomtextview.MyApplication 3
+com.example.liangmutian.randomtextview.MainActivity.start4 com.example.liangmutian.randomtextviewlibrary.RandomTextView.setMaxLine 1
+com.example.liangmutian.randomtextviewlibrary.RandomTextView com.example.liangmutian.randomtextviewlibrary.RandomTextView.setMaxLine 1
+com.example.liangmutian.randomtextview.MainActivity com.example.liangmutian.randomtextview.MainActivity.onCreate 1

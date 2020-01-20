@@ -1,0 +1,12 @@
+gradient.mylibrary.GradienTextView.onDraw 0
+gradient.mylibrary.GradienTextView.start 0
+gradient.mylibrary.GradienTextView.setOrientation 0
+gradient.mylibrary.GradienTextView.setCurrentProgress 0
+gradient.mylibrary.GradienTextView 1
+TextView 1
+Paint 1
+com.gradient.ExampleUnitTest 2
+gradient.mylibrary.ExampleUnitTest 3
+gradient.mylibrary.ExampleInstrumentedTest 4
+com.gradient.ExampleInstrumentedTest 5
+gradient.mylibrary.Orientation 6

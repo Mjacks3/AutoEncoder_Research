@@ -1,6 +1,0 @@
-CordovaPlugin org.apache.cordova.test.WhitelistAPI 2
-org.apache.cordova.test.WhitelistAPI org.apache.cordova.whitelist.WhitelistPlugin 1
-CordovaPlugin org.apache.cordova.whitelist.WhitelistPlugin 2
-org.apache.cordova.whitelist.WhitelistPlugin org.apache.cordova.whitelist.WhitelistPlugin.shouldAllowRequest 1
-org.apache.cordova.whitelist.WhitelistPlugin org.apache.cordova.whitelist.WhitelistPlugin.shouldAllowNavigation 1
-org.apache.cordova.whitelist.WhitelistPlugin.shouldAllowRequest org.apache.cordova.whitelist.WhitelistPlugin.shouldAllowNavigation 1

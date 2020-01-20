@@ -1,0 +1,10 @@
+ContentProvider com.yasirkula.unity.NativeShareContentProvider 3
+com.yasirkula.unity.NativeShare com.yasirkula.unity.NativeShareContentProvider 1
+com.yasirkula.unity.NativeShare com.yasirkula.unity.NativeShare.Share 1
+com.yasirkula.unity.NativeShareContentProvider com.yasirkula.unity.NativeShareContentProvider.getUriForFile 2
+com.yasirkula.unity.NativeShare.Share com.yasirkula.unity.NativeShareContentProvider.getUriForFile 1
+com.yasirkula.unity.NativeShareContentProvider.openFile com.yasirkula.unity.NativeShareContentProvider.getUriForFile 1
+com.yasirkula.unity.NativeShareContentProvider com.yasirkula.unity.NativeShareContentProvider.openFile 1
+NativeShare _NativeShare_Share 1
+_NativeShare_Share _NativeShare_Share 1
+_NativeShare_Share UnityGetGLViewController 2

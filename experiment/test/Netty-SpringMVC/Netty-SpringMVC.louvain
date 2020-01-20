@@ -1,0 +1,11 @@
+org.springframework.sandbox.netty.MyServer.main 0
+org.springframework.sandbox.netty.MyServer 0
+org.springframework.sandbox.netty.MyServer.MyServer 0
+org.springframework.sandbox.netty.AppConfig 1
+org.springframework.sandbox.netty.ServletNettyHandler 2
+io::netty::channel::SimpleChannelInboundHandlerFullHttpRequest 2
+SimpleChannelInboundHandler 2
+org.springframework.sandbox.netty.DispatcherServletChannelInitializer 3
+io::netty::channel::ChannelInitializerSocketChannel 3
+ChannelInitializer 3
+org.springframework.sandbox.mvc.TestController 4

@@ -1,9 +1,0 @@
-nl.kleisauke.compactcalendarviewtoolbar.MainActivity.onCreate 0
-nl.kleisauke.compactcalendarviewtoolbar.MainActivity.setTitle 0
-nl.kleisauke.compactcalendarviewtoolbar.MainActivity 1
-AppCompatActivity 1
-OnNavigationItemSelectedListener 1
-NavigationView::OnNavigationItemSelectedListener 1
-Behavior 2
-nl.kleisauke.compactcalendarviewtoolbar.ScrollingCalendarBehavior 2
-AppBarLayout::Behavior 2

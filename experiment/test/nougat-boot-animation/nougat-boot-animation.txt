@@ -1,2 +1,0 @@
-AppCompatActivity com.github.ybq.nougatbootanimation.sample.MainActivity 3
-SpriteContainer com.github.ybq.nougatbootanimation.NougatBoot 2
