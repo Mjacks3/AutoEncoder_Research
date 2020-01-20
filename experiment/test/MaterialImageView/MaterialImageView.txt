@@ -1,5 +1,0 @@
-com.zzt.library.MaterialImageView com.zzt.library.MaterialImageView.MaterialImageView 1
-ImageView com.zzt.library.MaterialImageView 2
-com.zzt.library.MaterialImageView com.zzt.library.MaterialImageView.init 1
-com.zzt.library.MaterialImageView.MaterialImageView com.zzt.library.MaterialImageView.init 1
-ActionBarActivity com.zzt.materialimageview.MainActivity 3

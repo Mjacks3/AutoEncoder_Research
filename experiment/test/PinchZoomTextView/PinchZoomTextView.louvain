@@ -1,0 +1,15 @@
+com.androidessence.pinchzoomtextview.sample.ExampleInstrumentedTest 0
+com.adammcneilly.pinchzoomtextview.kotlin.ExampleUnitTest 1
+com.androidessence.pinchzoomtextview.sample.MainActivity.onCreate 2
+com.androidessence.pinchzoomtextview.PinchZoomTextView.isZoomEnabled 2
+com.androidessence.pinchzoomtextview.PinchZoomTextView.setZoomEnabled 2
+com.androidessence.pinchzoomtextview.sample.MainActivity 3
+AppCompatActivity 3
+com.androidessence.pinchzoomtextview.PinchZoomTextView 4
+TextView 4
+com.androidessence.pinchzoomtextview.sample.ExampleUnitTest 5
+com.androidessence.pinchzoomtextview.ExampleInstrumentedTest 6
+com.adammcneilly.pinchzoomtextview.kotlin.sample.ExampleUnitTest 7
+com.adammcneilly.pinchzoomtextview.kotlin.sample.ExampleInstrumentedTest 8
+com.adammcneilly.pinchzoomtextview.kotlin.ExampleInstrumentedTest 9
+com.androidessence.pinchzoomtextview.ExampleUnitTest 10

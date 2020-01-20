@@ -1,2 +1,0 @@
-HasPresentationModelChangeSupport org.robobinding.androidmvvm.PresentationModel 2
-Activity org.robobinding.androidmvvm.MainActivity 3

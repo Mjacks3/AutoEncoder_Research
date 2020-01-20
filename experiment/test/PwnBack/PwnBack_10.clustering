@@ -1,8 +1,0 @@
-burp.BurpExtender 3
-com.k4ch0w.wayback_machine.PwnBack 6
-AbstractTableModel 3
-com.k4ch0w.wayback_machine.PwnBackTable 3
-burp.BurpExtender.registerExtenderCallbacks 6
-ITab 3
-IBurpExtender 3
-com.k4ch0w.wayback_machine.PwnBack.getGui 4

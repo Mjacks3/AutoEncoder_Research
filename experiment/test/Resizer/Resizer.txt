@@ -1,0 +1,17 @@
+me.echodev.resizer.Resizer me.echodev.resizer.Resizer.getResizedBitmap 2
+me.echodev.resizer.Resizer.getResizedBitmapAsFlowable me.echodev.resizer.Resizer.getResizedBitmap 1
+me.echodev.resizer.util.ImageUtils.getScaledImage me.echodev.resizer.util.ImageUtils.getScaledBitmap 3
+me.echodev.resizer.util.ImageUtils me.echodev.resizer.util.ImageUtils.getScaledBitmap 5
+me.echodev.resizer.Resizer.getResizedBitmap me.echodev.resizer.util.ImageUtils.getScaledBitmap 2
+me.echodev.resizer.Resizer me.echodev.resizer.util.ImageUtils 4
+me.echodev.resizer.Resizer me.echodev.resizer.Resizer.getResizedFileAsFlowable 1
+me.echodev.resizer.Resizer.getResizedFileAsFlowable me.echodev.resizer.Resizer.getResizedFile 1
+me.echodev.resizer.Resizer me.echodev.resizer.Resizer.getResizedFile 2
+me.echodev.resizer.util.ImageUtils me.echodev.resizer.util.ImageUtils.getScaledImage 3
+me.echodev.resizer.Resizer.getResizedFile me.echodev.resizer.util.ImageUtils.getScaledImage 2
+me.echodev.resizer.util.ImageUtils.getScaledImage me.echodev.resizer.util.FileUtils.getOutputFilePath 3
+me.echodev.resizer.util.FileUtils me.echodev.resizer.util.FileUtils.getOutputFilePath 3
+me.echodev.resizer.util.ImageUtils me.echodev.resizer.util.FileUtils 3
+me.echodev.resizer.util.ImageUtils.getScaledImage me.echodev.resizer.util.FileUtils.writeBitmapToFile 3
+me.echodev.resizer.util.FileUtils me.echodev.resizer.util.FileUtils.writeBitmapToFile 3
+me.echodev.resizer.Resizer me.echodev.resizer.Resizer.getResizedBitmapAsFlowable 1
