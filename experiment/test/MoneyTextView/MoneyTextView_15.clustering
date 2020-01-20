@@ -1,0 +1,10 @@
+android::test::ApplicationTestCaseApplication 11
+org.fabiomsr.library.ApplicationTest 11
+ApplicationTestCase 11
+AppCompatActivity 11
+org.fabiomsr.moneytextview.example.ExampleActivity 11
+View 11
+org.fabiomsr.moneytextview.MoneyTextView 7
+org.fabiomsr.moneytextview.MoneyTextView.MoneyTextView 11
+org.fabiomsr.moneytextview.MoneyTextView.setAmount 7
+org.fabiomsr.moneytextview.ApplicationTest 11

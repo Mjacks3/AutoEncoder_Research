@@ -1,0 +1,10 @@
+AppCompatActivity 11
+com.bignerdranch.android.typesetter.TypesetterActivity 11
+com.bignerdranch.android.typesetter.BitmapUtils 11
+com.bignerdranch.android.typesetter.TypesetterActivity.onCreate 11
+com.bignerdranch.android.typesetter.BitmapUtils.getBitmapFromView 11
+com.bignerdranch.android.typesetter.AndroidUtils 11
+com.bignerdranch.android.typesetter.AndroidUtils.hideKeyboard 11
+CoordinatorLayout::BehaviorView 11
+com.bignerdranch.android.typesetter.FloatingActionButtonAwareBehaviour 11
+Behavior 11

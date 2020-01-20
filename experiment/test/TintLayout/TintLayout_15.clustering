@@ -1,0 +1,14 @@
+ApplicationTestCase 11
+devlight.io.library.ApplicationTest 7
+android::test::ApplicationTestCaseApplication 11
+devlight.io.library.TintLayout 11
+devlight.io.library.TintLayout.TintLayout 11
+devlight.io.library.TintLayout.setAngle 11
+devlight.io.library.TintLayout.setColor 11
+devlight.io.library.TintLayout.setColors 11
+Activity 11
+devlight.io.sample.MainActivity 7
+FrameLayout 11
+devlight.io.library.TintLayout.onLayout 11
+devlight.io.library.TintLayout.invalidateTint 11
+devlight.io.library.lib.ApplicationTest 11

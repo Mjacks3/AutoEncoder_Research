@@ -1,0 +1,4 @@
+WebSocketAdapter 11
+org.eclipse.jetty.demo.EventSocket 11
+WebSocketServlet 11
+org.eclipse.jetty.demo.EventServlet 11

@@ -1,0 +1,12 @@
+ReactPackage 11
+com.github.wumke.RNExitApp.RNExitAppPackage 11
+ios/RNExitApp/RNExitApp.m 11
+UIKit/UIKit.h 11
+RCTBridgeModule.h 11
+RCTBridgeModule 11
+RNExitApp 11
+NSObject 11
+ReactApplicationContext 11
+com.github.wumke.RNExitApp.RNExitAppModule 11
+AlarmManager 11
+ReactContextBaseJavaModule 11

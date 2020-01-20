@@ -1,0 +1,13 @@
+View::OnClickListener 11
+com.alexjlockwood.example.submissionstatus.MainActivity 11
+AppCompatActivity 11
+com.alexjlockwood.example.submissionstatus.SubmissionStatusDrawable 11
+Drawable 11
+com.alexjlockwood.example.submissionstatus.MainActivity.onCreate 4
+com.alexjlockwood.example.submissionstatus.SubmissionStatusDrawable.setIconType 2
+com.alexjlockwood.example.submissionstatus.MainActivity.onClick 4
+OnClickListener 11
+com.alexjlockwood.example.submissionstatus.MainActivity.onSaveInstanceState 11
+com.alexjlockwood.example.submissionstatus.SubmissionStatusDrawable.getIconType 11
+com.alexjlockwood.example.submissionstatus.SubmissionStatusDrawable.setVisible 1
+com.alexjlockwood.example.submissionstatus.SubmissionStatusDrawable.jumpToCurrentState 10

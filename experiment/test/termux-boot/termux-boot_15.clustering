@@ -1,0 +1,6 @@
+JobService 11
+com.termux.boot.BootJobService 11
+Activity 11
+com.termux.boot.BootActivity 11
+BroadcastReceiver 11
+com.termux.boot.BootReceiver 11

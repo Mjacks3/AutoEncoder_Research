@@ -1,0 +1,17 @@
+com.hiteshsahu.materialupvotewidget.VoteChangeListener 11
+com.hiteshsahu.demo.DemoActivity 10
+AppCompatActivity 11
+com.hiteshsahu.materialupvotewidget.MaterialUpVoteLayout 11
+View 2
+com.hiteshsahu.materialupvotewidget.TriangleShapeView 7
+CoordinatorLayout 10
+ApplicationTestCase 11
+com.hiteshsahu.demo.ApplicationTest 2
+android::test::ApplicationTestCaseApplication 11
+com.hiteshsahu.materialupvotewidget.MaterialUpVoteLayout.MaterialUpVoteLayout 11
+com.hiteshsahu.materialupvotewidget.MaterialUpVoteLayout.init 2
+com.hiteshsahu.materialupvotewidget.VoteChangeListener.onDownVote 2
+com.hiteshsahu.materialupvotewidget.VoteChangeListener.onUpVote 2
+com.hiteshsahu.demo.DemoActivity.onCreate 5
+com.hiteshsahu.materialupvotewidget.MaterialUpVoteLayout.setVoteCount 5
+com.hiteshsahu.materialupvotewidget.MaterialUpVoteLayout.setVoteChangeListener 5

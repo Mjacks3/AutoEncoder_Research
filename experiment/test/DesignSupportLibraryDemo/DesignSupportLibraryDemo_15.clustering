@@ -1,0 +1,16 @@
+FragmentStatePagerAdapter 11
+com.hujiang.designsupportlibrarydemo.FragmentAdapter 4
+View 11
+com.hujiang.designsupportlibrarydemo.RecyclerViewAdapter.ViewHolder 2
+RecyclerView::ViewHolder 11
+AppCompatActivity 11
+com.hujiang.designsupportlibrarydemo.DetailActivity 11
+com.hujiang.designsupportlibrarydemo.MainActivity 11
+Fragment 11
+com.hujiang.designsupportlibrarydemo.ListFragment 10
+ApplicationTestCase 11
+com.hujiang.designsupportlibrarydemo.ApplicationTest 4
+android::test::ApplicationTestCaseApplication 11
+RecyclerView::AdapterRecyclerViewAdapter.ViewHolder 11
+com.hujiang.designsupportlibrarydemo.RecyclerViewAdapter 4
+Adapter 11

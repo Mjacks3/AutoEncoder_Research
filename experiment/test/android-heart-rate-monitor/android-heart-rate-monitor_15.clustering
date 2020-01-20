@@ -1,0 +1,9 @@
+Activity 11
+com.jwetherell.heart_rate_monitor.HeartRateMonitor 11
+com.jwetherell.heart_rate_monitor.HeartbeatView 11
+View 11
+com.jwetherell.heart_rate_monitor.HeartbeatView.onDraw 5
+com.jwetherell.heart_rate_monitor.HeartRateMonitor.getCurrent 11
+com.jwetherell.heart_rate_monitor.ImageProcessing 4
+com.jwetherell.heart_rate_monitor.HeartRateMonitor.onPause 4
+com.jwetherell.heart_rate_monitor.ImageProcessing.decodeYUV420SPtoRedAvg 11
