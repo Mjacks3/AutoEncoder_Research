@@ -1,0 +1,10 @@
+CoordinatorLayout::BehaviorView 0
+com.example.cyandev.androidplayground.widget.HeaderFloatBehavior 0
+Behavior 0
+CoordinatorLayout::BehaviorRecyclerView 0
+com.example.cyandev.androidplayground.widget.HeaderScrollingBehavior 0
+android::test::ApplicationTestCaseApplication 0
+com.example.cyandev.androidplayground.ApplicationTest 1
+ApplicationTestCase 0
+AppCompatActivity 0
+com.example.cyandev.androidplayground.ScrollingActivity 0

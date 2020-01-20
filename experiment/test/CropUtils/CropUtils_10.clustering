@@ -1,0 +1,9 @@
+com.yalantis.ucrop.sample.CropUtils 0
+com.yalantis.ucrop.sample.CropUtils.pickFromGallery 0
+com.yalantis.ucrop.sample.CropUtils.pickAvatarFromGallery 0
+com.yalantis.ucrop.sample.CropUtils.pickAvatarFromCamera 0
+com.yalantis.ucrop.sample.CropUtils.pickFromCamera 4
+com.yalantis.ucrop.sample.CropUtils.handleResult 0
+com.yalantis.ucrop.sample.CropUtils.CropHandler.handleCropResult 0
+com.yalantis.ucrop.sample.CropUtils.CropHandler 0
+com.yalantis.ucrop.sample.CropUtils.CropHandler.handleCropError 0
