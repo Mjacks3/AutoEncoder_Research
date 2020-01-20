@@ -1,0 +1,9 @@
+ContentProvider 13
+com.yasirkula.unity.NativeShareContentProvider 13
+com.yasirkula.unity.NativeShare 13
+com.yasirkula.unity.NativeShare.Share 13
+com.yasirkula.unity.NativeShareContentProvider.getUriForFile 8
+com.yasirkula.unity.NativeShareContentProvider.openFile 13
+NativeShare 13
+_NativeShare_Share 8
+UnityGetGLViewController 8

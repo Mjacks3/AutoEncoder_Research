@@ -1,0 +1,17 @@
+FrameLayout 13
+com.gigamole.library.ShadowLayout 11
+android::test::ApplicationTestCaseApplication 13
+com.gigamole.library.ApplicationTest 8
+ApplicationTestCase 13
+Activity 14
+com.gigamole.shadowlayout.MainActivity 13
+com.gigamole.shadowlayout.ApplicationTest 8
+com.gigamole.library.ShadowLayout.getShadowDy 13
+com.gigamole.library.ShadowLayout.requestLayout 13
+com.gigamole.library.ShadowLayout.setIsShadowed 13
+com.gigamole.library.ShadowLayout.ShadowLayout 13
+com.gigamole.library.ShadowLayout.isShadowed 13
+com.gigamole.library.ShadowLayout.setShadowRadius 13
+com.gigamole.library.ShadowLayout.setShadowDistance 13
+com.gigamole.library.ShadowLayout.setShadowAngle 13
+com.gigamole.library.ShadowLayout.setShadowColor 13

@@ -1,0 +1,5 @@
+com.github.simplesteph.udemy.kafka.streams.BankTransactionsProducerTests 0
+com.github.simplesteph.udemy.kafka.streams.BankTransactionsProducerTests.newRandomTransactionsTest 0
+com.github.simplesteph.udemy.kafka.streams.BankTransactionsProducer.main 0
+com.github.simplesteph.udemy.kafka.streams.BankTransactionsProducer.newRandomTransaction 1
+com.github.simplesteph.udemy.kafka.streams.BankTransactionsProducer 0

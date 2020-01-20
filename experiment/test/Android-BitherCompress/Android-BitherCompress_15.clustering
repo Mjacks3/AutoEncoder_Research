@@ -1,0 +1,10 @@
+AppCompatActivity 13
+com.jeanboy.demo.compress.MainActivity 13
+net.bither.util.NativeUtil 13
+net.bither.util.NativeUtil.compressBitmap 13
+com.jeanboy.demo.compress.MainActivity.compressImage 13
+ApplicationTestCase 13
+com.jeanboy.demo.compress.ApplicationTest 13
+android::test::ApplicationTestCaseApplication 13
+com.jeanboy.demo.compress.MainActivity.onActivityResult 13
+com.jeanboy.demo.compress.MainActivity.ensureUriPermission 13

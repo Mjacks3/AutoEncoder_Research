@@ -1,0 +1,6 @@
+JobService 13
+com.termux.boot.BootJobService 13
+Activity 13
+com.termux.boot.BootActivity 13
+BroadcastReceiver 13
+com.termux.boot.BootReceiver 13

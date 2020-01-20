@@ -1,0 +1,10 @@
+LuminanceSource 13
+com.bolex.pressscan.RGBLuminanceSource 13
+AppCompatActivity 13
+com.shearview.bolex.shearview.ScanSimpleActivity 13
+com.bolex.pressscan.ScanTools 13
+com.bolex.pressscan.ScanTools.ScanCall 13
+com.bolex.pressscan.ScanTools.scanCode 13
+com.shearview.bolex.shearview.ScanSimpleActivity.onCreate 13
+com.bolex.pressscan.ScanTools.scanBitmap 13
+com.bolex.pressscan.ScanTools.ScanCall.getCode 13

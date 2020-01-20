@@ -1,0 +1,4 @@
+WebSocketAdapter 13
+org.eclipse.jetty.demo.EventSocket 13
+WebSocketServlet 13
+org.eclipse.jetty.demo.EventServlet 13
