@@ -1,0 +1,17 @@
+com.fashare.activitytracker.MainActivity com.fashare.activitytracker.MainActivity.onCreate 1
+com.fashare.activitytracker.TrackerService com.fashare.activitytracker.TrackerWindowManager 1
+Point com.fashare.activitytracker.FloatingView 1
+LinearLayout com.fashare.activitytracker.FloatingView 3
+com.fashare.activitytracker.MainActivity.onCreate com.fashare.activitytracker.AccessibilityUtil.checkAccessibility 1
+com.fashare.activitytracker.AccessibilityUtil com.fashare.activitytracker.AccessibilityUtil.checkAccessibility 2
+com.fashare.activitytracker.MainActivity com.fashare.activitytracker.AccessibilityUtil 1
+com.fashare.activitytracker.AccessibilityUtil com.fashare.activitytracker.AccessibilityUtil.isAccessibilitySettingsOn 2
+com.fashare.activitytracker.AccessibilityUtil.checkAccessibility com.fashare.activitytracker.AccessibilityUtil.isAccessibilitySettingsOn 2
+AppCompatActivity com.fashare.activitytracker.MainActivity 3
+com.fashare.activitytracker.TrackerService com.fashare.activitytracker.TrackerService.onStartCommand 1
+AccessibilityService com.fashare.activitytracker.TrackerService 3
+com.fashare.activitytracker.TrackerWindowManager com.fashare.activitytracker.TrackerService 1
+com.fashare.activitytracker.TrackerService.onStartCommand com.fashare.activitytracker.TrackerWindowManager.addView 1
+com.fashare.activitytracker.TrackerWindowManager com.fashare.activitytracker.TrackerWindowManager.addView 1
+com.fashare.activitytracker.TrackerService.onStartCommand com.fashare.activitytracker.TrackerWindowManager.removeView 1
+com.fashare.activitytracker.TrackerWindowManager com.fashare.activitytracker.TrackerWindowManager.removeView 1

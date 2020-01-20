@@ -1,0 +1,9 @@
+com.android.client.MainActivity 0
+AppCompatActivity 0
+com.android.serivce.MainActivity 0
+com.android.serivce.MessengerService 1
+Service 1
+com.android.serivce.MyAidlService 1
+com.android.serivce.Person 2
+Parcelable 2
+com.android.serivce.Person.Person 2
