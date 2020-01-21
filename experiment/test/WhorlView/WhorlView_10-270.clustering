@@ -1,0 +1,14 @@
+com.tt.whorlview.MainActivity 5
+com.tt.whorlview.MainActivity.onCreate 4
+AppCompatActivity 5
+com.tt.whorlviewlibrary.WhorlView 4
+com.tt.whorlviewlibrary.WhorlView.stop 5
+View 5
+com.tt.whorlviewlibrary.WhorlView.start 3
+com.tt.whorlviewlibrary.WhorlView.isCircling 5
+android::test::ApplicationTestCaseApplication 3
+com.tt.whorlview.ApplicationTest 5
+ApplicationTestCase 4
+com.tt.whorlviewlibrary.ApplicationTest 5
+com.tt.whorlviewlibrary.WhorlView.onMeasure 5
+com.tt.whorlviewlibrary.WhorlView.measureSize 4

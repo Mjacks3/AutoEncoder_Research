@@ -1,0 +1,15 @@
+Activity 2
+com.example.android_paint_picline.MainActivity 2
+Bitmap 7
+com.example.android_paint_picline.DrawRuler 7
+View 7
+com.example.android_paint_picline.DrawRuler.getInchFromPix 7
+com.example.android_paint_picline.DrawRuler.onTouchEvent 5
+com.example.android_paint_picline.DrawRuler.getNewY 7
+com.example.android_paint_picline.DrawRuler.getNewMarginBottom 5
+com.example.android_paint_picline.DrawRuler.onDraw 5
+com.example.android_paint_picline.DrawRuler.getTop 2
+com.example.android_paint_picline.DrawRuler.DrawRuler 5
+com.example.android_paint_picline.DrawRuler.clearCanvas 5
+com.example.android_paint_picline.DrawRuler.paintInch 5
+com.example.android_paint_picline.DrawRuler.paintCm 5

@@ -1,0 +1,17 @@
+FragmentPagerAdapter 3
+com.loonggg.coordinatorlayoutdemo.ViewPagerAdapter 3
+AppCompatActivity 0
+com.loonggg.coordinatorlayoutdemo.MainActivity 2
+TextView 2
+com.loonggg.coordinatorlayoutdemo.MyAdapter.ViewHolder 2
+RecyclerView::ViewHolder 2
+RecyclerView::AdapterMyAdapter.ViewHolder 3
+com.loonggg.coordinatorlayoutdemo.MyAdapter 2
+Adapter 3
+ApplicationTestCase 2
+com.loonggg.coordinatorlayoutdemo.ApplicationTest 0
+android::test::ApplicationTestCaseApplication 2
+Fragment 2
+com.loonggg.coordinatorlayoutdemo.PageFragment 2
+com.loonggg.coordinatorlayoutdemo.ViewPagerAdapter.getItem 3
+com.loonggg.coordinatorlayoutdemo.PageFragment.newInstance 2

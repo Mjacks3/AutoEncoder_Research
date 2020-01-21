@@ -1,0 +1,13 @@
+Configuration 8
+com.hortonworks.simpleyarnapp.ApplicationMasterAsync 2
+NMClient 0
+AMRMClientAsync::CallbackHandler 0
+CallbackHandler 0
+com.hortonworks.simpleyarnapp.ApplicationMasterAsync.runMainLoop 0
+com.hortonworks.simpleyarnapp.ApplicationMasterAsync.main 8
+com.hortonworks.simpleyarnapp.ApplicationMasterAsync.getConfiguration 8
+com.hortonworks.simpleyarnapp.ApplicationMasterAsync.doneWithContainers 8
+com.hortonworks.simpleyarnapp.ApplicationMasterAsync.ApplicationMasterAsync 2
+com.hortonworks.simpleyarnapp.Client 8
+com.hortonworks.simpleyarnapp.Client.main 8
+com.hortonworks.simpleyarnapp.Client.run 8

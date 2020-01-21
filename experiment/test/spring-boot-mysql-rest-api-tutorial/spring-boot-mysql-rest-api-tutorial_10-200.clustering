@@ -1,0 +1,10 @@
+com.example.easynotes.repository.NoteRepository 2
+com.example.easynotes.controller.NoteController 5
+JpaRepository 5
+org::springframework::data::jpa::repository::JpaRepositoryNote,Long 5
+RuntimeException 8
+com.example.easynotes.exception.ResourceNotFoundException 8
+com.example.easynotes.model.Note 5
+com.example.easynotes.controller.NoteController.updateNote 5
+com.example.easynotes.model.Note.setTitle 5
+com.example.easynotes.model.Note.setContent 5

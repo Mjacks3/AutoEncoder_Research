@@ -1,0 +1,16 @@
+FloatingActionButton 1
+me.chunyu.spike.wcl_circle_reveal_demo.MainActivity 1
+AppCompatActivity 7
+me.chunyu.spike.wcl_circle_reveal_demo.OtherActivity 5
+me.chunyu.spike.wcl_circle_reveal_demo.OtherActivity.onBackPressed 3
+me.chunyu.spike.wcl_circle_reveal_demo.OtherActivity.backActivity 3
+ImageView 5
+TextView 3
+RelativeLayout 5
+me.chunyu.spike.wcl_circle_reveal_demo.GuiUtils 1
+me.chunyu.spike.wcl_circle_reveal_demo.GuiUtils.animateRevealHide 1
+me.chunyu.spike.wcl_circle_reveal_demo.OtherActivity.onCreate 1
+me.chunyu.spike.wcl_circle_reveal_demo.GuiUtils.animateRevealShow 1
+ApplicationTestCase 3
+me.chunyu.spike.wcl_circle_reveal_demo.ApplicationTest 4
+android::test::ApplicationTestCaseApplication 3

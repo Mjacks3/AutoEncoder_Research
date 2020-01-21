@@ -1,0 +1,8 @@
+com.colobu.kafka.ConsumerExample 4
+com.colobu.kafka.ConsumerExample.main 4
+com.colobu.kafka.ConsumerExample.ConsumerExample 4
+com.colobu.kafka.ConsumerExample.run 4
+com.colobu.kafka.ConsumerExample.shutdown 4
+Partitioner 4
+com.colobu.kafka.SimplePartitioner 2
+com.colobu.kafka.SimplePartitioner.partition 2

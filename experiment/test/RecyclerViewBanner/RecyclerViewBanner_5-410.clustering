@@ -1,0 +1,14 @@
+FrameLayout 1
+com.loonggg.rvbanner.lib.RecyclerViewBanner 3
+com.loonggg.rvbanner.MainActivity 1
+AppCompatActivity 4
+com.loonggg.rvbanner.MainActivity.onCreate 3
+com.loonggg.rvbanner.lib.RecyclerViewBanner.setRvBannerData 4
+com.loonggg.rvbanner.lib.RecyclerViewBanner.setOnSwitchRvBannerListener 4
+com.loonggg.rvbanner.lib.RecyclerViewBanner.setOnRvBannerClickListener 4
+com.loonggg.rvbanner.lib.RecyclerViewBanner.setIndicatorInterval 4
+com.loonggg.rvbanner.lib.RecyclerViewBanner.OnSwitchRvBannerListener 1
+com.loonggg.rvbanner.lib.RecyclerViewBanner.OnRvBannerClickListener 4
+com.loonggg.rvbanner.lib.RecyclerViewBanner.onWindowVisibilityChanged 1
+com.loonggg.rvbanner.lib.RecyclerViewBanner.OnRvBannerClickListener.onClick 3
+com.loonggg.rvbanner.lib.RecyclerViewBanner.OnSwitchRvBannerListener.switchBanner 1

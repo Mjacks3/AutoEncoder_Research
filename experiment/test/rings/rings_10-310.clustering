@@ -1,0 +1,14 @@
+com.lalongooo.Rings 3
+com.lalongooo.Rings.onDraw 0
+View 0
+com.lalongooo.Rings.getChartRingOverallProgress 0
+com.lalongooo.Rings.getChartRingSpeedProgress 0
+com.lalongooo.Rings.getChartRingBrakingProgress 0
+com.lalongooo.Rings.getChartRingAccelerationProgress 0
+com.lalongooo.Rings.onTouchEvent 0
+com.lalongooo.Rings.getRingsClickable 0
+com.lalongooo.Rings.highlight 0
+com.lalongooo.Rings.setRingOverallProgress 0
+com.lalongooo.Rings.setRingInnerThirdProgress 0
+com.lalongooo.Rings.setRingInnerSecondProgress 0
+com.lalongooo.Rings.setRingInnerFirstProgress 0

@@ -1,0 +1,14 @@
+View 7
+com.dingmouren.colorpicker.ColorPlateView 7
+com.dingmouren.colorpicker.ColorPickerDialog 1
+com.dingmouren.colorpicker.ColorPickerDialog.show 1
+com.dingmouren.colorpickerpro.MainActivity.onCreate 1
+com.dingmouren.colorpickerpro.MainActivity 1
+AppCompatActivity 4
+com.dingmouren.colorpicker.ColorPickerDialog.setButtonTextColor 1
+com.dingmouren.colorpicker.OnColorPickerListener 1
+com.dingmouren.colorpicker.ColorPickerDialog.ColorPickerDialog 1
+com.dingmouren.colorpicker.ColorPlateView.setHue 4
+com.dingmouren.colorpicker.OnColorPickerListener.onColorChange 1
+com.dingmouren.colorpicker.OnColorPickerListener.onColorConfirm 1
+com.dingmouren.colorpicker.OnColorPickerListener.onColorCancel 1

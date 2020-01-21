@@ -1,0 +1,17 @@
+de.matrixweb.jreact.JReactClasspathTest 8
+de.matrixweb.jreact.JReact 0
+de.matrixweb.jreact.JReactTest 8
+de.matrixweb.jreact.Filesystem 8
+de.matrixweb.jreact.ClasspathBasedFilesystem 4
+de.matrixweb.jreact.FilebasedFilesystem 8
+de.matrixweb.jreact.JReactTest.testStaticRenderWithReact015 0
+de.matrixweb.jreact.JReact.renderToString 8
+de.matrixweb.jreact.JReactClasspathTest.testRenderWithHarmony 0
+de.matrixweb.jreact.JReactTest.testRenderWithHarmony 0
+de.matrixweb.jreact.JReactClasspathTest.testStaticRenderWithReact015 0
+de.matrixweb.jreact.JReact.renderToStaticMarkup 8
+de.matrixweb.jreact.JReact.setHarmony 8
+de.matrixweb.jreact.JReactClasspathTest.testRenderWithSourceMaps 8
+de.matrixweb.jreact.JReactTest.testRenderWithSourceMaps 8
+de.matrixweb.jreact.JReact.setSourceMaps 8
+de.matrixweb.jreact.JReact.renderComponentToStaticMarkup 8

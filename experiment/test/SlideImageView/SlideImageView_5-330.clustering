@@ -1,0 +1,12 @@
+Activity 0
+devlight.io.sample.MainActivity 0
+View 3
+devlight.io.library.SlideImageView 3
+devlight.io.library.SlideImageView.SlideImageView 3
+devlight.io.library.SlideImageView.setSource 3
+devlight.io.library.SlideImageView.setRate 3
+devlight.io.library.SlideImageView.setAxis 3
+ApplicationTestCase 3
+devlight.io.library.lib.ApplicationTest 0
+android::test::ApplicationTestCaseApplication 3
+devlight.io.library.ApplicationTest 0

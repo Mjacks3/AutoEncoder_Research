@@ -1,0 +1,10 @@
+Animation 2
+cn.geminiwen.cube.animation.CubeRightInAnimation 4
+cn.geminiwen.cube.view.CubeLayout 9
+FrameLayout 9
+android::test::ApplicationTestCaseApplication 7
+cn.geminiwen.cube.ApplicationTest 9
+ApplicationTestCase 7
+AppCompatActivity 4
+cn.geminiwen.cube.MainActivity 2
+cn.geminiwen.cube.animation.CubeLeftOutAnimation 2

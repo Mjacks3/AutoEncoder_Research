@@ -1,0 +1,11 @@
+com.example.liangmutian.randomtextview.MainActivity 8
+com.example.liangmutian.randomtextview.MainActivity.start4 8
+Activity 2
+com.example.liangmutian.randomtextview.MainActivity.onCreate 8
+com.example.liangmutian.randomtextviewlibrary.RandomTextView.setPianyilian 8
+com.example.liangmutian.randomtextviewlibrary.RandomTextView 8
+TextView 8
+com.example.liangmutian.randomtextviewlibrary.RandomTextView.start 8
+Application 4
+com.example.liangmutian.randomtextview.MyApplication 4
+com.example.liangmutian.randomtextviewlibrary.RandomTextView.setMaxLine 8

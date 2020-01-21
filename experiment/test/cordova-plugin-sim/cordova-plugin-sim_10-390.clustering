@@ -1,0 +1,13 @@
+BaseCommand 5
+WPCordovaClassLib.Cordova.Commands.Sim 3
+src/ios/Sim.h 5
+src/ios/Sim.m 5
+Sim.h 5
+Cordova/CDV.h 3
+CoreTelephony/CTCarrier.h 3
+CoreTelephony/CTTelephonyNetworkInfo.h 3
+Foundation/Foundation.h 5
+CDVPlugin 5
+Sim 3
+CordovaPlugin 5
+com.pbakondy.Sim 3

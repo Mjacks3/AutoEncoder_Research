@@ -1,0 +1,12 @@
+cc.widget.sample.FamilyActivity 4
+cc.widget.sample.FamilyActivity.onCreate 4
+AppCompatActivity 4
+cc.sayaki.widget.PlumbTextView.setTypeface 2
+cc.sayaki.widget.PlumbTextView 2
+View 4
+cc.widget.sample.MainActivity 4
+cc.widget.sample.NormalActivity 4
+cc.widget.sample.FormatActivity 4
+cc.widget.sample.PaddingActivity 4
+cc.widget.sample.FontStyleActivity 4
+cc.widget.sample.LeftLineActivity 4

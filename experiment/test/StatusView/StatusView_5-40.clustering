@@ -1,0 +1,11 @@
+AppCompatActivity 3
+iammert.com.statusview.MainActivity 0
+Button 3
+iammert.com.library.StatusView 0
+iammert.com.library.ConnectionStatusView 0
+RelativeLayout 0
+iammert.com.statusview.MainActivity.onCreate 3
+iammert.com.library.StatusView.setStatus 3
+Animation::AnimationListener 0
+iammert.com.library.SimpleAnimListener 0
+AnimationListener 0

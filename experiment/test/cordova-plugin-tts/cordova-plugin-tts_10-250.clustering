@@ -1,0 +1,16 @@
+src/ios/CDVTTS.h 1
+src/ios/CDVTTS.m 1
+Cordova/CDV.h 6
+CDVTTS.h 1
+Cordova/CDVAvailability.h 6
+AVFoundation/AVFoundation.h 6
+BaseCommand 7
+Cordova.Extension.Commands.TTS 1
+OnInitListener 7
+com.wordsbaking.cordova.tts.TTS 7
+CordovaPlugin 7
+TextToSpeech 7
+Context 7
+AVSpeechSynthesizerDelegate 7
+CDVTTS 6
+CDVPlugin 7

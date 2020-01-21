@@ -1,0 +1,14 @@
+com.paypal.example.paypalandroidsdkexample.test.TestHelper 2
+com.paypal.example.paypalandroidsdkexample.test.TestHelper.takeScreenshot 8
+com.paypal.example.paypalandroidsdkexample.test.TestHelper.onDeviceWithScreenShot 8
+com.paypal.example.paypalandroidsdkexample.test.PaymentTest 8
+com.paypal.example.paypalandroidsdkexample.test.TestHelper.getActivityInstance 8
+com.paypal.example.paypalandroidsdkexample.test.PaymentTest.setup 3
+com.paypal.example.paypalandroidsdkexample.test.TestHelper.setup 8
+com.paypal.example.paypalandroidsdkexample.test.TestHelper.onAgree 8
+com.paypal.example.paypalandroidsdkexample.test.TestHelper.onLogin 8
+com.paypal.example.paypalandroidsdkexample.SampleActivity 2
+com.paypal.example.paypalandroidsdkexample.SampleActivity.onActivityResult 5
+Activity 2
+com.paypal.example.paypalandroidsdkexample.SampleActivity.onFuturePaymentPurchasePressed 5
+com.paypal.example.paypalandroidsdkexample.SampleActivity.displayResultText 2

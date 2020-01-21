@@ -1,0 +1,14 @@
+org.apache.hadoop.util.VersionInfo._getProtocVersion 7
+org.apache.hadoop.util.VersionInfo.main 4
+org.apache.hadoop.util.VersionInfo 4
+org.apache.hadoop.util.VersionInfo.VersionInfo 7
+org.apache.hadoop.util.VersionInfo._getBuildVersion 9
+org.apache.hadoop.util.VersionInfo._getSrcChecksum 4
+org.apache.hadoop.util.VersionInfo._getVersion 9
+Harness.main 9
+org.apache.hadoop.util.VersionInfo._getRevision 9
+Harness 7
+org.apache.hadoop.util.VersionInfo._getDate 4
+org.apache.hadoop.util.VersionInfo._getBranch 4
+org.apache.hadoop.util.VersionInfo._getUrl 9
+org.apache.hadoop.util.VersionInfo._getUser 9

@@ -1,0 +1,12 @@
+AppCompatActivity 3
+cn.fanrunqi.materiallogin.MainActivity 6
+android::test::ApplicationTestCaseApplication 7
+cn.fanrunqi.materiallogin.ApplicationTest 2
+ApplicationTestCase 7
+cn.fanrunqi.materiallogin.a.AActivityTwo 6
+cn.fanrunqi.materiallogin.a.AActivityTwo.onCreate 7
+cn.fanrunqi.materiallogin.a.AActivityTwo.onBackPressed 7
+cn.fanrunqi.materiallogin.a.AActivityTwo.animateRevealClose 7
+cn.fanrunqi.materiallogin.a.AActivityTwo.animateRevealShow 7
+cn.fanrunqi.materiallogin.a.AActivityOne 6
+cn.fanrunqi.materiallogin.a.AActivityThree 6

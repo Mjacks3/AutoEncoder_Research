@@ -1,0 +1,15 @@
+ActionBarActivity 1
+com.example.sample.MainActivity 6
+com.sevenheaven.iosswitch.ShSwitchView 1
+com.example.sample.MainActivity.onCreate 1
+com.sevenheaven.iosswitch.ShSwitchView.setOn 1
+View 9
+com.sevenheaven.iosswitch.ShSwitchView.onAttachedToWindow 1
+com.sevenheaven.iosswitch.ShSwitchView.isOn 1
+com.sevenheaven.iosswitch.ShSwitchView.OnSwitchStateChangeListener.onSwitchStateChange 1
+com.sevenheaven.iosswitch.ShSwitchView.OnSwitchStateChangeListener 1
+com.sevenheaven.iosswitch.ShSwitchView.onTouchEvent 9
+android::test::ApplicationTestCaseApplication 4
+com.example.sample.ApplicationTest 0
+ApplicationTestCase 4
+com.sevenheaven.iosswitch.ApplicationTest 0

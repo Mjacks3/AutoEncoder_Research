@@ -1,0 +1,15 @@
+es.dmoral.toastysample.MainActivity 1
+es.dmoral.toastysample.MainActivity.onCreate 1
+es.dmoral.toasty.Toasty 1
+es.dmoral.toasty.Toasty.error 1
+es.dmoral.toasty.Toasty.success 1
+es.dmoral.toasty.Toasty.info 5
+es.dmoral.toasty.Toasty.warning 1
+es.dmoral.toasty.Toasty.normal 1
+es.dmoral.toasty.Toasty.Config.getInstance 5
+es.dmoral.toasty.Toasty.Config 1
+es.dmoral.toasty.Toasty.Config.setToastTypeface 5
+es.dmoral.toasty.Toasty.Config.apply 5
+es.dmoral.toasty.Toasty.custom 5
+es.dmoral.toasty.Toasty.Config.reset 5
+AppCompatActivity 1

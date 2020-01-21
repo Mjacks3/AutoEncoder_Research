@@ -1,0 +1,9 @@
+Activity 1
+com.kince.waveview.MainActivity 1
+com.kince.waveview.MainActivity.onCreate 1
+com.kince.waveview.WaterWaveView 1
+com.kince.waveview.WaterWaveView.setmWaterLevel 1
+View 1
+com.kince.waveview.WaterWaveView.startWave 1
+com.kince.waveview.MainActivity.onDestroy 1
+com.kince.waveview.WaterWaveView.stopWave 8

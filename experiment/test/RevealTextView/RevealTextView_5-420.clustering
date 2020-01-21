@@ -1,0 +1,16 @@
+AppCompatActivity 2
+com.antonionicolaspina.revealtextview.sample.MainActivity 2
+ValueAnimator::AnimatorUpdateListener 4
+com.antonionicolaspina.revealtextview.RevealTextView 4
+TextView 4
+Runnable 4
+AnimatorUpdateListener 4
+com.antonionicolaspina.revealtextview.RevealTextView.setAnimatedText 4
+com.antonionicolaspina.revealtextview.RevealTextView.init 4
+com.antonionicolaspina.revealtextview.RevealTextView.replayAnimation 3
+android::test::ApplicationTestCaseApplication 3
+com.antonionicolaspina.revealtextview.ApplicationTest 2
+ApplicationTestCase 3
+com.antonionicolaspina.revealtextview.RevealTextView.onAnimationUpdate 4
+com.antonionicolaspina.revealtextview.RevealTextView.clamp 1
+com.antonionicolaspina.revealtextview.RevealTextView.RevealTextView 3

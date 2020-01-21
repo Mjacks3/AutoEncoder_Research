@@ -1,0 +1,6 @@
+com.mapr.examples.Run 7
+com.mapr.examples.Run.main 5
+com.mapr.examples.Producer 5
+com.mapr.examples.Producer.main 7
+com.mapr.examples.Consumer 5
+com.mapr.examples.Consumer.main 7

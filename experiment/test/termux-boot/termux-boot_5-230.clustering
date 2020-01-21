@@ -1,0 +1,6 @@
+JobService 3
+com.termux.boot.BootJobService 3
+Activity 3
+com.termux.boot.BootActivity 3
+BroadcastReceiver 3
+com.termux.boot.BootReceiver 3

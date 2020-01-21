@@ -1,0 +1,8 @@
+com.king.view.flutteringlayout.FlutteringLayout 9
+com.king.fluttering.MainActivity 9
+AppCompatActivity 4
+RelativeLayout 9
+com.king.fluttering.MainActivity.OnClick 9
+com.king.view.flutteringlayout.FlutteringLayout.addHeart 4
+com.king.view.flutteringlayout.FlutteringLayout.setSameSize 9
+com.king.view.flutteringlayout.FlutteringLayout.isSameSize 4

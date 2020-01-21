@@ -1,0 +1,10 @@
+AppCompatActivity 3
+com.newcaoguo.rollingnumber.MainActivity 3
+com.newcaoguo.rollingnumber.MainActivity.start 3
+com.newcaoguo.easyrollingnumber.view.ScrollingDigitalAnimation 3
+com.newcaoguo.easyrollingnumber.view.ScrollingDigitalAnimation.setPrefixString 3
+AppCompatTextView 5
+android::support::v7::widget::AppCompatTextView 5
+com.newcaoguo.easyrollingnumber.view.ScrollingDigitalAnimation.setNumberString 3
+com.newcaoguo.easyrollingnumber.view.ScrollingDigitalAnimation.setDuration 3
+com.newcaoguo.easyrollingnumber.view.ScrollingDigitalAnimation.setPostfixString 3

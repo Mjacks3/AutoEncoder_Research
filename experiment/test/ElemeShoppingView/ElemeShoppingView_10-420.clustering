@@ -1,0 +1,16 @@
+AppCompatActivity 8
+me.wangyuwei.elemeshopping.MainActivity 4
+ApplicationTestCase 8
+me.wangyuwei.elemeshopping.ApplicationTest 8
+android::test::ApplicationTestCaseApplication 8
+View 2
+me.wangyuwei.shoppoing.ShoppingView 8
+Paint 2
+me.wangyuwei.elemeshopping.MainActivity.onCreate 4
+me.wangyuwei.shoppoing.ShoppingView.setOnShoppingClickListener 6
+me.wangyuwei.shoppoing.ShoppingView.setTextNum 6
+me.wangyuwei.shoppoing.ApplicationTest 8
+me.wangyuwei.shoppoing.ShoppingView.onTouchEvent 5
+me.wangyuwei.shoppoing.ShoppingView.ShoppingClickListener.onAddClick 8
+me.wangyuwei.shoppoing.ShoppingView.ShoppingClickListener 5
+me.wangyuwei.shoppoing.ShoppingView.ShoppingClickListener.onMinusClick 8

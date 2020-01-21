@@ -1,0 +1,11 @@
+com.spark.submitbutton.SubmitButton.startAnimation 2
+com.spark.submitbutton.SubmitButton.startTickAnim 4
+com.spark.submitbutton.SubmitButton 2
+android::test::ApplicationTestCaseApplication 2
+com.spark.coolbutton.ApplicationTest 2
+ApplicationTestCase 2
+AppCompatActivity 2
+com.spark.coolbutton.MainActivity 2
+com.spark.submitbutton.ApplicationTest 2
+com.spark.submitbutton.SubmitButton.onTouchEvent 4
+TextView 4

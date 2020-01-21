@@ -1,0 +1,12 @@
+yuki312.android.imageryheader.ObservableScrollView.Callbacks 8
+yuki312.android.imageryheader.ImageryHeaderFragment 8
+Fragment 8
+Activity 4
+yuki312.android.imageryheader.MainActivity 4
+android::test::ApplicationTestCaseApplication 9
+yuki312.android.imageryheader.ApplicationTest 4
+ApplicationTestCase 9
+yuki312.android.imageryheader.ObservableScrollView 8
+ScrollView 8
+yuki312.android.imageryheader.ImageryHeaderFragment.onScrollChanged 8
+yuki312.android.imageryheader.ObservableScrollView.addCallbacks 9

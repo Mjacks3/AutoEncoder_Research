@@ -1,0 +1,13 @@
+com.example.expandedcircleprogressexample.MainActivity.ExtendedCircleFragment 4
+com.tigerlee.widget.ExpandedCircleProgressView 2
+View 2
+Fragment 2
+com.tigerlee.widget.ExpandedCircleProgressView.ExpandedCircleProgressView 2
+com.tigerlee.widget.ExpandedCircleProgressView.init 2
+com.tigerlee.widget.ExpandedCircleProgressView.cancelUpdateTask 2
+com.example.expandedcircleprogressexample.MainActivity.ExtendedCircleFragment.onDestroy 1
+android::os::AsyncTaskInteger,Integer,Integer 4
+com.tigerlee.widget.ExpandedCircleProgressView.ProgressUpdateTask 1
+AsyncTask 4
+FragmentActivity 1
+com.example.expandedcircleprogressexample.MainActivity 2

@@ -1,0 +1,6 @@
+JobService 6
+com.termux.boot.BootJobService 6
+Activity 6
+com.termux.boot.BootActivity 6
+BroadcastReceiver 6
+com.termux.boot.BootReceiver 6

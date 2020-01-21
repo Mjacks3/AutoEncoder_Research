@@ -1,0 +1,8 @@
+io.github.luckyandyzhang.mentionedittext.MentionEditText 3
+io.github.luckyandyzhang.mentionedittext.MentionEditText.OnMentionInputListener 8
+AppCompatEditText 8
+io.github.luckyandyzhang.mentionedittext.MentionEditText.setOnMentionInputListener 8
+io.github.luckyandyzhang.mentionedittext.MentionEditText.setPattern 8
+io.github.luckyandyzhang.mentionedittext.MentionEditText.addPattern 3
+io.github.luckyandyzhang.mentionedittext.MentionEditText.onTextChanged 3
+io.github.luckyandyzhang.mentionedittext.MentionEditText.OnMentionInputListener.onMentionCharacterInput 3

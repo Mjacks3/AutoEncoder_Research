@@ -1,0 +1,11 @@
+com.brioal.adtestview.AdTextViewActivity 3
+com.brioal.adtestview.AdTextViewActivity.onCreate 3
+Toast 9
+Activity 9
+com.brioal.adtextviewlib.view.ADTextView 5
+com.brioal.adtestview.AdTextViewActivity.init 1
+com.brioal.adtextviewlib.view.ADTextView.setInterval 9
+TextSwitcher 5
+com.brioal.adtextviewlib.view.ADTextView.init 3
+com.brioal.adtextviewlib.view.OnAdChangeListener 3
+com.brioal.adtextviewlib.view.OnAdChangeListener.DiyTextView 5
