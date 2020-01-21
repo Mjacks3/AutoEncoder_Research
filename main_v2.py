@@ -151,7 +151,7 @@ def train(args):
         os.makedirs(args.save_dir)
 
 
-    for training_set_size_this_iteration in range(10,510,10):
+    for training_set_size_this_iteration in range(390,510,10):
         temp_save_dir = args.save_dir+ "/"+ str(training_set_size_this_iteration)
         print(temp_save_dir)
 
@@ -228,7 +228,7 @@ if __name__ == "__main__":
                         help="Whether to use data augmentation during pretraining phase")
     parser.add_argument('--pretrained-weights', default=None, type=str,
                         help="Pretrained weights of the autoencoder")
-    parser.add_argument('--pretrain-epochs', default=100, type=int,
+    parser.add_argument('--pretrain-epochs', default=300, type=int,
                         help="Number of epochs for pretraining")
     parser.add_argument('-v', '--verbose', default=1, type=int,
                         help="Verbose for pretraining")
@@ -293,7 +293,7 @@ if args.experiment:
 
     #Training
     
-    models = [5,10]
+    models = [10]
     for num in models:
         args.num_clusters = int(num)
         args.save_dir = "experiment/" + str(args.num_clusters)
