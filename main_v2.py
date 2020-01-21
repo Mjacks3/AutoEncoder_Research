@@ -320,7 +320,23 @@ if args.experiment:
                         "19": []
                         }
     """
-    
+    models = [5,10]
+    for num_clusters in models:
+        for sub_epoch_count in range(10,510,10):
+            print(sub_epoch_count)
+            for r, d, f in os.walk("experiment/test"): 
+                if len(f) >= 4 and r.split("/")[-1] +  "_" + str(args.num_clusters)+ "-"+ str(sub_epoch_count)+ ".clustering" not in f  :
+                    args.num_clusters = num_clusters
+                    args.weights = "experiment/"+str(num_clusters)+"/"+str(sub_epoch_count)+"/model_final.h5"
+                    args.test_dataset = r
+                    test(args)
+
+
+
+    """
+
+
+
     models = [5,10]
     for num_clusters in models:
         for r0, d0, f0 in os.walk("experiment/"+ str(num_clusters)):
@@ -345,7 +361,7 @@ if args.experiment:
                         #print(args.test_dataset)
                         #test(args)
                 
-    
+    """
     #End Test
 
 
