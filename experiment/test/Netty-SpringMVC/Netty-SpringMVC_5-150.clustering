@@ -1,0 +1,9 @@
+org.springframework.sandbox.netty.MyServer 0
+org.springframework.sandbox.netty.MyServer.main 0
+org.springframework.sandbox.netty.MyServer.MyServer 0
+io::netty::channel::SimpleChannelInboundHandlerFullHttpRequest 0
+org.springframework.sandbox.netty.ServletNettyHandler 0
+SimpleChannelInboundHandler 0
+ChannelInitializer 0
+org.springframework.sandbox.netty.DispatcherServletChannelInitializer 0
+io::netty::channel::ChannelInitializerSocketChannel 0

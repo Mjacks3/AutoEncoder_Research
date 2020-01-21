@@ -1,0 +1,9 @@
+ActivityTestRulecom.dicedmelon.example.android.MainActivity 0
+com.dicedmelon.example.android.MainActivityTest 2
+AppCompatActivity 0
+com.dicedmelon.example.android.MainActivity 0
+com.dicedmelon.example.android.NumberProviderTest 0
+com.dicedmelon.example.android.NumberProvider 0
+com.dicedmelon.example.android.NumberProviderTest.shouldProvideProperNumber 0
+com.dicedmelon.example.android.NumberProvider.provideNumber 0
+com.dicedmelon.example.android.MainActivity.onCreate 0

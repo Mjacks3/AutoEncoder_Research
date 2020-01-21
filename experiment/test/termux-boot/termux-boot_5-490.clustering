@@ -1,0 +1,6 @@
+JobService 4
+com.termux.boot.BootJobService 4
+Activity 4
+com.termux.boot.BootActivity 4
+BroadcastReceiver 4
+com.termux.boot.BootReceiver 4
