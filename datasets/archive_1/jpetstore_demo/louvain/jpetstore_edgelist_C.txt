@@ -1,6 +1,0 @@
-CatalogActionBean AbstractActionBean
-ActionBean AbstractActionBean
-AbstractActionBean CatalogActionBean
-AbstractActionBean OrderActionBean
-ActionBeanContext AbstractActionBean
-OrderActionBean AbstractActionBean
