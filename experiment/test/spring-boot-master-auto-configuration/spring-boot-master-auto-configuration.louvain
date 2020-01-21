@@ -1,0 +1,9 @@
+hornetq.autoconfigure.HornetQProperties.Embedded 0
+hornetq.autoconfigure.HornetQAutoConfiguration 1
+hornetq.autoconfigure.HornetQMode 2
+hornetq.autoconfigure.HornetQNoOpBindingRegistry 3
+BindingRegistry 3
+hornetq.autoconfigure.HornetQConfigurationCustomizer 4
+hornetq.autoconfigure.HornetQAutoConfigurationTest 5
+demo.DemoApplication 6
+hornetq.autoconfigure.HornetQProperties 7

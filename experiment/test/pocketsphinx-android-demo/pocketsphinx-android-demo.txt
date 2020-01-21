@@ -1,0 +1,5 @@
+Activity edu.cmu.pocketsphinx.demo.wear.WearActivity 3
+RecognitionListener edu.cmu.pocketsphinx.demo.wear.WearActivity 3
+Activity RecognitionListener 1
+Activity edu.cmu.pocketsphinx.demo.PocketSphinxActivity 2
+RecognitionListener edu.cmu.pocketsphinx.demo.PocketSphinxActivity 2

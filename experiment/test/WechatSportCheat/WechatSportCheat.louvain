@@ -1,0 +1,14 @@
+com.example.xposedwechat.R.layout 0
+Activity 1
+com.example.xposedwechat.MainActivity 1
+com.example.xposedwechat.wechat 2
+IXposedHookLoadPackage 2
+com.example.xposedwechat.R.menu 3
+com.example.xposedwechat.R.dimen 4
+com.example.xposedwechat.R.attr 5
+com.example.xposedwechat.R 6
+com.example.xposedwechat.BuildConfig 7
+com.example.xposedwechat.R.id 8
+com.example.xposedwechat.R.string 9
+com.example.xposedwechat.R.drawable 10
+com.example.xposedwechat.R.style 11
