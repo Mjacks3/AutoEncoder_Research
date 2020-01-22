@@ -1,4 +1,0 @@
-TextView com.cardinalsolutions.progressindicator.CurvedTextView 2
-Activity com.cardinalsolutions.progressindicator.MainActivity 3
-android::test::ApplicationTestCaseApplication com.cardinalsolutions.progressindicator.ApplicationTest 2
-ApplicationTestCase com.cardinalsolutions.progressindicator.ApplicationTest 1

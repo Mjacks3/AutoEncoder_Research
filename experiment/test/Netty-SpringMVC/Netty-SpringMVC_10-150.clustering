@@ -1,9 +1,0 @@
-org.springframework.sandbox.netty.MyServer 9
-org.springframework.sandbox.netty.MyServer.main 9
-org.springframework.sandbox.netty.MyServer.MyServer 9
-io::netty::channel::SimpleChannelInboundHandlerFullHttpRequest 5
-org.springframework.sandbox.netty.ServletNettyHandler 9
-SimpleChannelInboundHandler 5
-ChannelInitializer 5
-org.springframework.sandbox.netty.DispatcherServletChannelInitializer 9
-io::netty::channel::ChannelInitializerSocketChannel 5

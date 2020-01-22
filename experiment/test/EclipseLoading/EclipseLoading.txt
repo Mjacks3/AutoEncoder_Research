@@ -1,2 +1,0 @@
-View me.bakumon.library.EclipseLoadingView 3
-AppCompatActivity me.bakumon.eclipseloading.MainActivity 3

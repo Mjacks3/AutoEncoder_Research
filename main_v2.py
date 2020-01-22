@@ -1,4 +1,4 @@
-# -*- coding: utf-8 -*-
+  # -*- coding: utf-8 -*-
 # coding: utf-8
 #Arg commands kick over very differnernt processes, so imports are moved to functions they are used to save time
 import numpy as np
@@ -130,7 +130,7 @@ def train(args):
         pretrain_optimizer = SGD(1.0, 0.9)
         i_epoch = 0
         
-        for epochs_this_iteration in range(0,10,1):
+        for epochs_this_iteration in range(0,510,10):
             temp_save_dir = args.save_dir+ "/"+ str(epochs_this_iteration)
             print(temp_save_dir)
 
@@ -267,8 +267,7 @@ if args.experiment:
     #End Graph Embedding
     """
 
-    """
-
+    
     #Training
     
     models = [5,10]
@@ -283,7 +282,7 @@ if args.experiment:
         train(args)
     
     #End Training
-    """
+    
     
     
     #Test
@@ -319,10 +318,10 @@ if args.experiment:
                         "18": [],
                         "19": []
                         }
-    """
-    models = [5]
+    
+    models = [5,10]
     for num_clusters in models:
-        for sub_epoch_count in range(360,510,10):
+        for sub_epoch_count in range(10,510,10):
             print(sub_epoch_count)
             for r, d, f in os.walk("experiment/test"): 
                 if len(f) >= 4 and r.split("/")[-1] +  "_" + str(args.num_clusters)+ "-"+ str(sub_epoch_count)+ ".clustering" not in f  :
@@ -333,7 +332,7 @@ if args.experiment:
 
 
 
-    """
+    
 
 
 

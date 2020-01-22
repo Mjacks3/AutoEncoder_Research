@@ -1,7 +1,0 @@
-gradient.mylibrary.GradienTextView 4
-gradient.mylibrary.GradienTextView.onDraw 1
-TextView 1
-Paint 1
-gradient.mylibrary.GradienTextView.start 1
-gradient.mylibrary.GradienTextView.setOrientation 1
-gradient.mylibrary.GradienTextView.setCurrentProgress 1

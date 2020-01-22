@@ -1,6 +1,0 @@
-JobService 2
-com.termux.boot.BootJobService 2
-Activity 2
-com.termux.boot.BootActivity 2
-BroadcastReceiver 2
-com.termux.boot.BootReceiver 2

@@ -1,6 +1,0 @@
-WebMvcConfigurerAdapter 8
-demo.AuthserverApplication 8
-AuthorizationServerConfigurerAdapter 8
-demo.AuthserverApplication.OAuth2Config 8
-WebSecurityConfigurerAdapter 8
-demo.AuthserverApplication.LoginConfig 8

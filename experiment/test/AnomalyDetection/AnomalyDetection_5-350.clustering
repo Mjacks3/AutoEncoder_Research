@@ -1,8 +1,0 @@
-Test 3
-Test.main 3
-iforest.IForest 3
-iforest.IForest.train 1
-iforest.IForest.predict 3
-iforest.ITree.createITree 3
-iforest.ITree 3
-iforest.ITree.ITree 3

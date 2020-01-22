@@ -1,9 +1,0 @@
-RobolectricGradleTestRunner 8
-com.example.myapplication.CustomRobolectricRunner 8
-ActionBarActivity 8
-com.example.myapplication.MainActivity 8
-Fragment 8
-com.example.myapplication.MainActivity.PlaceholderFragment 8
-android::test::ApplicationTestCaseApplication 8
-com.example.myapplication.ApplicationTest 8
-ApplicationTestCase 8

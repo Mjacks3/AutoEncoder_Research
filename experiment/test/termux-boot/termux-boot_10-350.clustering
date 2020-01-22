@@ -1,6 +1,0 @@
-JobService 9
-com.termux.boot.BootJobService 9
-Activity 9
-com.termux.boot.BootActivity 9
-BroadcastReceiver 9
-com.termux.boot.BootReceiver 9

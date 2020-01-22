@@ -1,9 +1,0 @@
-io.github.homelocker.app.MainActivity 6
-io.github.homelocker.lib.HomeKeyLocker 6
-io.github.homelocker.app.MainActivity.onCheckedChanged 6
-ActionBarActivity 6
-CompoundButton::OnCheckedChangeListener 6
-io.github.homelocker.lib.HomeKeyLocker.lock 6
-io.github.homelocker.app.MainActivity.onDestroy 8
-io.github.homelocker.lib.HomeKeyLocker.unlock 8
-OnCheckedChangeListener 6

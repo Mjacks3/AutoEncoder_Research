@@ -1,7 +1,0 @@
-Activity 0
-io.victoralbertos.deviceanimationtestrule.AnimationSampleActivity 0
-TestRule 0
-io.victoralbertos.device_animation_test_rule.DeviceAnimationTestRule 7
-ActivityTestRuleio.victoralbertos.deviceanimationtestrule.AnimationSampleActivity 0
-io.victoralbertos.deviceanimationtestrule.DeviceAnimationEnabledTestRuleTest 0
-io.victoralbertos.deviceanimationtestrule.DeviceAnimationDisabledTestRuleTest 7

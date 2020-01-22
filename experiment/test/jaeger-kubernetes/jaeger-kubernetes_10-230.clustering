@@ -1,8 +1,0 @@
-io.jaegertracing.kubernetes.deployment.BaseETest 2
-io.jaegertracing.kubernetes.AllInOneETest 2
-io.jaegertracing.kubernetes.ElasticearchETest 2
-URL 2
-OkHttpClient 2
-io.jaegertracing.kubernetes.ElasticearchETest.before 2
-io.jaegertracing.kubernetes.deployment.BaseETest.createJaegerTracer 2
-io.jaegertracing.kubernetes.CassandraETest 2

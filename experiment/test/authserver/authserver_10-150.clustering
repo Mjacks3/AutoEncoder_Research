@@ -1,6 +1,0 @@
-WebMvcConfigurerAdapter 5
-demo.AuthserverApplication 5
-AuthorizationServerConfigurerAdapter 5
-demo.AuthserverApplication.OAuth2Config 5
-WebSecurityConfigurerAdapter 5
-demo.AuthserverApplication.LoginConfig 5

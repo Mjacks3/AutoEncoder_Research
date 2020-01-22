@@ -1,9 +1,0 @@
-ApplicationTestCase 8
-com.wingsofts.guaguale.ApplicationTest 9
-android::test::ApplicationTestCaseApplication 8
-AppCompatActivity 8
-com.wingsofts.guaguale.MainActivity 2
-View 8
-com.wingsofts.guaguale.WaveLoadingView 8
-com.wingsofts.guaguale.MainActivity.onCreate 8
-com.wingsofts.guaguale.WaveLoadingView.setPercent 2

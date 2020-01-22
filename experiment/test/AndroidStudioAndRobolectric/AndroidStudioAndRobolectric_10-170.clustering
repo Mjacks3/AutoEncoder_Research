@@ -1,9 +1,0 @@
-RobolectricGradleTestRunner 9
-com.example.myapplication.CustomRobolectricRunner 9
-ActionBarActivity 9
-com.example.myapplication.MainActivity 9
-Fragment 9
-com.example.myapplication.MainActivity.PlaceholderFragment 9
-android::test::ApplicationTestCaseApplication 9
-com.example.myapplication.ApplicationTest 9
-ApplicationTestCase 9

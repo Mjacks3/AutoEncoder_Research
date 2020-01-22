@@ -1,6 +1,0 @@
-org.example.webapp.Book 0
-CouchbaseRepository 1
-org.example.webapp.BookRepository 1
-org::springframework::data::couchbase::repository::CouchbaseRepositoryBook,String 1
-CommandLineRunner 2
-org.example.webapp.Application 2

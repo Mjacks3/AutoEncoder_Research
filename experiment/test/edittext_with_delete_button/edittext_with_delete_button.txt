@@ -1,5 +1,0 @@
-OnFocusChangeListener com.widget.EditTextWrapper 2
-LinearLayout com.widget.EditTextWrapper 2
-EditText com.widget.EditTextWrapper 1
-LinearLayout OnFocusChangeListener 1
-Activity com.example.android_edittext_withdelete.MainActivity 3

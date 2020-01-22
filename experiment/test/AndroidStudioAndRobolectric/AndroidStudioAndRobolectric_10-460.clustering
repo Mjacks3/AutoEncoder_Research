@@ -1,9 +1,0 @@
-RobolectricGradleTestRunner 7
-com.example.myapplication.CustomRobolectricRunner 7
-ActionBarActivity 7
-com.example.myapplication.MainActivity 7
-Fragment 7
-com.example.myapplication.MainActivity.PlaceholderFragment 7
-android::test::ApplicationTestCaseApplication 7
-com.example.myapplication.ApplicationTest 7
-ApplicationTestCase 7

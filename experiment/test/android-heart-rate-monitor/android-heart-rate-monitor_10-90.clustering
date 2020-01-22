@@ -1,9 +1,0 @@
-Activity 0
-com.jwetherell.heart_rate_monitor.HeartRateMonitor 5
-com.jwetherell.heart_rate_monitor.HeartbeatView 0
-View 5
-com.jwetherell.heart_rate_monitor.HeartbeatView.onDraw 8
-com.jwetherell.heart_rate_monitor.HeartRateMonitor.getCurrent 0
-com.jwetherell.heart_rate_monitor.ImageProcessing 0
-com.jwetherell.heart_rate_monitor.HeartRateMonitor.onPause 0
-com.jwetherell.heart_rate_monitor.ImageProcessing.decodeYUV420SPtoRedAvg 5
