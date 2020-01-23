@@ -1,0 +1,7 @@
+com.androidessence.pinchzoomtextview.sample.MainActivity 5
+com.androidessence.pinchzoomtextview.sample.MainActivity.onCreate 5
+AppCompatActivity 5
+com.androidessence.pinchzoomtextview.PinchZoomTextView 5
+com.androidessence.pinchzoomtextview.PinchZoomTextView.isZoomEnabled 5
+TextView 5
+com.androidessence.pinchzoomtextview.PinchZoomTextView.setZoomEnabled 5

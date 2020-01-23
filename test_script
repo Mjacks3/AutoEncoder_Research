@@ -3,6 +3,6 @@
 while :
 do
 python3 main_v2.py --experiment &
-sleep 10
+sleep 12
 pkill -f main_v2.py
 done

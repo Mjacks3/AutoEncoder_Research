@@ -1,0 +1,6 @@
+JobService 7
+com.termux.boot.BootJobService 7
+Activity 7
+com.termux.boot.BootActivity 7
+BroadcastReceiver 7
+com.termux.boot.BootReceiver 7

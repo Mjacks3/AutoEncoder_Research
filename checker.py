@@ -1,6 +1,6 @@
 import os, sys, argparse,json, time, subprocess
 
-models = [5]
+models = [5,10]
 for num_clusters in  models:
     for sub_epochs in range(0,510,10):
 

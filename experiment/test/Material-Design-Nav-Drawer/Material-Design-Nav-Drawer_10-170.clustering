@@ -1,0 +1,10 @@
+com.example.materialdesignnavigationdrawer.activities.MainActivity 3
+com.example.materialdesignnavigationdrawer.fragments.ImageFragment 4
+Fragment 3
+AppCompatActivity 7
+com.example.materialdesignnavigationdrawer.activities.AboutActivity 3
+com.example.materialdesignnavigationdrawer.activities.AccountActivity 3
+com.example.materialdesignnavigationdrawer.activities.HelpAndFeedbackActivity 3
+com.example.materialdesignnavigationdrawer.activities.MainActivity.onCreate 3
+com.example.materialdesignnavigationdrawer.fragments.ImageFragment.newInstance 3
+com.example.materialdesignnavigationdrawer.fragments.ImageFragment.onCreateView 4

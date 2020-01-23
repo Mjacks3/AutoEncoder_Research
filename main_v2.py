@@ -151,7 +151,7 @@ def train(args):
         os.makedirs(args.save_dir)
 
 
-    for training_set_size_this_iteration in range(390,510,10):
+    for training_set_size_this_iteration in range(130,131,10):
         temp_save_dir = args.save_dir+ "/"+ str(training_set_size_this_iteration)
         print(temp_save_dir)
 
@@ -290,10 +290,9 @@ if args.experiment:
     """
     """
 
-
     #Training
     
-    models = [10]
+    models = [5]
     for num in models:
         args.num_clusters = int(num)
         args.save_dir = "experiment/" + str(args.num_clusters)
@@ -303,7 +302,7 @@ if args.experiment:
         if not os.path.exists(args.save_dir):
             os.makedirs(args.save_dir)
         train(args)
-    """
+    
     #End Training
     
     
@@ -317,13 +316,13 @@ if args.experiment:
     #args.weights = "experiment/3/model_final.h5"
     #test_dataset = "datasets/demo_1/acmeair"
     #edge_list_loc = "datasets/demo_1/acmeair/acmeair.txt"
+    """
 
 
 
-
-    models = [5,10]
+    models = [10]
     for num_clusters in models:
-        for sub_epoch_count in range(10,510,10):
+        for sub_epoch_count in range(310,420,10):
             #print(sub_epoch_count)
             for r, d, f in os.walk("experiment/test"): 
                 if len(f) >= 4 and r.split("/")[-1] +  "_" + str(args.num_clusters)+ "-"+ str(sub_epoch_count)+ ".clustering" not in f  :
@@ -331,6 +330,7 @@ if args.experiment:
                     args.weights = "experiment/"+str(num_clusters)+"/"+str(sub_epoch_count)+"/model_final.h5"
                     args.test_dataset = r
                     test(args)
+
     """
     for num_clusters in range(2,20,1):
         if os.path.exists("experiment/"+str(num_clusters)+"/model_final.h5"):

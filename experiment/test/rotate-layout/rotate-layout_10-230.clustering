@@ -1,0 +1,10 @@
+ViewGroup 9
+com.github.rongi.rotate_layout.layout.RotateLayout 9
+com.github.rongi.rotate_layout.example.MainActivity 9
+Activity 9
+com.github.rongi.rotate_layout.layout.RotateLayout.onLayout 9
+com.github.rongi.rotate_layout.layout.RotateLayout.getView 2
+com.github.rongi.rotate_layout.layout.RotateLayout.onMeasure 9
+com.github.rongi.rotate_layout.example.MainActivity.onCreate 9
+com.github.rongi.rotate_layout.layout.RotateLayout.getAngle 9
+com.github.rongi.rotate_layout.layout.RotateLayout.setAngle 9

@@ -1,0 +1,17 @@
+ak.sh.ay.samplemusicwave.MainActivity 1
+ak.sh.ay.samplemusicwave.MainActivity.onPause 0
+AppCompatActivity 0
+FloatingActionButton 1
+ak.sh.ay.musicwave.MusicWave.updateVisualizer 0
+ak.sh.ay.musicwave.MusicWave 3
+View 1
+ak.sh.ay.samplemusicwave.MainActivity.onOptionsItemSelected 0
+ak.sh.ay.musicwave.MusicWave.getConfig 3
+ak.sh.ay.musicwave.MusicWave.onDraw 1
+ak.sh.ay.musicwave.Config.getColorGradient 3
+ak.sh.ay.musicwave.Config 3
+ak.sh.ay.musicwave.Config.setColorGradient 1
+ak.sh.ay.musicwave.Config.setColor 1
+ak.sh.ay.musicwave.Config.reSetupPaint 1
+ak.sh.ay.musicwave.Config.setGradients 1
+ak.sh.ay.musicwave.Config.getPaintWave 1

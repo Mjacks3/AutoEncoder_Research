@@ -1,0 +1,13 @@
+com.kenny.separatededittextdemo.MainActivity 2
+com.kenny.separatededittextdemo.MainActivity.handleContent 2
+AppCompatActivity 2
+com.kenny.separatededittext.SeparatedEditText 2
+com.kenny.separatededittext.SeparatedEditText.setPassword 2
+AppCompatEditText 2
+android::support::v7::widget::AppCompatEditText 2
+com.kenny.separatededittextdemo.MainActivity.handleCursor 2
+com.kenny.separatededittext.SeparatedEditText.setShowCursor 2
+com.kenny.separatededittext.SeparatedEditText.TextChangedListener 2
+com.kenny.separatededittext.SeparatedEditText.onTextChanged 2
+com.kenny.separatededittext.SeparatedEditText.TextChangedListener.textCompleted 2
+com.kenny.separatededittext.SeparatedEditText.TextChangedListener.textChanged 2

@@ -1,0 +1,8 @@
+com.txusballesteros.widgets.app.MainActivity 5
+com.txusballesteros.widgets.app.MainActivity.onCreate 5
+com.txusballesteros.widgets.FitChart 4
+com.txusballesteros.widgets.FitChart.setMinValue 5
+com.txusballesteros.widgets.FitChart.setMaxValue 5
+com.txusballesteros.widgets.FitChart.setValues 5
+AppCompatActivity 5
+View 5

@@ -1,0 +1,16 @@
+com.jdqm.tapelibrary.TapeView 2
+com.jdqm.tapelibrary.TapeView.onTouchEvent 2
+com.jdqm.tapeview.MainActivity 1
+View 1
+com.jdqm.tapelibrary.TapeView.OnValueChangeListener.onChange 2
+com.jdqm.tapelibrary.TapeView.OnValueChangeListener 1
+Activity 1
+com.jdqm.tapelibrary.TapeView.TapeView 2
+com.jdqm.tapelibrary.TapeView.onMeasure 2
+com.jdqm.tapelibrary.DisplayUtil.dp2px 2
+com.jdqm.tapelibrary.DisplayUtil 2
+com.jdqm.tapelibrary.DisplayUtil.sp2px 2
+com.jdqm.tapeview.MainActivity.onCreate 2
+com.jdqm.tapelibrary.TapeView.setOnValueChangeListener 1
+com.jdqm.tapeview.MainActivity.onChange 2
+com.jdqm.tapelibrary.TapeView.getValue 1

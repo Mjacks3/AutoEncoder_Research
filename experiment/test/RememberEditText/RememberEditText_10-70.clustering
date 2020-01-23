@@ -1,0 +1,16 @@
+PopupWindow 9
+cn.zhaiyifan.rememberedittext.SafePopupWindow 7
+ApplicationTestCase 9
+cn.zhaiyifan.rememberedittext.ApplicationTest 7
+android::test::ApplicationTestCaseApplication 9
+EditText 9
+cn.zhaiyifan.rememberedittext.RememberEditText 7
+cn.zhaiyifan.demo.MainActivity 4
+ListString 9
+AppCompatActivity 9
+cn.zhaiyifan.demo.ThreadActivity 9
+cn.zhaiyifan.rememberedittext.RememberEditText.onTouchEvent 9
+cn.zhaiyifan.rememberedittext.RememberEditText.showPopupWindow 9
+cn.zhaiyifan.rememberedittext.RememberEditText.disMissOrUpdatePopupWindow 9
+cn.zhaiyifan.demo.MainActivity.onCreate 9
+cn.zhaiyifan.rememberedittext.RememberEditText.clearCache 4

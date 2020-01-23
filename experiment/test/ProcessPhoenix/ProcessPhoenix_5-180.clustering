@@ -1,0 +1,6 @@
+Activity 3
+com.jakewharton.processphoenix.sample.MainActivity 3
+TextView 3
+com.jakewharton.processphoenix.ProcessPhoenix 1
+com.jakewharton.processphoenix.sample.MainActivity.onCreate 1
+com.jakewharton.processphoenix.ProcessPhoenix.triggerRebirth 3

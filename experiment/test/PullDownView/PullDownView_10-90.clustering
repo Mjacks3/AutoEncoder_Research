@@ -1,0 +1,16 @@
+com.w4lle.pulldownview.MainActivity 5
+com.w4lle.library.PullDownView 5
+ScrollView 5
+android::test::ApplicationTestCaseApplication 1
+com.w4lle.library.ApplicationTest 1
+ApplicationTestCase 1
+com.w4lle.pulldownview.MainActivity.onCreate 7
+View::OnClickListener 3
+OnClickListener 3
+AppCompatActivity 3
+com.w4lle.library.PullDownView.setOnPullChangeListerner 7
+com.w4lle.pulldownview.ApplicationTest 1
+com.w4lle.library.PullDownView.OnPullChangeListerner 5
+com.w4lle.library.PullDownView.onTouchEvent 5
+com.w4lle.library.PullDownView.OnPullChangeListerner.onPullUp 5
+com.w4lle.library.PullDownView.OnPullChangeListerner.onPullDown 5

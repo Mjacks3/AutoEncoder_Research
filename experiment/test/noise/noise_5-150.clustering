@@ -1,0 +1,16 @@
+AppCompatActivity 1
+com.paramsen.noise.tester.MainActivity 1
+main 0
+imag 0
+real 0
+readFloats 1
+writeFloats 1
+noise/src/main/native/noise.c 0
+jni.h 0
+android/log.h 0
+kiss_fft.h 1
+cpp_test_data_suite/kiss_fft_tester.cpp 0
+tools/kiss_fftr.h 0
+stdio.h 1
+string 0
+kiss_fftr.h 0

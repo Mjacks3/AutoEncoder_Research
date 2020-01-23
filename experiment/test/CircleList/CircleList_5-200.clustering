@@ -1,0 +1,11 @@
+com.dk.ui.circlelist.MainActivity.onCreate 1
+com.dk.ui.circlelist.MatrixView.setParentHeight 1
+com.dk.ui.circlelist.MatrixView 1
+com.dk.ui.circlelist.MainActivity 1
+LinearLayout 2
+ImageView 2
+com.dk.ui.circlelist.RoundImageView 4
+ApplicationTestCase 2
+com.dk.ui.circlelist.ApplicationTest 1
+android::test::ApplicationTestCaseApplication 2
+Activity 1

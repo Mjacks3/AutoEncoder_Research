@@ -1,0 +1,11 @@
+SharedPreferences::OnSharedPreferenceChangeListener 1
+name.caiyao.tencentsport.SettingFragment 8
+Preference::OnPreferenceChangeListener 1
+PreferenceFragment 1
+OnSharedPreferenceChangeListener 9
+OnPreferenceChangeListener 1
+AppCompatActivity 9
+name.caiyao.tencentsport.SettingsActivity 8
+IXposedHookZygoteInit 1
+name.caiyao.tencentsport.MainHook 1
+IXposedHookLoadPackage 1

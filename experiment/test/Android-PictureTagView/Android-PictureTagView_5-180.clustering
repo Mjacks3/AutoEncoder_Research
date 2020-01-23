@@ -1,0 +1,17 @@
+RelativeLayout 1
+com.picturetagview.PictureTagView 3
+com.picturetagview.PictureTagLayout 3
+OnEditorActionListener 3
+OnTouchListener 1
+View 1
+com.picturetagview.PictureTagView.onEditorAction 1
+com.picturetagview.PictureTagView.setStatus 1
+com.picturetagview.PictureTagView.PictureTagView 3
+com.picturetagview.PictureTagView.initViews 1
+com.picturetagview.PictureTagView.init 1
+com.picturetagview.PictureTagView.initEvents 1
+Activity 3
+com.picturetagview.MainAct 3
+com.picturetagview.PictureTagLayout.onTouch 3
+com.picturetagview.PictureTagView.getViewWidth 3
+com.picturetagview.PictureTagView.getViewHeight 3

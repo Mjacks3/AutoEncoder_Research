@@ -1,0 +1,10 @@
+AppCompatActivity 8
+com.yinglan.circlealarmtimerview.MainActivity 8
+com.yinglan.circlealarmtimerview.MainActivity.onCreate 8
+com.yinglan.circleviewlibrary.CircleAlarmTimerView 8
+com.yinglan.circleviewlibrary.CircleAlarmTimerView.setOnTimeChangedListener 8
+View 8
+com.yinglan.circleviewlibrary.CircleAlarmTimerView.OnTimeChangedListener 8
+com.yinglan.circleviewlibrary.CircleAlarmTimerView.onDraw 8
+com.yinglan.circleviewlibrary.CircleAlarmTimerView.OnTimeChangedListener.start 8
+com.yinglan.circleviewlibrary.CircleAlarmTimerView.OnTimeChangedListener.end 8

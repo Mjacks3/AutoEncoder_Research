@@ -1,0 +1,10 @@
+com.kymjs.facerecognition.FaceCropper.getDebugImage 1
+com.kymjs.facerecognition.FaceCropper.cropFace 1
+com.kymjs.facerecognition.FaceCropper 1
+com.kymjs.recognition.demo.MainActivity.initWidget 1
+com.kymjs.recognition.demo.MainActivity 2
+KJActivity 1
+com.kymjs.facerecognition.FaceCropper.setDebug 1
+com.kymjs.facerecognition.FaceCropper.FaceCropper 1
+com.kymjs.facerecognition.FaceCropper.setFaceMarginPx 2
+com.kymjs.facerecognition.FaceCropper.setEyeDistanceFactorMargin 2

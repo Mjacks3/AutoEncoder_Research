@@ -1,0 +1,15 @@
+RelativeLayout 1
+com.dingmouren.fallingview.FallingView 4
+com.dingmouren.smaple_fallingview.MainActivity 4
+com.dingmouren.smaple_fallingview.MainActivity.onOptionsItemSelected 2
+SeekBar 1
+AppCompatActivity 1
+com.dingmouren.fallingview.FallingView.setImageResource 1
+com.dingmouren.fallingview.Flake 2
+com.dingmouren.fallingview.Flake.create 2
+com.dingmouren.fallingview.FallingView.dispatchDraw 2
+com.dingmouren.fallingview.Flake.Flake 2
+com.dingmouren.smaple_fallingview.MainActivity.onCreate 2
+com.dingmouren.fallingview.FallingView.setScale 2
+com.dingmouren.fallingview.FallingView.setDensity 2
+com.dingmouren.fallingview.FallingView.setDelay 2

@@ -1,0 +1,7 @@
+com.here.oksse.ITOkSse 7
+com.here.oksse.OkSse 7
+com.here.oksse.ITOkSse.testNewServerSentEventConnection 7
+com.here.oksse.OkSse.newServerSentEvent 3
+com.here.oksse.ServerSentEvent.close 7
+com.here.oksse.ServerSentEvent 7
+com.here.oksse.RealServerSentEvent 7

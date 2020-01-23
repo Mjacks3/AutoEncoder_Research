@@ -1,0 +1,7 @@
+CordovaPlugin 2
+com.rjfun.cordova.sms.SMSPlugin 1
+com.rjfun.cordova.sms.SMSPlugin.md5 2
+com.rjfun.cordova.sms.SMSPlugin.createContentObserver 2
+com.rjfun.cordova.sms.SMSPlugin.createIncomingSMSReceiver 1
+com.rjfun.cordova.sms.SMSPlugin.execute 2
+com.rjfun.cordova.sms.SMSPlugin.setOptions 1

@@ -1,0 +1,11 @@
+GenericFilterBean 9
+me.aboullaite.config.JwtFilter 1
+me.aboullaite.controller.UserController 1
+me.aboullaite.controller.UserController.login 1
+me.aboullaite.model.User 1
+me.aboullaite.model.User.getPassword 1
+org::springframework::data::repository::CrudRepositoryUser,Long 1
+me.aboullaite.dao.UserDao 8
+CrudRepository 1
+me.aboullaite.service.UserService 1
+me.aboullaite.service.impl.UserServiceImpl 6

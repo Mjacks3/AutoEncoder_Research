@@ -1,0 +1,12 @@
+com.mikhaellopez.hfrecyclerview.HFRecyclerViewString 4
+com.mikhaellopez.hfrecyclerviewexample.java.ExampleAdapter 3
+com.mikhaellopez.hfrecyclerview.HFRecyclerViewT 1
+RecyclerView::AdapterRecyclerView.ViewHolder 3
+AppCompatActivity 2
+com.mikhaellopez.hfrecyclerviewexample.java.MainActivity 0
+com.mikhaellopez.hfrecyclerviewexample.java.MainActivity.onCreate 2
+com.mikhaellopez.hfrecyclerview.HFRecyclerView 4
+com.mikhaellopez.hfrecyclerview.HFRecyclerView.setData 0
+com::mikhaellopez::hfrecyclerviewexample::java::ExampleAdapterString 3
+com.mikhaellopez.hfrecyclerviewexample.java.ExampleAdapter.onBindViewHolder 2
+com.mikhaellopez.hfrecyclerview.HFRecyclerView.getItem 3

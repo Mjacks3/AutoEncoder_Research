@@ -1,0 +1,15 @@
+CommandLineRunner 8
+org.activiti.examples.DemoApplication 8
+org.activiti.examples.DemoApplication.processFile 8
+org.activiti.examples.SecurityUtil.logInAs 8
+org.activiti.examples.DemoApplication.checkAndWorkOnTasksWhenAvailable 8
+org.activiti.examples.SecurityUtil 8
+org.activiti.examples.DemoApplicationConfiguration.configure 2
+org.activiti.examples.DemoApplicationConfiguration.myUserDetailsService 8
+org.activiti.examples.DemoApplicationConfiguration 2
+WebSecurityConfigurerAdapter 2
+org.activiti.examples.DemoApplicationConfiguration.passwordEncoder 8
+org.activiti.examples.Content 2
+org.activiti.examples.DemoApplication.discardTextConnector 2
+org.activiti.examples.Content.getTags 2
+org.activiti.examples.DemoApplication.tagTextConnector 2

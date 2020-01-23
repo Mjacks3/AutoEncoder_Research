@@ -1,0 +1,11 @@
+me.echodev.resizer.Resizer 5
+me.echodev.resizer.Resizer.getResizedBitmap 5
+me.echodev.resizer.Resizer.getResizedBitmapAsFlowable 2
+me.echodev.resizer.util.ImageUtils.getScaledImage 5
+me.echodev.resizer.util.ImageUtils.getScaledBitmap 5
+me.echodev.resizer.util.ImageUtils 2
+me.echodev.resizer.Resizer.getResizedFileAsFlowable 0
+me.echodev.resizer.Resizer.getResizedFile 2
+me.echodev.resizer.util.FileUtils.getOutputFilePath 2
+me.echodev.resizer.util.FileUtils 2
+me.echodev.resizer.util.FileUtils.writeBitmapToFile 2

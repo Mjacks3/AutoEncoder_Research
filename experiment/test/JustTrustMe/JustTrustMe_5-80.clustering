@@ -1,0 +1,13 @@
+SSLContext 0
+just.trust.me.Main.TrustAllSSLSocketFactory 0
+SSLSocketFactory 0
+just.trust.me.Main 0
+just.trust.me.Main.handleLoadPackage 0
+IXposedHookLoadPackage 0
+just.trust.me.Main.getSCCM 0
+just.trust.me.Main.getCCM 0
+just.trust.me.Main.getTSCCM 0
+just.trust.me.Main.hasTrustManagerImpl 0
+android::test::ApplicationTestCaseApplication 0
+me.trust.just.justtrustme.ApplicationTest 3
+ApplicationTestCase 0

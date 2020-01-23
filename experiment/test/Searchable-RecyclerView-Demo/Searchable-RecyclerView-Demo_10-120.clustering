@@ -1,0 +1,16 @@
+OnQueryTextListener 8
+com.github.wrdlbrnft.searchablerecyclerviewdemo.ui.activities.MainActivity 8
+Callback 8
+SortedListAdapter::Callback 8
+AppCompatActivity 8
+SearchView::OnQueryTextListener 8
+com::github::wrdlbrnft::sortedlistadapter::SortedListAdapterWordModel 8
+com.github.wrdlbrnft.searchablerecyclerviewdemo.ui.adapter.ExampleAdapter 6
+SortedListAdapter 8
+SortedListAdapter::ViewHolderWordModel 6
+com.github.wrdlbrnft.searchablerecyclerviewdemo.ui.adapter.viewholder.WordViewHolder 8
+ViewHolder 6
+SortedListAdapter::ViewModel 8
+com.github.wrdlbrnft.searchablerecyclerviewdemo.ui.models.WordModel 4
+com.github.wrdlbrnft.searchablerecyclerviewdemo.ui.models.WordModel.getWord 8
+com.github.wrdlbrnft.searchablerecyclerviewdemo.ui.models.WordModel.WordModel 6
