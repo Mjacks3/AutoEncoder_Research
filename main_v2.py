@@ -270,7 +270,7 @@ if args.experiment:
     
     #Training
     
-    models = [5,10]
+    models = [10]
     for num in models:
         args.num_clusters = int(num)
         args.save_dir = "experiment/" + str(args.num_clusters)
