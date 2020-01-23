@@ -1,0 +1,2 @@
+WebSocketAdapter org.eclipse.jetty.demo.EventSocket 3
+WebSocketServlet org.eclipse.jetty.demo.EventServlet 3

@@ -267,7 +267,7 @@ if args.experiment:
     #End Graph Embedding
     """
 
-    
+    """
     #Training
     
     models = [10]
@@ -282,6 +282,7 @@ if args.experiment:
         train(args)
     
     #End Training
+    """
     
     
     
@@ -318,6 +319,7 @@ if args.experiment:
                         "18": [],
                         "19": []
                         }
+    """
     
     models = [5,10]
     for num_clusters in models:
@@ -329,7 +331,7 @@ if args.experiment:
                     args.weights = "experiment/"+str(num_clusters)+"/"+str(sub_epoch_count)+"/model_final.h5"
                     args.test_dataset = r
                     test(args)
-
+    """
 
 
     

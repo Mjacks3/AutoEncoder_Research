@@ -1,0 +1,6 @@
+BugChecker 0
+com.jakewharton.nopen.checker.NopenChecker 0
+ClassTreeMatcher 0
+com.jakewharton.nopen.test.AnnotationClass 1
+com.jakewharton.nopen.checker.NopenCheckerTest 2
+com.jakewharton.nopen.annotation.Open 3
