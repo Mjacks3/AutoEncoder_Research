@@ -1,0 +1,16 @@
+ListFragment 10
+com.foocoder.coolmenu.MainActivity 10
+ListString 10
+com.dxtt.coolmenu.CoolMenuFrameLayout 10
+AppCompatActivity 10
+Button 10
+FrameLayout 10
+android::test::ApplicationTestCaseApplication 10
+com.dxtt.coolmenu.ApplicationTest 10
+ApplicationTestCase 10
+Fragment 10
+com.foocoder.coolmenu.Fragment1 10
+com.foocoder.coolmenu.ApplicationTest 10
+com.foocoder.coolmenu.MainActivity.onCreate 10
+com.dxtt.coolmenu.CoolMenuFrameLayout.setTitles 10
+com.dxtt.coolmenu.CoolMenuFrameLayout.setAdapter 10

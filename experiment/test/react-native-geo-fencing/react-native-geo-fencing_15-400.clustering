@@ -1,0 +1,13 @@
+ReactPackage 10
+com.surialabs.rn.geofencing.GeoFencingPackage 10
+RCTBridgeModule 10
+SLRNGeoFencing 10
+NSObject 10
+ios/SLRNGeoFencing.h 10
+RCTBridgeModule.h 10
+SLRNGeoFencing.h 10
+ReactContextBaseJavaModule 10
+com.surialabs.rn.geofencing.GeoFencing 10
+ios/SLRNGeoFencing.m 10
+GoogleMaps/GMSGeometryUtils.h 10
+GoogleMaps/GMSMutablePath.h 10

@@ -1,0 +1,6 @@
+WebMvcConfigurerAdapter 14
+demo.AuthserverApplication 14
+AuthorizationServerConfigurerAdapter 14
+demo.AuthserverApplication.OAuth2Config 14
+WebSecurityConfigurerAdapter 14
+demo.AuthserverApplication.LoginConfig 14

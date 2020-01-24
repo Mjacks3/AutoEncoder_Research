@@ -1,0 +1,14 @@
+MockWebServer 14
+com.jakewharton.picasso.OkHttp3DownloaderTest 14
+TemporaryFolder 14
+Downloader 14
+com.jakewharton.picasso.OkHttp3Downloader 14
+com.jakewharton.picasso.OkHttp3DownloaderTest.cachedResponse 14
+com.jakewharton.picasso.OkHttp3Downloader.load 14
+com.jakewharton.picasso.OkHttp3DownloaderTest.readsContentLengthHeader 14
+com.jakewharton.picasso.OkHttp3DownloaderTest.networkPolicyNoStore 14
+com.jakewharton.picasso.OkHttp3DownloaderTest.networkPolicyNoCache 14
+com.jakewharton.picasso.OkHttp3DownloaderTest.throwsResponseException 14
+com.jakewharton.picasso.OkHttp3DownloaderTest.offlineStaleResponse 14
+com.jakewharton.picasso.OkHttp3DownloaderTest.shutdownClosesCache 14
+com.jakewharton.picasso.OkHttp3Downloader.shutdown 14

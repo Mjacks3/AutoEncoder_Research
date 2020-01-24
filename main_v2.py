@@ -321,9 +321,9 @@ if args.experiment:
                         }
     """
     
-    models = [5]
+    models = [15]
     for num_clusters in models:
-        for sub_epoch_count in range(500,400,-10):
+        for sub_epoch_count in range(100,501,100):
             print(sub_epoch_count)
             for r, d, f in os.walk("experiment/test"): 
                 if len(f) >= 4 and r.split("/")[-1] +  "_" + str(args.num_clusters)+ "-"+ str(sub_epoch_count)+ ".clustering" not in f  :

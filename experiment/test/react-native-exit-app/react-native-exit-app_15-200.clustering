@@ -1,0 +1,12 @@
+ReactPackage 14
+com.github.wumke.RNExitApp.RNExitAppPackage 14
+ios/RNExitApp/RNExitApp.m 14
+UIKit/UIKit.h 14
+RCTBridgeModule.h 14
+RCTBridgeModule 14
+RNExitApp 14
+NSObject 14
+ReactApplicationContext 14
+com.github.wumke.RNExitApp.RNExitAppModule 14
+AlarmManager 14
+ReactContextBaseJavaModule 14

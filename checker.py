@@ -1,8 +1,8 @@
 import os, sys, argparse,json, time, subprocess
 
-models = [5]
+models = [15]
 for num_clusters in  models:
-    for sub_epochs in range(500,400,-10):
+    for sub_epochs in range(100,510,100):
 
         in_progress = 0
         for r, d, f in os.walk("experiment/test"):

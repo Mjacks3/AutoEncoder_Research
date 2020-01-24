@@ -1,0 +1,17 @@
+com.hiwhitley.demo.MainActivity 10
+com.hiwhitley.demo.AmountView 10
+View::OnClickListener 10
+TextWatcher 10
+LinearLayout 10
+com.hiwhitley.demo.AmountView.OnAmountChangeListener 10
+ApplicationTestCase 10
+com.hiwhitley.demo.ApplicationTest 10
+android::test::ApplicationTestCaseApplication 10
+com.hiwhitley.demo.AmountView.afterTextChanged 10
+com.hiwhitley.demo.AmountView.onClick 10
+com.hiwhitley.demo.AmountView.OnAmountChangeListener.onAmountChange 10
+com.hiwhitley.demo.MainActivity.onCreate 10
+AppCompatActivity 10
+com.hiwhitley.demo.AmountView.setGoods_storage 10
+com.hiwhitley.demo.AmountView.setOnAmountChangeListener 10
+OnClickListener 10

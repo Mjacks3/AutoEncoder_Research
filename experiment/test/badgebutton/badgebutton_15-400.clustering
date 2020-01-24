@@ -1,0 +1,14 @@
+ezy.demo.badgebutton.MainActivity 10
+ezy.ui.view.BadgeButton 10
+TextView 10
+ColorStateList 10
+AppCompatActivity 10
+View::OnClickListener 10
+ezy.ui.view.BadgeButton.setBadgeText 10
+ezy.demo.badgebutton.MainActivity.onCreate 10
+ezy.ui.view.BadgeButton.setText 10
+ezy.ui.view.BadgeButton.draw 10
+OnClickListener 10
+ezy.ui.view.BadgeButton.setIcon 10
+ezy.ui.view.BadgeButton.BadgeButton 10
+ezy.ui.view.BadgeButton.setBadgeVisible 10
