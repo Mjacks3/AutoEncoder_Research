@@ -1,0 +1,4 @@
+WebSocketAdapter 5
+org.eclipse.jetty.demo.EventSocket 5
+WebSocketServlet 5
+org.eclipse.jetty.demo.EventServlet 5

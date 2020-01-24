@@ -1,0 +1,11 @@
+RuntimeException 5
+com.example.postgresdemo.exception.ResourceNotFoundException 1
+org::springframework::data::jpa::repository::JpaRepositoryAnswer,Long 5
+com.example.postgresdemo.repository.AnswerRepository 1
+JpaRepository 5
+Serializable 1
+com.example.postgresdemo.model.AuditModel 1
+com.example.postgresdemo.model.Question 1
+org::springframework::data::jpa::repository::JpaRepositoryQuestion,Long 5
+com.example.postgresdemo.repository.QuestionRepository 1
+com.example.postgresdemo.model.Answer 1

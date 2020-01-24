@@ -1,0 +1,12 @@
+me.chunyu.spike.wcl_permission_demo.PermissionsActivity 7
+me.chunyu.spike.wcl_permission_demo.PermissionsActivity.onResume 6
+AppCompatActivity 7
+me.chunyu.spike.wcl_permission_demo.MainActivity 7
+me.chunyu.spike.wcl_permission_demo.MainActivity.onResume 1
+me.chunyu.spike.wcl_permission_demo.PermissionsChecker.lacksPermissions 7
+me.chunyu.spike.wcl_permission_demo.PermissionsChecker 6
+Toolbar 6
+me.chunyu.spike.wcl_permission_demo.PermissionsActivity.startActivityForResult 7
+android::test::ApplicationTestCaseApplication 8
+me.chunyu.spike.wcl_permission_demo.ApplicationTest 7
+ApplicationTestCase 8

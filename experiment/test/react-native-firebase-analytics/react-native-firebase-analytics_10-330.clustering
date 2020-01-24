@@ -1,0 +1,15 @@
+ios/RNFIRAnalytics.h 5
+UIKit/UIKit.h 0
+RNFIRAnalytics.h 5
+React/RCTBridgeModule.h 0
+FirebaseCore/FIRApp.h 0
+ReactPackage 5
+com.evollu.react.fa.FIRAnalyticsPackage 5
+RCTBridgeModule 0
+RNFIRAnalytics 0
+NSObject 0
+LifecycleEventListener 5
+com.evollu.react.fa.FIRAnalyticsModule 0
+ReactContextBaseJavaModule 5
+ios/RNFIRAnalytics.m 5
+FirebaseAnalytics/FirebaseAnalytics.h 5

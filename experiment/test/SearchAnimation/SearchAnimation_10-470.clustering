@@ -1,0 +1,11 @@
+com.nianing.searchanimation.MainActivity 6
+com.nianing.searchanimation.SearchDrawable 1
+Drawable 7
+com.nianing.searchanimation.MainActivity.onCreate 1
+com.nianing.searchanimation.SearchDrawable.setPhase 7
+View::OnClickListener 7
+ActionBarActivity 7
+OnClickListener 7
+android::test::ApplicationTestCaseApplication 8
+com.nianing.searchanimation.ApplicationTest 3
+ApplicationTestCase 8

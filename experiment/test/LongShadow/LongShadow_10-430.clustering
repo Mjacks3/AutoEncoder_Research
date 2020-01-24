@@ -1,0 +1,12 @@
+com.github.florent37.longshadow.LongShadow 6
+com.github.florent37.longshadow.sample.MainActivity 6
+SeekBar 6
+TextView 3
+AppCompatActivity 6
+com.github.florent37.longshadow.sample.MainActivity.onCreate 1
+com.github.florent37.longshadow.LongShadow.setShadowAngle 1
+com.github.florent37.longshadow.LongShadow.LongShadow 6
+FrameLayout 6
+com.github.florent37.longshadow.LongShadow.onDraw 7
+com.github.florent37.longshadow.LongShadow.drawChildrenOnBitmap 6
+com.github.florent37.longshadow.LongShadow.setShadowColor 6

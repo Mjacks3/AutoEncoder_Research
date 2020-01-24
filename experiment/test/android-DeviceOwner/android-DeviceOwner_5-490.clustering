@@ -1,0 +1,13 @@
+com.example.android.deviceowner.DeviceOwnerFragment 2
+com.example.android.deviceowner.DeviceOwnerReceiver 0
+DeviceAdminReceiver 2
+com.example.android.deviceowner.MainActivity 2
+com.example.android.deviceowner.MainActivity.onCreate 2
+AppCompatActivity 2
+com.example.android.deviceowner.DeviceOwnerFragment.newInstance 2
+Fragment 2
+com.example.android.deviceowner.InstructionFragment.newInstance 2
+com.example.android.deviceowner.InstructionFragment 2
+com.example.android.deviceowner.DeviceOwnerFragment.onResume 2
+com.example.android.deviceowner.DeviceOwnerReceiver.onProfileProvisioningComplete 2
+com.example.android.deviceowner.DeviceOwnerReceiver.getComponentName 2

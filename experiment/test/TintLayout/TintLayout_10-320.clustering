@@ -1,0 +1,14 @@
+ApplicationTestCase 9
+devlight.io.library.ApplicationTest 9
+android::test::ApplicationTestCaseApplication 9
+devlight.io.library.TintLayout 9
+devlight.io.library.TintLayout.TintLayout 9
+devlight.io.library.TintLayout.setAngle 9
+devlight.io.library.TintLayout.setColor 9
+devlight.io.library.TintLayout.setColors 9
+Activity 9
+devlight.io.sample.MainActivity 9
+FrameLayout 9
+devlight.io.library.TintLayout.onLayout 3
+devlight.io.library.TintLayout.invalidateTint 9
+devlight.io.library.lib.ApplicationTest 9

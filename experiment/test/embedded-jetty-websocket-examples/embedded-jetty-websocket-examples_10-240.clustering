@@ -1,0 +1,4 @@
+WebSocketAdapter 9
+org.eclipse.jetty.demo.EventSocket 9
+WebSocketServlet 9
+org.eclipse.jetty.demo.EventServlet 9

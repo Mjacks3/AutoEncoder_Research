@@ -1,0 +1,15 @@
+WebView 5
+com.lyl.cacheweb.Html5WebView 5
+Activity 5
+com.lyl.cacheweb.MainActivity 5
+com.lyl.cacheweb.Html5Activity 5
+com.lyl.cacheweb.Html5WebView.Html5WebView 7
+com.lyl.cacheweb.NetStatusUtil.isConnected 5
+com.lyl.cacheweb.NetStatusUtil 5
+com.lyl.cacheweb.NetStatusUtil.netSatus 5
+ApplicationTestCase 5
+com.lyl.cacheweb.ApplicationTest 0
+android::test::ApplicationTestCaseApplication 5
+com.lyl.cacheweb.Html5Activity.onKeyDown 5
+com.lyl.cacheweb.Html5Activity.onCreate 5
+com.lyl.cacheweb.Html5Activity.getParameter 5

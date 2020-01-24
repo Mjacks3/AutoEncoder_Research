@@ -1,0 +1,14 @@
+org.apache.hadoop.util.VersionInfo._getProtocVersion 3
+org.apache.hadoop.util.VersionInfo.main 8
+org.apache.hadoop.util.VersionInfo 8
+org.apache.hadoop.util.VersionInfo.VersionInfo 3
+org.apache.hadoop.util.VersionInfo._getBuildVersion 8
+org.apache.hadoop.util.VersionInfo._getSrcChecksum 8
+org.apache.hadoop.util.VersionInfo._getVersion 8
+Harness.main 8
+org.apache.hadoop.util.VersionInfo._getRevision 8
+Harness 8
+org.apache.hadoop.util.VersionInfo._getDate 3
+org.apache.hadoop.util.VersionInfo._getBranch 8
+org.apache.hadoop.util.VersionInfo._getUrl 8
+org.apache.hadoop.util.VersionInfo._getUser 8

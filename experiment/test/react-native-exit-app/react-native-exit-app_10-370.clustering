@@ -1,0 +1,12 @@
+ReactPackage 9
+com.github.wumke.RNExitApp.RNExitAppPackage 9
+ios/RNExitApp/RNExitApp.m 9
+UIKit/UIKit.h 9
+RCTBridgeModule.h 9
+RCTBridgeModule 9
+RNExitApp 6
+NSObject 9
+ReactApplicationContext 9
+com.github.wumke.RNExitApp.RNExitAppModule 9
+AlarmManager 9
+ReactContextBaseJavaModule 9

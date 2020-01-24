@@ -1,0 +1,14 @@
+DataSource 0
+cn.com.sina.alan.oauth.config.AlanOAuthWebConfig 0
+WebSecurityConfigurerAdapter 0
+AuthenticationProvider 0
+cn.com.sina.alan.oauth.security.AlanSsoAuthProvider 0
+ResourceServerConfigurerAdapter 0
+cn.com.sina.alan.oauth.ResourceApplication 0
+AuthorizationServerConfigurerAdapter 0
+cn.com.sina.alan.oauth.config.OAuthSecurityConfig 2
+cn.com.sina.alan.oauth.config.OAuthSecurityConfig.configure 0
+cn.com.sina.alan.oauth.config.OAuthSecurityConfig.clientDetails 5
+cn.com.sina.alan.oauth.config.OAuthSecurityConfig.tokenStore 5
+cn.com.sina.alan.oauth.ResourceApplication.configure 0
+cn.com.sina.alan.oauth.ResourceApplication.tokenStore 0

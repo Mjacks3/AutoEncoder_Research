@@ -1,0 +1,16 @@
+Fragment 6
+com.example.robert.physicsbasedanimation.fragment.SimpleDemoFragment 6
+com.example.robert.physicsbasedanimation.fragment.MainFragment 6
+com.example.robert.physicsbasedanimation.fragment.MainFragment.onListItemClick 6
+com.example.robert.physicsbasedanimation.fragment.BallSpringFragment 5
+com.example.robert.physicsbasedanimation.fragment.BallSpringFragment.onCreateView 6
+com.example.robert.physicsbasedanimation.view.SpringView.setMassHeight 5
+com.example.robert.physicsbasedanimation.view.SpringView 6
+View 6
+Paint 6
+AppCompatActivity 6
+com.example.robert.physicsbasedanimation.MainActivity 5
+com.example.robert.physicsbasedanimation.fragment.MainFragment.OnListItemClickListener 6
+ListFragment 6
+com.example.robert.physicsbasedanimation.fragment.MainFragment.OnListItemClickListener.onListItemClick 4
+com.example.robert.physicsbasedanimation.fragment.ChainedSpringFragment 6

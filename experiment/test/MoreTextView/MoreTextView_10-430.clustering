@@ -1,0 +1,11 @@
+ImageSpan 6
+com.smart.moretext.CenterAlignImageSpan 6
+com.adapter.smart.more.MainActivity 6
+com.smart.moretext.UtilMoreText 6
+com.adapter.smart.more.DensityUtil 6
+com.adapter.smart.more.MainActivity.onCreate 6
+com.smart.moretext.UtilMoreText.createImg 6
+com.adapter.smart.more.DensityUtil.px2sp 3
+com.smart.moretext.UtilMoreText.setSpanTextColor 6
+com.smart.moretext.UtilMoreText.createString 6
+AppCompatActivity 6

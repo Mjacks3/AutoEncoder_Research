@@ -1,0 +1,17 @@
+com.javen.controller.UserController 6
+com.javen.controller.UserController.toIndex3 6
+com.javen.controller.UserController.getUserInJson2 6
+com.javen.model.User.toString 6
+com.javen.controller.UserController.test 6
+com.javen.model.User 6
+com.javen.service.IUserService 5
+com.javen.service.impl.UserServiceImpl 6
+JspSourceDependent 6
+org.apache.jsp.WEB_002dINF.jsp.index_jsp 5
+org::apache::jasper::runtime::JspSourceDependent 6
+org::apache::jasper::runtime::HttpJspBase 5
+HttpJspBase 6
+com.javen.model.User.setAge 6
+com.javen.model.User.setId 6
+com.javen.model.User.setPassword 6
+com.javen.model.User.setUserName 6

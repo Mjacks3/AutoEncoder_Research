@@ -1,0 +1,14 @@
+View::OnFocusChangeListener 9
+com.ihubin.login.loginpage.OwlView 9
+View 9
+com.ihubin.login.loginpage.RegisterActivity 9
+com.ihubin.login.loginpage.LoginActivity 9
+OnFocusChangeListener 9
+EditText 7
+Activity 9
+com.ihubin.login.loginpage.LoginActivity.onCreate 1
+com.ihubin.login.loginpage.OwlView.open 9
+com.ihubin.login.loginpage.OwlView.close 9
+com.ihubin.login.loginpage.MainActivity 9
+com.ihubin.login.loginpage.RegisterActivity.onCreate 7
+com.ihubin.login.loginpage.OwlView2.addWatchEditText 9

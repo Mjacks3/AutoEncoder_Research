@@ -1,0 +1,10 @@
+CordovaPlugin 4
+com.rohithvaranasi.callnumber.CFCallNumber 4
+src/ios/CFCallNumber.h 4
+src/ios/CFCallNumber.m 4
+Cordova/CDVPlugin.h 5
+CFCallNumber.h 8
+CDVPlugin 4
+CFCallNumber 4
+com.rohithvaranasi.callnumber.CFCallNumber.execute 4
+com.rohithvaranasi.callnumber.CFCallNumber.getCallPermission 4

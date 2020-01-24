@@ -1,0 +1,6 @@
+JobService 8
+com.termux.boot.BootJobService 8
+Activity 8
+com.termux.boot.BootActivity 8
+BroadcastReceiver 8
+com.termux.boot.BootReceiver 8

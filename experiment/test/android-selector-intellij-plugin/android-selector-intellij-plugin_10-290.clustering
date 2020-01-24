@@ -1,0 +1,13 @@
+Icon 5
+importre.intellij.android.selector.color.ColorIcon 8
+importre.intellij.android.selector.color.ColorIcon.paintIcon 5
+importre.intellij.android.selector.color.ColorIcon.getIconWidth 8
+importre.intellij.android.selector.color.ColorIcon.getIconHeight 8
+importre.intellij.android.selector.action.AndroidSelector 5
+importre.intellij.android.selector.action.AndroidSelector.actionPerformed 5
+AnAction 5
+importre.intellij.android.selector.form.AndroidSelectorDialog.show 8
+importre.intellij.android.selector.form.AndroidSelectorDialog 8
+DialogWrapper 5
+ListCellRenderer 5
+importre.intellij.android.selector.color.ColorItemRenderer 5
