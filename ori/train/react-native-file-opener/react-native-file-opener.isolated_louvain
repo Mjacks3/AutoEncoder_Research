@@ -1,0 +1,12 @@
+ReactPackage 0
+com.fileopener.FileOpenerPackage 0
+com.fileopener.FileOpener 1
+ReactContextBaseJavaModule 1
+FileOpener 2
+NSObject 2
+RCTBridgeModule 2
+ios/RNFileOpener/RNFileOpener.h 3
+RCTBridgeModule.h 3
+RCTBridge.h 3
+ios/RNFileOpener/RNFileOpener.m 3
+RNFileOpener.h 3

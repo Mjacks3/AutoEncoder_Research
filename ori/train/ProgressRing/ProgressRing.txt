@@ -1,0 +1,5 @@
+View com.blankj.progressring.ProgressRing 2
+AppCompatActivity com.blankj.progressring.MainActivity 3
+com.blankj.progressring.ProgressRing com.blankj.progressring.ProgressRing.onDraw 1
+com.blankj.progressring.ProgressRing com.blankj.progressring.ProgressRing.getGradient 1
+com.blankj.progressring.ProgressRing.onDraw com.blankj.progressring.ProgressRing.getGradient 1

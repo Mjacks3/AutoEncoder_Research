@@ -1,0 +1,8 @@
+ListFragment com.thelittlenaruto.supportdesignexample.activity.MainActivity.ArrayListFragment 3
+AppCompatActivity com.thelittlenaruto.supportdesignexample.activity.MainActivity 3
+FragmentStatePagerAdapter com.thelittlenaruto.supportdesignexample.activity.MainActivity.MyAdapter 3
+ViewPager com.thelittlenaruto.supportdesignexample.customview.WrapContentHeightViewPager 3
+ApplicationTestCase com.thelittlenaruto.supportdesignexample.ApplicationTest 1
+android::test::ApplicationTestCaseApplication com.thelittlenaruto.supportdesignexample.ApplicationTest 2
+NestedScrollView com.thelittlenaruto.supportdesignexample.customview.MyNestedScrollView 3
+ListView com.thelittlenaruto.supportdesignexample.customview.NestedListView 3

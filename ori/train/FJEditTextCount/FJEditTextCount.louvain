@@ -1,0 +1,13 @@
+AppCompatActivity 0
+fj.edittextcount.test.MainActivity.onCreate 0
+fj.edittextcount.test.MainActivity 0
+fj.edittextcount.lib.FJEditTextCount.getText 0
+fj.edittextcount.lib.ExampleUnitTest 1
+fj.edittextcount.lib.FJEditTextCount 2
+RelativeLayout 2
+fj.edittextcount.lib.FJEditTextCount.show 2
+fj.edittextcount.lib.FJEditTextCount.setText 2
+fj.edittextcount.lib.FJEditTextCount.calculateLength 2
+fj.edittextcount.test.ExampleUnitTest 3
+fj.edittextcount.test.ExampleInstrumentedTest 4
+fj.edittextcount.lib.ExampleInstrumentedTest 5

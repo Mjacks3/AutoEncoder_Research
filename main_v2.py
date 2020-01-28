@@ -377,7 +377,7 @@ if __name__ == "__main__":
                         help="Whether to use data augmentation during pretraining phase")
     parser.add_argument('--pretrained-weights', default=None, type=str,
                         help="Pretrained weights of the autoencoder")
-    parser.add_argument('--pretrain-epochs', default=300, type=int,
+    parser.add_argument('--pretrain-epochs', default=100, type=int,
                         help="Number of epochs for pretraining")
     parser.add_argument('-v', '--verbose', default=1, type=int,
                         help="Verbose for pretraining")
@@ -436,9 +436,9 @@ if args.experiment:
     #End Graph Embedding
     
     
-
+    """
     #Training
-    models = [4,8]
+    models = [2,4,8]
     for num in models:
         args.num_clusters = int(num)
         args.save_dir = "experiment/" + str(args.num_clusters)
@@ -448,7 +448,7 @@ if args.experiment:
         if not os.path.exists(args.save_dir):
             os.makedirs(args.save_dir)
         train(args)
-    
+    """
     #End Training
     
     
@@ -485,7 +485,7 @@ if args.experiment:
                         "18": [],
                         "19": []
                         }
-    """
+
     models = [2,5,10,15]
     for num_clusters in models:
         if os.path.exists("experiment/"+str(num_clusters)+"/model_final.h5"):
@@ -506,8 +506,7 @@ if args.experiment:
                     #print(args.test_dataset)
                     test(args) # Calculations will be done on files separately
 
-    
-    """
+
                 modq = calculate_modq(clusters,edge_list=edge_list)
                 print("\n\n MOD Q: "+ str(modq)) 
                 cluster_qValue_map[str(num_clusters)].append(modq)

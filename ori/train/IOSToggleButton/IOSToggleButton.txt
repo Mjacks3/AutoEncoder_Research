@@ -1,0 +1,15 @@
+com.yang.togglebutton.MainActivity com.yang.togglebutton.CustomToggleButton 1
+View com.yang.togglebutton.CustomToggleButton 3
+com.yang.togglebutton.CustomToggleButton com.yang.togglebutton.IOnToggleStateChangeListener 3
+com.yang.togglebutton.MainActivity com.yang.togglebutton.MainActivity.onCreate 1
+Activity com.yang.togglebutton.MainActivity 3
+com.yang.togglebutton.MainActivity.onCreate com.yang.togglebutton.CustomToggleButton.setIOnToggleStateChangeListener 1
+com.yang.togglebutton.CustomToggleButton com.yang.togglebutton.CustomToggleButton.setIOnToggleStateChangeListener 1
+com.yang.togglebutton.CustomToggleButton com.yang.togglebutton.CustomToggleButton.setToggleState 2
+com.yang.togglebutton.MainActivity.onCreate com.yang.togglebutton.CustomToggleButton.setToggleState 1
+com.yang.togglebutton.IOnToggleStateChangeListener com.yang.togglebutton.IOnToggleStateChangeListener.onToggleStateChange 3
+com.yang.togglebutton.CustomToggleButton.onTouchEvent com.yang.togglebutton.IOnToggleStateChangeListener.onToggleStateChange 1
+com.yang.togglebutton.CustomToggleButton.setToggleState com.yang.togglebutton.IOnToggleStateChangeListener.onToggleStateChange 2
+com.yang.togglebutton.CustomToggleButton com.yang.togglebutton.CustomToggleButton.getToggleState 1
+com.yang.togglebutton.MainActivity.onCreate com.yang.togglebutton.CustomToggleButton.getToggleState 1
+com.yang.togglebutton.CustomToggleButton com.yang.togglebutton.CustomToggleButton.onTouchEvent 1

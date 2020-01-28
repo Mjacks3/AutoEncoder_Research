@@ -1,0 +1,16 @@
+com.timqi.collapsibletextview.example.MainActivity 0
+AppCompatActivity 0
+View::OnClickListener 0
+OnClickListener 0
+com.timqi.collapsibletextview.CollapsibleTextView 1
+TextView 1
+com.timqi.collapsibletextview.CollapsibleTextView.setFullString 1
+com.timqi.collapsibletextview.example.MainActivity.onCreate 1
+com.timqi.collapsibletextview.CollapsibleTextView.setOnClickListener 1
+com.timqi.collapsibletextview.example.MainActivity.onClick 2
+com.timqi.collapsibletextview.CollapsibleTextView.setExpanded 2
+com.timqi.collapsibletextview.CollapsibleTextView.setSuffixColor 2
+com.timqi.collapsibletextview.CollapsibleTextView.setCollapsedLines 2
+com.timqi.collapsibletextview.CollapsibleTextView.setSuffixTrigger 2
+com.timqi.collapsibletextview.CollapsibleTextView.setCollapsedText 2
+com.timqi.collapsibletextview.CollapsibleTextView.setExpandedText 2

@@ -1,0 +1,15 @@
+com.codepath.apps.restclienttemplate.models.SampleModel 0
+com.codepath.apps.restclienttemplate.LoginActivity 0
+com::codepath::oauth::OAuthLoginActionBarActivityRestClient 0
+com.codepath.apps.restclienttemplate.models.SampleModelDao 0
+com.codepath.apps.restclienttemplate.LoginActivity.onCreate 0
+com.codepath.apps.restclienttemplate.models.SampleModel.setName 0
+com.codepath.apps.restclienttemplate.models.SampleModelDao.insertModel 0
+OAuthLoginActionBarActivity 0
+Application 1
+com.codepath.apps.restclienttemplate.RestApplication 1
+com.codepath.apps.restclienttemplate.MyDatabase 2
+RoomDatabase 2
+com.codepath.apps.restclienttemplate.RestClient 3
+OAuthBaseClient 3
+BaseApi 3

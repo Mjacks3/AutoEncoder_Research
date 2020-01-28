@@ -1,0 +1,11 @@
+com.wuyr.pathviewtest.CanvasView 0
+View 0
+com.wuyr.pathviewtest.MainActivity.draw 0
+com.wuyr.pathviewtest.CanvasView.clear 0
+com.wuyr.pathviewtest.CanvasView.setPath 0
+com.wuyr.pathviewtest.MainActivity.play 1
+com.wuyr.pathviewtest.CanvasView.getPaths 1
+com.wuyr.pathviewtest.MainActivity 2
+AppCompatActivity 2
+com.wuyr.pathviewtest.MainActivity.onCreate 3
+com.wuyr.pathviewtest.CanvasView.setLineWidth 3
