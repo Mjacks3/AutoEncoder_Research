@@ -439,8 +439,13 @@ if args.experiment:
 
     
     #Training
+<<<<<<< Updated upstream
     models = [8,9,10,11,12]
     for num in models:
+=======
+    models = [2,3,4,5,6,7]
+    for num in reversed(models):
+>>>>>>> Stashed changes
         args.num_clusters = int(num)
         args.save_dir = "experiment/" + str(args.num_clusters)
 
