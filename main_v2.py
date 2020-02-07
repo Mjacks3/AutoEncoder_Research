@@ -440,10 +440,15 @@ if args.experiment:
     
     #Training
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     models = [8,9,10,11,12]
     for num in models:
 =======
     models = [2,3,4,5,6,7]
+    for num in reversed(models):
+>>>>>>> Stashed changes
+=======
+    models = [2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19]
     for num in reversed(models):
 >>>>>>> Stashed changes
         args.num_clusters = int(num)
