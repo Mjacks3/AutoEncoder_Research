@@ -1,8 +1,0 @@
-org.nibblesec.tools.util.Person 0
-Serializable 0
-org.nibblesec.tools.PatternListTest 1
-org.nibblesec.tools.SerialKillerTest 2
-org.nibblesec.tools.SerialKillerSpeedTest 3
-ObjectInputStream 4
-org.nibblesec.tools.SerialKiller 4
-org.nibblesec.tools.ConfigurationTest 5

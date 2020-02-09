@@ -435,22 +435,13 @@ if args.experiment:
     
     #End Graph Embedding
     """
+    """
     
 
     
     #Training
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-    models = [8,9,10,11,12]
-    for num in models:
-=======
-    models = [2,3,4,5,6,7]
-    for num in reversed(models):
->>>>>>> Stashed changes
-=======
     models = [2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19]
-    for num in reversed(models):
->>>>>>> Stashed changes
+    for num in models:
         args.num_clusters = int(num)
         args.save_dir = "experiment/" + str(args.num_clusters)
 
@@ -465,7 +456,7 @@ if args.experiment:
     
     
  
-    """
+    
 
     
     cluster_qValue_map = { 
@@ -490,18 +481,20 @@ if args.experiment:
                         }
     
     """
-    """
+    
 
     models = [2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19]
     for num_clusters in models:
+        #print(num_clusters)
         if os.path.exists("experiment/"+str(num_clusters)+"/model_final.h5"):
 
             args.weights = "experiment/"+str(num_clusters)+"/model_final.h5"
             args.num_clusters = num_clusters
     
+            
             for r, d, f in os.walk("experiment/case_study"): # for each file 
                 #print (r)
-                if len(f) >= 4 and r.split("/")[-1] +  "_" + str(args.num_clusters)+ ".clustering" not in f  :       
+                if len(f) >= 3 and r.split("/")[-1] +  "_" + str(args.num_clusters)+ ".clustering" not in f  :       
                     for file_name in f: 
                         if ".txt" in file_name:
                             edge_list = r+"/"+file_name
@@ -559,4 +552,5 @@ else:
                 calculate_metrics(node_clusters,args.edge_list)
                 pass
 
+"""
 """

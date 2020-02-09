@@ -1,5 +1,0 @@
-cn.fulushan.watermark.view.WaterMarkBg cn.fulushan.watermark.view.WaterMarkBg.draw 1
-Drawable cn.fulushan.watermark.view.WaterMarkBg 3
-cn.fulushan.watermark.view.WaterMarkBg.draw cn.fulushan.watermark.view.WaterMarkBg.sp2px 1
-cn.fulushan.watermark.view.WaterMarkBg cn.fulushan.watermark.view.WaterMarkBg.sp2px 1
-AppCompatActivity cn.fulushan.watermark.MainActivity 3

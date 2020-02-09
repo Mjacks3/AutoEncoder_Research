@@ -1,7 +1,0 @@
-com.here.oksse.ITOkSse 10
-com.here.oksse.OkSse 10
-com.here.oksse.ITOkSse.testNewServerSentEventConnection 10
-com.here.oksse.OkSse.newServerSentEvent 10
-com.here.oksse.ServerSentEvent.close 10
-com.here.oksse.ServerSentEvent 10
-com.here.oksse.RealServerSentEvent 10

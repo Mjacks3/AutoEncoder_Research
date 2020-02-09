@@ -1,9 +1,0 @@
-RobolectricGradleTestRunner 10
-com.example.myapplication.CustomRobolectricRunner 10
-ActionBarActivity 10
-com.example.myapplication.MainActivity 10
-Fragment 10
-com.example.myapplication.MainActivity.PlaceholderFragment 10
-android::test::ApplicationTestCaseApplication 10
-com.example.myapplication.ApplicationTest 10
-ApplicationTestCase 10

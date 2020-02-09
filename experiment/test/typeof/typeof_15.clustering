@@ -1,8 +1,0 @@
-com.nurkiewicz.typeof.ThenReturnS,R 10
-com::nurkiewicz::typeof::TerminalThenReturnS,R 10
-com::nurkiewicz::typeof::ThenS 10
-com.nurkiewicz.typeof.TerminalThenS 10
-com.nurkiewicz.typeof.ReturnIsS,T,R 10
-com::nurkiewicz::typeof::TerminalReturnIsS,T,R 10
-com.nurkiewicz.typeof.ThenIsS,T 10
-com::nurkiewicz::typeof::TerminalThenIsS,T 10
