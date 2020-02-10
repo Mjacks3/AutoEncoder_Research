@@ -1,4 +1,0 @@
-RecyclerView net.nemanjakovacevic.recyclerviewswipetodelete.MainActivity 1
-AppCompatActivity net.nemanjakovacevic.recyclerviewswipetodelete.MainActivity 3
-android::test::ApplicationTestCaseApplication net.nemanjakovacevic.recyclerviewswipetodelete.ApplicationTest 2
-ApplicationTestCase net.nemanjakovacevic.recyclerviewswipetodelete.ApplicationTest 1

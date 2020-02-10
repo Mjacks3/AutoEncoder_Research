@@ -1,2 +1,0 @@
-BugChecker com.jakewharton.nopen.checker.NopenChecker 3
-ClassTreeMatcher com.jakewharton.nopen.checker.NopenChecker 3

@@ -1,8 +1,0 @@
-Activity 3
-com.mikedg.android.glass.winky.MainActivity 3
-com.mikedg.android.glass.winky.MainActivity.onResume 3
-com.mikedg.android.glass.winky.MainActivity.enableWinkDetection 3
-com.mikedg.android.glass.winky.MainActivity.onOptionsItemSelected 3
-com.mikedg.android.glass.winky.MainActivity.clearCalibation 3
-BroadcastReceiver 3
-com.mikedg.android.glass.winky.EyeGestureReceiver 3

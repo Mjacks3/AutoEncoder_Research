@@ -1,3 +1,0 @@
-Fragment com.zyh.testswiperefresh.MyListFragment 3
-Fragment com.zyh.testswiperefresh.MyScrollViewFragment 3
-FragmentActivity com.zyh.testswiperefresh.MainActivity 2

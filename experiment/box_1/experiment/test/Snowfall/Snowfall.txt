@@ -1,5 +1,0 @@
-View com.stylingandroid.snowfall.SnowView 2
-AppCompatActivity com.stylingandroid.snowfall.MainActivity 3
-com.stylingandroid.snowfall.SnowView com.stylingandroid.snowfall.SnowView.onSizeChanged 1
-com.stylingandroid.snowfall.SnowView.onSizeChanged com.stylingandroid.snowfall.SnowView.resize 1
-com.stylingandroid.snowfall.SnowView com.stylingandroid.snowfall.SnowView.resize 1
