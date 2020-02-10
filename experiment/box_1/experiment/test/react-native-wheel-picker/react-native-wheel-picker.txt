@@ -1,0 +1,4 @@
+WheelCurvedPicker com.zyu.ReactWheelCurvedPicker 2
+com::facebook::react::uimanager::SimpleViewManagerReactWheelCurvedPicker com.zyu.ReactWheelCurvedPickerManager 2
+SimpleViewManager com.zyu.ReactWheelCurvedPickerManager 1
+ReactPackage com.zyu.ReactNativeWheelPickerPackage 3
