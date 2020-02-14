@@ -465,14 +465,14 @@ if args.experiment:
     #edge_list_loc = "datasets/demo_1/acmeair/acmeair.txt"
     """
     
-    models = [2,5,10,15]
+    models = [2,4,8]
     for num_clusters in models:
         if os.path.exists("experiment/"+str(num_clusters)+"/model_final.h5"):
 
             args.weights = "experiment/"+str(num_clusters)+"/model_final.h5"
             args.num_clusters = num_clusters
     
-            for r, d, f in os.walk("experiment/test"): # for each file 
+            for r, d, f in os.walk("experiment/case_study"): # for each file 
                 #print (r)
                 if len(f) >= 4 and r.split("/")[-1] +  "_" + str(args.num_clusters)+ ".clustering" not in f  :       
                     for file_name in f: 
