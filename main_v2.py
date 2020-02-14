@@ -436,7 +436,7 @@ if args.experiment:
     #End Graph Embedding
     
     
-    """
+    
     #Training
     models = [2,4,8]
     for num in models:
@@ -465,35 +465,14 @@ if args.experiment:
     """
 
     """
-    cluster_qValue_map = { 
-                        "2" : [],
-                        "3" : [],
-                        "4" : [],
-                        "5" : [],
-                        "6" : [],
-                        "7" : [],
-                        "8" : [],
-                        "9" : [],
-                        "10": [],
-                        "11": [],
-                        "12": [],
-                        "13": [],
-                        "14": [],
-                        "15": [],
-                        "16": [],
-                        "17": [],
-                        "18": [],
-                        "19": []
-                        }
-
-    models = [2,5,10,15]
+    models = [2,4,8]
     for num_clusters in models:
         if os.path.exists("experiment/"+str(num_clusters)+"/model_final.h5"):
 
             args.weights = "experiment/"+str(num_clusters)+"/model_final.h5"
             args.num_clusters = num_clusters
     
-            for r, d, f in os.walk("experiment/test"): # for each file 
+            for r, d, f in os.walk("experiment/case_study"): # for each file 
                 #print (r)
                 if len(f) >= 4 and r.split("/")[-1] +  "_" + str(args.num_clusters)+ ".clustering" not in f  : 
                     print(num_clusters)
@@ -505,7 +484,7 @@ if args.experiment:
 
                     #print(args.test_dataset)
                     test(args) # Calculations will be done on files separately
-
+    """
 
                 modq = calculate_modq(clusters,edge_list=edge_list)
                 print("\n\n MOD Q: "+ str(modq)) 
