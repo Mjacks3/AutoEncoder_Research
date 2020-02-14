@@ -1,0 +1,6 @@
+WebMvcConfigurerAdapter 17
+demo.AuthserverApplication 17
+AuthorizationServerConfigurerAdapter 17
+demo.AuthserverApplication.OAuth2Config 17
+WebSecurityConfigurerAdapter 17
+demo.AuthserverApplication.LoginConfig 17

@@ -1,0 +1,15 @@
+Application 12
+me.yifeiyuan.andfixdemo.App 2
+android::test::ApplicationTestCaseApplication 17
+me.yifeiyuan.andfixdemo.ApplicationTest 2
+ApplicationTestCase 17
+me.yifeiyuan.library.ApplicationTest 2
+me.yifeiyuan.andfixdemo.MainActivity 13
+me.yifeiyuan.andfixdemo.MainActivity.onResume 10
+AppCompatActivity 14
+me.yifeiyuan.andfixdemo.A.a 14
+me.yifeiyuan.andfixdemo.A 17
+me.yifeiyuan.andfixdemo.A.b 14
+me.yifeiyuan.andfixdemo.A.getI 14
+me.yifeiyuan.library.XiHa.xiha 13
+me.yifeiyuan.library.XiHa 14

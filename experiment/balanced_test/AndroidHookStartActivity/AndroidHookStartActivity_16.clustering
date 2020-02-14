@@ -1,0 +1,9 @@
+com.bolex.androidhookstartactivity.MainActivity 15
+com.bolex.androidhookstartactivity.MainActivity.onCreate 15
+AppCompatActivity 15
+com.bolex.androidhookstartactivity.AMSHook.AMSHookUtil.hookStartActivity 9
+com.bolex.androidhookstartactivity.AMSHook.AMSHookUtil 15
+InvocationHandler 15
+com.bolex.androidhookstartactivity.AMSHook.HookInvocationHandler 15
+com.bolex.androidhookstartactivity.HostActivity 15
+other.packages.OtherActivity 15

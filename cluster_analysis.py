@@ -32,8 +32,10 @@ full_set = [louvain, clus_2,clus_3,clus_4,clus_5,clus_6,clus_7,clus_8,clus_9,clu
 
 #further analysis should be louvain vs highest Q_Value reccomendation
 
-
+count = 0
 for r, d, f in os.walk(source_dir):
+    count+= 1
+    print("Progress: "+ str(count/(753.0 *1)))
     for a_file in f:
         if ".isolated_louvain" in a_file or ".clustering" in a_file:
             file_cluster_count = set([])
@@ -113,7 +115,7 @@ plt.xticks([1,2, 3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19], ['Louvain','2-Clu
 ax.set_title('Microservice Cluster Analysis  for  750 Repository DataSet')
 ax.set_xlabel('Generation Method')
 ax.set_ylabel('Number of Clusters Generated')
-plt.ylim(0, 20) 
+plt.ylim(0, 10) 
 
 plt.show()
 

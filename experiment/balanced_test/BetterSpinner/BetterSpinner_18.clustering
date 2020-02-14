@@ -1,0 +1,13 @@
+AutoCompleteTextView 12
+com.weiwangcn.betterspinner.library.BetterSpinner 8
+OnItemClickListener 8
+AdapterView::OnItemClickListener 8
+com.weiwangcn.betterspinner.library.material.MaterialBetterSpinner 8
+MaterialAutoCompleteTextView 8
+android::test::ApplicationTestCaseApplication 12
+com.weiwangcn.betterspinner.library.material.ApplicationTest 8
+ApplicationTestCase 12
+ActionBarActivity 8
+com.weiwangcn.betterspinner.sample.MainActivity 12
+com.weiwangcn.betterspinner.library.ApplicationTest 8
+com.weiwangcn.betterspinner.sample.ApplicationTest 8

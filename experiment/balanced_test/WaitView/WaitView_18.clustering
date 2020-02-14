@@ -1,0 +1,15 @@
+cn.imkarl.waitview.WaitViewController 3
+cn.imkarl.waitview.OnWaitViewFilter 10
+cn.imkarl.waitview.SimpleOnWaitViewFilter 3
+OnClickListener 8
+cn.imkarl.waitview.sample.MainActivity 8
+View::OnClickListener 8
+AppCompatActivity 8
+cn.imkarl.waitview.sample.MainActivity.onClick 8
+cn.imkarl.waitview.WaitViewController.from 7
+cn.imkarl.waitview.WaitViewController.renderChilds 15
+cn.imkarl.waitview.WaitViewController.removeChilds 15
+cn.imkarl.waitview.WaitViewController.drawRect 8
+cn.imkarl.waitview.WaitViewController.render 8
+cn.imkarl.waitview.OnWaitViewFilter.onFilter 3
+cn.imkarl.waitview.WaitViewController.remove 8

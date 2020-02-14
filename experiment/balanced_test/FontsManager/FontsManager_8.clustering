@@ -1,0 +1,9 @@
+com.sloop.fonts.FontsManager 1
+com.sloop.fonts.FontsManager.changeFonts 5
+Typeface 5
+com.sloop.fonts.ActionBarHelper.changeTitleFonts 1
+com.sloop.fonts.ActionBarHelper 1
+com.sloop.fonts.ActionBarHelper.setTitle 2
+android::test::ApplicationTestCaseApplication 1
+com.sloop.library.ApplicationTest 5
+ApplicationTestCase 1

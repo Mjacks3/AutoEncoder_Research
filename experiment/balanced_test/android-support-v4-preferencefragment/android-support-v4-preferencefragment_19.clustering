@@ -1,0 +1,11 @@
+Fragment 17
+android.support.v4.preference.PreferenceFragment 2
+android.support.v4.preference.PreferenceManagerCompat.OnPreferenceTreeClickListener 17
+android.support.v4.preference.PreferenceFragment.onSaveInstanceState 17
+android.support.v4.preference.PreferenceFragment.getPreferenceScreen 14
+android.support.v4.preference.PreferenceFragment.onActivityCreated 17
+android.support.v4.preference.PreferenceFragment.addPreferencesFromIntent 17
+android.support.v4.preference.PreferenceFragment.addPreferencesFromResource 17
+android.support.v4.preference.PreferenceFragment.findPreference 17
+android.support.v4.preference.PreferenceFragment.setPreferenceScreen 14
+android.support.v4.preference.PreferenceFragment.getListView 14

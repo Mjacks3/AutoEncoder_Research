@@ -1,0 +1,12 @@
+ReactPackage 17
+com.github.wumke.RNExitApp.RNExitAppPackage 12
+ios/RNExitApp/RNExitApp.m 17
+UIKit/UIKit.h 17
+RCTBridgeModule.h 17
+RCTBridgeModule 14
+RNExitApp 12
+NSObject 14
+ReactApplicationContext 17
+com.github.wumke.RNExitApp.RNExitAppModule 14
+AlarmManager 17
+ReactContextBaseJavaModule 17

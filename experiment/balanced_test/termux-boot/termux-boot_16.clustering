@@ -1,0 +1,6 @@
+JobService 15
+com.termux.boot.BootJobService 15
+Activity 15
+com.termux.boot.BootActivity 15
+BroadcastReceiver 15
+com.termux.boot.BootReceiver 15

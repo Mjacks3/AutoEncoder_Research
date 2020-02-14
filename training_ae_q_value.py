@@ -1,12 +1,20 @@
 import os
 import  matplotlib.pyplot as plt
+import seaborn as sns
+import statistics
+import matplotlib
+font = {'family' : 'sans-serif',
+        'weight' : 'bold',
+        'size'   : 35}
+
+matplotlib.rc('font', **font)
 
 #source_dir = "experiment/test/WeatherIconView"
 source_dir = "experiment/test"
 
-folders = ["AE_I_2","AE_L","AE_4","AE_5","AE_6"]
+folders = ["td_1","td_2","td_3","td_4","td_5"]
 
-
+count = 0
 
 
 
@@ -22,6 +30,8 @@ for folder in folders:
 
     print(folder)
     for r, d, f in os.walk("../"+folder+"/"+"AutoEncoder_Research/experiment/test"):
+        count+= 1
+        print("Progress: "+ str(count/(753.0 *1)))
 
         #First get the edgelist to process louvain and clustering
         if r.split("/")[-1]+".embedding" in f:
@@ -51,7 +61,7 @@ for folder in folders:
 
                     with open(edge_list ) as f:
                         for edge in f:
-                            m_norm += 1
+                            m_norm += int(edge.split()[-1])
 
                     #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
                     #Modularity Q Calculation
@@ -68,13 +78,13 @@ for folder in folders:
                                 if source_dest[0] in node_partition_mapping and  source_dest[1] in node_partition_mapping:
                                     if node_partition_mapping[source_dest[0]] == str(partition) and \
                                     node_partition_mapping[source_dest[1]] == str(partition):
-                                        internal += 1
-                                        incident += 1
+                                        internal += int(edge.split()[-1])
+                                        incident += int(edge.split()[-1])
 
                                     elif node_partition_mapping[source_dest[0]] == str(partition) or \
                                     node_partition_mapping[source_dest[1]] == str(partition):
 
-                                        incident += 1
+                                        incident += int(edge.split()[-1])
 
                         modQ += ( (internal/(2.0*m_norm)) -   (incident/(2.0*m_norm))**2)
 
@@ -102,22 +112,24 @@ for folder in folders:
                     elif "15.clustering" in a_file:
                         clus_15.append(modQ)
     
+    
+    full_set.append([statistics.mean(clus_2),statistics.mean(clus_5),statistics.mean(clus_10),statistics.mean(clus_15)])
 
-    full_set.append(clus_2)
-    full_set.append(clus_5)
-    full_set.append(clus_10)
-    full_set.append(clus_15)
-            
+
 
 fig = plt.figure()
 
 ax = fig.add_subplot(111)
-ax.boxplot(full_set[0:])
-plt.xticks([1,2, 3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20], [ '2C-100TD', '5C-100TD', '10C-100TD ', '15C-100TD','2C-200TD','5C-200TD','10C-200TD','15C-200TD ','2C-300TD','5C-300TD','10C-300TD','15C-300TD','2C-400TD','5C-400TD','10C-400TD','15C-400TD','2C-500TD','5C-500TD','10C-500TD','15C-500TD'], rotation='vertical')
+#ax.boxplot(full_set[0:])
 
-ax.set_title('AutoEncoder Training Set Size Vs. Q-Value Analysis [300 Epochs] ')
-ax.set_xlabel('[X] Cluster Model -Trained on- [Y] Training Data Set Size')
-ax.set_ylabel('Q-Value')
+
+sns.heatmap(full_set, vmin=0,vmax=.3,annot=True, cmap ="PuBu",cbar_kws={'label': 'Mean ModQ Score '} ,yticklabels = ['100','200','300','400','500'],  xticklabels = ['2','5','10','15'])
+ax.figure.axes[-1].yaxis.label.set_size(55)
+
+#ax.set_title('AutoEncoder Training Dataset Size Vs.Model Type Vs. Q-Value Analysis ')
+
+ax.set_xlabel('X-Class AutoEncoder',fontsize = 55)
+ax.set_ylabel('Train Dataset Size',fontsize = 55)
 #plt.ylim(0, 20) 
 
 plt.show()

@@ -1,0 +1,10 @@
+BaseQuickAdapter 3
+com.guanaj.easyswipemenulayout.MainActivity.MyAdapter 0
+com::chad::library::adapter::base::BaseQuickAdapterString,BaseViewHolder 3
+com.guanaj.easyswipemenulayout.MainActivity.MyAdapter.convert 3
+com.guanaj.easyswipemenulibrary.EasySwipeMenuLayout.resetStatus 2
+com.guanaj.easyswipemenulibrary.EasySwipeMenuLayout 3
+ViewGroup 3
+com.guanaj.easyswipemenulibrary.State 3
+AppCompatActivity 2
+com.guanaj.easyswipemenulayout.MainActivity 2

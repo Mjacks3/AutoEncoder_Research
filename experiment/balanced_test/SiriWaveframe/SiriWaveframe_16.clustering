@@ -1,0 +1,8 @@
+Activity 15
+com.ruikye.graphics.MyActivity 14
+com.ruikye.graphics.MyActivity.onPause 14
+com.ruikye.graphics.view.WaveformView 7
+com.ruikye.graphics.view.WaveformView.updateAmplitude 15
+View 15
+GLSurfaceView 14
+com.ruikye.graphics.view.GLWaveformView 14

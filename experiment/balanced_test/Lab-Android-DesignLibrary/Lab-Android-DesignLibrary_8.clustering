@@ -1,0 +1,11 @@
+ActionBarDrawerToggle 6
+com.inthecheesefactory.lab.designlibrary.CodeLabActivity 1
+DrawerLayout 6
+AppCompatActivity 6
+com.inthecheesefactory.lab.designlibrary.MainActivity 1
+CoordinatorLayout 6
+CollapsingToolbarLayout 6
+Toolbar 6
+FloatingActionButton 6
+android::test::ApplicationTestCaseApplication 1
+com.inthecheesefactory.designlibrary.ApplicationTest 1

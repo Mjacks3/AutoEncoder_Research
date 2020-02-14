@@ -1,0 +1,16 @@
+com.xiaomagouche.loadinglayout.library.ApplicationTest 0
+android::test::ApplicationTestCaseApplication 0
+com.xiaomagouche.com.loadinglayout.ApplicationTest 0
+ApplicationTestCase 0
+FrameLayout 1
+com.xiaomagouche.loadinglayout.library.LoadingLayout 1
+com.xiaomagouche.com.loadinglayout.MainActivity.onCreate 1
+com.xiaomagouche.loadinglayout.library.LoadingLayout.showContent 1
+com.xiaomagouche.loadinglayout.library.LoadingLayout.showError 1
+com.xiaomagouche.loadinglayout.library.LoadingLayout.showEmpty 1
+com.xiaomagouche.loadinglayout.library.LoadingLayout.showLoading 1
+com.xiaomagouche.loadinglayout.library.LoadingLayout.setOnRetryClickListener 1
+com.xiaomagouche.loadinglayout.library.ExampleUnitTest 2
+com.xiaomagouche.com.loadinglayout.ExampleUnitTest 3
+com.xiaomagouche.com.loadinglayout.MainActivity 4
+AppCompatActivity 4

@@ -1,0 +1,6 @@
+com.jakewharton.rx.WindowIfChangedTest 6
+com.jakewharton.rx.WindowIfChangedTest.completeCompletesInner 6
+com.jakewharton.rx.WindowIfChangedTest.splits 6
+com.jakewharton.rx.WindowIfChanged.create 1
+com.jakewharton.rx.WindowIfChangedTest.errorCompletesInner 6
+com.jakewharton.rx.WindowIfChanged 6

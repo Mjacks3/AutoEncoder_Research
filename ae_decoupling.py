@@ -1,5 +1,12 @@
 import os
 import  matplotlib.pyplot as plt
+import statistics
+import matplotlib
+font = {'family' : 'sans-serif',
+        'weight' : 'bold',
+        'size'   : 35}
+
+matplotlib.rc('font', **font)
 
 source_dir = "experiment/test/WeatherIconView"
 source_dir = "experiment/test"
@@ -28,8 +35,11 @@ full_set = [louvain, clus_2,clus_3,clus_4,clus_5,clus_6,clus_7,clus_8,clus_9,clu
 
 
 coupling = [] 
+count = 0
 
 for r, d, f in os.walk(source_dir):
+  count+= 1
+  print("Progress: "+ str(count/753.0))
   if r.split("/")[-1]+".embedding" in f:
     edge_list_file = r+"/"+r.split("/")[-1] +".txt"
     edge_list = []
@@ -139,13 +149,19 @@ for item in full_set:
 
 
 ax = fig.add_subplot(111)
-ax.boxplot(full_set_minus_zeros[0:])
-plt.xticks([1,2, 3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19], ['Louvain', '2-Cluster', '3-Cluster ', '4-Cluster','5-Cluster','6-Cluster','7-Cluster','8-Cluster ','9-Cluster','10-Cluster','11-Cluster','12-Cluster','13-Cluster','14-Cluster','15-Cluster','16-Cluster','17-Cluster','18-Cluster','19-Cluster'], rotation='vertical')
+bp = ax.boxplot(full_set[0:])
 
-ax.set_title('AutoEncoder De-coupling Analysis ~ 750 Repository Dataset')
-ax.set_xlabel('N_Cluster Size')
-ax.set_ylabel('Coupling Value')
-plt.ylim(-.02, .3) 
+for box in bp['boxes']:
+    box.set(linewidth=10)
 
+plt.xticks([1,2, 3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19], [ 'Louvain', '2-AE', '3-AE ', '4-AE','5-AE','6-AE','7-AE','8-AE ','9-AE','10-AE','11-AE','12-AE','13-AE','14-AE','15-AE','16-AE','17-AE','18-AE','19-AE'],rotation='vertical')
+
+#ax.set_title('Inter-Cluster Coupling Analysis With Dropped Zeroes ~ 753 Repository Dataset')
+
+ax.set_xlabel('Model Type (Louvain or X-Class AutoEncoder)',fontsize = 50)
+ax.set_ylabel('Coupling Value',fontsize = 50)
+plt.ylim(-.01, .3) 
+for a in full_set:
+    print(statistics.mean(a))
 plt.show()
 

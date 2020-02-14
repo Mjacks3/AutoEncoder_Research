@@ -1,0 +1,15 @@
+com.redinput.compassview.sample.MainActivity 17
+com.redinput.compassview.CompassView 14
+com.redinput.compassview.CompassView.OnCompassDragListener 17
+Paint 17
+View 17
+Activity 12
+com.redinput.compassview.sample.MainActivity.onCreate 13
+com.redinput.compassview.CompassView.setOnCompassDragListener 3
+com.redinput.compassview.CompassView.OnCompassDragListener.onCompassDragListener 12
+com.redinput.compassview.CompassView.onTouchEvent 3
+com.redinput.compassview.CompassView.setDegrees 17
+com.redinput.compassview.CompassView.setBackgroundColor 17
+com.redinput.compassview.CompassView.setLineColor 17
+com.redinput.compassview.CompassView.setShowMarker 17
+com.redinput.compassview.CompassView.setRangeDegrees 17

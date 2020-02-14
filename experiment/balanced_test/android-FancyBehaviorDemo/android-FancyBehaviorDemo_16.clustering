@@ -1,0 +1,10 @@
+CoordinatorLayout::BehaviorView 15
+com.example.cyandev.androidplayground.widget.HeaderFloatBehavior 15
+Behavior 15
+CoordinatorLayout::BehaviorRecyclerView 15
+com.example.cyandev.androidplayground.widget.HeaderScrollingBehavior 15
+android::test::ApplicationTestCaseApplication 15
+com.example.cyandev.androidplayground.ApplicationTest 15
+ApplicationTestCase 15
+AppCompatActivity 15
+com.example.cyandev.androidplayground.ScrollingActivity 15

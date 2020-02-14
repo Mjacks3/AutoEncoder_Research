@@ -1,0 +1,6 @@
+org.eclipse.jetty.demo.EventServer 0
+WebSocketAdapter 1
+org.eclipse.jetty.demo.EventSocket 1
+WebSocketServlet 2
+org.eclipse.jetty.demo.EventServlet 2
+org.eclipse.jetty.demo.EventClient 3

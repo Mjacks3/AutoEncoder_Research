@@ -1,0 +1,10 @@
+AppCompatActivity 15
+com.example.behavior.drawer.DrawerLayoutActivity 15
+com.example.behavior.drawer.DrawerBehaviorActivity 15
+View 15
+com.jakewharton.behavior.drawer.ContentScrimDrawer.Base 15
+com.jakewharton.behavior.drawer.ContentScrimDrawer 15
+com.jakewharton.behavior.drawer.ContentScrimDrawer.JellyBeanMr2 15
+ColorDrawable 15
+CoordinatorLayout::BehaviorView 15
+com.jakewharton.behavior.drawer.DrawerBehavior 15

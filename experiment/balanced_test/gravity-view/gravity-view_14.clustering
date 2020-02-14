@@ -1,0 +1,13 @@
+AppCompatActivity 4
+com.gravityview.sample.MainActivity 10
+SensorEventListener 4
+co.gofynd.gravityview.GravityView 4
+co.gofynd.gravityview.GravityView.unRegisterListener 10
+com.gravityview.sample.MainActivity.onStop 2
+co.gofynd.gravityview.GravityView.deviceSupported 8
+com.gravityview.sample.MainActivity.onCreate 10
+co.gofynd.gravityview.GravityView.registerListener 10
+co.gofynd.gravityview.GravityView.getInstance 10
+co.gofynd.gravityview.GravityView.setImage 10
+co.gofynd.gravityview.GravityView.center 10
+com.gravityview.sample.MainActivity.onResume 10

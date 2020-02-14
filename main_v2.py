@@ -491,13 +491,13 @@ if args.experiment:
                         }
     """
 
-    for num_clusters in range(2,20,1):
+    for num_clusters in range(1,19,1):
         if os.path.exists("experiment/"+str(num_clusters)+"/model_final.h5"):
 
             args.weights = "experiment/"+str(num_clusters)+"/model_final.h5"
             args.num_clusters = num_clusters
     
-            for r, d, f in os.walk("experiment/test"): # for each file 
+            for r, d, f in os.walk("experiment/case_study"): # for each file 
                 #print (r)
                 if len(f) >= 4 and r.split("/")[-1] +  "_" + str(args.num_clusters)+ ".clustering" not in f  : 
                     print(num_clusters)

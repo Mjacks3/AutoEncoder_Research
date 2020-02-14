@@ -1,0 +1,16 @@
+com.binaryfork.spannysample.MainActivity 3
+com.binaryfork.spanny.Spanny 7
+SpannableStringBuilder 2
+com.binaryfork.spanny.Spanny.GetSpan 7
+Activity 2
+TypefaceSpan 2
+com.binaryfork.spannysample.CustomTypefaceSpan 0
+com.binaryfork.spanny.Spanny.findAndSpan 7
+com.binaryfork.spannysample.MainActivity.onCreate 2
+com.binaryfork.spanny.Spanny.GetSpan.getSpan 7
+ReplacementSpan 7
+com.binaryfork.spannysample.CustomAlignmentSpan 3
+com.binaryfork.spanny.Spanny.appendText 3
+com.binaryfork.spanny.Spanny.append 7
+com.binaryfork.spannysample.CustomBackgroundSpan 3
+com.binaryfork.spanny.Spanny.spanText 7

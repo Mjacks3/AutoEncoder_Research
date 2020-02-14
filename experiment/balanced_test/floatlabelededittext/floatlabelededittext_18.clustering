@@ -1,0 +1,6 @@
+FrameLayout 8
+com.wrapp.floatlabelededittext.FloatLabeledEditText 8
+ActionBarActivity 3
+com.wrapp.example.floatlabelededittext.MainActivity 3
+com.wrapp.floatlabelededittext.FloatLabeledEditText.FloatLabeledEditText 3
+com.wrapp.floatlabelededittext.FloatLabeledEditText.addView 8

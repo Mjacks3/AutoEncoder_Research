@@ -1,0 +1,14 @@
+HorizontalScrollView 1
+com.lqr.topsales.ObservableHorizontalScrollView 1
+com.lqr.topsales.MainActivity 1
+OnScrollListener 0
+com.lqr.topsales.MyOnScrollListener 0
+RecyclerView::OnScrollListener 0
+AppCompatActivity 1
+com.lqr.topsales.ObservableHorizontalScrollView.onScrollChanged 1
+com.lqr.topsales.ObservableHorizontalScrollView.ScrollViewListener.onScrollChanged 1
+com.lqr.topsales.ObservableHorizontalScrollView.ScrollViewListener 1
+RecyclerView 1
+com.lqr.topsales.MyRecyclerView 1
+com.lqr.topsales.MainActivity.onCreate 1
+com.lqr.topsales.ObservableHorizontalScrollView.setScrollViewListener 1

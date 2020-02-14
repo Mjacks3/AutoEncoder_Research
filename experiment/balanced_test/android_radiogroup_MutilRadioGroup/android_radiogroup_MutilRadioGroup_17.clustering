@@ -1,0 +1,11 @@
+com.pheng.mutilradiogroup.MyRadioGroup 4
+com.pheng.mutilradiogroup.MyRadioGroup.clearCheck 7
+Activity 7
+com.pheng.mutilradiogroup.MainActivity 0
+com.pheng.mutilradiogroup.MyRadioGroup.check 4
+LinearLayout 7
+com.pheng.mutilradiogroup.MyRadioGroup.OnCheckedChangeListener.onCheckedChanged 4
+com.pheng.mutilradiogroup.MyRadioGroup.OnCheckedChangeListener 4
+LinearLayout::LayoutParams 7
+com.pheng.mutilradiogroup.MyRadioGroup.LayoutParams 0
+LayoutParams 7

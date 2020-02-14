@@ -1,0 +1,8 @@
+#!/bin/bash
+# My first script
+while :
+do
+python3 re_main_v2.py --experiment &
+sleep 3
+pkill -f re_main_v2.py
+done

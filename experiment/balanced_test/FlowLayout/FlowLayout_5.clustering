@@ -1,0 +1,13 @@
+TextView 4
+com.nex3z.flowlayout.sample.SimpleAdapter.ViewHolder 0
+RecyclerView::ViewHolder 3
+com.nex3z.flowlayout.sample.RecyclerViewActivity 2
+com.nex3z.flowlayout.sample.RecyclerViewActivity.onCreate 2
+com.nex3z.flowlayout.sample.SimpleAdapter 2
+com.nex3z.flowlayout.sample.SimpleAdapter.setCount 3
+Adapter 3
+RecyclerView::AdapterSimpleAdapter.ViewHolder 2
+ViewGroup 4
+com.nex3z.flowlayout.FlowLayout 3
+AppCompatActivity 3
+com.nex3z.flowlayout.sample.MainActivity 2

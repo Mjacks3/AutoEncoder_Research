@@ -1,0 +1,4 @@
+WebSocketAdapter 17
+org.eclipse.jetty.demo.EventSocket 17
+WebSocketServlet 17
+org.eclipse.jetty.demo.EventServlet 17

@@ -1,0 +1,16 @@
+cn.carbs.autozoominimageview.MainActivity 1
+cn.carbs.android.autozoominimageview.library.AutoZoomInImageView 3
+ImageView 3
+Activity 1
+cn.carbs.autozoominimageview.MainActivity.onCreate 1
+cn.carbs.android.autozoominimageview.library.AutoZoomInImageView.init 3
+cn.carbs.android.autozoominimageview.library.AutoZoomInImageView.setScaleDelta 1
+cn.carbs.android.autozoominimageview.library.AutoZoomInImageView.setDurationMillis 1
+cn.carbs.android.autozoominimageview.library.AutoZoomInImageView.setOnZoomListener 1
+ApplicationTestCase 2
+cn.carbs.android.autozoominimageview.library.ApplicationTest 1
+android::test::ApplicationTestCaseApplication 2
+cn.carbs.android.autozoominimageview.library.AutoZoomInImageView.OnZoomListener 3
+cn.carbs.android.autozoominimageview.library.AutoZoomInImageView.OnZoomListener.onUpdate 1
+cn.carbs.android.autozoominimageview.library.AutoZoomInImageView.OnZoomListener.onStart 1
+cn.carbs.android.autozoominimageview.library.AutoZoomInImageView.OnZoomListener.onEnd 1

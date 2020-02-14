@@ -1,0 +1,17 @@
+com.marquee.dingrui.marqueeview.MainActivity 10
+com.marquee.dingrui.marqueeview.MainActivity.onCreate 8
+AppCompatActivity 10
+com.marquee.dingrui.marqueeviewlib.MarqueeView.onDraw 4
+com.marquee.dingrui.marqueeviewlib.MarqueeView.setTextDistance 4
+com.marquee.dingrui.marqueeviewlib.MarqueeView.setContent 4
+com.marquee.dingrui.marqueeviewlib.MarqueeView 8
+Runnable 10
+View 10
+com.marquee.dingrui.marqueeviewlib.MarqueeView.MarqueeView 12
+com.marquee.dingrui.marqueeviewlib.MarqueeView.dp2px 10
+com.marquee.dingrui.marqueeviewlib.MarqueeView.setTextSize 4
+com.marquee.dingrui.marqueeviewlib.MarqueeView.setRepetType 4
+com.marquee.dingrui.marqueeviewlib.MarqueeView.setTextSpeed 10
+com.marquee.dingrui.marqueeviewlib.MarqueeView.setTextColor 10
+com.marquee.dingrui.marqueeviewlib.MarqueeView.stopRoll 10
+com.marquee.dingrui.marqueeviewlib.MarqueeView.continueRoll 4

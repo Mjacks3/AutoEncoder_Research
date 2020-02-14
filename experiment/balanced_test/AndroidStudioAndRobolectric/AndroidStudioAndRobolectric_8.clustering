@@ -1,0 +1,9 @@
+RobolectricGradleTestRunner 6
+com.example.myapplication.CustomRobolectricRunner 6
+ActionBarActivity 6
+com.example.myapplication.MainActivity 6
+Fragment 6
+com.example.myapplication.MainActivity.PlaceholderFragment 6
+android::test::ApplicationTestCaseApplication 6
+com.example.myapplication.ApplicationTest 4
+ApplicationTestCase 6

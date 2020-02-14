@@ -1,0 +1,15 @@
+Application 12
+com.example.lsh.webviewtbs.APPAplication 12
+com.example.lsh.webviewtbs.APIWebviewTBS 12
+com.example.lsh.webviewtbs.ToastUtil 14
+AppCompatActivity 14
+com.example.lsh.webviewtbs.WebviewVideoActivity 17
+com.example.lsh.webviewtbs.ToastUtil.show 9
+com.example.lsh.webviewtbs.WebviewVideoActivity.onCreate 13
+com.example.lsh.webviewtbs.APPAplication.getInstance 17
+Activity 9
+com.example.lsh.webviewtbs.MainActivity 2
+com.example.lsh.webviewtbs.APPAplication.onCreate 3
+com.example.lsh.webviewtbs.APIWebviewTBS.getAPIWebview 2
+com.example.lsh.webviewtbs.APIWebviewTBS.initTbs 2
+com.example.lsh.webviewtbs.APIWebviewTBS.initTBSActivity 17

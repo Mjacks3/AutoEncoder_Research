@@ -1,0 +1,5 @@
+org::springframework::data::couchbase::repository::CouchbaseRepositoryBook,String 3
+org.example.webapp.BookRepository 3
+CouchbaseRepository 3
+CommandLineRunner 3
+org.example.webapp.Application 3

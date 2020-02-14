@@ -1,0 +1,13 @@
+com.allenliu.badgeview.BadgeFactory 0
+com.allenliu.badgeview.BadgeView 1
+View 0
+com.allenliu.badgeview.BadgeFactory.createSquare 0
+com.allenliu.badgeview.BadgeFactory.createRoundRect 0
+com.allenliu.badgeview.BadgeView.setWidthAndHeight 0
+com.allenliu.badgeview.BadgeFactory.createCircle 0
+com.allenliu.badgeview.BadgeFactory.createDot 1
+com.allenliu.badgeview.BadgeFactory.createRectangle 0
+com.allenliu.badgeview.BadgeFactory.createOval 0
+com.allenliu.badgeview.BadgeView.setTextSize 0
+com.allenliu.badgeview.BadgeView.setBadgeGravity 0
+com.allenliu.badgeview.BadgeView.setShape 0

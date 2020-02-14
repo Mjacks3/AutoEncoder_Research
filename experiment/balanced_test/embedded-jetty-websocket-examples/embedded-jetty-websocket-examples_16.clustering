@@ -1,0 +1,4 @@
+WebSocketAdapter 15
+org.eclipse.jetty.demo.EventSocket 15
+WebSocketServlet 15
+org.eclipse.jetty.demo.EventServlet 15
