@@ -291,7 +291,7 @@ if args.experiment:
     """
 
     #Training
-    """
+    
     models = [10]
     for num in models:
         args.num_clusters = int(num)
@@ -316,21 +316,21 @@ if args.experiment:
     #args.weights = "experiment/3/model_final.h5"
     #test_dataset = "datasets/demo_1/acmeair"
     #edge_list_loc = "datasets/demo_1/acmeair/acmeair.txt"
-    """
+    
 
 
-    """
-    models = [5]
+    
+    models = [5,10]
     for num_clusters in models:
-        for sub_epoch_count in range(500,310,-10):
+        for sub_epoch_count in range(500,0,-10):
             #print(sub_epoch_count)
-            for r, d, f in os.walk("experiment/test"): 
-                if len(f) >= 4 and r.split("/")[-1] +  "_" + str(args.num_clusters)+ "-"+ str(sub_epoch_count)+ ".clustering" not in f  :
+            for r, d, f in os.walk("experiment/case_study"): 
+                if len(f) >= 3 and r.split("/")[-1] +  "_" + str(args.num_clusters)+ "-"+ str(sub_epoch_count)+ ".clustering" not in f  :
                     args.num_clusters = num_clusters
                     args.weights = "experiment/"+str(num_clusters)+"/"+str(sub_epoch_count)+"/model_final.h5"
                     args.test_dataset = r
                     test(args)
-    """
+    
     """
     for num_clusters in range(2,20,1):
         if os.path.exists("experiment/"+str(num_clusters)+"/model_final.h5"):
