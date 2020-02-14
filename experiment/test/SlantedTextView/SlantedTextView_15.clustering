@@ -1,0 +1,11 @@
+com.haozhang.lib.SlantedTextView 8
+com.haozhang.lib.SlantedTextView.SlantedTextView 10
+View 10
+com.haozhang.lib.SlantedTextView.init 0
+com.haozhang.lib.SlantedTextView.setText 10
+AppCompatActivity 10
+com.haozhang.widget.MainActivity 10
+android::test::ApplicationTestCaseApplication 10
+com.haozhang.lib.ApplicationTest 10
+ApplicationTestCase 10
+com.haozhang.widget.ApplicationTest 10

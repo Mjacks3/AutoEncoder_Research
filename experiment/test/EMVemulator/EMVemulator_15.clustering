@@ -1,0 +1,8 @@
+HostApduService 10
+com.kysel.EMVemulator.MyHostApduService 10
+Activity 10
+com.kysel.EMVemulator.MainActivity 10
+com.kysel.EMVemulator.MyHostApduService.processCommandApdu 10
+com.kysel.EMVemulator.MyHostApduService.getCardData 10
+com.kysel.EMVemulator.MyHostApduService.fromByte2Hex 10
+com.kysel.EMVemulator.MyHostApduService.fromHex2Byte 10

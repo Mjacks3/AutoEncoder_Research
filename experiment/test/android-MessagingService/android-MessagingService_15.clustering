@@ -1,0 +1,14 @@
+Activity 10
+com.example.android.messagingservice.MainActivity 10
+Service 10
+com.example.android.messagingservice.MessagingService 10
+com.example.android.messagingservice.MessagingService.onBind 10
+com.example.android.messagingservice.Conversations 10
+com.example.android.messagingservice.Conversations.getUnreadConversations 2
+BroadcastReceiver 10
+com.example.android.messagingservice.MessageReplyReceiver 10
+Fragment 10
+com.example.android.messagingservice.MessagingFragment 10
+View::OnClickListener 10
+OnClickListener 10
+com.example.android.messagingservice.MessageReadReceiver 10

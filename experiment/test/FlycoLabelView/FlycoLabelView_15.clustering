@@ -1,0 +1,10 @@
+AppCompatActivity 10
+com.flyco.labelviewsample.MainActivity 10
+com.flyco.labelview.LabelView 10
+com.flyco.labelview.LabelView.LabelView 10
+View 10
+com.flyco.labelview.LabelView.sp2px 10
+com.flyco.labelview.LabelView.setTextSize 10
+com.flyco.labelview.LabelView.dp2px 10
+com.flyco.labelview.LabelView.setPadding 10
+com.flyco.labelview.LabelView.setMinSize 10
