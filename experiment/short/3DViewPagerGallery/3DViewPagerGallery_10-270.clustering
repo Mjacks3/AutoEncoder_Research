@@ -1,0 +1,13 @@
+ViewPager::PageTransformer 0
+com.example.evanzeng.viewpagertest.ViewPager.MyTransformation 5
+com.example.evanzeng.viewpagertest.ViewPager.DepthTransformation 0
+com.example.evanzeng.viewpagertest.MainActivity 0
+com.example.evanzeng.viewpagertest.MainActivity.onCreate 0
+AppCompatActivity 0
+com.example.evanzeng.viewpagertest.util.ImageUtil.getReverseBitmapById 0
+com.example.evanzeng.viewpagertest.util.ImageUtil 0
+PageTransformer 0
+com.example.evanzeng.viewpagertest.ViewPager.ZoomTransformation 0
+Animation 0
+com.example.evanzeng.viewpagertest.ViewPager.MyAnimation1 0
+com.example.evanzeng.viewpagertest.ReverseImageActivity 0

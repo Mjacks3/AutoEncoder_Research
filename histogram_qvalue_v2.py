@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 
 import  matplotlib.pyplot as plt
 
-source_dir = "experiment/test/Short_DayTrader"
+source_dir = "experiment/test/short"
 #source_dir = "experiment/test/WeatherIconView"
 #source_dir = "experiment/test"
 modq_values  = []

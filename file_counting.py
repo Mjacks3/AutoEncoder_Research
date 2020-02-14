@@ -1,9 +1,11 @@
 import numpy as np
 import os
+import matplotlib
 import matplotlib.mlab as mlab
 import matplotlib.pyplot as plt
 
-source_dir = "experiment/test"
+#source_dir = "experiment/test"
+#source_dir = "../../coba_test/coba/experiment/final_test"
 source_dir = "../../coba_test/coba/experiment/balanced_test"
 data_size = []
 small = 0
@@ -29,13 +31,18 @@ print("files  30-75: " + str(med))
 print("files >75: " + str(large))
 
 
+font = { 'weight' : 'bold',
+        'size'   : 30}
+
+matplotlib.rc('font', **font)
 
 fig, ax = plt.subplots()
 
-plt.hist(data_size, bins='auto',range=(0,750)) 
-plt.title("Size Distribution of 753 Repoitiories V2 ")
-ax.set_xlabel('# Number of Classes/Methods Per Application')
-ax.set_ylabel('# Occurences of Appliction Size')
+#plt.hist(data_size, bins='auto',range=(0,750),label='V1 Distribution') 
+plt.hist(data_size, bins='auto',range=(0,750),label='V2 Distribution') 
+
+#plt.title("Size Distribution of 753 Repoitiories V2 ")
+ax.set_xlabel('Size of Edge List (# Lines)',fontsize = 55)
+ax.set_ylabel('Occurences in Test Set',fontsize = 55)
 #ax.set_ylim(bottom=0,top=500)
 plt.show()
-

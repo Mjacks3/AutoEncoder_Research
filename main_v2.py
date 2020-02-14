@@ -321,11 +321,11 @@ if args.experiment:
                         }
     """
     
-    models = [15]
+    models = [5,10]
     for num_clusters in models:
-        for sub_epoch_count in range(100,501,100):
+        for sub_epoch_count in range(10,501,10):
             print(sub_epoch_count)
-            for r, d, f in os.walk("experiment/test"): 
+            for r, d, f in os.walk("experiment/case_study"): 
                 if len(f) >= 4 and r.split("/")[-1] +  "_" + str(args.num_clusters)+ "-"+ str(sub_epoch_count)+ ".clustering" not in f  :
                     args.num_clusters = num_clusters
                     args.weights = "experiment/"+str(num_clusters)+"/"+str(sub_epoch_count)+"/model_final.h5"
