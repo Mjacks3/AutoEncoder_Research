@@ -165,9 +165,11 @@ def test(args):
     name = args.test_dataset.split("/")[-1]
     print(name)
 
-    with open(args.test_dataset +"/"+name + "_" + str(args.num_clusters)+ ".clustering",'w+') as f:
+    with open(args.test_dataset +"/"+name + "_" + str(args.num_clusters)+ "-"+ str(sub_epoch_count)+ ".clustering",'w+') as f:
         for node_id, cluster in zip(y, y_pred):
             f.write( str(node_id) + " " + str(cluster) +"\n")
+
+        #node_clusters.append( str(node_id) + " " + str(cluster))
 
         #node_clusters.append( str(node_id) + " " + str(cluster))
 
@@ -258,7 +260,7 @@ if args.experiment:
     
     #End Graph Embedding
     
-    """
+    
     #Training
     models = [4,10,9,14,19]
     for num in models:
@@ -272,7 +274,7 @@ if args.experiment:
         train(args)
     
     #End Training
-    """
+    
     
     
     #Test
@@ -310,6 +312,21 @@ if args.experiment:
                         }
     
     """
+    models = [19]
+    for num_clusters in models:
+        for sub_epoch_count in range(0,750,30):
+            print(sub_epoch_count)
+            for r, d, f in os.walk("experiment/case_study"): 
+                if len(f) >= 4 and r.split("/")[-1] +  "_" + str(args.num_clusters)+ "-"+ str(sub_epoch_count)+ ".clustering" not in f  :
+                    if os.path.exists("experiment/new/"+str(num_clusters)+"/"+str(sub_epoch_count)+"/model_final.h5"):
+                        args.num_clusters = num_clusters
+                        args.weights = "experiment/new/"+str(num_clusters)+"/"+str(sub_epoch_count)+"/model_final.h5"
+                        args.test_dataset = r
+                        test(args)
+    
+    
+
+    """
     models = [2,4,8]
     for num_clusters in models:
         if os.path.exists("experiment/"+str(num_clusters)+"/model_final.h5"):
@@ -328,7 +345,7 @@ if args.experiment:
 
                     print(args.test_dataset)
                     test(args) # Calculations will be done on files separately
-
+    """
 
 
 else:
